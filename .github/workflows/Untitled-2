@@ -1,0 +1,39 @@
+
+# https://docs.github.com/ja/actions/reference/workflows-and-actions/workflow-syntax
+
+name: Generate and Deploy Atom
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate atom
+        run: |
+          python generate_atom.py
+          mkdir deploy
+          cp server/feed.atom deploy/feed.atom
+
+      - name: Deploy to Pages repo
+        run: |
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/<username>/atom-pages.git
+          cd atom-pages
+          cp ../deploy/feed.atom .
+          git add feed.atom
+          git commit -m "Update atom feed"
+          git push
