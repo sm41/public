@@ -30,7 +30,7 @@ jobs:
       - name: Generate atom
         id: gen_atom
         run: |
-          python tver_get_special.py
+          python ./python/tver/tver_get_special.py
 
           # atom_file="${steps.gen_atom.outputs.atom_file}"
 
