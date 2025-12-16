@@ -1,3 +1,3 @@
 
 ## public
-[special](/feed/%5Btver.jp%5D/special_main.atom)
+[special](/feed/tver/special_main.atom)
