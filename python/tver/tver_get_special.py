@@ -73,7 +73,7 @@ workspace = getenv("GITHUB_WORKSPACE")
 home_dir  = getenv("HOME")
 
 path_to_use = workspace if workspace else home_dir
-middle_dir  = "server"
+middle_dir  = "feed"
 atom_file   = "special_main.atom"
 
 atom_dir = path.join(path_to_use, middle_dir, f"[{rrr.netloc}]")
@@ -86,7 +86,8 @@ atom_path = path.join(atom_dir, atom_file)
 
 with open(environ["GITHUB_OUTPUT"], "a") as f:
     f.write(f"atom_file={atom_file}\n")
-    f.write("publish_repo=public\n")
+    # f.write("publish_repo=public\n")
+    # f.write(f"atom_path={atom_path}\n")
 
 
 
