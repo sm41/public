@@ -1,11 +1,12 @@
 
 # https://docs.github.com/ja/actions/reference/workflows-and-actions/workflow-syntax
+# GMT - 9_hour
 
 name: Generate and Deploy Atom
 
 on:
   schedule:
-    - cron: "* 9-18/3 * * *"
+    - cron: "0 0-9/3 * * *"
   workflow_dispatch:
 
 permissions:
