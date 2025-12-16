@@ -76,7 +76,8 @@ path_to_use = workspace if workspace else home_dir
 middle_dir  = "feed"
 atom_file   = "special_main.atom"
 
-atom_dir = path.join(path_to_use, middle_dir, f"[{rrr.netloc}]")
+# atom_dir = path.join(path_to_use, middle_dir, f"[{rrr.netloc}]")
+atom_dir = path.join(path_to_use, middle_dir, "tver")
 
 makedirs(atom_dir, exist_ok=True)
 
