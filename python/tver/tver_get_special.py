@@ -87,7 +87,6 @@ atom_path = path.join(atom_dir, atom_file)
 
 with open(environ["GITHUB_OUTPUT"], "a") as f:
     f.write(f"atom_file={atom_file}\n")
-    # f.write("publish_repo=public\n")
     # f.write(f"atom_path={atom_path}\n")
 
 
