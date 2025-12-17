@@ -2,7 +2,7 @@
 # https://docs.github.com/ja/actions/reference/workflows-and-actions/workflow-syntax
 # GMT - 9_hour
 
-name: Generate and Deploy Atom
+name: newer
 
 on:
   schedule:
