@@ -164,12 +164,12 @@ def main():
   ready = [
     {
       "title"        : "新着/ドラマ/year",
-      "filename_id"  : "year_items",
+      "filename_id"  : "year",
       "items"        : year_items
     },
     {
       "title"        : "新着/ドラマ/month",
-      "filename_id"  : "month_day_items",
+      "filename_id"  : "month",
       "items"        : month_day_items
     }
   ]
