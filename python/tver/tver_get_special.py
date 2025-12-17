@@ -1,7 +1,7 @@
 from os import getenv, environ, path, makedirs
 import tver_tool
 from feedgen.feed import FeedGenerator
-import urllib.parse
+# import urllib.parse
 
 rrr = tver_tool.get_uid_and_token()
 platform_uid   = rrr.platform_uid
@@ -11,12 +11,12 @@ post_header = {
   "x-tver-platform-type": "web"
 }
 
-rrr = urllib.parse.urlparse("https://tver.jp/")
+# rrr = urllib.parse.urlparse("https://tver.jp/")
 
 url_1 = "https://service-api.tver.jp/api/v1/callSpecial"
 
-json_data = tver_tool.request_get(url_1, headers=post_header)
-iso_time_now  = tver_tool.time_iso()
+json_data    = tver_tool.request_get(url_1, headers=post_header)
+iso_time_now = tver_tool.time_iso()
 
 contents_1 = json_data['result']['contents']
 
@@ -84,12 +84,9 @@ makedirs(atom_dir, exist_ok=True)
 atom_path = path.join(atom_dir, atom_file)
 
 
-if workspace:
-  with open(environ["GITHUB_OUTPUT"], "a") as f:
-    f.write(f"atom_file={atom_file}\n")
-    # f.write(f"atom_path={atom_path}\n")
-
-
+# if workspace:
+#   with open(environ["GITHUB_OUTPUT"], "a") as f:
+#     f.write(f"atom_file={atom_file}\n")
 
 
 def main():
