@@ -93,7 +93,7 @@ def process_items(lilili:list):
     for item in ddd['items']:
       series_title             = item['item']['content']['seriesTitle']
       series_id                = item['item']['content']['seriesID']
-      # episode_title            = item['item']['content']['title']
+      episode_title            = item['item']['content']['title']
       episode_id               = item['item']['content']['id']
       # broadcast_date           = item['item']['content']['broadcastDateLabel']
       # production_provider_name = item['item']['content']['productionProviderName']
@@ -116,7 +116,7 @@ def process_items(lilili:list):
 
       fe = fg.add_entry()
       fe.id(f"https://tver.jp/episodes/{episode_id}")
-      fe.title(series_title)
+      fe.title(f"{series_title}_[{episode_title}]")
       fe.updated(start_at)
       fe.content(ert)
       fe.link(href=f"https://tver.jp/episodes/{episode_id}")
@@ -127,8 +127,6 @@ def process_items(lilili:list):
     if workspace:
       with open(environ["GITHUB_OUTPUT"], "a") as f:
         f.write(f"filename_id={filename_id}\n")
-        # f.write(f"atom_path={atom_path}\n")
-
 
     atom_xml  = fg.atom_str(pretty=True)
 
