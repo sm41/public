@@ -1,11 +1,12 @@
 
 # https://docs.github.com/ja/actions/reference/workflows-and-actions/workflow-syntax
-# GMT - 9_hour
+# GMT + 9_hour
 
 name: newer
 
 on:
   schedule:
+    # - cron: "0 0 * * *"
     - cron: "0 0-9 * * *"
   workflow_dispatch:
 

@@ -1,6 +1,6 @@
 
 # https://docs.github.com/ja/actions/reference/workflows-and-actions/workflow-syntax
-# GMT - 9_hour
+# GMT + 9_hour
 
 name: special
 

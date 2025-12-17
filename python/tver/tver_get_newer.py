@@ -121,7 +121,7 @@ def process_items(lilili:list):
       fe.content(ert)
       fe.link(href=f"https://tver.jp/episodes/{episode_id}")
 
-    atom_file = f"new_[{filename_id}].atom"
+    atom_file = f"newer_{filename_id}.atom"
     atom_path = path.join(atom_dir, atom_file)
 
     if workspace:
