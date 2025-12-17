@@ -73,7 +73,7 @@ workspace = getenv("GITHUB_WORKSPACE")
 home_dir  = getenv("HOME")
 
 path_to_use = workspace if workspace else home_dir
-middle_dir  = "server"
+middle_dir  = "feed"
 atom_file   = f"sp_[{sp_main_id}]_[{special_sub_id}].atom"
 
 atom_dir = path.join(path_to_use, "server", f"[{rrr.netloc}]")

@@ -67,9 +67,10 @@ def process_items(lilili:list):
   home_dir  = getenv("HOME")
 
   path_to_use = workspace if workspace else home_dir
-  middle_dir  = "server"
+  middle_dir  = "feed"
 
-  atom_dir = path.join(path_to_use, middle_dir, f"[{rrr.netloc}]")
+  # atom_dir = path.join(path_to_use, middle_dir, f"[{rrr.netloc}]")
+  atom_dir = path.join(path_to_use, middle_dir, "tver")
 
   makedirs(atom_dir, exist_ok=True)
 
@@ -122,6 +123,12 @@ def process_items(lilili:list):
 
     atom_file = f"new_[{filename_id}].atom"
     atom_path = path.join(atom_dir, atom_file)
+
+    if workspace:
+      with open(environ["GITHUB_OUTPUT"], "a") as f:
+        f.write(f"filename_id={filename_id}\n")
+        # f.write(f"atom_path={atom_path}\n")
+
 
     atom_xml  = fg.atom_str(pretty=True)
 
