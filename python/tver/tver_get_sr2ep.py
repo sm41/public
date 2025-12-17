@@ -23,8 +23,8 @@ json_data_1 = tver_tool.request_get(url_1, headers=post_header)
 season_id = json_data_1['result']['contents'][0]['content']['id']
 url_2 = f"https://platform-api.tver.jp/service/api/v1/callSeasonEpisodes/{season_id}?platform_uid={platform_uid}&platform_token={platform_token}&require_data=later"
 
-json_data_2 = tver_tool.request_get(url_2, headers=post_header)
-iso_time_now    = tver_tool.time_iso()
+json_data_2  = tver_tool.request_get(url_2, headers=post_header)
+iso_time_now = tver_tool.time_iso()
 
 title = json_data_2['result']['contents'][0]['content']['seriesTitle']
 

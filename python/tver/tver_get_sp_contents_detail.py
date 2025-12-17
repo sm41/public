@@ -20,8 +20,8 @@ url = f"https://platform-api.tver.jp/service/api/v1/callSpecialContentsDetail/{s
 
 
 
-json_data = tver_tool.request_get(url, headers=post_header)
-iso_time_now  = tver_tool.time_iso()
+json_data    = tver_tool.request_get(url, headers=post_header)
+iso_time_now = tver_tool.time_iso()
 
 json_content  = json_data['result']['contents']['content']
 sp_main_id    = json_content['specialMainID']
