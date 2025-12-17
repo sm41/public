@@ -34,6 +34,7 @@ def generating_feed():
   fg = FeedGenerator()
   fg.id("https://tver.jp/")
   fg.title("特集")
+  fg.icon("https://tver.jp/favicon.ico")
   fg.updated(iso_time_now)
   # fg.link("https://tver.jp/")
   fg.author({
