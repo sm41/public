@@ -26,11 +26,11 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r /src/python/requirements.txt
+        run: pip install -r ./src/python/requirements.txt
 
       - name: Generate Atom feed
         run: |
-          python /src/python/tver/tver_get_newer.py
+          python ./src/python/tver/tver_get_newer.py
 
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
