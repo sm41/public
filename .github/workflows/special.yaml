@@ -26,11 +26,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install -r /src/python/requirements.txt
 
       - name: Generate atom
         run: |
-          python ./python/tver/tver_get_special.py
+          python ./src/python/tver/tver_get_special.py
 
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
