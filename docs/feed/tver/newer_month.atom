@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-18T18:28:09+09:00</updated>
+  <updated>2025-12-18T21:33:23+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://tver.jp/favicon.ico</icon>
+  <entry>
+    <id>https://tver.jp/episodes/ep9k1hmjck</id>
+    <title>運命のキスをお願い！_[第26話   ごめんなさい]</title>
+    <updated>2025-12-18T19:30:00+09:00</updated>
+    <content>陸星成(ルー・シンチョン)がコンクールに参加すると知った江顔(ジアン・イェン)は、自らも参加することに。一方、童小悠(トン・シャオヨウ)は、コンクールに提出するデザイン画を徹夜で作成する。応募に向かった小悠は、自分が事前登録されていないことを知りショックを受ける。それを知った星成は、路任(ルー・レン)のもとを尋ね…。</content>
+    <link href="https://tver.jp/episodes/ep9k1hmjck"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epq9g40vks</id>
     <title>孤独のグルメ Season5_[第3話 東京都杉並区西荻窪のラム肉のハンバーグと野菜のクスクス]</title>
