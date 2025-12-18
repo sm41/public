@@ -2,13 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-19T01:22:19+09:00</updated>
+  <updated>2025-12-19T02:19:49+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://tver.jp/favicon.ico</icon>
+  <entry>
+    <id>https://tver.jp/episodes/epgcg072ey</id>
+    <title>私のIDはカンナム美人_[第12話]</title>
+    <updated>2025-12-19T02:00:00+09:00</updated>
+    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgcg072ey.jpg</content>
+    <link href="https://tver.jp/episodes/epgcg072ey"/>
+    <summary>ヘソンと待ち合わせするミレ。そこにギョンソクが現れ、ヘソンとギョンソクは顔を合わせる。3人は一緒に食事することになり、楽しい時間を過ごす。そして、3人が店を出たところへウヨンと居合わせ、ウヨンの家で二次会をすることになったミレはついお酒を飲みすぎて泥酔してしまう。そんな中、ミレがバイトの面接に行くと知ったギョンソクはミレについていき、ミレと同じバイト先で働くことになる。</summary>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epp0nr5p4k</id>
+    <title>ifの世界で恋がはじまる_[第5話「誤解の向こうにあった想い」《ドラマフィル》]</title>
+    <updated>2025-12-19T01:59:00+09:00</updated>
+    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp0nr5p4k.jpg</content>
+    <link href="https://tver.jp/episodes/epp0nr5p4k"/>
+    <summary>元の世界に戻ってきた彰人（醍醐虎汰朗）は、並行世界での経験を胸に、少しずつ周囲との距離を縮め始める。かつては壁を作っていた同僚たちとも、笑顔で言葉を交わせるようになった彰人は、過去の自分と向き合いながら、営業としての責任を果たそうとする。\nそんな中、取引先・飯伏（こばやし元樹）とのトラブルが再燃。彰人は大狼（中川大輔）に助けを求め、二人で謝罪に向かうことに。緊張でいつもの症状に見舞われる彰人の冷たい手をギュッと握る大狼。その手の温もりに、彰人は静かな安堵を感じる。\n過去の誤解が解けていく中で、二人の関係にも微かな変化が訪れるが―、素直になれない気持ちは、まだ言葉にできないままで―。</summary>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eppo4nj6ad</id>
+    <title>橘くん抱いてください！_[#12 私のすべてを、あなたに]</title>
+    <updated>2025-12-19T01:30:00+09:00</updated>
+    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppo4nj6ad.jpg</content>
+    <link href="https://tver.jp/episodes/eppo4nj6ad"/>
+    <summary>「絶対にあきらめるもんか」。橘は、すみれを振り向かせたい一心で、ただひたすらに声をかけ続けたと語る。その一途な想いを知ったすみれは、「私を見つけてくれて、ずっと好きでいてくれて、ありがとう」と涙ながらに感謝を伝える。そして、これまでの臆病な自分を乗り越え、自ら橘にキスをする。ようやく素直に想いを伝えられた二人は、初めて出会った日からのすべてを分かち合うように、深く、深く愛し合うのだった。</summary>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epz8tc0evi</id>
+    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第2話「知りたかったこと」《ドラマ特区》]</title>
+    <updated>2025-12-19T01:29:00+09:00</updated>
+    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz8tc0evi.jpg</content>
+    <link href="https://tver.jp/episodes/epz8tc0evi"/>
+    <summary>再び小春（永瀬莉子）の授業のサポートをすることにしたかける（藤原大祐）。さらに、小春の栞に書かれた「やりたいことリスト」の二つ目、「打ち上げ花火をあげる」を叶えるため、小春とかけるは浅草へ出かける。小春は人の多さに戸惑い、かけるは人混みでの小春のサポートに苦労しながらも、二人は少しずつ距離を縮めていく。そんな中、かけるは気になっていた“小春の目が見えなくなった理由”について、小春に尋ねる。過去を打ち明けた小春は、同情ではなく対等に接してくれるかけるの優しさに強く心を動かされ──。</summary>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epveq70uru</id>
     <title>絶メシロード 2025_[1泊目 福島県田村市「ヱビス食堂」]</title>
