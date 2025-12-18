@@ -122,7 +122,7 @@ def process_items(lilili:list):
       fe.id(f"https://tver.jp/episodes/{episode_id}")
       fe.title(f"{series_title}_[{episode_title}]")
       fe.updated(start_at)
-      fe.content(ert)
+      fe.summary(ert)
       fe.content(episode_images)
       fe.link(href=f"https://tver.jp/episodes/{episode_id}")
 
