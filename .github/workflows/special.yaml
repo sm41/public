@@ -6,7 +6,7 @@ name: special
 
 on:
   schedule:
-    - cron: "0 0-9/3 * * *"
+    - cron: "0 0-12/3 * * *"
   workflow_dispatch:
 
 permissions:
