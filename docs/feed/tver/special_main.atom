@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://tver.jp/</id>
+  <title>特集</title>
+  <updated>2025-12-18T15:17:56+09:00</updated>
+  <author>
+    <name>John Doe</name>
+    <email>john@example.com</email>
+  </author>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <icon>https://tver.jp/favicon.ico</icon>
+  <entry>
+    <id>https://tver.jp/specials/drama26_start1/winter26_all</id>
+    <title>冬の新ドラマ特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>★見逃しを防ぐ事前の「お気に入り登録」がオススメ！\n冬ドラマの予告をチェックして、あなたが「見たい！」と思うドラマを探そう！\n「予告まとめ」から新ドラマをチェック！</content>
+    <link href="https://tver.jp/specials/drama26_start1/winter26_all"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/movie_kintori/25release_1226</id>
+    <title>劇場版「緊急取調室 THE FINAL」特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>期間限定！劇場版「緊急取調室 THE FINAL」公開を記念して、関連作品配信決定！</content>
+    <link href="https://tver.jp/specials/movie_kintori/25release_1226"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/actor_2512/all_2512</id>
+    <title>俳優特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>★番組を「お気に入り登録」で見逃し防止！\n1月から始まる新ドラマに出演する注目俳優の過去作特集です。\n★配信スケジュールは作品ごとに異なります★</content>
+    <link href="https://tver.jp/specials/actor_2512/all_2512"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/young2512/young-all25</id>
+    <title>【ヤングシナリオ大賞】第36回大賞作品公開！記念特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>『フジテレビ ヤングシナリオ大賞』受賞作品ほか関連作品を配信！\n第36回大賞受賞作品「人質は脚本家」を含む珠玉の作品を配信中！\n受賞作品の一覧やシナリオは、公式サイトをご覧ください！</content>
+    <link href="https://tver.jp/specials/young2512/young-all25"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/ex_winter25/all25_1202</id>
+    <title>テレ朝 ドラバラ祭 2025 冬</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>期間限定！テレビ朝日の名作ドラマ・バラエティ一挙大放出！</content>
+    <link href="https://tver.jp/specials/ex_winter25/all25_1202"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/movie_bakumatsu/25release_1219</id>
+    <title>ムロツヨシ×佐藤二朗W主演　最新作『新解釈・幕末伝』公開記念</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>ムロツヨシ×佐藤二朗W主演　最新作『新解釈・幕末伝』 12月19日（金）全国公開\n福田雄一監督作品を配信中！</content>
+    <link href="https://tver.jp/specials/movie_bakumatsu/25release_1219"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/tbs25_popular/all25_1129</id>
+    <title>TBS 冬の人気番組特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>気になる番組は「お気に入り登録」で見逃さない！\nドラマの配信開始スケジュールはこちら↓↓↓\n\n【11/29(土)～】\n●御上先生\n●テセウスの船\n●天皇の料理番\n●SPEC～警視庁公安部公安第五課 未詳事件特別対策係事件簿～\n●SPEC～零～/警視庁公安部公安第五課 未詳事件特別対策係事件簿\n●石子と羽男－そんなコトで訴えます？－\n●小公女セイラ\n●下剋上球児\n●孤独の賭け～愛しき人よ～\n●めぐり逢い\n●愛はどうだ\n\n【11/30(日)～】\n●ブラザー・トラップ\n●この恋あたためますか\n●カンナさーん!\n●新参者\n\n【12/5(金)～】\n●大恋愛～僕を忘れる君と\n●凪のお暇\n●まっしろ\n\n【12/6(土)～】\n●ルーズヴェルト･ゲーム\n●病室で念仏を唱えないでください\n●魔夏少女\n●恋する母たち\n●白戸修の事件簿\n\n【12/7(日)～】\n●俺の家の話\n●TOKYO MER～走る緊急救命室～\n●屋上のあるアパート\n●あいくるしい\n\n【12/12(金)～】\n●親と子の誤算\n\n【12/13(土)～】\n●リバース\n●ヤメゴク～ヤクザやめて頂きます～\n●夢の扉 特別編｢20年後の君へ｣\n●ホームワークスペシャル\n●LADY～最後の犯罪プロファイル～\n\n【12/14(日)～】\n●ヤンキー君とメガネちゃん\n●リコカツ\n●結婚式の前日に\n●刑事のまなざし\n\n【12/19(金)～】\n●中学聖日記\n●SPEC～翔～/警視庁公安部公安第五課 未詳事件特別対策係事件簿\n●SPECサーガ完結篇｢SICK'S 覇乃抄｣～内閣情報調査室特務事項専従係事件簿～\n●弁護士のくず\n\n【12/20(土)～】\n●なるようになるさ｡(作･橋田壽賀子)\n●日本沈没ー希望のひとー\n\n【12/21(日)～】\n●初めて恋をした日に読む話\n●TOKYO MER～隅田川ミッション～\n●赤い指～｢新参者｣加賀恭一郎再び!\n\n【12/26(金)～】\n●逃亡者 RUNAWAY\n\n【12/27(土)～】\n●コウノドリ(2017)\n●まどか26歳、研修医やってます！\n\n\n※配信作品・配信期間は変更になる場合があります。\n※配信期間は作品によって異なります。</content>
+    <link href="https://tver.jp/specials/tbs25_popular/all25_1129"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/ntv_popular/ntv_drama</id>
+    <title>日テレ人気番組まつり！</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>スケジュールは↓↓こちら！日本テレビ系列の名作や話題作を期間限定配信中!!\n\n▼11/28(金)～\n●HUNTER×HUNTER　※キメラアント編 前半（#76-105／30話）\n●Mother\n●ドン★キホーテ\n●妖怪人間ベム\n●ST 警視庁科学特捜班\n●Woman\n●ST 赤と白の捜査ファイル\n●デスノート\n●掟上今日子の備忘録\n●金曜ロードSHOW！特別ドラマ企画 視覚探偵 日暮旅人\n●ゆとりですがなにか\n●地味にスゴイ！校閲ガール・河野悦子\n●スーパーサラリーマン左江内氏\n●東京タラレバ娘\n●視覚探偵 日暮旅人\n●北風と太陽の法廷\n●地味にスゴイ！DX校閲ガール・河野悦子\n●３年Ａ組―今から皆さんは、人質です―\n●ニッポンノワール－刑事Yの反乱－\n●真犯人フラグ\n●悪女（わる）～働くのがカッコ悪いなんて誰が言った？～\n●ブラッシュアップライフ\n●大病院占拠\n●Dr.チョコレート\n●最高の教師　1年後、私は生徒に■された\n●GO HOME～警視庁身元不明人相談室～\n\n▼11/30(日)～\n●新空港占拠\n\n▼12/1(月)～\n●サイコメトラーEIJI\n●もみ消して冬 ～わが家の問題なかったことに～\n●親バカ青春白書\n●恋はDeepに\n●ノンレムの窓 2025・新春\n\n▼12/5(金)～\n●anego[アネゴ]\n●ギャルサー\n●ハケンの品格（2007）\n●ホタルノヒカリ\n●ヤスコとケンジ\n●Q10\n●黄金の豚－会計検査庁 特別調査課－\n●学校のカイダン\n●母になる\n●ゆとりですがなにか　純米吟醸純情編\n●愛してたって、秘密はある。\n●恋です！〜ヤンキー君と白杖ガール〜\n●消せない「私」ー復讐の連鎖ー\n\n▼12/10(水)～\n●俺の話は長い\n●レッドアイズ　監視捜査班\n●若草物語―恋する姉妹と恋せぬ私―\n\n▼12/11(木)～\n●サイコメトラーEIJI2\n●私立バカレア高校\n●仮面ティーチャー\n\n▼12/13(土)\n●葬送のフリーレン　※第1期（全28話）\n\n▼12/15(月)～\n●ホタルノヒカリ2\n\n▼12/19(金)～\n●ハケンの品格　※2020\n●東京タラレバ娘2020\n\n▼12/21(日)～\n●サイコメトラーEIJI SP\n\n▼12/22(月)～\n●もみ消して冬 2019夏～夏でも寒くて死にそうです～\n\n▼12/25(木)～\n●金曜ロードSHOW！特別ドラマ企画 仮面ティーチャー\n\n▼12/31(水)～\n●俺の話は長い　～2025・春～\n\n※配信作品・配信期間は変更になる場合がございます。\n※配信期間は作品によって異なります。</content>
+    <link href="https://tver.jp/specials/ntv_popular/ntv_drama"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/fujidra25-winter/all25_1122</id>
+    <title>フジドラWinter</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>近年の話題作をはじめ、心に残る名作まで、世代やジャンルを超えて楽しめるラインナップが勢ぞろい。\n\nこの機会にぜひご覧ください。\n\n11月21日（金）配信開始\n『ミステリと言う勿れ』（2022年）\n『最後から二番目の恋』（2012年）\n\n11月22日（土）配信開始\n『のだめカンタービレ』（2006年）\n『PICU 小児集中治療室』（2022年）\n『イチケイのカラス』（2021年）\n『リッチマン、プアウーマン』（2012年）\n\n11月23日（日）配信開始\n『監察医 朝顔』（2019年）\n\n11月26日（水）配信開始\n『家族ゲーム』（2013年）\n\n11月28日（金）配信開始\n『オーバー・タイム』（1999年）\n『ラブコンプレックス』（2000年）\n『スタンドUPスタート』（2023年）\n『アンサング・シンデレラ 病院薬剤師の処方箋』（2020年）\n『お水の花道～女30歳ガケップチ～』（1999年）\n\n11月29日（土）配信開始】\n『ナースのお仕事3』（2000年）\n『ルパンの娘』シーズン1（2019年）\n『アイシー～瞬間記憶捜査・柊班～』（2021年）\n『ニューヨーク恋物語』（1988年）\n『素晴らしきかな人生』（1993年）\n『教場』（2020年）\n\n11月30日（日）配信開始\n『ビーチボーイズ』（1997年）\n『ショムニ』（1998）\n『ビター・ブラッド～最悪で最強の親子刑事～』（2014年）\n『ナンバMG5』（2022年）\n『ブルーモーメント』（2024年）\n『バージンロード』（1997年）\n\n12月5日（金）配信開始\n『失恋ショコラティエ』（2014年）\n『王様のレストラン』（1995年）\n『振り返れば奴がいる』（1993年）\n『人は見た目が100パーセント』（2017年）\n『ライアーゲーム』（2007年）\n\n12月6日（土）配信開始\n『知ってるワイフ』（2021年）    \n『マルモのおきて』（2011年）\n『ランチの女王』（2002年）\n『ミス・パイロット』（2013年）\n『dinner』（2013年）\n『１１９エマージェンシーコール』（2025年）\n『貴族探偵』（2017年）\n\n12月7日（日）配信開始\n『うちの弁護士は手がかかる』（2023年）\n『BOSS』（2009年）\n『ラスト・フレンズ』（2008年）\n『信長協奏曲』（2014年）\n『コンフィデンスマンJP』（2018年）\n『全開ガール』（2011年）\n『教場II』（2021年）\n『メイちゃんの執事』（2009年）\n\n12月12日（金）配信開始\n『プロポーズ大作戦』（2007年）\n『いちばんすきな花』（2023年）\n『嘘解きレトリック』（2024年）\n『HOPE～期待ゼロの新入社員～』（2016年）\n『1リットルの涙』（2005年）\n\n12月13日（土）配信開始\n『恋仲』（2015年）\n『オクラ～迷宮入り事件捜査～』（2024年）\n『ラジエーションハウス～放射線科の診断レポート～』（2019年）\n『元彼の遺言状』（2022年）\n『366日』（2024年）\n\n12月14日（日）配信開始\n『ナイト・ドクター』（2021年）\n『ストロベリーナイト』（2012年）\n『やんごとなき一族』（2022年）\n『風間公親－教場0－』（2023年）\n『忍者に結婚は難しい』（2023年）\n\n12月19日（金）配信開始\n『警視庁いきもの係』（2017年）\n『残念な夫。』（2015年）\n『遅咲きのヒマワリ～ボクの人生、リニューアル～』（2012年）\n『TOKYOコントロール 東京航空交通管制部』（2011年）\n『パリピ孔明』（2023年）\n『ショムニ2013』（2013年）\n\n12月20日（土）配信開始\n『のだめカンタービレ in ヨーロッパ』（2008年）\n『ファーストクラス』（2014年） \n『5→9～私に恋したお坊さん～』（2015年）\n『愛してるって、言いたい』（2024年）</content>
+    <link href="https://tver.jp/specials/fujidra25-winter/all25_1122"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/movie_lastman/25release_1224</id>
+    <title>『映画ラストマン -FIRST LOVE-』公開記念</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>12月24日(水)公開の『映画ラストマン -FIRST LOVE-』に出演しているキャストの過去ドラマを集めました！</content>
+    <link href="https://tver.jp/specials/movie_lastman/25release_1224"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/m-1grandprix25/all25-1117</id>
+    <title>M-1グランプリ2025</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>「M-1グランプリ2025」王者を決める決勝戦は12月21日(日)！\nTVerではM-1関連動画を続々配信！「お気に入り登録」で見逃し防止！</content>
+    <link href="https://tver.jp/specials/m-1grandprix25/all25-1117"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/movie_scarlet/25release_1114f</id>
+    <title>細田守監督 最新作「果てしなきスカーレット」公開記念！</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>スタジオ地図・細田守監督の最新作『果てしなきスカーレット』 2025年11月21日(金)公開！\n『時をかける少女』から19年―。衝撃のヒロイン誕生！豪華声優陣の出演ドラマを期間限定配信中！！</content>
+    <link href="https://tver.jp/specials/movie_scarlet/25release_1114f"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/tx25-economicpg/all25_1113</id>
+    <title>テレ東系経済番組特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>テレ東系の経済系番組をお届けします！さらに「ガイアの夜明け」「カンブリア宮殿」「ブレイクスルー」は過去に放送されて反響の大きかった回も配信！</content>
+    <link href="https://tver.jp/specials/tx25-economicpg/all25_1113"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/music_program/music_all</id>
+    <title>冬の音楽祭</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>TVerで観られる音楽番組をまとめました！最新の音楽をチェックしよう！</content>
+    <link href="https://tver.jp/specials/music_program/music_all"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/movie_tokyotaxi/25release_1121</id>
+    <title>映画「TOKYOタクシー」 全国公開記念 特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>期間限定！ 11/21(金)公開 映画「TOKYOタクシー 」全国公開を記念して、木村拓哉出演作品を配信！</content>
+    <link href="https://tver.jp/specials/movie_tokyotaxi/25release_1121"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/hs-soccer/104th-all</id>
+    <title>第104回全国高校サッカー選手権特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>【第104回全国高校サッカー選手権大会　地区大会決勝】\n全国大会出場をかけ、各地区で頂点を決める激戦がここに！！\nリアルタイムでお送りするLIVE配信、試合後には試合全編をご覧いただけるフルマッチ動画、見どころをまとめたダイジェスト動画をお届けします！全試合配信！\n※予告なく変更する場合があります。予めご了承ください。</content>
+    <link href="https://tver.jp/specials/hs-soccer/104th-all"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/drama25_start10/fall25_all</id>
+    <title>放送中の秋ドラマ特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>★あなたが見たい秋のドラマは？\nここまでのあらすじは「ダイジェスト」でチェック！\n推しドラマは「お気に入り登録」で見落とし防止！</content>
+    <link href="https://tver.jp/specials/drama25_start10/fall25_all"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/kidshiroba/kids_all</id>
+    <title>TVerキッズひろば</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>お子様も楽しめる番組をたくさん集めたTVerキッズひろば！\n人気のアニメや特撮ヒーロー、キッズ番組はこちらからチェック！</content>
+    <link href="https://tver.jp/specials/kidshiroba/kids_all"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/localprograms/lp-pickup</id>
+    <title>ご当地番組大集合！</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>全国のご当地番組の中から15作品をピックアップして隔週で更新！</content>
+    <link href="https://tver.jp/specials/localprograms/lp-pickup"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/24news/latest_episode24</id>
+    <title>最新ニュース 24時間配信中！</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>最新ニュースを24時間ライブ配信中！\n※システムメンテナンス等により、一時的にストリームを停止する場合がございます。\n※配信システムの都合上、30秒～1分半ほどの遅延が発生します。あらかじめご了承ください。</content>
+    <link href="https://tver.jp/specials/24news/latest_episode24"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/meisaku-drama/stream</id>
+    <title>名作ドラマ特集</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>★番組を「お気に入り登録」で見逃し防止！\nお好みのジャンルへは、上のタブからGO！</content>
+    <link href="https://tver.jp/specials/meisaku-drama/stream"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/mon_variety/v_monday</id>
+    <title>月曜日バラエティ</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>月曜日にレギュラーで放送中のバラエティ番組を集めました。</content>
+    <link href="https://tver.jp/specials/mon_variety/v_monday"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/tue_variety/v_tuesday</id>
+    <title>火曜日バラエティ</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>火曜日にレギュラーで放送中のバラエティ番組を集めました。</content>
+    <link href="https://tver.jp/specials/tue_variety/v_tuesday"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/wed_variety/v_wednesday</id>
+    <title>水曜日バラエティ</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>水曜日にレギュラーで放送中のバラエティ番組を集めました。</content>
+    <link href="https://tver.jp/specials/wed_variety/v_wednesday"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/thu_variety/v_thursday</id>
+    <title>木曜日バラエティ</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>木曜日にレギュラーで放送中のバラエティ番組を集めました。</content>
+    <link href="https://tver.jp/specials/thu_variety/v_thursday"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/fri_variety/v_friday</id>
+    <title>金曜日バラエティ</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>金曜日にレギュラーで放送中のバラエティ番組を集めました。</content>
+    <link href="https://tver.jp/specials/fri_variety/v_friday"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/sat_variety/v_saturday</id>
+    <title>土曜日バラエティ</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>土曜日にレギュラーで放送中のバラエティ番組を集めました。</content>
+    <link href="https://tver.jp/specials/sat_variety/v_saturday"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/specials/sun_variety/v_sunday</id>
+    <title>日曜日バラエティ</title>
+    <updated>2025-12-18T15:17:56+09:00</updated>
+    <content>日曜日にレギュラーで放送中のバラエティ番組を集めました。</content>
+    <link href="https://tver.jp/specials/sun_variety/v_sunday"/>
+  </entry>
+</feed>
