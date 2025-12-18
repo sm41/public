@@ -2,13 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-19T00:18:16+09:00</updated>
+  <updated>2025-12-19T01:22:19+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://tver.jp/favicon.ico</icon>
+  <entry>
+    <id>https://tver.jp/episodes/epveq70uru</id>
+    <title>絶メシロード 2025_[1泊目 福島県田村市「ヱビス食堂」]</title>
+    <updated>2025-12-19T01:00:00+09:00</updated>
+    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epveq70uru.jpg</content>
+    <link href="https://tver.jp/episodes/epveq70uru"/>
+    <summary>どこにでもいるごく普通のサラリーマン須田民生（濱津隆之）は、週末になると決まって絶滅してしまうかもしれない絶品メシを探す「絶メシ旅」に出かける。妻の故郷を訪れた民生は、一人大自然の中で大人の自由時間を満喫していた。目に入ったのは88年続く食堂「ヱビス食堂」。映画のセットのような二階建ての食堂に心を踊らせる民生だったが、民生が行く先々で鉢合わせた謎の男（なすび）と食堂でもばったり出会い―。　［期間限定無料配信］</summary>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eptw15lin2</id>
+    <title>推しの殺人_[＃１２【衝撃の最終章】操られる共犯者]</title>
+    <updated>2025-12-19T00:54:00+09:00</updated>
+    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptw15lin2.jpg</content>
+    <link href="https://tver.jp/episodes/eptw15lin2"/>
+    <summary>テルマ（横田真悠）とイズミ（林芽亜里）の秘密を暴露した「先生」は、ルイ（田辺桃子）の父・敏勝（猪塚健太）だった！\n敏勝と対面したルイは、さらなる衝撃の事実を知る。母親と妹が亡くなった火事の原因は、敏勝の放火だったのだ……。\n敏勝と矢崎（増田貴久）がつながっていることも知ったルイは、絶望の淵に突き落とされて――。\nそんな中、姿をくらましていた河都（城田優）が３人に接近してきて……！？</summary>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epoj12zjvw</id>
+    <title>地獄は善意で出来ている_[#10 最終回！運命の結末！殺し合いの審判]</title>
+    <updated>2025-12-19T00:45:00+09:00</updated>
+    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoj12zjvw.jpg</content>
+    <link href="https://tver.jp/episodes/epoj12zjvw"/>
+    <summary>琥太郎（高野洸）を助けるため施設に戻った樹（草川拓弥）は、すぐさまカトウ（細田善彦）に捕らわれ、琥太郎と一緒にとある部屋へ。そこで、毒が入ったカプセルを飲まされ、５分以内に解毒剤を飲まなければ死に至ると宣告される。しかし、用意された解毒剤は１本。相手の命を奪った勝者にのみ、解毒剤を渡すという。次第にカトウがいら立ちを見せ始め、タイムリミットが残りわずかとなったそのとき、樹がまさかの行動に出て…。\n人生のやり直しをかけて臨んだはずの更生プログラムは、地獄の始まりだった―。仕掛けられた残酷な罠に次々とはまり、追い詰められた樹たちは、復讐という名の魔の手を逃れ、無事に施設を脱出することができるのか！？ 彼らを待っている、その先の未来とは―!?</summary>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep1gsc7lk0</id>
     <title>＃神奈川に住んでるエルフの「どきどき！エルフどき！」_[第１２話　人間と仲良くなれそうなエルフ]</title>
