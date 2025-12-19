@@ -114,17 +114,17 @@ def process_items(lilili:list):
       # lb.disable_line_break(eee.data['description'])
       # ert = lb.dis_lb_str
 
-      lb.lb_xhtml(eee.data['description'])
-      xxx = lb.lb_xhtml_str
+      lb.lb_html(eee.data['description'])
+      xxx = lb.lb_html_str
 
-      xhtml = tver_tool.gen_xhtml(episode_images, episode_title, xxx, start_at, end_at, broadcast_date, production_provider_name)
+      html = tver_tool.gen_html(episode_images, episode_title, xxx, start_at, end_at, broadcast_date, production_provider_name)
 
 
       fe = fg.add_entry()
       fe.id(f"https://tver.jp/episodes/{episode_id}")
       fe.title(f"{series_title}_[{episode_title}]")
       fe.updated(start_at)
-      fe.content(xhtml)
+      fe.content(html)
       fe.link(href=f"https://tver.jp/episodes/{episode_id}")
 
     atom_file = f"newer_{filename_id}.atom"
