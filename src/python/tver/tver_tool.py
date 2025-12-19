@@ -135,9 +135,9 @@ def gen_html(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, pr
 
       <hr style="border:0; border-top:1px solid yellow">
 
-      <blockquote>
+      <p>
         {content}
-      </blockquote>
+      </p>
     </div>\
   """
 
