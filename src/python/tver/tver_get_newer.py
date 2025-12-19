@@ -119,7 +119,6 @@ def process_items(lilili:list):
 
       html = tver_tool.gen_html(episode_images, episode_title, hhh, start_at, end_at, broadcast_date, production_provider_name)
 
-
       fe = fg.add_entry()
       fe.id(f"https://tver.jp/episodes/{episode_id}")
       fe.title(f"{series_title}_[{episode_title}]")
