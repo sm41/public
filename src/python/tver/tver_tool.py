@@ -74,13 +74,30 @@ class line_break:
   def disable_line_break(self, strings:str):
     self.dis_lb_str = strings.replace("\n", "\\n")
 
+  def lb_xhtml(self, strings:str):
+    self.lb_xhtml_str = strings.replace("\n", "<br/>")
 
+  def lb_html(self, strings:str):
+    self.lb_html_str = strings.replace("\n", "<br>")
 
-def gen_xhtml(img_url, img_alt, content):
+def gen_xhtml(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, production_provider_name):
 
   xhtml_template = f"""\
     <div xmlns="http://www.w3.org/1999/xhtml">
       <img src="{img_url}" alt="[{img_alt}]" />
+      <dl>
+        <dt>start_at</dt>
+        <dd>{start_at}</dd>
+
+        <dt>end_at</dt>
+        <dd>{end_at}</dd>
+
+        <dt>broadcastDateLabel</dt>
+        <dd>{broadcastDateLabel}</dd>
+
+        <dt>production_provider_name</dt>
+        <dd>{production_provider_name}</dd>
+      </dl>
       <p>
         {content}
       </p>
