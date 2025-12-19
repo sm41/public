@@ -80,6 +80,9 @@ class line_break:
   def lb_html(self, strings:str):
     self.lb_html_str = strings.replace("\n", "<br>")
 
+
+
+
 def gen_xhtml(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, production_provider_name):
 
   xhtml_template = f"""\
@@ -96,6 +99,9 @@ def gen_xhtml(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, p
         <dd>{broadcastDateLabel}</dd>
 
         <dt>📡 放送局</dt>
+
+        <hr style="border:0; border-top:1px solid yellow;">
+
         <dd>{production_provider_name}</dd>
       </dl>
       <p>
