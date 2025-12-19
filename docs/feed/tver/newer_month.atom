@@ -2,115 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-19T10:15:40+09:00</updated>
+  <updated>2025-12-19T12:20:21+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://tver.jp/favicon.ico</icon>
-  <entry>
-    <id>https://tver.jp/episodes/ep0yraw42t</id>
-    <title>三国志　秘密の皇帝_[第2話]</title>
-    <updated>2025-12-19T09:00:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0yraw42t.jpg</content>
-    <link href="https://tver.jp/episodes/ep0yraw42t"/>
-    <summary>自らの出生の秘密を知った劉平（りゅうへい）は、詔に従い皇帝となるよう皇后・伏寿（ふくじゅ）に言われる。劉平が事を把握する間もないまま、伏寿と弘農（こうのう）王妃の唐瑛（とうえい）は劉協（りゅうきょう）の死体に手を加えると、寝殿に火を放ち替え玉計画を実行する。その頃、突然姿を消した弟を捜す司馬懿（しばい）は、遠い許都（きょと）までやって来ていた。</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgcg072ey</id>
-    <title>私のIDはカンナム美人_[第12話]</title>
-    <updated>2025-12-19T02:00:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgcg072ey.jpg</content>
-    <link href="https://tver.jp/episodes/epgcg072ey"/>
-    <summary>ヘソンと待ち合わせするミレ。そこにギョンソクが現れ、ヘソンとギョンソクは顔を合わせる。3人は一緒に食事することになり、楽しい時間を過ごす。そして、3人が店を出たところへウヨンと居合わせ、ウヨンの家で二次会をすることになったミレはついお酒を飲みすぎて泥酔してしまう。そんな中、ミレがバイトの面接に行くと知ったギョンソクはミレについていき、ミレと同じバイト先で働くことになる。</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp0nr5p4k</id>
-    <title>ifの世界で恋がはじまる_[第5話「誤解の向こうにあった想い」《ドラマフィル》]</title>
-    <updated>2025-12-19T01:59:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp0nr5p4k.jpg</content>
-    <link href="https://tver.jp/episodes/epp0nr5p4k"/>
-    <summary>元の世界に戻ってきた彰人（醍醐虎汰朗）は、並行世界での経験を胸に、少しずつ周囲との距離を縮め始める。かつては壁を作っていた同僚たちとも、笑顔で言葉を交わせるようになった彰人は、過去の自分と向き合いながら、営業としての責任を果たそうとする。\nそんな中、取引先・飯伏（こばやし元樹）とのトラブルが再燃。彰人は大狼（中川大輔）に助けを求め、二人で謝罪に向かうことに。緊張でいつもの症状に見舞われる彰人の冷たい手をギュッと握る大狼。その手の温もりに、彰人は静かな安堵を感じる。\n過去の誤解が解けていく中で、二人の関係にも微かな変化が訪れるが―、素直になれない気持ちは、まだ言葉にできないままで―。</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppo4nj6ad</id>
-    <title>橘くん抱いてください！_[#12 私のすべてを、あなたに]</title>
-    <updated>2025-12-19T01:30:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppo4nj6ad.jpg</content>
-    <link href="https://tver.jp/episodes/eppo4nj6ad"/>
-    <summary>「絶対にあきらめるもんか」。橘は、すみれを振り向かせたい一心で、ただひたすらに声をかけ続けたと語る。その一途な想いを知ったすみれは、「私を見つけてくれて、ずっと好きでいてくれて、ありがとう」と涙ながらに感謝を伝える。そして、これまでの臆病な自分を乗り越え、自ら橘にキスをする。ようやく素直に想いを伝えられた二人は、初めて出会った日からのすべてを分かち合うように、深く、深く愛し合うのだった。</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epz8tc0evi</id>
-    <title>透明な夜に駆ける君と、目に見えない恋をした。_[第2話「知りたかったこと」《ドラマ特区》]</title>
-    <updated>2025-12-19T01:29:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz8tc0evi.jpg</content>
-    <link href="https://tver.jp/episodes/epz8tc0evi"/>
-    <summary>再び小春（永瀬莉子）の授業のサポートをすることにしたかける（藤原大祐）。さらに、小春の栞に書かれた「やりたいことリスト」の二つ目、「打ち上げ花火をあげる」を叶えるため、小春とかけるは浅草へ出かける。小春は人の多さに戸惑い、かけるは人混みでの小春のサポートに苦労しながらも、二人は少しずつ距離を縮めていく。そんな中、かけるは気になっていた“小春の目が見えなくなった理由”について、小春に尋ねる。過去を打ち明けた小春は、同情ではなく対等に接してくれるかけるの優しさに強く心を動かされ──。</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epveq70uru</id>
-    <title>絶メシロード 2025_[1泊目 福島県田村市「ヱビス食堂」]</title>
-    <updated>2025-12-19T01:00:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epveq70uru.jpg</content>
-    <link href="https://tver.jp/episodes/epveq70uru"/>
-    <summary>どこにでもいるごく普通のサラリーマン須田民生（濱津隆之）は、週末になると決まって絶滅してしまうかもしれない絶品メシを探す「絶メシ旅」に出かける。妻の故郷を訪れた民生は、一人大自然の中で大人の自由時間を満喫していた。目に入ったのは88年続く食堂「ヱビス食堂」。映画のセットのような二階建ての食堂に心を踊らせる民生だったが、民生が行く先々で鉢合わせた謎の男（なすび）と食堂でもばったり出会い―。　［期間限定無料配信］</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptw15lin2</id>
-    <title>推しの殺人_[＃１２【衝撃の最終章】操られる共犯者]</title>
-    <updated>2025-12-19T00:54:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptw15lin2.jpg</content>
-    <link href="https://tver.jp/episodes/eptw15lin2"/>
-    <summary>テルマ（横田真悠）とイズミ（林芽亜里）の秘密を暴露した「先生」は、ルイ（田辺桃子）の父・敏勝（猪塚健太）だった！\n敏勝と対面したルイは、さらなる衝撃の事実を知る。母親と妹が亡くなった火事の原因は、敏勝の放火だったのだ……。\n敏勝と矢崎（増田貴久）がつながっていることも知ったルイは、絶望の淵に突き落とされて――。\nそんな中、姿をくらましていた河都（城田優）が３人に接近してきて……！？</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epoj12zjvw</id>
-    <title>地獄は善意で出来ている_[#10 最終回！運命の結末！殺し合いの審判]</title>
-    <updated>2025-12-19T00:45:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoj12zjvw.jpg</content>
-    <link href="https://tver.jp/episodes/epoj12zjvw"/>
-    <summary>琥太郎（高野洸）を助けるため施設に戻った樹（草川拓弥）は、すぐさまカトウ（細田善彦）に捕らわれ、琥太郎と一緒にとある部屋へ。そこで、毒が入ったカプセルを飲まされ、５分以内に解毒剤を飲まなければ死に至ると宣告される。しかし、用意された解毒剤は１本。相手の命を奪った勝者にのみ、解毒剤を渡すという。次第にカトウがいら立ちを見せ始め、タイムリミットが残りわずかとなったそのとき、樹がまさかの行動に出て…。\n人生のやり直しをかけて臨んだはずの更生プログラムは、地獄の始まりだった―。仕掛けられた残酷な罠に次々とはまり、追い詰められた樹たちは、復讐という名の魔の手を逃れ、無事に施設を脱出することができるのか！？ 彼らを待っている、その先の未来とは―!?</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1gsc7lk0</id>
-    <title>＃神奈川に住んでるエルフの「どきどき！エルフどき！」_[第１２話　人間と仲良くなれそうなエルフ]</title>
-    <updated>2025-12-18T23:00:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1gsc7lk0.jpg</content>
-    <link href="https://tver.jp/episodes/ep1gsc7lk0"/>
-    <summary>異世界のエルフの森を追われ、今は神奈川県に住んでいたエルフたち。\n人間と仲良くなろうと、ラジオ番組を立ち上げる！</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep35vj4l5f</id>
-    <title>小さい頃は、神様がいて_[第11話 寒波だよ、全員集合！]</title>
-    <updated>2025-12-18T22:54:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep35vj4l5f.jpg</content>
-    <link href="https://tver.jp/episodes/ep35vj4l5f"/>
-    <summary>小倉渉（北村有起哉）と佐藤あん（仲間由紀恵）は、それぞれクリスマスムードの街を歩きながら、お互いのことを考えていた。一方、「たそがれステイツ」一階の永島家ではクリスマスの飾りつけ真っ最中。サンタが来るのを楽しみにしている子どもたちを見て、永島慎一（草刈正雄）とさとこ（阿川佐和子）は、「サンタさんは絶対来るよ」と話す。\n樋口奈央（小野花梨）と高村志保（石井杏奈）のキッチンカーの開店日がやってきた。渉と永島家一同がキッチンカーへ向かっていると、あんが合流する。久々にあんと会えてうれしくてたまらない渉。その頃、奈央と志保は開店準備を進めていた。小倉ゆず（近藤華）はその様子を離れた場所から撮影する。奈央は「新しい扉が開くんだね」と志保に声をかける。開店すると、キッチンカーにはすぐに客が訪れて二人は大忙し。「たそがれステイツ」の面々や小倉順（小瀧望）ら消防隊員の仲間も集まり、皆は料理をほおばり笑顔になる。\nゆずや奈央と志保は、あんの家に泊まりに行く。それを知って「ずるい」と文句を言う渉。ゆずは離婚したのだから当然だと諭すが、渉は納得できない。そしてクリスマスイブの朝、東京に寒波が襲来する。起床したあんは暖房をつけようとするが、何をやっても暖まらず、寒い部屋で途方に暮れる。そこに順から連絡が届き・・・。渉とあん、離婚した二人は最後、どんな答えにたどり着くのか―！？</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep7gkhx0ma</id>
-    <title>緊急取調室 （2025）_[最終話　蒼い銃弾]</title>
-    <updated>2025-12-18T22:00:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7gkhx0ma.jpg</content>
-    <link href="https://tver.jp/episodes/ep7gkhx0ma"/>
-    <summary>◆ファイナルシーズン、ついに最終回！◆&#13;\n警察学校の射撃訓練中に、同期生に向かって発砲するも、いまだ理由を語らない学生・宮本健太郎（大橋和也）。彼の真の標的は、教官の滝川隆博（玉山鉄二）だったのでは…!?&#13;\n新たな仮説のもと、有希子（天海祐希）らキントリは事件の全容を解明すべく、ついに滝川への取調べに踏み切ることに！&#13;\n有希子と滝川――それぞれの正義が真正面から衝突し、壮絶を極める取調べに。はたして、その先に浮かび上がる驚愕の真相とは？&#13;\nキントリ《連ドラ最後の戦い》、ここに完結！</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9k1hmjck</id>
-    <title>運命のキスをお願い！_[第26話   ごめんなさい]</title>
-    <updated>2025-12-18T19:30:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9k1hmjck.jpg</content>
-    <link href="https://tver.jp/episodes/ep9k1hmjck"/>
-    <summary>陸星成(ルー・シンチョン)がコンクールに参加すると知った江顔(ジアン・イェン)は、自らも参加することに。一方、童小悠(トン・シャオヨウ)は、コンクールに提出するデザイン画を徹夜で作成する。応募に向かった小悠は、自分が事前登録されていないことを知りショックを受ける。それを知った星成は、路任(ルー・レン)のもとを尋ね…。</summary>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epq9g40vks</id>
-    <title>孤独のグルメ Season5_[第3話 東京都杉並区西荻窪のラム肉のハンバーグと野菜のクスクス]</title>
-    <updated>2025-12-18T18:25:00+09:00</updated>
-    <content>https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq9g40vks.jpg</content>
-    <link href="https://tver.jp/episodes/epq9g40vks"/>
-    <summary>井之頭五郎（松重豊）は、学生時代によく来ていた西荻窪を懐かしく思いながら歩いていた。再婚する先輩（角田信朗）に、新居用の絨毯を見立てて欲しいと頼まれたのだ。早くも飲んでいた先輩を見つけてそのまま店へ向かうが、待っていた婚約者の幸子（甲斐まり恵）と何やら揉め始め……。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。</summary>
-  </entry>
 </feed>
