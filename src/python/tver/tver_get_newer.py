@@ -70,7 +70,6 @@ def process_items(lilili:list):
   publish_dir = "docs"
   middle_dir  = "feed"
 
-  # atom_dir = path.join(path_to_use, middle_dir, f"[{rrr.netloc}]")
   atom_dir = path.join(path_to_use, publish_dir, middle_dir, "tver")
 
   makedirs(atom_dir, exist_ok=True)
@@ -112,11 +111,8 @@ def process_items(lilili:list):
       eee.request_get()
 
       lb = tver_tool.line_break()
-      # lb.disable_line_break(sss.data['description'])
-      # sdf = lb.dis_lb_str
-
-      lb.disable_line_break(eee.data['description'])
-      ert = lb.dis_lb_str
+      # lb.disable_line_break(eee.data['description'])
+      # ert = lb.dis_lb_str
 
       lb.lb_xhtml(eee.data['description'])
       xxx = lb.lb_xhtml_str
@@ -145,29 +141,6 @@ def process_items(lilili:list):
 
 
 
-# blocked_items, month_day_items, year_items = call_new()
-# ready = [
-#     {"month_day_items" : month_day_items},
-#     {"year_items" : year_items}
-#   ]
-# process_items(ready)
-
-# print("=== month_day_items データ ===")
-# for x in month_day_items:
-#     print(f"https://tver.jp/episodes/{x['item']['content']['id']}", x["item"]["content"]["broadcastDateLabel"], x["conditions"], x["item"]["content"]['seriesTitle'])
-
-
-# print("=== year_items データ ===")
-# for x in year_items:
-#     print(f"https://tver.jp/episodes/{x['item']['content']['id']}", x["item"]["content"]["broadcastDateLabel"], x["conditions"], x["item"]["content"]['seriesTitle'])
-
-# print("=== blocked_items データ ===")
-# for x in blocked_items:
-#     print(f"https://tver.jp/episodes/{x['item']['content']['id']}", x["item"]["content"]["broadcastDateLabel"], x["conditions"], x["item"]["content"]['seriesTitle'])
-
-
-
-
 def main():
   blocked_items, month_day_items, year_items = call_new()
 
@@ -185,8 +158,6 @@ def main():
   ]
 
   process_items(ready)
-
-
 
 
 if __name__ == '__main__':
