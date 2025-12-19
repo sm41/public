@@ -118,8 +118,10 @@ def process_items(lilili:list):
       lb.disable_line_break(eee.data['description'])
       ert = lb.dis_lb_str
 
+      lb.lb_xhtml(eee.data['description'])
+      xxx = lb.lb_xhtml_str
 
-      xhtml = tver_tool.gen_xhtml(episode_images, episode_title, ert, start_at, end_at, broadcast_date, production_provider_name)
+      xhtml = tver_tool.gen_xhtml(episode_images, episode_title, xxx, start_at, end_at, broadcast_date, production_provider_name)
 
 
       fe = fg.add_entry()
