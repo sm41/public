@@ -83,34 +83,34 @@ class line_break:
 
 
 
-def gen_xhtml(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, production_provider_name):
+# def gen_xhtml(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, production_provider_name):
 
-  xhtml_template = f"""\
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <img src="{img_url}" alt="[{img_alt}]" />
-      <dl>
-        <dt>🕘 配信開始</dt>
-        <dd>{start_at}</dd>
+#   xhtml_template = f"""\
+#     <div xmlns="http://www.w3.org/1999/xhtml">
+#       <img src="{img_url}" alt="[{img_alt}]" />
+#       <dl>
+#         <dt>🕘 配信開始</dt>
+#         <dd>{start_at}</dd>
 
-        <dt>🕓 配信終了</dt>
-        <dd>{end_at}</dd>
+#         <dt>🕓 配信終了</dt>
+#         <dd>{end_at}</dd>
 
-        <dt>🗓️ 放送</dt>
-        <dd>{broadcastDateLabel}</dd>
+#         <dt>🗓️ 放送</dt>
+#         <dd>{broadcastDateLabel}</dd>
 
-        <dt>📡 放送局</dt>
-        <dd>{production_provider_name}</dd>
-      </dl>
+#         <dt>📡 放送局</dt>
+#         <dd>{production_provider_name}</dd>
+#       </dl>
 
-      <hr style="border:0; border-top:1px solid yellow;">
+#       <hr style="border:0; border-top:1px solid yellow;">
 
-      <p>
-        {content}
-      </p>
-    </div>\
-  """
+#       <p>
+#         {content}
+#       </p>
+#     </div>\
+#   """
 
-  return xhtml_template
+#   return xhtml_template
 
 
 def gen_html(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, production_provider_name):
@@ -135,9 +135,9 @@ def gen_html(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, pr
 
       <hr style="border:0; border-top:1px solid yellow">
 
-      <p>
+      <blockquote>
         {content}
-      </p>
+      </blockquote>
     </div>\
   """
 
