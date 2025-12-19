@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-19T22:29:49+09:00</updated>
+  <updated>2025-12-19T22:35:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -15,6 +15,19 @@
     <updated>2025-12-19T17:00:24+09:00</updated>
     <content>    &lt;div xmlns="http://www.w3.org/1999/xhtml"&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptybutbzj.jpg" alt="[魔法少女山田(1)]" /&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;start_at&lt;/dt&gt;
+        &lt;dd&gt;2025-12-19T17:00:24+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;end_at&lt;/dt&gt;
+        &lt;dd&gt;2026-01-16T23:59:59+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;broadcastDateLabel&lt;/dt&gt;
+        &lt;dd&gt;7月14日(月)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;production_provider_name&lt;/dt&gt;
+        &lt;dd&gt;テレ東&lt;/dd&gt;
+      &lt;/dl&gt;
       &lt;p&gt;
         TXQ FICTION第4弾&#13;\n「UFO山」が放送決定。&#13;\n&#13;\n12月22日（月）深夜24:30～25:00&#13;\n12月23日（火）深夜24:30～25:00&#13;\n12月24日（水）深夜25:30～26:00&#13;\n12月25日（木）深夜25:00～25:30&#13;\n&#13;\n▼配信スケジュール&#13;\n#1,#2,#3：12/19（金）17:00～&#13;\n※配信時期については変更の可能性がございます。ご了承ください。&#13;\n&#13;\n2025年7月14日放送
       &lt;/p&gt;
@@ -27,6 +40,19 @@
     <updated>2025-12-19T17:00:23+09:00</updated>
     <content>    &lt;div xmlns="http://www.w3.org/1999/xhtml"&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl5r742z0.jpg" alt="[魔法少女山田(2)]" /&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;start_at&lt;/dt&gt;
+        &lt;dd&gt;2025-12-19T17:00:23+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;end_at&lt;/dt&gt;
+        &lt;dd&gt;2026-01-16T23:59:59+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;broadcastDateLabel&lt;/dt&gt;
+        &lt;dd&gt;7月21日(月)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;production_provider_name&lt;/dt&gt;
+        &lt;dd&gt;テレ東&lt;/dd&gt;
+      &lt;/dl&gt;
       &lt;p&gt;
         TXQ FICTION第4弾&#13;\n「UFO山」が放送決定。&#13;\n&#13;\n12月22日（月）深夜24:30～25:00&#13;\n12月23日（火）深夜24:30～25:00&#13;\n12月24日（水）深夜25:30～26:00&#13;\n12月25日（木）深夜25:00～25:30&#13;\n&#13;\n▼配信スケジュール&#13;\n#1,#2,#3：12/19（金）17:00～&#13;\n※配信時期については変更の可能性がございます。ご了承ください。&#13;\n&#13;\n2025年7月21日放送
       &lt;/p&gt;
@@ -39,6 +65,19 @@
     <updated>2025-12-19T17:00:22+09:00</updated>
     <content>    &lt;div xmlns="http://www.w3.org/1999/xhtml"&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephmh6mztv.jpg" alt="[魔法少女山田(3)]" /&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;start_at&lt;/dt&gt;
+        &lt;dd&gt;2025-12-19T17:00:22+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;end_at&lt;/dt&gt;
+        &lt;dd&gt;2026-01-16T23:59:59+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;broadcastDateLabel&lt;/dt&gt;
+        &lt;dd&gt;7月28日(月)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;production_provider_name&lt;/dt&gt;
+        &lt;dd&gt;テレ東&lt;/dd&gt;
+      &lt;/dl&gt;
       &lt;p&gt;
         TXQ FICTION第4弾&#13;\n「UFO山」が放送決定。&#13;\n&#13;\n12月22日（月）深夜24:30～25:00&#13;\n12月23日（火）深夜24:30～25:00&#13;\n12月24日（水）深夜25:30～26:00&#13;\n12月25日（木）深夜25:00～25:30&#13;\n&#13;\n▼配信スケジュール&#13;\n#1,#2,#3：12/19（金）17:00～&#13;\n※配信時期については変更の可能性がございます。ご了承ください。&#13;\n&#13;\n2025年7月28日放送&#13;\n&#13;\n協力：有限会社 希楽星　株式会社 ロケバスネット &#13;\n撮影協力：新井聡　星野吉寿　根岸美枝 &#13;\nロケ協力：今泉明　株式会社 JOYPOP　株式会社 玄光社
       &lt;/p&gt;
