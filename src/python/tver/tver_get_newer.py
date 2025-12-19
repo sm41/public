@@ -94,7 +94,7 @@ def process_items(lilili:list):
 
     for item in ddd['items']:
       series_title             = item['item']['content']['seriesTitle']
-      series_id                = item['item']['content']['seriesID']
+      # series_id                = item['item']['content']['seriesID']
       episode_title            = item['item']['content']['title']
       episode_id               = item['item']['content']['id']
       # broadcast_date           = item['item']['content']['broadcastDateLabel']
@@ -103,10 +103,10 @@ def process_items(lilili:list):
       start_at                 = datetime.fromtimestamp(item['item']['startAt'], ZoneInfo("Asia/Tokyo")).isoformat()
       # end_at                   = datetime.fromtimestamp(item['item']['endAt'], ZoneInfo("Asia/Tokyo")).isoformat()
       # series_images            = f"https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg"
-      episode_images           = f"https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg"
+      # episode_images           = f"https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg"
 
-      sss = tver_tool.get_description(series_id)
-      sss.request_get()
+      # sss = tver_tool.get_description(series_id)
+      # sss.request_get()
 
       eee = tver_tool.get_description(episode_id)
       eee.request_get()
@@ -123,7 +123,8 @@ def process_items(lilili:list):
       fe.title(f"{series_title}_[{episode_title}]")
       fe.updated(start_at)
       fe.content(ert)
-      fe.link(rel="enclosure", href=episode_images, type="image/jpeg")
+      fe.link(f"https://tver.jp/episodes/{episode_id}")
+      # fe.link(rel="enclosure", href=episode_images, type="image/jpeg")
 
     atom_file = f"newer_{filename_id}.atom"
     atom_path = path.join(atom_dir, atom_file)
