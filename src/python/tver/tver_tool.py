@@ -86,16 +86,16 @@ def gen_xhtml(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, p
     <div xmlns="http://www.w3.org/1999/xhtml">
       <img src="{img_url}" alt="[{img_alt}]" />
       <dl>
-        <dt>start_at</dt>
+        <dt>🕘 配信開始</dt>
         <dd>{start_at}</dd>
 
-        <dt>end_at</dt>
+        <dt>🕓 配信終了</dt>
         <dd>{end_at}</dd>
 
-        <dt>broadcastDateLabel</dt>
+        <dt>🗓️ 放送</dt>
         <dd>{broadcastDateLabel}</dd>
 
-        <dt>production_provider_name</dt>
+        <dt>📡 放送局</dt>
         <dd>{production_provider_name}</dd>
       </dl>
       <p>
