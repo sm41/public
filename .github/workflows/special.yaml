@@ -2,11 +2,12 @@
 # https://docs.github.com/ja/actions/reference/workflows-and-actions/workflow-syntax
 # GMT + 9_hour
 
-name: special
+name: special_main
 
 on:
   schedule:
-    - cron: "0 0-12/3 * * *"
+    # - cron: "0 0 * * *"
+    - cron: "40 2,8 * * *"
   workflow_dispatch:
 
 permissions:
