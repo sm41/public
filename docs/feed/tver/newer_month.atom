@@ -2,13 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-20T01:20:28+09:00</updated>
+  <updated>2025-12-20T02:15:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://tver.jp/favicon.ico</icon>
+  <entry>
+    <id>https://tver.jp/episodes/epip7tdinf</id>
+    <title>変態植物倶楽部_[第3話「がばい！宝探し！多肉とサボテンの聖地」]</title>
+    <updated>2025-12-20T01:45:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epip7tdinf.jpg" alt="[第3話「がばい！宝探し！多肉とサボテンの聖地」]"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025-12-20T01:45:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2026-01-17T01:44:59+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;12月19日(金)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;テレビ大阪&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        主人公・副島（一ノ瀬ワタル）は、植物に魅せられた男。ある朝、湿度70％の部屋で植物の世話をしていると、「助けて…」という声が。声の主は、ビカクシダに埋もれて忘れられた多肉植物・ユーフォルビアだった。罪悪感に駆られた副島は、助けを求めて千葉の“多肉とサボテンの聖地”グランカクタスへ。店主から「多肉は乾燥と光と風が命」という教えを受け、その後、雑然とした温室で宝探しのように植物を見て回る副島。そこで出会ったのは、棘をまとった塊根植物・パキポディウム。その瞬間、副島は覚醒し、植物たちとの幻想的な対話が始まる――「俺たちを南アフリカに連れてけ」。副島は約束を交わし、パキポディウムを購入。帰宅後、窓際にユーフォルビアと並べ、湿度を調整しながら「今までごめん」と語りかける。しかし部屋の加湿器をめぐり、ビカクシダと新入りたちの間で小さな“湿度戦争”が勃発するのだった……。
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/epip7tdinf"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ept1yh2zo1</id>
     <title>湯村天使の吐息【主演：綾小路 翔】_[第12話　ダンシング萌えるナイト（ゲスト：seico）]</title>

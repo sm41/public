@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-20T01:20:28+09:00</updated>
+  <updated>2025-12-20T02:15:32+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2125,34 +2125,5 @@
       &lt;/p&gt;
     &lt;/div&gt;  </content>
     <link href="https://tver.jp/episodes/ep13rfuerb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzeisnweo</id>
-    <title>推しが武道館いってくれたら死ぬ_[#8 「”カケモ”してたの？」　ライバル登場でChamJam分裂！？]</title>
-    <updated>2025-12-19T12:00:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzeisnweo.jpg" alt="[#8 「”カケモ”してたの？」　ライバル登場でChamJam分裂！？]"&gt;
-
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-19T12:00:00+09:00&lt;/dd&gt;
-
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-19T23:59:00+09:00&lt;/dd&gt;
-
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;2022年放送&lt;/dd&gt;
-
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-      &lt;/dl&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        ChamJamにとって念願だった『岡山アイドルフェス』への出演が決定！&lt;br&gt;ご当地アイドルが一同に会するイベントで、フェスの目玉には広島の人気アイドルでメジャーデビューもしている『めいぷる♡どーる』の名前も。色めき立つメンバーだが、れお（中村里帆）は浮かない表情を見せていて…。&lt;br&gt;&lt;br&gt;そんな中、ChamJamのステージしか見たことのないえりぴよ（松村沙友理）は、めいぷる♡どーるを偵察するべく、くまさ（ジャンボたかお）と基（豊田裕大）と広島で開催されるイベントに訪れる。会場を埋め尽くす観客の多さと人気に圧倒されていると、ChamJamメンバーの優佳（GUMI）と文（和田美羽）、そして舞菜（伊礼姫奈）と遭遇！えりぴよたちは優佳に、“ファンを掛け持ちしている疑惑”を掛けられてしまう。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月12日(金) 昼12時～　#1&lt;br&gt;12月13日(土) 昼12時～　#2&lt;br&gt;12月14日(日) 昼12時～　#3&lt;br&gt;12月15日(月) 昼12時～　#4&lt;br&gt;12月16日(火) 昼12時～　#5&lt;br&gt;12月17日(水) 昼12時～　#6&lt;br&gt;12月18日(木) 昼12時～　#7&lt;br&gt;12月19日(金) 昼12時～　#8&lt;br&gt;12月20日(土) 昼12時～　#9&lt;br&gt;12月21日(日) 昼12時～　#10（最終話）
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
-    <link href="https://tver.jp/episodes/epzeisnweo"/>
   </entry>
 </feed>
