@@ -60,7 +60,7 @@ def generating_feed():
     fe.title(special_main_title)
     fe.updated(iso_time_now)
     fe.content(lb.dis_lb_str)
-    fe.link(rel="enclosure", href=link, type="image/jpeg")
+    fe.link(href=link)
 
   atom_xml = fg.atom_str(pretty=True)
   return atom_xml

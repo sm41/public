@@ -123,7 +123,7 @@ def process_items(lilili:list):
       fe.title(f"{series_title}_[{episode_title}]")
       fe.updated(start_at)
       fe.content(ert)
-      fe.link(href=f"https://tver.jp/episodes/{episode_id}")
+      fe.link(rel="enclosure", href=episode_images, type="image/jpeg")
 
     atom_file = f"newer_{filename_id}.atom"
     atom_path = path.join(atom_dir, atom_file)
