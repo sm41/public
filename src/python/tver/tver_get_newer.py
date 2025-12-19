@@ -103,7 +103,7 @@ def process_items(lilili:list):
       start_at                 = datetime.fromtimestamp(item['item']['startAt'], ZoneInfo("Asia/Tokyo")).isoformat()
       # end_at                   = datetime.fromtimestamp(item['item']['endAt'], ZoneInfo("Asia/Tokyo")).isoformat()
       # series_images            = f"https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg"
-      # episode_images           = f"https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg"
+      episode_images           = f"https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg"
 
       # sss = tver_tool.get_description(series_id)
       # sss.request_get()
@@ -118,11 +118,15 @@ def process_items(lilili:list):
       lb.disable_line_break(eee.data['description'])
       ert = lb.dis_lb_str
 
+
+      xhtml = tver_tool.gen_xhtml(episode_images, episode_title, ert)
+
+
       fe = fg.add_entry()
       fe.id(f"https://tver.jp/episodes/{episode_id}")
       fe.title(f"{series_title}_[{episode_title}]")
       fe.updated(start_at)
-      fe.content(ert)
+      fe.content(xhtml)
       fe.link(f"https://tver.jp/episodes/{episode_id}")
       # fe.link(rel="enclosure", href=episode_images, type="image/jpeg")
 

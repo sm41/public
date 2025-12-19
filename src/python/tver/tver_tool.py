@@ -76,7 +76,18 @@ class line_break:
 
 
 
+def gen_xhtml(img_url, img_alt, content):
 
+  xhtml_template = f"""\
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <img src="{img_url}" alt="[{img_alt}]" />
+      <p>
+        {content}
+      </p>
+    </div>\
+  """
+
+  return xhtml_template
 
 
 
