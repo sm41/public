@@ -82,7 +82,7 @@ def process_items(lilili:list):
     fg = FeedGenerator()
     fg.id("https://tver.jp/")
     fg.title(feed_title)
-    fg.icon("https://tver.jp/favicon.ico")
+    # fg.icon("https://tver.jp/favicon.ico")
     fg.updated(iso_time_now)
     fg.link(href="https://sm41.github.io/public/")
     fg.author({
