@@ -2,13 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-21T00:18:13+09:00</updated>
+  <updated>2025-12-21T02:15:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epgqkxoqeo</id>
+    <title>修学旅行で仲良くないグループに入りました_[最終回 一生心に残り続けていく日々]</title>
+    <updated>2025-12-21T01:30:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgqkxoqeo.jpg"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025年12月21日&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2025年12月28日&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;ABCテレビ&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        修学旅行から始まる学園格差ラブストーリー、ついに最終回！&lt;br&gt;&lt;br&gt;クリスマスイブに、日置（藤本洸大）は渡会（簡秀吉）たちと教室でパーティーを楽しんでいた。そこで日置は衝撃の事実に気づく。お互いに「好き」と言い合ったが、「付き合う」ということに関しては一度も言及していなかったのだ。&lt;br&gt;修学旅行で同じ班になったことがきっかけで、初めて好きな人ができた日置。勇気を出して渡会にある言葉を告げる――
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/epgqkxoqeo"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep44ge4m63</id>
+    <title>離魂、トドケ_[超能力で夫の不倫を暴け！SF×不倫ドラマ]</title>
+    <updated>2025-12-21T01:28:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep44ge4m63.jpg"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025年12月21日&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2026年02月01日&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;CBCテレビ&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        主人公の榊原華 (加藤史帆)は、夫・翔 (瀬戸利樹)にあることを隠していた。それは超能力が使えること。目で見た対象物に魂を乗り移らせることができるのだ。その能力の名は「離魂(りこん)能力」。&lt;br&gt;ある日、華は翔の不倫に勘づき、能力を使って翔を追い詰めることを決意するが・・・&lt;br&gt;まだ誰も見たことがない新感覚の不倫ドラマが開幕！
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/ep44ge4m63"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ephxhqivry</id>
+    <title>介護スナック ベルサイユ_[第11話 逃げる女／迷える子羊]</title>
+    <updated>2025-12-21T00:35:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephxhqivry.jpg"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025年12月21日&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2025年12月28日&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;東海テレビ&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        クリスマスパーティーの日、客の1人が「自分は久留辺蘭子（高橋惠子）という指名手配犯」と口にする。35年間逃亡してきたが、最期の時が迫り、自首を考えているという。ママ（宮崎美子）に魔法のワインを勧められ、蘭子が会いたいと願ったのは刑事の岩上平造（大地康雄）だった。そして、店に身を寄せる大輝（杢代和人）も警察に追われていることを告白。新たな「魔法のロゼワイン」を飲んだ大輝が見たのは…。&lt;br&gt;「会いたい人は誰ですか？」最期の時を見つめ続けてきたベルサイユ、ついにラストオーダーへ！
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/ephxhqivry"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep539nqxs3</id>
     <title>良いこと悪いこと_[最終話 真犯人、だーれだ?]</title>
