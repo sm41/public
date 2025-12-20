@@ -2,13 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-20T20:15:39+09:00</updated>
+  <updated>2025-12-20T22:26:45+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep539nqxs3</id>
+    <title>良いこと悪いこと_[最終話 真犯人、だーれだ?]</title>
+    <updated>2025-12-20T21:54:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep539nqxs3.jpg"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2025年12月27日&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;日テレ&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        「真犯人、だーれだ?」最終回!今夜すべてが明らかに。
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/ep539nqxs3"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epj2les319</id>
     <title>DQNの星に嫁ぎました_[【スマホ用】#12]</title>
@@ -18,10 +47,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T18:00:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-03T17:59:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2026年01月03日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;7月27日(日)放送分&lt;/dd&gt;
@@ -47,10 +76,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T18:00:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-03T17:59:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2026年01月03日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;7月27日(日)放送分&lt;/dd&gt;
@@ -76,10 +105,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T16:55:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-20T16:55:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2026年01月20日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
@@ -105,10 +134,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T15:30:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-14T23:59:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2026年01月14日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
@@ -134,10 +163,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T12:00:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-18T20:59:59+09:00&lt;/dd&gt;
+        &lt;dd&gt;2026年01月18日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;1月26日(日)放送分&lt;/dd&gt;
@@ -163,10 +192,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T12:00:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-18T20:59:59+09:00&lt;/dd&gt;
+        &lt;dd&gt;2026年01月18日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;2月2日(日)放送分&lt;/dd&gt;
@@ -192,10 +221,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T01:45:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-17T01:44:59+09:00&lt;/dd&gt;
+        &lt;dd&gt;2026年01月17日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;12月19日(金)放送分&lt;/dd&gt;
@@ -221,10 +250,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T01:14:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2025-12-27T01:15:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月27日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;12月19日(金)放送分&lt;/dd&gt;
@@ -250,10 +279,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T01:13:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-16T23:59:59+09:00&lt;/dd&gt;
+        &lt;dd&gt;2026年01月16日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;12月19日(金)放送分&lt;/dd&gt;
@@ -279,10 +308,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T00:42:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-10T00:11:59+09:00&lt;/dd&gt;
+        &lt;dd&gt;2026年01月10日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;12月19日(金)放送分&lt;/dd&gt;
@@ -308,10 +337,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T00:00:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2025-12-28T23:59:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月28日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;11月7日(金)放送分&lt;/dd&gt;
@@ -337,10 +366,10 @@
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-20T00:00:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
 
         &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2025-12-26T23:59:00+09:00&lt;/dd&gt;
+        &lt;dd&gt;2025年12月26日&lt;/dd&gt;
 
         &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
         &lt;dd&gt;3月25日(火)放送分&lt;/dd&gt;
