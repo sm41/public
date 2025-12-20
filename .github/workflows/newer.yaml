@@ -1,13 +1,13 @@
 
 # https://docs.github.com/ja/actions/reference/workflows-and-actions/workflow-syntax
-# GMT + 9_hour
+# GMT + 9_hour = JST
 
 name: newer
 
 on:
   schedule:
     # - cron: "0 0 * * *"
-    - cron: "0 23,0-17 * * *"
+    - cron: "0 1-17/2 * * *"
   workflow_dispatch:
 
 permissions:
