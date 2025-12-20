@@ -2,13 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-20T10:11:29+09:00</updated>
+  <updated>2025-12-20T12:11:46+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
+  <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <icon>https://tver.jp/favicon.ico</icon>
+  <entry>
+    <id>https://tver.jp/episodes/eprjcavv76</id>
+    <title>御上先生_[Episode 2 -awareness-]</title>
+    <updated>2025-12-20T12:00:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprjcavv76.jpg" alt="[Episode 2 -awareness-]"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025-12-20T12:00:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2026-01-18T20:59:59+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;1月26日(日)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;TBS&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;試験会場で起きた殺人事件と自分がリークした不倫記事は関係がある。御上（松坂桃李）の言葉が気になった報道部の神崎拓斗（奥平大兼）は、隣徳学院を辞めた教師・冴島悠子（常盤貴子）に会いに行く。&lt;br&gt;事実が明らかになる中で、神崎の記事について生徒たちに討論させる御上。同じ頃、文科省の塚田幸村（及川光博）と槙野恭介（岡田将生）が動き出す――。&lt;br&gt;殺人事件、不倫記事、隣徳、文科省、これらには一体どんな関係があるのか、そして殺人犯の目的とは――。
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/eprjcavv76"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epejc5bfuh</id>
+    <title>御上先生_[Episode 3 -beginning-]</title>
+    <updated>2025-12-20T12:00:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epejc5bfuh.jpg" alt="[Episode 3 -beginning-]"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025-12-20T12:00:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2026-01-18T20:59:59+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;2月2日(日)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;TBS&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;殺人犯・真山弓弦（堀田真由）と面会した御上（松坂桃李）は、事件がこの世に及ぼした影響について語る。御上はなぜ真山のもとを訪れたのか。&lt;br&gt;一方で、神崎（奥平大兼）は自分が書いた記事の真実を知るために冴島（常盤貴子）に食い下がるのだが…。&lt;br&gt;御上の存在が３年２組を徐々に突き動かしていくが、反発も当然生まれていく。対して御上はどのように生徒を導いていくのだろうか。&lt;br&gt;そして、ついに御上の過去が明かされる――、御上の前に度々現れる謎の青年の正体とは。
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/epejc5bfuh"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epip7tdinf</id>
     <title>変態植物倶楽部_[第3話「がばい！宝探し！多肉とサボテンの聖地」]</title>
@@ -211,92 +269,5 @@
       &lt;/p&gt;
     &lt;/div&gt;  </content>
     <link href="https://tver.jp/episodes/ep3dsso8kl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eptybutbzj</id>
-    <title>TXQ FICTION / 魔法少女山田_[魔法少女山田(1)]</title>
-    <updated>2025-12-19T17:00:24+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptybutbzj.jpg" alt="[魔法少女山田(1)]"&gt;
-
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-19T17:00:24+09:00&lt;/dd&gt;
-
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-16T23:59:59+09:00&lt;/dd&gt;
-
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;7月14日(月)放送分&lt;/dd&gt;
-
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;テレ東&lt;/dd&gt;
-      &lt;/dl&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        TXQ FICTION第4弾&#13;&lt;br&gt;「UFO山」が放送決定。&#13;&lt;br&gt;&#13;&lt;br&gt;12月22日（月）深夜24:30～25:00&#13;&lt;br&gt;12月23日（火）深夜24:30～25:00&#13;&lt;br&gt;12月24日（水）深夜25:30～26:00&#13;&lt;br&gt;12月25日（木）深夜25:00～25:30&#13;&lt;br&gt;&#13;&lt;br&gt;▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3：12/19（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;2025年7月14日放送
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
-    <link href="https://tver.jp/episodes/eptybutbzj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epl5r742z0</id>
-    <title>TXQ FICTION / 魔法少女山田_[魔法少女山田(2)]</title>
-    <updated>2025-12-19T17:00:23+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl5r742z0.jpg" alt="[魔法少女山田(2)]"&gt;
-
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-19T17:00:23+09:00&lt;/dd&gt;
-
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-16T23:59:59+09:00&lt;/dd&gt;
-
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;7月21日(月)放送分&lt;/dd&gt;
-
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;テレ東&lt;/dd&gt;
-      &lt;/dl&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        TXQ FICTION第4弾&#13;&lt;br&gt;「UFO山」が放送決定。&#13;&lt;br&gt;&#13;&lt;br&gt;12月22日（月）深夜24:30～25:00&#13;&lt;br&gt;12月23日（火）深夜24:30～25:00&#13;&lt;br&gt;12月24日（水）深夜25:30～26:00&#13;&lt;br&gt;12月25日（木）深夜25:00～25:30&#13;&lt;br&gt;&#13;&lt;br&gt;▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3：12/19（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;2025年7月21日放送
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
-    <link href="https://tver.jp/episodes/epl5r742z0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephmh6mztv</id>
-    <title>TXQ FICTION / 魔法少女山田_[魔法少女山田(3)]</title>
-    <updated>2025-12-19T17:00:22+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephmh6mztv.jpg" alt="[魔法少女山田(3)]"&gt;
-
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025-12-19T17:00:22+09:00&lt;/dd&gt;
-
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026-01-16T23:59:59+09:00&lt;/dd&gt;
-
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;7月28日(月)放送分&lt;/dd&gt;
-
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;テレ東&lt;/dd&gt;
-      &lt;/dl&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        TXQ FICTION第4弾&#13;&lt;br&gt;「UFO山」が放送決定。&#13;&lt;br&gt;&#13;&lt;br&gt;12月22日（月）深夜24:30～25:00&#13;&lt;br&gt;12月23日（火）深夜24:30～25:00&#13;&lt;br&gt;12月24日（水）深夜25:30～26:00&#13;&lt;br&gt;12月25日（木）深夜25:00～25:30&#13;&lt;br&gt;&#13;&lt;br&gt;▼配信スケジュール&#13;&lt;br&gt;#1,#2,#3：12/19（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;2025年7月28日放送&#13;&lt;br&gt;&#13;&lt;br&gt;協力：有限会社 希楽星　株式会社 ロケバスネット &#13;&lt;br&gt;撮影協力：新井聡　星野吉寿　根岸美枝 &#13;&lt;br&gt;ロケ協力：今泉明　株式会社 JOYPOP　株式会社 玄光社
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
-    <link href="https://tver.jp/episodes/ephmh6mztv"/>
   </entry>
 </feed>
