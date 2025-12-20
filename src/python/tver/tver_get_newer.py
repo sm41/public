@@ -114,7 +114,9 @@ def process_items(lilili:list):
       lb.lb_html(eee.data['description'])
       hhh = lb.lb_html_str
 
-      html = tver_tool.gen_html(episode_images, episode_title, hhh, start_at, end_at, broadcast_date, production_provider_name)
+      # html = tver_tool.gen_html(episode_images, episode_title, hhh, start_at, end_at, broadcast_date, production_provider_name)
+      html = tver_tool.gen_html(episode_images, hhh, start_at, end_at, broadcast_date, production_provider_name)
+
 
       fe = fg.add_entry()
       fe.id(f"https://tver.jp/episodes/{episode_id}")

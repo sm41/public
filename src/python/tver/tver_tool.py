@@ -83,11 +83,42 @@ class line_break:
 
 
 
-def gen_html(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, production_provider_name):
+# def gen_html(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, production_provider_name):
+
+#   html_template = f"""\
+#     <div>
+#       <img src="{img_url}" alt="[{img_alt}]">
+
+#       <dl>
+#         <dt>🕘 配信開始</dt>
+#         <dd>{start_at}</dd>
+
+#         <dt>🕓 配信終了</dt>
+#         <dd>{end_at}</dd>
+
+#         <dt>🗓️ 放送</dt>
+#         <dd>{broadcastDateLabel}</dd>
+
+#         <dt>📡 放送局</dt>
+#         <dd>{production_provider_name}</dd>
+#       </dl>
+
+#       <hr style="border:0; border-top:1px solid yellow">
+
+#       <p>
+#         {content}
+#       </p>
+#     </div>\
+#   """
+
+#   return html_template
+
+
+def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_provider_name):
 
   html_template = f"""\
     <div>
-      <img src="{img_url}" alt="[{img_alt}]">
+      <img src="{img_url}">
 
       <dl>
         <dt>🕘 配信開始</dt>
@@ -112,6 +143,25 @@ def gen_html(img_url, img_alt, content, start_at, end_at, broadcastDateLabel, pr
   """
 
   return html_template
+
+
+
+def get_sp_main_html(img_url, content):
+
+    sp_main_html_template = f"""\
+      <div>
+        <img src="{img_url}">
+
+        <hr style="border:0; border-top:1px solid yellow">
+
+        <p>
+          {content}
+        </p>
+      </div>\
+    """
+
+    return sp_main_html_template
+
 
 
 def time_iso():

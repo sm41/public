@@ -47,20 +47,25 @@ def generating_feed():
     special_main_id    = item['content']['id']
     special_main_title = item['content']['title']
     special_sub_id     = get_sp_sub_id(special_main_id)
-    # special_images     = f"https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/{special_main_id}"
+    special_images     = f"https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/{special_main_id}"
     link               = f"https://tver.jp/specials/{special_main_id}/{special_sub_id}"
 
     sss = tver_tool.get_description(special_sub_id)
     sss.request_get()
 
     lb = tver_tool.line_break()
-    lb.disable_line_break(sss.data['description'])
+    # lb.disable_line_break(sss.data['description'])
+    hhh = lb.lb_html(sss.data['description'])
+
+
+    html = tver_tool.get_sp_main_html(special_images, hhh)
+
 
     fe = fg.add_entry()
     fe.id(link)
     fe.title(special_main_title)
     fe.updated(iso_time_now)
-    fe.content(lb.dis_lb_str)
+    fe.content(html)
     fe.link(href=link)
 
   atom_xml = fg.atom_str(pretty=True)
