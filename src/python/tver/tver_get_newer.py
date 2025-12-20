@@ -98,7 +98,7 @@ def process_items(lilili:list):
       episode_id               = item['item']['content']['id']
       broadcast_date           = item['item']['content']['broadcastDateLabel']
       production_provider_name = item['item']['content']['productionProviderName']
-      # ribbon_id                = item['item']['content']['ribbonID']
+
       start_jst                = datetime.fromtimestamp(item['item']['startAt'], ZoneInfo("Asia/Tokyo"))
       start_iso                = start_jst.isoformat()
       start_date               = start_jst.strftime("%Y年%m月%d日")
@@ -106,8 +106,8 @@ def process_items(lilili:list):
       end_jst                  = datetime.fromtimestamp(item['item']['endAt'], ZoneInfo("Asia/Tokyo"))
       # end_iso                  = end_jst.isoformat()
       end_date                 = end_jst.strftime("%Y年%m月%d日")
-      # series_images            = f"https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg"
 
+      # series_images            = f"https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg"
       episode_images           = f"https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg"
 
       # sss = tver_tool.get_description(series_id)
