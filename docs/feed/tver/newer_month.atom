@@ -2,13 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-20T16:17:17+09:00</updated>
+  <updated>2025-12-20T18:19:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epj2les319</id>
+    <title>DQNの星に嫁ぎました_[【スマホ用】#12]</title>
+    <updated>2025-12-20T18:00:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj2les319.jpg"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025-12-20T18:00:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2026-01-03T17:59:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;7月27日(日)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;読売テレビ&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        東京から夫の地元に引っ越しすることになった主婦の小野あずさ（高橋春織）。ところが地元に帰ると真面目で優しい夫・勇輝（神田穣）とその仲間達はいわゆる「DQN」だった！！あずさが子どもと帰宅するとそこには家で勝手に食事をしている勇輝とＤＱＮ達が！激昂するあずさに勇輝は「ここはみんなで仲良く愛し合える世界」と狂った思考を伝える。そしてあずさは携帯を奪われ拘束されてしまい…&lt;br&gt;&lt;br&gt;【DQNの星に嫁ぎました 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月2日(火)18:00　～　12月16日(火)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:59&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#14　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#15　12月26日(金)18:00　～　2026年1月9日(金)17:59
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/epj2les319"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0h07sj75</id>
+    <title>DQNの星に嫁ぎました_[#12]</title>
+    <updated>2025-12-20T18:00:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0h07sj75.jpg"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025-12-20T18:00:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2026-01-03T17:59:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;7月27日(日)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;読売テレビ&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        東京から夫の地元に引っ越しすることになった主婦の小野あずさ（高橋春織）。ところが地元に帰ると真面目で優しい夫・勇輝（神田穣）とその仲間達はいわゆる「DQN」だった！！あずさが子どもと帰宅するとそこには家で勝手に食事をしている勇輝とＤＱＮ達が！激昂するあずさに勇輝は「ここはみんなで仲良く愛し合える世界」と狂った思考を伝える。そしてあずさは携帯を奪われ拘束されてしまい…&lt;br&gt;&lt;br&gt;【DQNの星に嫁ぎました 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月2日(火)18:00　～　12月16日(火)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:59&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#14　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#15　12月26日(金)18:00　～　2026年1月9日(金)17:59
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/ep0h07sj75"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epqcigwflq</id>
+    <title>四日市に行ったら人生が180度変わった件_[【後編】天国？地獄？四日市でイケメン4人に囲まれ…]</title>
+    <updated>2025-12-20T16:55:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqcigwflq.jpg"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025-12-20T16:55:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2026-01-20T16:55:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;中京テレビ&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        “妄想我慢…妄想我慢…”四日市の観光協会で「好きな人と歩きたい街よっかいち」というPR企画を託された三上則子（吉住）。職場のイケメン４人と企画のために四日市市内に取材に出かけるが、もはやデート状態に⁉イケメンとラブラブの妄想がついつい抑えきれずに発動してしまい甘い沼に落ちていく…。上手くＰＲ方法が見つからないまま、出張のタイムリミットが来てしまう。そんな中、イケメン達がとある方法を思いつき則子にサプライズを企てる！果たして則子の妄想は現実になるか？
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/epqcigwflq"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5ctk0pog</id>
     <title>『人質は脚本家』（第36回ヤングシナリオ大賞）_[やけくそ人生逆転コメディ立てこもり事件の行方]</title>
