@@ -99,9 +99,15 @@ def process_items(lilili:list):
       broadcast_date           = item['item']['content']['broadcastDateLabel']
       production_provider_name = item['item']['content']['productionProviderName']
       # ribbon_id                = item['item']['content']['ribbonID']
-      start_at                 = datetime.fromtimestamp(item['item']['startAt'], ZoneInfo("Asia/Tokyo")).isoformat()
-      end_at                   = datetime.fromtimestamp(item['item']['endAt'], ZoneInfo("Asia/Tokyo")).isoformat()
+      start_jst                = datetime.fromtimestamp(item['item']['startAt'], ZoneInfo("Asia/Tokyo"))
+      start_iso                = start_jst.isoformat()
+      start_date               = start_jst.strftime("%Y年%m月%d日")
+
+      end_jst                  = datetime.fromtimestamp(item['item']['endAt'], ZoneInfo("Asia/Tokyo"))
+      # end_iso                  = end_jst.isoformat()
+      end_date                 = end_jst.strftime("%Y年%m月%d日")
       # series_images            = f"https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg"
+
       episode_images           = f"https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg"
 
       # sss = tver_tool.get_description(series_id)
@@ -115,13 +121,13 @@ def process_items(lilili:list):
       hhh = lb.lb_html_str
 
       # html = tver_tool.gen_html(episode_images, episode_title, hhh, start_at, end_at, broadcast_date, production_provider_name)
-      html = tver_tool.gen_html(episode_images, hhh, start_at, end_at, broadcast_date, production_provider_name)
+      html = tver_tool.gen_html(episode_images, hhh, start_date, end_date, broadcast_date, production_provider_name)
 
 
       fe = fg.add_entry()
       fe.id(f"https://tver.jp/episodes/{episode_id}")
       fe.title(f"{series_title}_[{episode_title}]")
-      fe.updated(start_at)
+      fe.updated(start_iso)
       fe.content(html)
       fe.link(href=f"https://tver.jp/episodes/{episode_id}")
 
