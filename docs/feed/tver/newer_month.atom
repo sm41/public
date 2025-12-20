@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-20T14:15:26+09:00</updated>
+  <updated>2025-12-20T16:17:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,11 +10,40 @@
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://tver.jp/episodes/ep5ctk0pog</id>
+    <title>『人質は脚本家』（第36回ヤングシナリオ大賞）_[やけくそ人生逆転コメディ立てこもり事件の行方]</title>
+    <updated>2025-12-20T15:30:00+09:00</updated>
+    <content>    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ctk0pog.jpg"&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+        &lt;dd&gt;2025-12-20T15:30:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+        &lt;dd&gt;2026-01-14T23:59:00+09:00&lt;/dd&gt;
+
+        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+
+        &lt;dt&gt;📡 放送局&lt;/dt&gt;
+        &lt;dd&gt;フジテレビ&lt;/dd&gt;
+      &lt;/dl&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        中尾明慶・高橋克実・内田理央出演！やけくそで熱すぎる人生逆転コメディ！物語の主人公は、かつて連続ドラマ『ルーザー』の脚本を担当した元脚本家の小泉拓哉（こいずみ・たくや／中尾明慶）。視聴率不振で作品は“7話打ち切り”という結果に終わり、ネット上でも酷評を受けて業界から姿を消した。現在はコンビニでアルバイトをしながら、夢を諦めかけている。&lt;br&gt;そんな中、母親からの連絡を受け実家に帰省した拓哉は、立ち寄った地元の郵便局で突然“人質”となってしまう。犯人は「娘に会いたい」と訴える中年男性・三枝誠（さえぐさ・まこと／高橋克実）。会社の倒産、家族の離散を経て、唯一の願いである“娘との再会”を叶えたい一心で起こした、思いつきの立てこもり事件だった。&lt;br&gt;拓哉と話すうちに三枝は、勇気をもらったドラマ『ルーザー』の脚本家が、目の前の拓哉であることに気づく。「失敗しても、やり直せばいい」あのドラマに救われたと言う三枝。だが、その脚本を書いた拓哉自身は、まさに“ルーザー”として人生に行き詰まっていた。そんな緊迫した空気の中、三枝は拓哉に思いがけない言葉を放つ。「この事件の続き、脚本にしてください！」――。&lt;br&gt;銃を突きつけられながら、拓哉は事件の“脚本”を書き始める。そこから始まるのは、現実と物語が交差していく不思議な時間。閉ざされた空間の中でそれぞれの“やり直したい過去”と向き合いながら、少しずつ心を通わせていく。更に拓哉の元恋人で、現場である郵便局員の鮫島音（さめじま・おと／内田理央）も加わり、事態は思わぬ方向に！！
+      &lt;/p&gt;
+    &lt;/div&gt;  </content>
+    <link href="https://tver.jp/episodes/ep5ctk0pog"/>
+  </entry>
+  <entry>
     <id>https://tver.jp/episodes/eprjcavv76</id>
     <title>御上先生_[Episode 2 -awareness-]</title>
     <updated>2025-12-20T12:00:00+09:00</updated>
     <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprjcavv76.jpg" alt="[Episode 2 -awareness-]"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprjcavv76.jpg"&gt;
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
@@ -43,7 +72,7 @@
     <title>御上先生_[Episode 3 -beginning-]</title>
     <updated>2025-12-20T12:00:00+09:00</updated>
     <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epejc5bfuh.jpg" alt="[Episode 3 -beginning-]"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epejc5bfuh.jpg"&gt;
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
@@ -72,7 +101,7 @@
     <title>変態植物倶楽部_[第3話「がばい！宝探し！多肉とサボテンの聖地」]</title>
     <updated>2025-12-20T01:45:00+09:00</updated>
     <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epip7tdinf.jpg" alt="[第3話「がばい！宝探し！多肉とサボテンの聖地」]"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epip7tdinf.jpg"&gt;
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
@@ -101,7 +130,7 @@
     <title>湯村天使の吐息【主演：綾小路 翔】_[第12話　ダンシング萌えるナイト（ゲスト：seico）]</title>
     <updated>2025-12-20T01:14:00+09:00</updated>
     <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept1yh2zo1.jpg" alt="[第12話　ダンシング萌えるナイト（ゲスト：seico）]"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept1yh2zo1.jpg"&gt;
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
@@ -130,7 +159,7 @@
     <title>シナントロープ_[最終回直前！まだ間に合う！『シナントロープ』の謎を追え！徹底深掘りスペシャル]</title>
     <updated>2025-12-20T01:13:00+09:00</updated>
     <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiolsbtf1.jpg" alt="[最終回直前！まだ間に合う！『シナントロープ』の謎を追え！徹底深掘りスペシャル]"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiolsbtf1.jpg"&gt;
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
@@ -159,7 +188,7 @@
     <title>ひと夏の共犯者_[最終回 愛の逃避行、終幕]</title>
     <updated>2025-12-20T00:42:00+09:00</updated>
     <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2urwx8ic.jpg" alt="[最終回 愛の逃避行、終幕]"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2urwx8ic.jpg"&gt;
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
@@ -188,7 +217,7 @@
     <title>恋する警護24時 season2_[第4話 愛しい朝！内通者の影]</title>
     <updated>2025-12-20T00:00:00+09:00</updated>
     <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqlxpxwfn.jpg" alt="[第4話 愛しい朝！内通者の影]"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqlxpxwfn.jpg"&gt;
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
@@ -217,7 +246,7 @@
     <title>アイシー～瞬間記憶捜査・柊班～_[第10話 「記憶」最終回・・・忘れたくない記憶]</title>
     <updated>2025-12-20T00:00:00+09:00</updated>
     <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgik0pns2.jpg" alt="[第10話 「記憶」最終回・・・忘れたくない記憶]"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgik0pns2.jpg"&gt;
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
@@ -246,7 +275,7 @@
     <title>恋する警護24時 season2_[第5話 波乱の一夜、募る恋心]</title>
     <updated>2025-12-20T00:00:00+09:00</updated>
     <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3dsso8kl.jpg" alt="[第5話 波乱の一夜、募る恋心]"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3dsso8kl.jpg"&gt;
 
       &lt;dl&gt;
         &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
