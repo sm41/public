@@ -36,7 +36,7 @@ def generating_feed():
   fg.title("特集")
   fg.icon("https://tver.jp/favicon.ico")
   fg.updated(iso_time_now)
-  # fg.link("https://tver.jp/")
+  fg.link(href="https://sm41.github.io/public/")
   fg.author({
       "name": "John Doe",
       "email": "john@example.com"
