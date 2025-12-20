@@ -111,9 +111,6 @@ def process_items(lilili:list):
       eee.request_get()
 
       lb = tver_tool.line_break()
-      # lb.disable_line_break(eee.data['description'])
-      # ert = lb.dis_lb_str
-
       lb.lb_html(eee.data['description'])
       hhh = lb.lb_html_str
 
