@@ -9,6 +9,11 @@ from zoneinfo import ZoneInfo
 # https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg
 # https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg
 
+
+headers = {
+  "x-tver-platform-type": "web"
+}
+
 class get_uid_and_token:
 
   url = "https://platform-api.tver.jp/v2/api/platform_users/browser/create"
@@ -36,7 +41,7 @@ class get_uid_and_token:
     self.platform_token = json_data['result']['platform_token']
 
 
-def request_get(url, headers):
+def request_get(url):
   response = requests.get(url, headers=headers)
   response.raise_for_status()  # エラー時に例外
   json_data = response.json()
@@ -52,14 +57,9 @@ class get_description:
     else:
       self.url = f"https://statics.tver.jp/content/special/{id}.json"
 
-    self.headers = {
-      "x-tver-platform-type": "web"
-    }
 
   def request_get(self):
-    response = requests.get(self.url, headers=self.headers)
-    response.raise_for_status()
-    self.data = response.json()
+    self.data = request_get(self.url)
 
 
 
@@ -81,50 +81,35 @@ def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_
 
   html_template = f"""\
 
-    <head>
-      <style>
-        .dl-wrap {{
-          display: flex;
-          justify-content: space-between;
-        }}
+  <body>
+    <div>
+      <img src="{img_url}">
 
-        .item {{
-          width: 48%;
-          border: 1px solid #ccc;
-          padding: 10px;
-        }}
-      </style>
-    </head>
+      <div class="dl-wrap">
+        <dl class="item">
+          <dt>🕘 配信開始</dt>
+          <dd>{start_at}</dd>
 
-    <body>
-      <div>
-        <img src="{img_url}">
+          <dt>🕓 配信終了</dt>
+          <dd>{end_at}</dd>
+        </dl>
 
-        <div class="dl-wrap">
-          <dl class="item">
-            <dt>🕘 配信開始</dt>
-            <dd>{start_at}</dd>
+        <dl class="item">
+          <dt>🗓️ 放送</dt>
+          <dd>{broadcastDateLabel}</dd>
 
-            <dt>🕓 配信終了</dt>
-            <dd>{end_at}</dd>
-          </dl>
-
-          <dl class="item">
-            <dt>🗓️ 放送</dt>
-            <dd>{broadcastDateLabel}</dd>
-
-            <dt>📡 放送局</dt>
-            <dd>{production_provider_name}</dd>
-          </dl>
-        </div>
-
-        <hr style="border:0; border-top:1px solid yellow">
-
-        <p>
-          {content}
-        </p>
+          <dt>📡 放送局</dt>
+          <dd>{production_provider_name}</dd>
+        </dl>
       </div>
-    </body>\
+
+      <hr style="border:0; border-top:1px solid yellow">
+
+      <p>
+        {content}
+      </p>
+    </div>
+  </body>\
   """
 
   return html_template

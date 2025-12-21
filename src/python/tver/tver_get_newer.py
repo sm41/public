@@ -6,24 +6,18 @@ from os      import getenv, environ, path, makedirs
 import re
 import tver_tool
 from feedgen.feed import FeedGenerator
-# import urllib.parse
 
-url = "https://service-api.tver.jp/api/v1/callNewerDetail/drama"
-
-headers = {
-  "x-tver-platform-type": "web"
-}
 
 origin_url = "https://tver.jp/"
-ext = tldextract.extract(origin_url)
+url        = "https://service-api.tver.jp/api/v1/callNewerDetail/drama"
 
-# rrr = urllib.parse.urlparse("https://tver.jp/")
-
-locale.setlocale(locale.LC_TIME, "ja_JP.UTF-8")
-data = tver_tool.request_get(url, headers)
+ext          = tldextract.extract(origin_url)
 iso_time_now = tver_tool.time_iso()
 
+data     = tver_tool.request_get(url)
 contents = data['result']['contents']['contents']
+
+locale.setlocale(locale.LC_TIME, "ja_JP.UTF-8")
 
 def check_conditions(item):
   c = item['content']
