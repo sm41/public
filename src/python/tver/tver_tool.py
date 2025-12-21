@@ -96,7 +96,7 @@ def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_
         </tr>
       </table>
 
-      <hr style="border:0; border-top:1px solid yellow">
+      <hr>
 
       <p>
         {content}
