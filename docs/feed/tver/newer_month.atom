@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-21T11:57:39+09:00</updated>
+  <updated>2025-12-21T14:22:44+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,10 +10,61 @@
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://tver.jp/episodes/eppiv0pn8v</id>
+    <title>御上先生_[Episode 4 -fate-]</title>
+    <updated>2025-12-21T12:00:00+09:00</updated>
+    <content type="html">
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppiv0pn8v.jpg"&gt;
+
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月21日(日)_12時00分&lt;/dd&gt;
+
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月28日(日)_11時59分&lt;/dd&gt;
+          &lt;/dl&gt;
+
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2月9日(日)放送分&lt;/dd&gt;
+
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
+
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+        &lt;p&gt;
+          【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;冴島（常盤貴子）と国家公務員採用総合職試験会場で起こった殺人事件の関係が公になり、神崎（奥平大兼）は責任を感じて冴島のパート先を訪れるが、すでに辞めた後だった。&lt;br&gt;そんな中、教室では御上（松坂桃李）の提案で、生徒たちがある事柄に関して議論を始める。&lt;br&gt;また、隣徳学院に届いたヤマトタケルを名乗る人物からの１枚のFAXについて、是枝文香（吉岡里帆）は自分なりの答えに辿り着き――。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eppiv0pn8v"/>
+  </entry>
+  <entry>
     <id>https://tver.jp/episodes/epotfs5aa8</id>
     <title>＆Hulu_[Huluで配信された作品の中から2025年によく観られた作品は？海外ドラマ、韓国・アジア作品、Huluオリジナルなど様々なジャンルをランキング形式でご紹介！]</title>
     <updated>2025-12-21T02:35:00+09:00</updated>
-    <content>
+    <content type="html">
     &lt;head&gt;
       &lt;style&gt;
         .dl-wrap {
@@ -36,7 +87,7 @@
         &lt;div class="dl-wrap"&gt;
           &lt;dl class="item"&gt;
             &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-            &lt;dd&gt;2025年12月21日(日)-02時35分&lt;/dd&gt;
+            &lt;dd&gt;2025年_12月21日(日)_02時35分&lt;/dd&gt;
 
             &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
             &lt;dd&gt;2026年_01月03日(土)_23時59分&lt;/dd&gt;
@@ -64,7 +115,7 @@
     <id>https://tver.jp/episodes/epgqkxoqeo</id>
     <title>修学旅行で仲良くないグループに入りました_[最終回 一生心に残り続けていく日々]</title>
     <updated>2025-12-21T01:30:00+09:00</updated>
-    <content>
+    <content type="html">
     &lt;head&gt;
       &lt;style&gt;
         .dl-wrap {
@@ -87,7 +138,7 @@
         &lt;div class="dl-wrap"&gt;
           &lt;dl class="item"&gt;
             &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-            &lt;dd&gt;2025年12月21日(日)-01時30分&lt;/dd&gt;
+            &lt;dd&gt;2025年_12月21日(日)_01時30分&lt;/dd&gt;
 
             &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
             &lt;dd&gt;2025年_12月28日(日)_23時59分&lt;/dd&gt;
@@ -115,7 +166,7 @@
     <id>https://tver.jp/episodes/ep44ge4m63</id>
     <title>離魂、トドケ_[超能力で夫の不倫を暴け！SF×不倫ドラマ]</title>
     <updated>2025-12-21T01:28:00+09:00</updated>
-    <content>
+    <content type="html">
     &lt;head&gt;
       &lt;style&gt;
         .dl-wrap {
@@ -138,7 +189,7 @@
         &lt;div class="dl-wrap"&gt;
           &lt;dl class="item"&gt;
             &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-            &lt;dd&gt;2025年12月21日(日)-01時28分&lt;/dd&gt;
+            &lt;dd&gt;2025年_12月21日(日)_01時28分&lt;/dd&gt;
 
             &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
             &lt;dd&gt;2026年_02月01日(日)_23時59分&lt;/dd&gt;
@@ -166,7 +217,7 @@
     <id>https://tver.jp/episodes/ephxhqivry</id>
     <title>介護スナック ベルサイユ_[第11話 逃げる女／迷える子羊]</title>
     <updated>2025-12-21T00:35:00+09:00</updated>
-    <content>
+    <content type="html">
     &lt;head&gt;
       &lt;style&gt;
         .dl-wrap {
@@ -189,7 +240,7 @@
         &lt;div class="dl-wrap"&gt;
           &lt;dl class="item"&gt;
             &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-            &lt;dd&gt;2025年12月21日(日)-00時35分&lt;/dd&gt;
+            &lt;dd&gt;2025年_12月21日(日)_00時35分&lt;/dd&gt;
 
             &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
             &lt;dd&gt;2025年_12月28日(日)_00時10分&lt;/dd&gt;
@@ -217,7 +268,7 @@
     <id>https://tver.jp/episodes/ep539nqxs3</id>
     <title>良いこと悪いこと_[最終話 真犯人、だーれだ?]</title>
     <updated>2025-12-20T21:54:00+09:00</updated>
-    <content>
+    <content type="html">
     &lt;head&gt;
       &lt;style&gt;
         .dl-wrap {
@@ -240,7 +291,7 @@
         &lt;div class="dl-wrap"&gt;
           &lt;dl class="item"&gt;
             &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-            &lt;dd&gt;2025年12月20日(土)-21時54分&lt;/dd&gt;
+            &lt;dd&gt;2025年_12月20日(土)_21時54分&lt;/dd&gt;
 
             &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
             &lt;dd&gt;2025年_12月27日(土)_20時59分&lt;/dd&gt;
@@ -268,7 +319,7 @@
     <id>https://tver.jp/episodes/epj2les319</id>
     <title>DQNの星に嫁ぎました_[【スマホ用】#12]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>
+    <content type="html">
     &lt;head&gt;
       &lt;style&gt;
         .dl-wrap {
@@ -291,7 +342,7 @@
         &lt;div class="dl-wrap"&gt;
           &lt;dl class="item"&gt;
             &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+            &lt;dd&gt;2025年_12月20日(土)_18時00分&lt;/dd&gt;
 
             &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
             &lt;dd&gt;2026年_01月03日(土)_17時59分&lt;/dd&gt;
@@ -319,7 +370,7 @@
     <id>https://tver.jp/episodes/ep0h07sj75</id>
     <title>DQNの星に嫁ぎました_[#12]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>
+    <content type="html">
     &lt;head&gt;
       &lt;style&gt;
         .dl-wrap {
@@ -342,7 +393,7 @@
         &lt;div class="dl-wrap"&gt;
           &lt;dl class="item"&gt;
             &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+            &lt;dd&gt;2025年_12月20日(土)_18時00分&lt;/dd&gt;
 
             &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
             &lt;dd&gt;2026年_01月03日(土)_17時59分&lt;/dd&gt;
@@ -365,107 +416,5 @@
       &lt;/div&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep0h07sj75"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqcigwflq</id>
-    <title>四日市に行ったら人生が180度変わった件_[【後編】天国？地獄？四日市でイケメン4人に囲まれ…]</title>
-    <updated>2025-12-20T16:55:00+09:00</updated>
-    <content>
-    &lt;head&gt;
-      &lt;style&gt;
-        .dl-wrap {
-          display: flex;
-          justify-content: space-between;
-        }
-
-        .item {
-          width: 48%;
-          border: 1px solid #ccc;
-          padding: 10px;
-        }
-      &lt;/style&gt;
-    &lt;/head&gt;
-
-    &lt;body&gt;
-      &lt;div&gt;
-        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqcigwflq.jpg"&gt;
-
-        &lt;div class="dl-wrap"&gt;
-          &lt;dl class="item"&gt;
-            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-            &lt;dd&gt;2025年12月20日(土)-16時55分&lt;/dd&gt;
-
-            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-            &lt;dd&gt;2026年_01月20日(火)_16時55分&lt;/dd&gt;
-          &lt;/dl&gt;
-
-          &lt;dl class="item"&gt;
-            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-            &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
-
-            &lt;dt&gt;📡 放送局&lt;/dt&gt;
-            &lt;dd&gt;中京テレビ&lt;/dd&gt;
-          &lt;/dl&gt;
-        &lt;/div&gt;
-
-        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-        &lt;p&gt;
-          “妄想我慢…妄想我慢…”四日市の観光協会で「好きな人と歩きたい街よっかいち」というPR企画を託された三上則子（吉住）。職場のイケメン４人と企画のために四日市市内に取材に出かけるが、もはやデート状態に⁉イケメンとラブラブの妄想がついつい抑えきれずに発動してしまい甘い沼に落ちていく…。上手くＰＲ方法が見つからないまま、出張のタイムリミットが来てしまう。そんな中、イケメン達がとある方法を思いつき則子にサプライズを企てる！果たして則子の妄想は現実になるか？
-        &lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epqcigwflq"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5ctk0pog</id>
-    <title>『人質は脚本家』（第36回ヤングシナリオ大賞）_[やけくそ人生逆転コメディ立てこもり事件の行方]</title>
-    <updated>2025-12-20T15:30:00+09:00</updated>
-    <content>
-    &lt;head&gt;
-      &lt;style&gt;
-        .dl-wrap {
-          display: flex;
-          justify-content: space-between;
-        }
-
-        .item {
-          width: 48%;
-          border: 1px solid #ccc;
-          padding: 10px;
-        }
-      &lt;/style&gt;
-    &lt;/head&gt;
-
-    &lt;body&gt;
-      &lt;div&gt;
-        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ctk0pog.jpg"&gt;
-
-        &lt;div class="dl-wrap"&gt;
-          &lt;dl class="item"&gt;
-            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-            &lt;dd&gt;2025年12月20日(土)-15時30分&lt;/dd&gt;
-
-            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-            &lt;dd&gt;2026年_01月14日(水)_23時59分&lt;/dd&gt;
-          &lt;/dl&gt;
-
-          &lt;dl class="item"&gt;
-            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-            &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
-
-            &lt;dt&gt;📡 放送局&lt;/dt&gt;
-            &lt;dd&gt;フジテレビ&lt;/dd&gt;
-          &lt;/dl&gt;
-        &lt;/div&gt;
-
-        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-        &lt;p&gt;
-          中尾明慶・高橋克実・内田理央出演！やけくそで熱すぎる人生逆転コメディ！物語の主人公は、かつて連続ドラマ『ルーザー』の脚本を担当した元脚本家の小泉拓哉（こいずみ・たくや／中尾明慶）。視聴率不振で作品は“7話打ち切り”という結果に終わり、ネット上でも酷評を受けて業界から姿を消した。現在はコンビニでアルバイトをしながら、夢を諦めかけている。&lt;br&gt;そんな中、母親からの連絡を受け実家に帰省した拓哉は、立ち寄った地元の郵便局で突然“人質”となってしまう。犯人は「娘に会いたい」と訴える中年男性・三枝誠（さえぐさ・まこと／高橋克実）。会社の倒産、家族の離散を経て、唯一の願いである“娘との再会”を叶えたい一心で起こした、思いつきの立てこもり事件だった。&lt;br&gt;拓哉と話すうちに三枝は、勇気をもらったドラマ『ルーザー』の脚本家が、目の前の拓哉であることに気づく。「失敗しても、やり直せばいい」あのドラマに救われたと言う三枝。だが、その脚本を書いた拓哉自身は、まさに“ルーザー”として人生に行き詰まっていた。そんな緊迫した空気の中、三枝は拓哉に思いがけない言葉を放つ。「この事件の続き、脚本にしてください！」――。&lt;br&gt;銃を突きつけられながら、拓哉は事件の“脚本”を書き始める。そこから始まるのは、現実と物語が交差していく不思議な時間。閉ざされた空間の中でそれぞれの“やり直したい過去”と向き合いながら、少しずつ心を通わせていく。更に拓哉の元恋人で、現場である郵便局員の鮫島音（さめじま・おと／内田理央）も加わり、事態は思わぬ方向に！！
-        &lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep5ctk0pog"/>
   </entry>
 </feed>
