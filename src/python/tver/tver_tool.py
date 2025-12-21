@@ -80,23 +80,43 @@ class line_break:
 def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_provider_name):
 
   html_template = f"""\
+
+    <head>
+      <style>
+        .dl-wrap {{
+          display: flex;
+          justify-content: space-between;
+        }}
+
+        .item {{
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }}
+      </style>
+    </head>
+
     <body>
       <div>
         <img src="{img_url}">
 
-        <dl>
-          <dt>🕘 配信開始</dt>
-          <dd>{start_at}</dd>
+        <div class="dl-wrap">
+          <dl class="item">
+            <dt>🕘 配信開始</dt>
+            <dd>{start_at}</dd>
 
-          <dt>🕓 配信終了</dt>
-          <dd>{end_at}</dd>
+            <dt>🕓 配信終了</dt>
+            <dd>{end_at}</dd>
+          </dl>
 
-          <dt>🗓️ 放送</dt>
-          <dd>{broadcastDateLabel}</dd>
+          <dl class="item">
+            <dt>🗓️ 放送</dt>
+            <dd>{broadcastDateLabel}</dd>
 
-          <dt>📡 放送局</dt>
-          <dd>{production_provider_name}</dd>
-        </dl>
+            <dt>📡 放送局</dt>
+            <dd>{production_provider_name}</dd>
+          </dl>
+        </div>
 
         <hr style="border:0; border-top:1px solid yellow">
 
