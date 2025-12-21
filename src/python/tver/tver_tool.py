@@ -77,13 +77,9 @@ class line_break:
 def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_provider_name):
 
   html_template = f"""\
-
-  <body>
-    <div>
+    <body>
       <img src="{img_url}">
-    </div>
 
-    <div>
       <table>
         <tr>
           <th>🕘 配信開始</th>
@@ -99,16 +95,13 @@ def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_
           <td>{production_provider_name}</td>
         </tr>
       </table>
-    </div>
 
       <hr style="border:0; border-top:1px solid yellow">
 
-    <div>
       <p>
         {content}
       </p>
-    </div>
-  </body>\
+    </body>\
   """
 
   return html_template
