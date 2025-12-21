@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-21T20:31:32+09:00</updated>
+  <updated>2025-12-21T22:25:37+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -16,23 +16,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj9dfwkpg.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_16時30分&lt;/td&gt;
           &lt;td&gt;12月21日(日)放送分&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_16時00分&lt;/td&gt;
           &lt;td&gt;TOKYO MX&lt;/td&gt;
         &lt;/tr&gt;
@@ -53,23 +53,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppiv0pn8v.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2月9日(日)放送分&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -90,23 +90,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epotfs5aa8.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_02時35分&lt;/td&gt;
           &lt;td&gt;12月20日(土)放送分&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月03日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;日テレ&lt;/td&gt;
         &lt;/tr&gt;
@@ -127,23 +127,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgqkxoqeo.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_01時30分&lt;/td&gt;
           &lt;td&gt;12月20日(土)放送分&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;ABCテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -164,23 +164,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep44ge4m63.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_01時28分&lt;/td&gt;
           &lt;td&gt;12月20日(土)放送分&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_02月01日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;CBCテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -201,23 +201,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephxhqivry.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時35分&lt;/td&gt;
           &lt;td&gt;12月20日(土)放送分&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_00時10分&lt;/td&gt;
           &lt;td&gt;東海テレビ&lt;/td&gt;
         &lt;/tr&gt;

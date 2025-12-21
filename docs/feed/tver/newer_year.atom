@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-21T20:31:32+09:00</updated>
+  <updated>2025-12-21T22:25:37+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,29 +10,66 @@
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://tver.jp/episodes/epiqwijbi9</id>
+    <title>今夜、わたしはカラダで恋をする。Season1_[Ep3 エッチなことしたいって言ったら、嫌いになりますか？]</title>
+    <updated>2025-12-21T20:45:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiqwijbi9.jpg"&gt;
+
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕘 配信開始&lt;/th&gt;
+          &lt;th&gt;🗓️ 放送&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月21日(日)_20時45分&lt;/td&gt;
+          &lt;td&gt;2022年放送&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕓 配信終了&lt;/th&gt;
+          &lt;th&gt;📡 放送局&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2026年_01月21日(水)_23時59分&lt;/td&gt;
+          &lt;td&gt;ABCテレビ&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        吉祥寺の古着屋で働くおしゃれに敏感な莉子（美山加恋）には、長く付き合っている彼氏・森山悠貴（水野勝）がいる。優しくて格好いい自慢の彼だが、セックスには不満を感じていた。&lt;br&gt;ある日、友人たちと食事にでかけたバーで、偶然に居合わせた大沼（猪塚健太）と出会う。大沼が醸し出す大人の色気に魅せられた莉子は…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;【Season1】&lt;br&gt;12月19日(金) 夜8時45分～　#1&lt;br&gt;12月20日(土) 夜8時45分～　#2&lt;br&gt;12月21日(日) 夜8時45分～　#3（最終話）&lt;br&gt;【Season2】&lt;br&gt;12月22日(月) 夜8時45分～　#1&lt;br&gt;12月23日(火) 夜8時45分～　#2&lt;br&gt;12月24日(水) 夜8時45分～　#3&lt;br&gt;12月25日(木) 夜8時45分～　#4（最終話）
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epiqwijbi9"/>
+  </entry>
+  <entry>
     <id>https://tver.jp/episodes/ep3ospslfh</id>
     <title>日曜の夜ぐらいは…_[第3話 絶対に、絶対にみんなで幸せになろう…]</title>
     <updated>2025-12-21T20:30:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3ospslfh.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_20時30分&lt;/td&gt;
           &lt;td&gt;2023年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月21日(水)_23時59分&lt;/td&gt;
           &lt;td&gt;ABCテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -53,23 +90,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw6tebyel.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_20時15分&lt;/td&gt;
           &lt;td&gt;2023年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月21日(水)_23時59分&lt;/td&gt;
           &lt;td&gt;ABCテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -90,23 +127,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0omjaucb.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_20時15分&lt;/td&gt;
           &lt;td&gt;2023年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月21日(水)_23時59分&lt;/td&gt;
           &lt;td&gt;ABCテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -127,23 +164,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppgqf456s.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_20時00分&lt;/td&gt;
           &lt;td&gt;1999年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月04日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -164,23 +201,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnsx9apbe.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_20時00分&lt;/td&gt;
           &lt;td&gt;2024年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月04日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;ABCテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -201,23 +238,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk1b8mtci.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_20時00分&lt;/td&gt;
           &lt;td&gt;2011年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -238,23 +275,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp8clyeg8.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_19時45分&lt;/td&gt;
           &lt;td&gt;2023年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月21日(水)_23時59分&lt;/td&gt;
           &lt;td&gt;ABCテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -275,23 +312,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyppxhyxh.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_18時00分&lt;/td&gt;
           &lt;td&gt;2011年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月04日(日)_17時59分&lt;/td&gt;
           &lt;td&gt;読売テレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -312,23 +349,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprgfek0hw.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_18時00分&lt;/td&gt;
           &lt;td&gt;2022年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月04日(日)_17時59分&lt;/td&gt;
           &lt;td&gt;読売テレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -349,23 +386,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvvpn8p00.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2023年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -386,23 +423,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxyavqe6d.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2023年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -423,23 +460,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epadzxdnug.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2022年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -460,23 +497,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplsbw8e6l.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2022年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -497,23 +534,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epncnrvtu3.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2017年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -534,23 +571,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7q24o79s.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2017年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -571,23 +608,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epper1necd.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2019年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -608,23 +645,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epthebnxcf.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2019年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -645,23 +682,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr23j3qpq.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2022年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -682,23 +719,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmtk76vl5.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2022年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -719,23 +756,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfozg023h.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2020年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -756,23 +793,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epho2vscsi.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2020年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月26日(月)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -793,23 +830,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsykxromz.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2012年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -830,23 +867,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep83d1jb8i.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_17時00分&lt;/td&gt;
           &lt;td&gt;2012年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレ東&lt;/td&gt;
         &lt;/tr&gt;
@@ -867,23 +904,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epts316qmv.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_16時00分&lt;/td&gt;
           &lt;td&gt;2011年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月03日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -904,23 +941,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eply7du7n9.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_16時00分&lt;/td&gt;
           &lt;td&gt;2021年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月29日(月)_15時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -941,23 +978,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg2w52plu.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_16時00分&lt;/td&gt;
           &lt;td&gt;2011年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_20時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -978,23 +1015,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbr7y6l9c.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_14時00分&lt;/td&gt;
           &lt;td&gt;2017年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月29日(月)_13時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1015,23 +1052,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzfofnlu2.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2015年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1052,23 +1089,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzdfmv0ql.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2000年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月11日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;日テレ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1089,23 +1126,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprvvxrge9.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;1999年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月11日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;日テレ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1126,23 +1163,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprd82tkam.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2023年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月18日(日)_20時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1163,23 +1200,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epow1zhyblp.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
           &lt;td&gt;日テレ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1200,23 +1237,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnl6xpjfo.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;1999年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月11日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;日テレ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1237,23 +1274,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epld4l6qkb.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2015年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1274,23 +1311,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph8ajfbdv.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;1999年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月11日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;日テレ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1311,23 +1348,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcsa6odnj.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2024年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
           &lt;td&gt;日テレ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1348,23 +1385,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep88vlh2or.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2015年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1385,23 +1422,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6sp0hi1y.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2022年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月21日(水)_23時59分&lt;/td&gt;
           &lt;td&gt;ABCテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1422,23 +1459,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6et5hvqo.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2024年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
           &lt;td&gt;日テレ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1459,23 +1496,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4qnkn11he.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
           &lt;td&gt;日テレ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1496,23 +1533,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkjv66uc6.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_11時45分&lt;/td&gt;
           &lt;td&gt;2022年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月21日(水)_23時59分&lt;/td&gt;
           &lt;td&gt;ABCテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1533,23 +1570,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epph0gv60p.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_10時00分&lt;/td&gt;
           &lt;td&gt;2019年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月16日(金)_21時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1570,23 +1607,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi5yxuy8i.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_10時00分&lt;/td&gt;
           &lt;td&gt;2021年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_09時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1607,23 +1644,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep88xkb31q.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_10時00分&lt;/td&gt;
           &lt;td&gt;2021年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月28日(日)_09時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1644,23 +1681,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7ceahusw.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_10時00分&lt;/td&gt;
           &lt;td&gt;2019年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月16日(金)_21時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1681,23 +1718,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep77xgwsqf.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_10時00分&lt;/td&gt;
           &lt;td&gt;2019年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月16日(金)_21時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1718,23 +1755,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep39i96hyn.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_10時00分&lt;/td&gt;
           &lt;td&gt;1998年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月29日(月)_09時59分&lt;/td&gt;
           &lt;td&gt;TBS&lt;/td&gt;
         &lt;/tr&gt;
@@ -1755,23 +1792,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz6tihxcs.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月17日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -1792,23 +1829,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyyj3a6rd.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2022年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1829,23 +1866,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy30sb792.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2014年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月17日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -1866,23 +1903,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxy3eam7w.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月17日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -1903,23 +1940,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxlbraqbn.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月17日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -1940,23 +1977,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwp1n25z0.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2011年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -1977,23 +2014,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvszyrqf3.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2024年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_03月08日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2014,23 +2051,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptxo34ube.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2024年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_03月08日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2051,23 +2088,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epszxysay1.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月17日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2088,23 +2125,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprd46nf7p.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2021年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -2125,23 +2162,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppcnkmvqh.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -2162,23 +2199,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epntzbuaz6.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2015年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_03月08日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2199,23 +2236,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epme65obxa.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2005年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -2236,23 +2273,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epluey9psx.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2024年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -2273,23 +2310,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjlg63wd6.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2024年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_03月08日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2310,23 +2347,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epixt2zj64.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月17日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2347,23 +2384,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephx79rk1g.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2007年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -2384,23 +2421,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph4sqm3rl.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2018年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_03月08日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2421,23 +2458,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg62vir55.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月17日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2458,23 +2495,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg0fztgef.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;1998年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -2495,23 +2532,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfk9ueyfn.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2018年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_03月08日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2532,23 +2569,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epei3ssru5.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2015年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_03月08日(日)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2569,23 +2606,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdpx4ssy5.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2013年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2026年_01月17日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;テレビ朝日&lt;/td&gt;
         &lt;/tr&gt;
@@ -2606,23 +2643,23 @@
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdg7wv1ds.jpg"&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕘 配信開始&lt;/th&gt;
           &lt;th&gt;🗓️ 放送&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
           &lt;td&gt;2025年放送&lt;/td&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:left;&gt;
           &lt;th&gt;🕓 配信終了&lt;/th&gt;
           &lt;th&gt;📡 放送局&lt;/th&gt;
         &lt;/tr&gt;
 
-        &lt;tr&gt;
+        &lt;tr style=text-align:center;&gt;
           &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
           &lt;td&gt;フジテレビ&lt;/td&gt;
         &lt;/tr&gt;
@@ -2635,42 +2672,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epdg7wv1ds"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbwu1xged</id>
-    <title>ミス・パイロット_[第8話 パイロットの夢叶える者、絶たれた者・・・]</title>
-    <updated>2025-12-21T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbwu1xged.jpg"&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;2025年_12月21日(日)_00時00分&lt;/td&gt;
-          &lt;td&gt;2013年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr&gt;
-          &lt;td&gt;2025年_12月27日(土)_23時59分&lt;/td&gt;
-          &lt;td&gt;フジテレビ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：12/06(土)～01/05(月)&lt;br&gt;#4：12/09(火)～12/15(月)&lt;br&gt;#5：12/12(金)～12/18(木)&lt;br&gt;#6：12/15(月)～12/21(日)&lt;br&gt;#7：12/18(木)～12/24(水)&lt;br&gt;#8：12/21(日)～12/27(土)&lt;br&gt;#9：12/24(水)～12/30(火)&lt;br&gt;#10：12/27(土)～01/02(金)&lt;br&gt;#11：12/30(火)～01/05(月)&lt;br&gt;&lt;br&gt;手塚晴（堀北真希）、岸井泰治（間宮祥太朗）、小鳥翔（小柳友）、山田一男（藤井流星）、諸星麻也（庄野崎謙）らが、アメリカでの訓練を無事すべて終えて帰国した。久しぶりの日本に喜びながらも、行方がわからなくなった小田千里（相武紗季）を心配する5人。&lt;br&gt;晴は、同じく千里を心配して寮にやってきた国木田孝之助（斎藤工）に千里を探すと告げるが、休暇後に始まる訓練に備えてゆっくり休むように諭される。&lt;br&gt;そんな中、帰宅しようとしていた国木田の前に千里が現れるが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『ミス・パイロット』を全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epbwu1xged"/>
   </entry>
 </feed>
