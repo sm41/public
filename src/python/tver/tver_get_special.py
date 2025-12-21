@@ -18,9 +18,7 @@ def get_sp_sub_id(sp_main_id, platform_uid, platform_token):
 
 def generating_feed():
 
-  rrr = tver_tool.get_uid_and_token()
-  # platform_uid   = rrr.platform_uid
-  # platform_token = rrr.platform_token
+  rrr          = tver_tool.get_uid_and_token()
   iso_time_now = tver_tool.time_iso()
   json_data    = tver_tool.request_get(url_1)
   contents_1   = json_data['result']['contents']
@@ -43,12 +41,16 @@ def generating_feed():
     special_sub_id     = get_sp_sub_id(special_main_id, rrr.platform_uid, rrr.platform_token)
     special_images     = f"https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/{special_main_id}.jpg"
 
-    sss = tver_tool.get_description(special_sub_id)
-    sss.request_get()
+    # sss = tver_tool.get_description(special_sub_id)
+    # sss.request_get()
 
-    lb = tver_tool.line_break()
-    lb.lb_html(sss.data['description'])
-    hhh = lb.lb_html_str
+    ooo = tver_tool.get_description(special_sub_id)
+    hhh = tver_tool.line_break(ooo['description'])
+
+    # lb = tver_tool.line_break()
+    # lb.lb_html(sss.data['description'])
+    # lb.lb_html(ooo['description'])
+    # hhh = lb.lb_html_str
 
     html = tver_tool.get_sp_main_html(special_images, hhh)
 

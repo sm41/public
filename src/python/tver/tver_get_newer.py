@@ -111,12 +111,16 @@ def process_items(list_of_genre_dict:list):
       # sss = tver_tool.get_description(series_id)
       # sss.request_get()
 
-      eee = tver_tool.get_description(episode_id)
-      eee.request_get()
+      # eee = tver_tool.get_description(episode_id)
+      # eee.request_get()
 
-      lb = tver_tool.line_break()
-      lb.lb_html(eee.data['description'])
-      hhh = lb.lb_html_str
+      ooo = tver_tool.get_description(episode_id)
+      hhh = tver_tool.line_break(ooo['description'])
+
+      # lb = tver_tool.line_break()
+      # lb.lb_html(eee.data['description'])
+      # lb.lb_html(ooo['description'])
+      # hhh = lb.lb_html_str
 
       html = tver_tool.gen_html(episode_images, hhh, start_date, end_date, broadcast_date, production_provider_name)
 

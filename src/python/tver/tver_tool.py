@@ -10,10 +10,6 @@ from zoneinfo import ZoneInfo
 # https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg
 
 
-headers = {
-  "x-tver-platform-type": "web"
-}
-
 class get_uid_and_token:
 
   url = "https://platform-api.tver.jp/v2/api/platform_users/browser/create"
@@ -42,36 +38,58 @@ class get_uid_and_token:
 
 
 def request_get(url):
+
+  headers = {
+    "x-tver-platform-type": "web"
+  }
+
   response = requests.get(url, headers=headers)
   response.raise_for_status()  # エラー時に例外
   json_data = response.json()
   return json_data
 
 
-class get_description:
-  def __init__(self, id:str):
-    if id.startswith("sr"):
-      self.url = f"https://statics.tver.jp/content/series/{id}.json"
-    elif id.startswith("ep"):
-      self.url = f"https://statics.tver.jp/content/episode/{id}.json"
-    else:
-      self.url = f"https://statics.tver.jp/content/special/{id}.json"
+# class get_description:
+#   def __init__(self, id:str):
+#     if id.startswith("sr"):
+#       self.url = f"https://statics.tver.jp/content/series/{id}.json"
+#     elif id.startswith("ep"):
+#       self.url = f"https://statics.tver.jp/content/episode/{id}.json"
+#     else:
+#       self.url = f"https://statics.tver.jp/content/special/{id}.json"
 
 
-  def request_get(self):
-    self.data = request_get(self.url)
+#   def request_get(self):
+#     self.data = request_get(self.url)
+
+
+def get_description(id:str):
+
+  if id.startswith("sr"):
+    url = f"https://statics.tver.jp/content/series/{id}.json"
+  elif id.startswith("ep"):
+    url = f"https://statics.tver.jp/content/episode/{id}.json"
+  else:
+    url = f"https://statics.tver.jp/content/special/{id}.json"
+
+  data = request_get(url)
+  return data
 
 
 
 
-class line_break:
-  def __init__(self):
-    pass
+# class line_break:
+#   def __init__(self):
+#     pass
 
-  def lb_html(self, strings:str):
-    self.lb_html_str = strings.replace("\n", "<br>")
+#   def lb_html(self, strings:str):
+#     self.lb_html_str = strings.replace("\n", "<br>")
 
 
+
+def line_break(strings:str):
+  lb_html_str = strings.replace("\n", "<br>")
+  return lb_html_str
 
 
 def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_provider_name):
@@ -133,6 +151,6 @@ def get_sp_main_html(img_url, content):
 
 
 def time_iso():
-  tokyo_time = datetime.now(ZoneInfo("Asia/Tokyo")).replace(microsecond=0)
-  iso_time_now   = tokyo_time.isoformat()
+  tokyo_time   = datetime.now(ZoneInfo("Asia/Tokyo")).replace(microsecond=0)
+  iso_time_now =  tokyo_time.isoformat()
   return iso_time_now
