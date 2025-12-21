@@ -25,6 +25,12 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: ja_JP.UTF-8
+        run: |
+          sudo locale-gen ja_JP.UTF-8
+          sudo update-locale LANG=ja_JP.UTF-8
+
+
       - name: Install dependencies
         run: |
           pip install -r ./src/python/requirements.txt
