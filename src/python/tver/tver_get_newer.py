@@ -103,7 +103,7 @@ def process_items(lilili:list):
 
       start_jst                = datetime.fromtimestamp(item['item']['startAt'], ZoneInfo("Asia/Tokyo"))
       start_iso                = start_jst.isoformat()
-      start_date               = start_jst.strftime("%Y年%m月%d日(%a)-%H時%M分")
+      start_date               = start_jst.strftime("%Y年_%m月%d日(%a)_%H時%M分")
 
       end_jst                  = datetime.fromtimestamp(item['item']['endAt'], ZoneInfo("Asia/Tokyo"))
       # end_iso                  = end_jst.isoformat()
@@ -130,7 +130,7 @@ def process_items(lilili:list):
       fe.id(f"https://tver.jp/episodes/{episode_id}")
       fe.title(f"{series_title}_[{episode_title}]")
       fe.updated(start_iso)
-      fe.content(html)
+      fe.content(html, type=html)
       fe.link(href=f"https://tver.jp/episodes/{episode_id}")
 
     atom_file = f"newer_{filename_id}.atom"
