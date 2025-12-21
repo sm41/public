@@ -2,13 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-21T22:27:04+09:00</updated>
+  <updated>2025-12-22T00:18:31+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epcui71b3z</id>
+    <title>ノンレムの窓_[バカリズム脚本「ノンレムの窓」立てこもり事件からの脱出作戦!?]</title>
+    <updated>2025-12-21T23:25:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcui71b3z.jpg"&gt;
+
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕘 配信開始&lt;/th&gt;
+          &lt;th&gt;🗓️ 放送&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月21日(日)_23時25分&lt;/td&gt;
+          &lt;td&gt;12月21日(日)放送分&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕓 配信終了&lt;/th&gt;
+          &lt;th&gt;📡 放送局&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月28日(日)_22時29分&lt;/td&gt;
+          &lt;td&gt;日テレ&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ▼脚本 バカリズム「グラデーション」&lt;br&gt;銃持つ男(河内大和)が立てこもり警察と膠着状態に…解決の糸口が見えない中、人質の女性社員(吉住)が“グラデーション”なる脱出策を提案する。上司(山本耕史)と先輩社員(前原滉)は無謀だと止めるが…&lt;br&gt;▼脚本 畑雅文「トイレットペーパーレース」&lt;br&gt;なぜかいつもトイレ紙を交換する番が自分に回ってくるのに気づいた夫(浅利陽介)はなんとか妻(西野七瀬)にさせようとするが…
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epcui71b3z"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epj9dfwkpg</id>
     <title>スケバン刑事_[第12話「サキ！おまえはもう死んでいる！」]</title>
@@ -82,153 +119,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/eppiv0pn8v"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epotfs5aa8</id>
-    <title>＆Hulu_[Huluで配信された作品の中から2025年によく観られた作品は？海外ドラマ、韓国・アジア作品、Huluオリジナルなど様々なジャンルをランキング形式でご紹介！]</title>
-    <updated>2025-12-21T02:35:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epotfs5aa8.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_02時35分&lt;/td&gt;
-          &lt;td&gt;12月20日(土)放送分&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2026年_01月03日(土)_23時59分&lt;/td&gt;
-          &lt;td&gt;日テレ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        2025年総まとめ！「Hulu年間ランキング特集」&lt;br&gt;2025年にHuluで配信された作品の中で、どれがよく観られたのか？ランキング形式でご紹介します！&lt;br&gt;海外ドラマ、韓国・アジア作品、Huluオリジナル作品、そして2025年総合ランキング、あまたある配信作品の中から最も観られた作品はいったいどれなのか？みなさんのお気に入りの作品はランキングに入っているんでしょうか？&lt;br&gt;(C) HJホールディングス
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epotfs5aa8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgqkxoqeo</id>
-    <title>修学旅行で仲良くないグループに入りました_[最終回 一生心に残り続けていく日々]</title>
-    <updated>2025-12-21T01:30:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgqkxoqeo.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_01時30分&lt;/td&gt;
-          &lt;td&gt;12月20日(土)放送分&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月28日(日)_23時59分&lt;/td&gt;
-          &lt;td&gt;ABCテレビ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        修学旅行から始まる学園格差ラブストーリー、ついに最終回！&lt;br&gt;&lt;br&gt;クリスマスイブに、日置（藤本洸大）は渡会（簡秀吉）たちと教室でパーティーを楽しんでいた。そこで日置は衝撃の事実に気づく。お互いに「好き」と言い合ったが、「付き合う」ということに関しては一度も言及していなかったのだ。&lt;br&gt;修学旅行で同じ班になったことがきっかけで、初めて好きな人ができた日置。勇気を出して渡会にある言葉を告げる――
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epgqkxoqeo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep44ge4m63</id>
-    <title>離魂、トドケ_[超能力で夫の不倫を暴け！SF×不倫ドラマ]</title>
-    <updated>2025-12-21T01:28:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep44ge4m63.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_01時28分&lt;/td&gt;
-          &lt;td&gt;12月20日(土)放送分&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2026年_02月01日(日)_23時59分&lt;/td&gt;
-          &lt;td&gt;CBCテレビ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        主人公の榊原華 (加藤史帆)は、夫・翔 (瀬戸利樹)にあることを隠していた。それは超能力が使えること。目で見た対象物に魂を乗り移らせることができるのだ。その能力の名は「離魂(りこん)能力」。&lt;br&gt;ある日、華は翔の不倫に勘づき、能力を使って翔を追い詰めることを決意するが・・・&lt;br&gt;まだ誰も見たことがない新感覚の不倫ドラマが開幕！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep44ge4m63"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ephxhqivry</id>
-    <title>介護スナック ベルサイユ_[第11話 逃げる女／迷える子羊]</title>
-    <updated>2025-12-21T00:35:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephxhqivry.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_00時35分&lt;/td&gt;
-          &lt;td&gt;12月20日(土)放送分&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月28日(日)_00時10分&lt;/td&gt;
-          &lt;td&gt;東海テレビ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        クリスマスパーティーの日、客の1人が「自分は久留辺蘭子（高橋惠子）という指名手配犯」と口にする。35年間逃亡してきたが、最期の時が迫り、自首を考えているという。ママ（宮崎美子）に魔法のワインを勧められ、蘭子が会いたいと願ったのは刑事の岩上平造（大地康雄）だった。そして、店に身を寄せる大輝（杢代和人）も警察に追われていることを告白。新たな「魔法のロゼワイン」を飲んだ大輝が見たのは…。&lt;br&gt;「会いたい人は誰ですか？」最期の時を見つめ続けてきたベルサイユ、ついにラストオーダーへ！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ephxhqivry"/>
   </entry>
 </feed>
