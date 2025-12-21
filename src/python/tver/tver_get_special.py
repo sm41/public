@@ -7,11 +7,7 @@ origin_url = "https://tver.jp/"
 url_1      = "https://service-api.tver.jp/api/v1/callSpecial"
 
 
-def get_sp_sub_id(sp_main_id):
-
-  rrr = tver_tool.get_uid_and_token()
-  platform_uid   = rrr.platform_uid
-  platform_token = rrr.platform_token
+def get_sp_sub_id(sp_main_id, platform_uid, platform_token):
 
   url_2 = f"https://platform-api.tver.jp/service/api/v1/callSpecialContents/{sp_main_id}?platform_uid={platform_uid}&platform_token={platform_token}&require_data=later"
 
@@ -22,6 +18,9 @@ def get_sp_sub_id(sp_main_id):
 
 def generating_feed():
 
+  rrr = tver_tool.get_uid_and_token()
+  # platform_uid   = rrr.platform_uid
+  # platform_token = rrr.platform_token
   iso_time_now = tver_tool.time_iso()
   json_data    = tver_tool.request_get(url_1)
   contents_1   = json_data['result']['contents']
@@ -41,7 +40,7 @@ def generating_feed():
   for item in reversed(contents_1):
     special_main_id    = item['content']['id']
     special_main_title = item['content']['title']
-    special_sub_id     = get_sp_sub_id(special_main_id)
+    special_sub_id     = get_sp_sub_id(special_main_id, rrr.platform_uid, rrr.platform_token)
     special_images     = f"https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/{special_main_id}.jpg"
 
     sss = tver_tool.get_description(special_sub_id)

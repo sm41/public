@@ -80,7 +80,7 @@ def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_
     <body>
       <img src="{img_url}">
 
-      <table style=width:100%; >
+      <table style=width:100%;>
         <tr style=text-align:left;>
           <th>🕘 配信開始</th>
           <th>🗓️ 放送</th>

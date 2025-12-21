@@ -22,7 +22,7 @@ def check_conditions(item):
     "comment" : bool(re.search('解説放送', c['title'])),
   }
 
-def call_new():
+def filter_item():
   month_day_items = []
   blocked_items   = []
   year_items      = []
@@ -56,7 +56,7 @@ def call_new():
   return blocked_items, month_day_items, year_items
 
 
-def process_items(lilili:list):
+def process_items(list_of_genre_dict:list):
 
   iso_time_now = tver_tool.time_iso()
   ext          = tldextract.extract(origin_url)
@@ -72,10 +72,10 @@ def process_items(lilili:list):
 
   makedirs(atom_dir, exist_ok=True)
 
-  for ddd in lilili:
+  for dict_of_genre in list_of_genre_dict:
 
-    feed_title  = ddd['title']
-    filename_id = ddd['filename_id']
+    feed_title  = dict_of_genre['title']
+    filename_id = dict_of_genre['filename_id']
 
     fg = FeedGenerator()
     fg.id(origin_url)
@@ -89,7 +89,7 @@ def process_items(lilili:list):
       }
     )
 
-    for item in ddd['items']:
+    for item in dict_of_genre['items']:
       series_title             = item['item']['content']['seriesTitle']
       # series_id                = item['item']['content']['seriesID']
       episode_title            = item['item']['content']['title']
@@ -144,9 +144,9 @@ def process_items(lilili:list):
 def main():
   locale.setlocale(locale.LC_TIME, "ja_JP.UTF-8")
 
-  blocked_items, month_day_items, year_items = call_new()
+  blocked_items, month_day_items, year_items = filter_item()
 
-  ready = [
+  iii = [
     {
       "title"        : "新着/ドラマ/year",
       "filename_id"  : "year",
@@ -159,7 +159,7 @@ def main():
     }
   ]
 
-  process_items(ready)
+  process_items(iii)
 
 
 if __name__ == '__main__':
