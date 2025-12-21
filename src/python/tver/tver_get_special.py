@@ -1,7 +1,7 @@
 from os import getenv, environ, path, makedirs
+import tldextract
 import tver_tool
 from feedgen.feed import FeedGenerator
-# import urllib.parse
 
 rrr = tver_tool.get_uid_and_token()
 platform_uid   = rrr.platform_uid
@@ -11,7 +11,8 @@ post_header = {
   "x-tver-platform-type": "web"
 }
 
-# rrr = urllib.parse.urlparse("https://tver.jp/")
+origin_url = "https://tver.jp/"
+ext = tldextract.extract(origin_url)
 
 url_1 = "https://service-api.tver.jp/api/v1/callSpecial"
 
@@ -32,7 +33,7 @@ def get_sp_sub_id(sp_main_id):
 def generating_feed():
 
   fg = FeedGenerator()
-  fg.id("https://tver.jp/")
+  fg.id()
   fg.title("特集")
   # fg.icon("https://tver.jp/favicon.ico")
   fg.updated(iso_time_now)
@@ -83,8 +84,7 @@ publish_dir = "docs"
 middle_dir  = "feed"
 atom_file   = "special_main.atom"
 
-# atom_dir = path.join(path_to_use, middle_dir, f"[{rrr.netloc}]")
-atom_dir = path.join(path_to_use, publish_dir, middle_dir, "tver")
+atom_dir = path.join(path_to_use, publish_dir, middle_dir, ext.domain)
 
 makedirs(atom_dir, exist_ok=True)
 

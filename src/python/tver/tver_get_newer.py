@@ -1,11 +1,12 @@
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 import locale
+import tldextract
 from os      import getenv, environ, path, makedirs
 import re
 import tver_tool
 from feedgen.feed import FeedGenerator
-import urllib.parse
+# import urllib.parse
 
 url = "https://service-api.tver.jp/api/v1/callNewerDetail/drama"
 
@@ -13,7 +14,10 @@ headers = {
   "x-tver-platform-type": "web"
 }
 
-rrr = urllib.parse.urlparse("https://tver.jp/")
+origin_url = "https://tver.jp/"
+ext = tldextract.extract(origin_url)
+
+# rrr = urllib.parse.urlparse("https://tver.jp/")
 
 locale.setlocale(locale.LC_TIME, "ja_JP.UTF-8")
 data = tver_tool.request_get(url, headers)
@@ -72,7 +76,7 @@ def process_items(lilili:list):
   publish_dir = "docs"
   middle_dir  = "feed"
 
-  atom_dir = path.join(path_to_use, publish_dir, middle_dir, "tver")
+  atom_dir = path.join(path_to_use, publish_dir, middle_dir, ext.domain)
 
   makedirs(atom_dir, exist_ok=True)
 
@@ -82,7 +86,7 @@ def process_items(lilili:list):
     filename_id = ddd['filename_id']
 
     fg = FeedGenerator()
-    fg.id("https://tver.jp/")
+    fg.id(origin_url)
     fg.title(feed_title)
     # fg.icon("https://tver.jp/favicon.ico")
     fg.updated(iso_time_now)
@@ -122,15 +126,13 @@ def process_items(lilili:list):
       lb.lb_html(eee.data['description'])
       hhh = lb.lb_html_str
 
-      # html = tver_tool.gen_html(episode_images, episode_title, hhh, start_at, end_at, broadcast_date, production_provider_name)
       html = tver_tool.gen_html(episode_images, hhh, start_date, end_date, broadcast_date, production_provider_name)
-
 
       fe = fg.add_entry()
       fe.id(f"https://tver.jp/episodes/{episode_id}")
       fe.title(f"{series_title}_[{episode_title}]")
       fe.updated(start_iso)
-      fe.content(html, type=html)
+      fe.content(html, type='html')
       fe.link(href=f"https://tver.jp/episodes/{episode_id}")
 
     atom_file = f"newer_{filename_id}.atom"
