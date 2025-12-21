@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-21T10:48:30+09:00</updated>
+  <updated>2025-12-21T11:28:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -13,23 +13,43 @@
     <id>https://tver.jp/episodes/epph0gv60p</id>
     <title>初めて恋をした日に読む話_[第２話 しくじり先生の人生講義!!元ヤン同級生との運命の再会!!]</title>
     <updated>2025-12-21T10:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epph0gv60p.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月16日(金)-21時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月16日(金)_21時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2019年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2019年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -44,23 +64,43 @@
     <id>https://tver.jp/episodes/epi5yxuy8i</id>
     <title>俺の家の話_[第九話 ぜあっ！家族パワーで奇跡を呼ぶぜ!!]</title>
     <updated>2025-12-21T10:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi5yxuy8i.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-09時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_09時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2021年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2021年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -75,23 +115,43 @@
     <id>https://tver.jp/episodes/ep88xkb31q</id>
     <title>日本沈没ー希望のひとー_[第４話「関東沈没のはじまり」]</title>
     <updated>2025-12-21T10:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep88xkb31q.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月28日(日)-09時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月28日(日)_09時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2021年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2021年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -106,23 +166,43 @@
     <id>https://tver.jp/episodes/ep7ceahusw</id>
     <title>初めて恋をした日に読む話_[第３話 好きになったら迷惑ですか？高校生の告白＆バックハグ!!]</title>
     <updated>2025-12-21T10:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7ceahusw.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月16日(金)-21時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月16日(金)_21時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2019年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2019年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -137,23 +217,43 @@
     <id>https://tver.jp/episodes/ep77xgwsqf</id>
     <title>初めて恋をした日に読む話_[第１話 ダメ女塾講師×ピンク頭の高校生!!恋も受験も崖っぷち]</title>
     <updated>2025-12-21T10:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep77xgwsqf.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月16日(金)-21時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月16日(金)_21時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2019年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2019年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -168,23 +268,43 @@
     <id>https://tver.jp/episodes/ep39i96hyn</id>
     <title>めぐり逢󠄀い_[第11話「……さよなら」]</title>
     <updated>2025-12-21T10:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep39i96hyn.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-10時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月29日(月)-09時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月29日(月)_09時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;1998年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;1998年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -199,23 +319,43 @@
     <id>https://tver.jp/episodes/epz6tihxcs</id>
     <title>相棒 season12_[第8話「最後の淑女」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz6tihxcs.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -230,23 +370,43 @@
     <id>https://tver.jp/episodes/epyyj3a6rd</id>
     <title>ナンバMG5_[第10話 ついに最終回！難破剛、最後の決断]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyyj3a6rd.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2022年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2022年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -261,23 +421,43 @@
     <id>https://tver.jp/episodes/epy30sb792</id>
     <title>相棒 season12_[第10話「ボマー～狙撃容疑者特命係・甲斐享を射殺せよ！」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy30sb792.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2014年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2014年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -292,23 +472,43 @@
     <id>https://tver.jp/episodes/epxy3eam7w</id>
     <title>相棒 season12_[第4話「別れのダンス」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxy3eam7w.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -323,23 +523,43 @@
     <id>https://tver.jp/episodes/epxlbraqbn</id>
     <title>相棒 season12_[第6話「右京の腕時計」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxlbraqbn.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -354,23 +574,43 @@
     <id>https://tver.jp/episodes/epwp1n25z0</id>
     <title>マルモのおきて_[第8話 双子がいたら恋はできない？]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwp1n25z0.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2011年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2011年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -385,23 +625,43 @@
     <id>https://tver.jp/episodes/epvszyrqf3</id>
     <title>離婚しない男―サレ夫と悪嫁の騙し愛―_[第3話　ソファ上の恋人たち、ソファ下のサレ夫]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvszyrqf3.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月08日(日)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -416,23 +676,43 @@
     <id>https://tver.jp/episodes/eptxo34ube</id>
     <title>離婚しない男―サレ夫と悪嫁の騙し愛―_[第2話　不機嫌な鈴の音]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptxo34ube.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月08日(日)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -447,23 +727,43 @@
     <id>https://tver.jp/episodes/epszxysay1</id>
     <title>相棒 season12_[第2話「殺人の定理」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epszxysay1.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -478,23 +778,43 @@
     <id>https://tver.jp/episodes/eprd46nf7p</id>
     <title>知ってるワイフ_[第8話 壊れゆく夫婦関係・・・それぞれの恋の始まりマラソン大会で事件]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprd46nf7p.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2021年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2021年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -509,23 +829,43 @@
     <id>https://tver.jp/episodes/eppcnkmvqh</id>
     <title>dinner_[第8話 まずいと言った最強の敵！]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppcnkmvqh.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -540,23 +880,43 @@
     <id>https://tver.jp/episodes/epntzbuaz6</id>
     <title>エイジハラスメント_[第2話]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epntzbuaz6.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月08日(日)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2015年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2015年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -571,23 +931,43 @@
     <id>https://tver.jp/episodes/epme65obxa</id>
     <title>1リットルの涙_[第6話 心ない視線]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epme65obxa.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2005年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2005年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -602,23 +982,43 @@
     <id>https://tver.jp/episodes/epluey9psx</id>
     <title>ブルーモーメント_[第10話 風速70m最強台風上陸へ！SDM決死の出動]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epluey9psx.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -633,23 +1033,43 @@
     <id>https://tver.jp/episodes/epjlg63wd6</id>
     <title>離婚しない男―サレ夫と悪嫁の騙し愛―_[第1話　あんたがしてくれなくても]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjlg63wd6.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月08日(日)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -664,23 +1084,43 @@
     <id>https://tver.jp/episodes/epixt2zj64</id>
     <title>相棒 season12_[第7話「目撃証言」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epixt2zj64.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -695,23 +1135,43 @@
     <id>https://tver.jp/episodes/ephx79rk1g</id>
     <title>プロポーズ大作戦_[第6話 10代最終日何を卒業しますか]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephx79rk1g.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2007年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2007年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -726,23 +1186,43 @@
     <id>https://tver.jp/episodes/eph4sqm3rl</id>
     <title>ヒモメン_[第3話]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph4sqm3rl.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月08日(日)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2018年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2018年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -757,23 +1237,43 @@
     <id>https://tver.jp/episodes/epg62vir55</id>
     <title>相棒 season12_[第1話「ビリーバー」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg62vir55.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -788,23 +1288,43 @@
     <id>https://tver.jp/episodes/epg0fztgef</id>
     <title>ショムニ_[第10話 社運をかけた見合い]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg0fztgef.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;1998年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;1998年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -819,23 +1339,43 @@
     <id>https://tver.jp/episodes/epfk9ueyfn</id>
     <title>ヒモメン_[第1話]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfk9ueyfn.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月08日(日)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2018年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2018年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -850,23 +1390,43 @@
     <id>https://tver.jp/episodes/epei3ssru5</id>
     <title>エイジハラスメント_[第3話]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epei3ssru5.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月08日(日)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2015年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2015年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -881,23 +1441,43 @@
     <id>https://tver.jp/episodes/epdpx4ssy5</id>
     <title>相棒 season12_[第3話「原因菌」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdpx4ssy5.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -912,23 +1492,43 @@
     <id>https://tver.jp/episodes/epdg7wv1ds</id>
     <title>１１９エマージェンシーコール_[#08 システムダウン！最後の肉声指令]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdg7wv1ds.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2025年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2025年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -943,23 +1543,43 @@
     <id>https://tver.jp/episodes/epbwu1xged</id>
     <title>ミス・パイロット_[第8話 パイロットの夢叶える者、絶たれた者・・・]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbwu1xged.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -974,23 +1594,43 @@
     <id>https://tver.jp/episodes/epb6cea557</id>
     <title>バージンロード_[第10話 最後の約束・・・二人の涙の決意と誓い]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb6cea557.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;1997年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;1997年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1005,23 +1645,43 @@
     <id>https://tver.jp/episodes/epadztw9cz</id>
     <title>貴族探偵_[第8話 女探偵に殺人容疑！！色恋沙汰は貴族の罠！？]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epadztw9cz.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2017年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2017年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1036,23 +1696,43 @@
     <id>https://tver.jp/episodes/epac8wk4kt</id>
     <title>いちばんすきな花_[第6話 修羅場…友情にも嫉妬はある]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epac8wk4kt.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2023年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2023年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1067,23 +1747,43 @@
     <id>https://tver.jp/episodes/ep789bvn5b</id>
     <title>エイジハラスメント_[第1話]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep789bvn5b.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月08日(日)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2015年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2015年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1098,23 +1798,43 @@
     <id>https://tver.jp/episodes/ep68i8mvua</id>
     <title>相棒 season12_[第5話「エントリーシート」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep68i8mvua.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1129,23 +1849,43 @@
     <id>https://tver.jp/episodes/ep48jeulxf</id>
     <title>ビーチボーイズ_[第10話 彼らの夏が終わるとき]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep48jeulxf.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;1997年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;1997年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1160,23 +1900,43 @@
     <id>https://tver.jp/episodes/ep3zwwaqj3</id>
     <title>相棒 season12_[第9話「かもめが死んだ日」]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3zwwaqj3.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2013年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2013年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1191,23 +1951,43 @@
     <id>https://tver.jp/episodes/ep3ut1oxkd</id>
     <title>ランチの女王_[第8話 カツ！危険で…悲しい過去]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3ut1oxkd.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2002年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2002年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1222,23 +2002,43 @@
     <id>https://tver.jp/episodes/ep3ozba68d</id>
     <title>ビター・ブラッド～最悪で最強の親子刑事～_[第10話 絶体絶命！！]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3ozba68d.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2014年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2014年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1253,23 +2053,43 @@
     <id>https://tver.jp/episodes/ep3buehndl</id>
     <title>嘘解きレトリック_[第6話 少女探偵団結成！手鏡に隠された秘密とは…！？]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3buehndl.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1284,23 +2104,43 @@
     <id>https://tver.jp/episodes/ep2azi83oy</id>
     <title>ヒモメン_[第2話]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2azi83oy.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月08日(日)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2018年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2018年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレビ朝日&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1315,23 +2155,43 @@
     <id>https://tver.jp/episodes/ep1v20hpk7</id>
     <title>HOPE～期待ゼロの新入社員～_[第6話 踏ん張れ願いは必ず届けてやる新人の発想で大企業が動く30分拡大SP]</title>
     <updated>2025-12-21T00:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1v20hpk7.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-00時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月27日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2016年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2016年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;フジテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1346,23 +2206,43 @@
     <id>https://tver.jp/episodes/epllvt4hhp</id>
     <title>今夜、わたしはカラダで恋をする。Season1_[Ep2 君を抱きたい、と思った夜。]</title>
     <updated>2025-12-20T20:45:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epllvt4hhp.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-20時45分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-20時45分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月20日(火)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2022年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2022年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;ABCテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1377,23 +2257,43 @@
     <id>https://tver.jp/episodes/ep1t5gbubf</id>
     <title>日曜の夜ぐらいは…_[第2話 忘れたい、でも本当は会いたい…]</title>
     <updated>2025-12-20T20:30:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1t5gbubf.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-20時30分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-20時30分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月20日(火)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2023年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2023年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;ABCテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1408,23 +2308,43 @@
     <id>https://tver.jp/episodes/epcqlur60v</id>
     <title>何曜日に生まれたの_[第2話　カリスマの美しい彼は]</title>
     <updated>2025-12-20T20:15:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcqlur60v.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-20時15分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-20時15分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月20日(火)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2023年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2023年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;ABCテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1439,23 +2359,43 @@
     <id>https://tver.jp/episodes/ep8s38k6wd</id>
     <title>ガチ恋粘着獣_[#9 あなたが、私を選ばないのが悪い]</title>
     <updated>2025-12-20T20:15:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8s38k6wd.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-20時15分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-20時15分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月20日(火)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2023年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2023年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;ABCテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1470,23 +2410,43 @@
     <id>https://tver.jp/episodes/eplqyqmf3l</id>
     <title>凪のお暇_[第９話「凪、慎二、家族をリセットする」]</title>
     <updated>2025-12-20T20:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplqyqmf3l.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-20時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-20時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月25日(木)-19時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月25日(木)_19時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2019年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2019年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1501,23 +2461,43 @@
     <id>https://tver.jp/episodes/ep4ra1szj0</id>
     <title>素晴らしき哉、先生！_[2限目 先生だって失恋します。]</title>
     <updated>2025-12-20T20:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4ra1szj0.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-20時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-20時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月03日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月03日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;ABCテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1532,23 +2512,43 @@
     <id>https://tver.jp/episodes/ep3shfh327</id>
     <title>3年B組金八先生(第5シリーズ)_[第７回 迷える子羊たち]</title>
     <updated>2025-12-20T20:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3shfh327.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-20時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-20時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月03日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月03日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;1999年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;1999年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1563,23 +2563,43 @@
     <id>https://tver.jp/episodes/ep5es9y8o8</id>
     <title>around1/4_[…あほらしい。]</title>
     <updated>2025-12-20T19:45:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5es9y8o8.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-19時45分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-19時45分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月20日(火)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2023年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2023年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;ABCテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1594,23 +2614,43 @@
     <id>https://tver.jp/episodes/epyyz5usao</id>
     <title>大恋愛～僕を忘れる君と_[最終話 君には絶対、絶対、僕なんだ！これは神様がくれた最後の奇跡]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyyz5usao.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月25日(木)-17時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月25日(木)_17時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2018年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2018年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1625,23 +2665,43 @@
     <id>https://tver.jp/episodes/epfoel68ql</id>
     <title>東京エレベーターガール_[第七話「とめられぬ想い」]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfoel68ql.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月26日(金)-17時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月26日(金)_17時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;1992年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;1992年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1656,23 +2716,43 @@
     <id>https://tver.jp/episodes/epcemodcc6</id>
     <title>架空OL日記_[#7]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcemodcc6.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月03日(土)-17時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月03日(土)_17時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2017年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2017年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;読売テレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;読売テレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1687,23 +2767,43 @@
     <id>https://tver.jp/episodes/epb4oxb5vp</id>
     <title>プロゴルファー花_[第12話]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb4oxb5vp.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月03日(土)-17時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月03日(土)_17時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2010年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2010年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;読売テレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;読売テレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1718,23 +2818,43 @@
     <id>https://tver.jp/episodes/ep9830ha44</id>
     <title>東京エレベーターガール_[第六話「ほんとうの気持ち」]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9830ha44.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月26日(金)-17時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月26日(金)_17時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;1992年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;1992年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1749,23 +2869,43 @@
     <id>https://tver.jp/episodes/ep79sxtahg</id>
     <title>中学聖日記_[第４話 急展開！花火大会の夜、運命の歯車が回りはじめる！]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep79sxtahg.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月26日(金)-17時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月26日(金)_17時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2018年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2018年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1780,23 +2920,43 @@
     <id>https://tver.jp/episodes/ep3m4caqvw</id>
     <title>中学聖日記_[第５話 教師失格！禁断の恋の代償…彼女が下した決断は!?]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3m4caqvw.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月26日(金)-17時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月26日(金)_17時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2018年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2018年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1811,23 +2971,43 @@
     <id>https://tver.jp/episodes/ep32i68awd</id>
     <title>ランチ合コン探偵～恋とグルメと謎解きと～_[#7　狙われた命（ピース）]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep32i68awd.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月03日(土)-17時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月03日(土)_17時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2020年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2020年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;読売テレビ&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;読売テレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1842,23 +3022,43 @@
     <id>https://tver.jp/episodes/ep9kdo9ph0</id>
     <title>僕はどこから_[第4話]</title>
     <updated>2025-12-20T17:00:16+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9kdo9ph0.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2020年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2020年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1873,23 +3073,43 @@
     <id>https://tver.jp/episodes/epbudxei92</id>
     <title>僕はどこから_[第3話]</title>
     <updated>2025-12-20T17:00:15+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbudxei92.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2020年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2020年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1904,23 +3124,43 @@
     <id>https://tver.jp/episodes/epy3pjee01</id>
     <title>ただ離婚してないだけ_[第4話 殺人の代償]</title>
     <updated>2025-12-20T17:00:14+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy3pjee01.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2021年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2021年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1935,23 +3175,43 @@
     <id>https://tver.jp/episodes/epszs49fog</id>
     <title>ただ離婚してないだけ_[第3話 最悪の殺人]</title>
     <updated>2025-12-20T17:00:13+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epszs49fog.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2021年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2021年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1966,23 +3226,43 @@
     <id>https://tver.jp/episodes/epzzscfztg</id>
     <title>メンタル強め美女白川さん_[第4話]</title>
     <updated>2025-12-20T17:00:12+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzzscfztg.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2022年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2022年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -1997,23 +3277,43 @@
     <id>https://tver.jp/episodes/epavg6avmz</id>
     <title>メンタル強め美女白川さん_[第3話]</title>
     <updated>2025-12-20T17:00:11+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epavg6avmz.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2022年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2022年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -2028,23 +3328,43 @@
     <id>https://tver.jp/episodes/epacjkwzjh</id>
     <title>９５｜テレビ東京開局60周年連続ドラマ_[第4話 同じだけ背負う罪]</title>
     <updated>2025-12-20T17:00:10+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epacjkwzjh.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -2059,23 +3379,43 @@
     <id>https://tver.jp/episodes/ep4o9qefrc</id>
     <title>９５｜テレビ東京開局60周年連続ドラマ_[第3話 ダセェ大人になるな]</title>
     <updated>2025-12-20T17:00:09+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4o9qefrc.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -2090,23 +3430,43 @@
     <id>https://tver.jp/episodes/ep9qbw98ew</id>
     <title>新宿セブン_[第4話]</title>
     <updated>2025-12-20T17:00:08+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9qbw98ew.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2017年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2017年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -2121,23 +3481,43 @@
     <id>https://tver.jp/episodes/epp8f83lgu</id>
     <title>新宿セブン_[第3話]</title>
     <updated>2025-12-20T17:00:07+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp8f83lgu.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-17時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月17日(土)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月17日(土)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2017年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2017年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -2152,23 +3532,43 @@
     <id>https://tver.jp/episodes/epf6cbg691</id>
     <title>渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)_[第三十八回]</title>
     <updated>2025-12-20T16:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf6cbg691.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-16時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-16時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年01月02日(金)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月02日(金)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2011年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2011年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -2183,23 +3583,43 @@
     <id>https://tver.jp/episodes/epfxge7giw</id>
     <title>結婚式の前日に_[第５話 折れそうな心…彼の夢を奪いたくない！]</title>
     <updated>2025-12-20T14:00:00+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfxge7giw.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-14時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-14時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年12月28日(日)-13時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2025年_12月28日(日)_13時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2015年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2015年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;TBS&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -2214,23 +3634,43 @@
     <id>https://tver.jp/episodes/epncs92y44</id>
     <title>デリバリーマン～幽霊専門タクシー始めました～_[第12話]</title>
     <updated>2025-12-20T12:00:16+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epncs92y44.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-12時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-12時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月09日(月)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月09日(月)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
@@ -2245,23 +3685,43 @@
     <id>https://tver.jp/episodes/epcex1twfn</id>
     <title>デリバリーマン～幽霊専門タクシー始めました～_[第11話]</title>
     <updated>2025-12-20T12:00:15+09:00</updated>
-    <content>    &lt;body&gt;
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
       &lt;div&gt;
         &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcex1twfn.jpg"&gt;
 
-        &lt;dl&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年12月20日(土)-12時00分&lt;/dd&gt;
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月20日(土)-12時00分&lt;/dd&gt;
 
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年03月09日(月)-23時59分&lt;/dd&gt;
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_03月09日(月)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
 
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2024年放送&lt;/dd&gt;
 
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレ東&lt;/dd&gt;
-        &lt;/dl&gt;
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;テレ東&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
 
         &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
