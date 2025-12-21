@@ -2,13 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-21T11:28:05+09:00</updated>
+  <updated>2025-12-21T11:57:39+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epkjv66uc6</id>
+    <title>The Usual Night　いつもの夜_[Episode１０]</title>
+    <updated>2025-12-21T11:45:00+09:00</updated>
+    <content>
+    &lt;head&gt;
+      &lt;style&gt;
+        .dl-wrap {
+          display: flex;
+          justify-content: space-between;
+        }
+
+        .item {
+          width: 48%;
+          border: 1px solid #ccc;
+          padding: 10px;
+        }
+      &lt;/style&gt;
+    &lt;/head&gt;
+
+    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkjv66uc6.jpg"&gt;
+
+        &lt;div class="dl-wrap"&gt;
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+            &lt;dd&gt;2025年12月21日(日)-11時45分&lt;/dd&gt;
+
+            &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+            &lt;dd&gt;2026年_01月21日(水)_23時59分&lt;/dd&gt;
+          &lt;/dl&gt;
+
+          &lt;dl class="item"&gt;
+            &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+            &lt;dd&gt;2022年放送&lt;/dd&gt;
+
+            &lt;dt&gt;📡 放送局&lt;/dt&gt;
+            &lt;dd&gt;ABCテレビ&lt;/dd&gt;
+          &lt;/dl&gt;
+        &lt;/div&gt;
+
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+        &lt;p&gt;
+          男子寮を舞台に、FANTASTICS from EXILE TRIBEのメンバーが夜な夜な繰りひろげる、いくつもの夜の物語。&lt;br&gt;&lt;br&gt;…ジェンガソングが完成する夜&lt;br&gt;…恋人が泣いた夜&lt;br&gt;…黎弥＆勇征、最後の夜&lt;br&gt;…あのライブの舞台裏で…&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月12日(金) 昼11時45分～　#1&lt;br&gt;12月13日(土) 昼11時45分～　#2&lt;br&gt;12月14日(日) 昼11時45分～　#3&lt;br&gt;12月15日(月) 昼11時45分～　#4&lt;br&gt;12月16日(火) 昼11時45分～　#5&lt;br&gt;12月17日(水) 昼11時45分～　#6&lt;br&gt;12月18日(木) 昼11時45分～　#7&lt;br&gt;12月19日(金) 昼11時45分～　#8&lt;br&gt;12月20日(土) 昼11時45分～　#9&lt;br&gt;12月21日(日) 昼11時45分～　#10（最終話）
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epkjv66uc6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epph0gv60p</id>
     <title>初めて恋をした日に読む話_[第２話 しくじり先生の人生講義!!元ヤン同級生との運命の再会!!]</title>
