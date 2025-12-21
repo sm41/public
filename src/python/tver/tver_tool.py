@@ -82,23 +82,21 @@ def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_
     <div>
       <img src="{img_url}">
 
-      <div class="dl-wrap">
-        <dl class="item">
-          <dt>🕘 配信開始</dt>
-          <dd>{start_at}</dd>
+      <table>
+        <tr>
+          <th>🕘 配信開始</th>
+          <th>{start_at}</th>
+          <th>🗓️ 放送</th>
+          <th>{broadcastDateLabel}</th>
+        </tr>
 
-          <dt>🕓 配信終了</dt>
-          <dd>{end_at}</dd>
-        </dl>
-
-        <dl class="item">
-          <dt>🗓️ 放送</dt>
-          <dd>{broadcastDateLabel}</dd>
-
-          <dt>📡 放送局</dt>
-          <dd>{production_provider_name}</dd>
-        </dl>
-      </div>
+        <tr>
+          <th>🕓 配信終了</th>
+          <th>{end_at}</th>
+          <th>📡 放送局</th>
+          <th>{production_provider_name}</th>
+        </tr>
+      </table>
 
       <hr style="border:0; border-top:1px solid yellow">
 
