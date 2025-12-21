@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-21T02:15:38+09:00</updated>
+  <updated>2025-12-21T10:48:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,293 +10,282 @@
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://tver.jp/episodes/epotfs5aa8</id>
+    <title>＆Hulu_[Huluで配信された作品の中から2025年によく観られた作品は？海外ドラマ、韓国・アジア作品、Huluオリジナルなど様々なジャンルをランキング形式でご紹介！]</title>
+    <updated>2025-12-21T02:35:00+09:00</updated>
+    <content>    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epotfs5aa8.jpg"&gt;
+
+        &lt;dl&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年12月21日(日)-02時35分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年01月03日(土)-23時59分&lt;/dd&gt;
+
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;日テレ&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+        &lt;p&gt;
+          2025年総まとめ！「Hulu年間ランキング特集」&lt;br&gt;2025年にHuluで配信された作品の中で、どれがよく観られたのか？ランキング形式でご紹介します！&lt;br&gt;海外ドラマ、韓国・アジア作品、Huluオリジナル作品、そして2025年総合ランキング、あまたある配信作品の中から最も観られた作品はいったいどれなのか？みなさんのお気に入りの作品はランキングに入っているんでしょうか？&lt;br&gt;(C) HJホールディングス
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epotfs5aa8"/>
+  </entry>
+  <entry>
     <id>https://tver.jp/episodes/epgqkxoqeo</id>
     <title>修学旅行で仲良くないグループに入りました_[最終回 一生心に残り続けていく日々]</title>
     <updated>2025-12-21T01:30:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgqkxoqeo.jpg"&gt;
+    <content>    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgqkxoqeo.jpg"&gt;
 
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月21日&lt;/dd&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年12月21日(日)-01時30分&lt;/dd&gt;
 
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2025年12月28日&lt;/dd&gt;
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2025年12月28日(日)-23時59分&lt;/dd&gt;
 
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
 
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-      &lt;/dl&gt;
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
+        &lt;/dl&gt;
 
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
-      &lt;p&gt;
-        修学旅行から始まる学園格差ラブストーリー、ついに最終回！&lt;br&gt;&lt;br&gt;クリスマスイブに、日置（藤本洸大）は渡会（簡秀吉）たちと教室でパーティーを楽しんでいた。そこで日置は衝撃の事実に気づく。お互いに「好き」と言い合ったが、「付き合う」ということに関しては一度も言及していなかったのだ。&lt;br&gt;修学旅行で同じ班になったことがきっかけで、初めて好きな人ができた日置。勇気を出して渡会にある言葉を告げる――
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
+        &lt;p&gt;
+          修学旅行から始まる学園格差ラブストーリー、ついに最終回！&lt;br&gt;&lt;br&gt;クリスマスイブに、日置（藤本洸大）は渡会（簡秀吉）たちと教室でパーティーを楽しんでいた。そこで日置は衝撃の事実に気づく。お互いに「好き」と言い合ったが、「付き合う」ということに関しては一度も言及していなかったのだ。&lt;br&gt;修学旅行で同じ班になったことがきっかけで、初めて好きな人ができた日置。勇気を出して渡会にある言葉を告げる――
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epgqkxoqeo"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/ep44ge4m63</id>
     <title>離魂、トドケ_[超能力で夫の不倫を暴け！SF×不倫ドラマ]</title>
     <updated>2025-12-21T01:28:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep44ge4m63.jpg"&gt;
+    <content>    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep44ge4m63.jpg"&gt;
 
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月21日&lt;/dd&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年12月21日(日)-01時28分&lt;/dd&gt;
 
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026年02月01日&lt;/dd&gt;
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年02月01日(日)-23時59分&lt;/dd&gt;
 
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
 
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;CBCテレビ&lt;/dd&gt;
-      &lt;/dl&gt;
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;CBCテレビ&lt;/dd&gt;
+        &lt;/dl&gt;
 
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
-      &lt;p&gt;
-        主人公の榊原華 (加藤史帆)は、夫・翔 (瀬戸利樹)にあることを隠していた。それは超能力が使えること。目で見た対象物に魂を乗り移らせることができるのだ。その能力の名は「離魂(りこん)能力」。&lt;br&gt;ある日、華は翔の不倫に勘づき、能力を使って翔を追い詰めることを決意するが・・・&lt;br&gt;まだ誰も見たことがない新感覚の不倫ドラマが開幕！
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
+        &lt;p&gt;
+          主人公の榊原華 (加藤史帆)は、夫・翔 (瀬戸利樹)にあることを隠していた。それは超能力が使えること。目で見た対象物に魂を乗り移らせることができるのだ。その能力の名は「離魂(りこん)能力」。&lt;br&gt;ある日、華は翔の不倫に勘づき、能力を使って翔を追い詰めることを決意するが・・・&lt;br&gt;まだ誰も見たことがない新感覚の不倫ドラマが開幕！
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep44ge4m63"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/ephxhqivry</id>
     <title>介護スナック ベルサイユ_[第11話 逃げる女／迷える子羊]</title>
     <updated>2025-12-21T00:35:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephxhqivry.jpg"&gt;
+    <content>    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephxhqivry.jpg"&gt;
 
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月21日&lt;/dd&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年12月21日(日)-00時35分&lt;/dd&gt;
 
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2025年12月28日&lt;/dd&gt;
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2025年12月28日(日)-00時10分&lt;/dd&gt;
 
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
 
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;東海テレビ&lt;/dd&gt;
-      &lt;/dl&gt;
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;東海テレビ&lt;/dd&gt;
+        &lt;/dl&gt;
 
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
-      &lt;p&gt;
-        クリスマスパーティーの日、客の1人が「自分は久留辺蘭子（高橋惠子）という指名手配犯」と口にする。35年間逃亡してきたが、最期の時が迫り、自首を考えているという。ママ（宮崎美子）に魔法のワインを勧められ、蘭子が会いたいと願ったのは刑事の岩上平造（大地康雄）だった。そして、店に身を寄せる大輝（杢代和人）も警察に追われていることを告白。新たな「魔法のロゼワイン」を飲んだ大輝が見たのは…。&lt;br&gt;「会いたい人は誰ですか？」最期の時を見つめ続けてきたベルサイユ、ついにラストオーダーへ！
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
+        &lt;p&gt;
+          クリスマスパーティーの日、客の1人が「自分は久留辺蘭子（高橋惠子）という指名手配犯」と口にする。35年間逃亡してきたが、最期の時が迫り、自首を考えているという。ママ（宮崎美子）に魔法のワインを勧められ、蘭子が会いたいと願ったのは刑事の岩上平造（大地康雄）だった。そして、店に身を寄せる大輝（杢代和人）も警察に追われていることを告白。新たな「魔法のロゼワイン」を飲んだ大輝が見たのは…。&lt;br&gt;「会いたい人は誰ですか？」最期の時を見つめ続けてきたベルサイユ、ついにラストオーダーへ！
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ephxhqivry"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/ep539nqxs3</id>
     <title>良いこと悪いこと_[最終話 真犯人、だーれだ?]</title>
     <updated>2025-12-20T21:54:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep539nqxs3.jpg"&gt;
+    <content>    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep539nqxs3.jpg"&gt;
 
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年12月20日(土)-21時54分&lt;/dd&gt;
 
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2025年12月27日&lt;/dd&gt;
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2025年12月27日(土)-20時59分&lt;/dd&gt;
 
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
 
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;日テレ&lt;/dd&gt;
-      &lt;/dl&gt;
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;日テレ&lt;/dd&gt;
+        &lt;/dl&gt;
 
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
-      &lt;p&gt;
-        「真犯人、だーれだ?」最終回!今夜すべてが明らかに。
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
+        &lt;p&gt;
+          「真犯人、だーれだ?」最終回!今夜すべてが明らかに。
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep539nqxs3"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/epj2les319</id>
     <title>DQNの星に嫁ぎました_[【スマホ用】#12]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj2les319.jpg"&gt;
+    <content>    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj2les319.jpg"&gt;
 
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026年01月03日&lt;/dd&gt;
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年01月03日(土)-17時59分&lt;/dd&gt;
 
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;7月27日(日)放送分&lt;/dd&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;7月27日(日)放送分&lt;/dd&gt;
 
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;読売テレビ&lt;/dd&gt;
-      &lt;/dl&gt;
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;読売テレビ&lt;/dd&gt;
+        &lt;/dl&gt;
 
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
-      &lt;p&gt;
-        東京から夫の地元に引っ越しすることになった主婦の小野あずさ（高橋春織）。ところが地元に帰ると真面目で優しい夫・勇輝（神田穣）とその仲間達はいわゆる「DQN」だった！！あずさが子どもと帰宅するとそこには家で勝手に食事をしている勇輝とＤＱＮ達が！激昂するあずさに勇輝は「ここはみんなで仲良く愛し合える世界」と狂った思考を伝える。そしてあずさは携帯を奪われ拘束されてしまい…&lt;br&gt;&lt;br&gt;【DQNの星に嫁ぎました 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月2日(火)18:00　～　12月16日(火)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:59&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#14　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#15　12月26日(金)18:00　～　2026年1月9日(金)17:59
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
+        &lt;p&gt;
+          東京から夫の地元に引っ越しすることになった主婦の小野あずさ（高橋春織）。ところが地元に帰ると真面目で優しい夫・勇輝（神田穣）とその仲間達はいわゆる「DQN」だった！！あずさが子どもと帰宅するとそこには家で勝手に食事をしている勇輝とＤＱＮ達が！激昂するあずさに勇輝は「ここはみんなで仲良く愛し合える世界」と狂った思考を伝える。そしてあずさは携帯を奪われ拘束されてしまい…&lt;br&gt;&lt;br&gt;【DQNの星に嫁ぎました 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月2日(火)18:00　～　12月16日(火)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:59&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#14　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#15　12月26日(金)18:00　～　2026年1月9日(金)17:59
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epj2les319"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/ep0h07sj75</id>
     <title>DQNの星に嫁ぎました_[#12]</title>
     <updated>2025-12-20T18:00:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0h07sj75.jpg"&gt;
+    <content>    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0h07sj75.jpg"&gt;
 
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年12月20日(土)-18時00分&lt;/dd&gt;
 
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026年01月03日&lt;/dd&gt;
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年01月03日(土)-17時59分&lt;/dd&gt;
 
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;7月27日(日)放送分&lt;/dd&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;7月27日(日)放送分&lt;/dd&gt;
 
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;読売テレビ&lt;/dd&gt;
-      &lt;/dl&gt;
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;読売テレビ&lt;/dd&gt;
+        &lt;/dl&gt;
 
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
-      &lt;p&gt;
-        東京から夫の地元に引っ越しすることになった主婦の小野あずさ（高橋春織）。ところが地元に帰ると真面目で優しい夫・勇輝（神田穣）とその仲間達はいわゆる「DQN」だった！！あずさが子どもと帰宅するとそこには家で勝手に食事をしている勇輝とＤＱＮ達が！激昂するあずさに勇輝は「ここはみんなで仲良く愛し合える世界」と狂った思考を伝える。そしてあずさは携帯を奪われ拘束されてしまい…&lt;br&gt;&lt;br&gt;【DQNの星に嫁ぎました 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月2日(火)18:00　～　12月16日(火)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:59&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#14　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#15　12月26日(金)18:00　～　2026年1月9日(金)17:59
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
+        &lt;p&gt;
+          東京から夫の地元に引っ越しすることになった主婦の小野あずさ（高橋春織）。ところが地元に帰ると真面目で優しい夫・勇輝（神田穣）とその仲間達はいわゆる「DQN」だった！！あずさが子どもと帰宅するとそこには家で勝手に食事をしている勇輝とＤＱＮ達が！激昂するあずさに勇輝は「ここはみんなで仲良く愛し合える世界」と狂った思考を伝える。そしてあずさは携帯を奪われ拘束されてしまい…&lt;br&gt;&lt;br&gt;【DQNの星に嫁ぎました 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月2日(火)18:00　～　12月16日(火)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:59&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#14　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#15　12月26日(金)18:00　～　2026年1月9日(金)17:59
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep0h07sj75"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/epqcigwflq</id>
     <title>四日市に行ったら人生が180度変わった件_[【後編】天国？地獄？四日市でイケメン4人に囲まれ…]</title>
     <updated>2025-12-20T16:55:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqcigwflq.jpg"&gt;
+    <content>    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqcigwflq.jpg"&gt;
 
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年12月20日(土)-16時55分&lt;/dd&gt;
 
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026年01月20日&lt;/dd&gt;
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年01月20日(火)-16時55分&lt;/dd&gt;
 
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
 
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;中京テレビ&lt;/dd&gt;
-      &lt;/dl&gt;
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;中京テレビ&lt;/dd&gt;
+        &lt;/dl&gt;
 
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
-      &lt;p&gt;
-        “妄想我慢…妄想我慢…”四日市の観光協会で「好きな人と歩きたい街よっかいち」というPR企画を託された三上則子（吉住）。職場のイケメン４人と企画のために四日市市内に取材に出かけるが、もはやデート状態に⁉イケメンとラブラブの妄想がついつい抑えきれずに発動してしまい甘い沼に落ちていく…。上手くＰＲ方法が見つからないまま、出張のタイムリミットが来てしまう。そんな中、イケメン達がとある方法を思いつき則子にサプライズを企てる！果たして則子の妄想は現実になるか？
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
+        &lt;p&gt;
+          “妄想我慢…妄想我慢…”四日市の観光協会で「好きな人と歩きたい街よっかいち」というPR企画を託された三上則子（吉住）。職場のイケメン４人と企画のために四日市市内に取材に出かけるが、もはやデート状態に⁉イケメンとラブラブの妄想がついつい抑えきれずに発動してしまい甘い沼に落ちていく…。上手くＰＲ方法が見つからないまま、出張のタイムリミットが来てしまう。そんな中、イケメン達がとある方法を思いつき則子にサプライズを企てる！果たして則子の妄想は現実になるか？
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epqcigwflq"/>
   </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5ctk0pog</id>
     <title>『人質は脚本家』（第36回ヤングシナリオ大賞）_[やけくそ人生逆転コメディ立てこもり事件の行方]</title>
     <updated>2025-12-20T15:30:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ctk0pog.jpg"&gt;
+    <content>    &lt;body&gt;
+      &lt;div&gt;
+        &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5ctk0pog.jpg"&gt;
 
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
+        &lt;dl&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年12月20日(土)-15時30分&lt;/dd&gt;
 
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026年01月14日&lt;/dd&gt;
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年01月14日(水)-23時59分&lt;/dd&gt;
 
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
 
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;フジテレビ&lt;/dd&gt;
-      &lt;/dl&gt;
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;フジテレビ&lt;/dd&gt;
+        &lt;/dl&gt;
 
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+        &lt;hr style="border:0; border-top:1px solid yellow"&gt;
 
-      &lt;p&gt;
-        中尾明慶・高橋克実・内田理央出演！やけくそで熱すぎる人生逆転コメディ！物語の主人公は、かつて連続ドラマ『ルーザー』の脚本を担当した元脚本家の小泉拓哉（こいずみ・たくや／中尾明慶）。視聴率不振で作品は“7話打ち切り”という結果に終わり、ネット上でも酷評を受けて業界から姿を消した。現在はコンビニでアルバイトをしながら、夢を諦めかけている。&lt;br&gt;そんな中、母親からの連絡を受け実家に帰省した拓哉は、立ち寄った地元の郵便局で突然“人質”となってしまう。犯人は「娘に会いたい」と訴える中年男性・三枝誠（さえぐさ・まこと／高橋克実）。会社の倒産、家族の離散を経て、唯一の願いである“娘との再会”を叶えたい一心で起こした、思いつきの立てこもり事件だった。&lt;br&gt;拓哉と話すうちに三枝は、勇気をもらったドラマ『ルーザー』の脚本家が、目の前の拓哉であることに気づく。「失敗しても、やり直せばいい」あのドラマに救われたと言う三枝。だが、その脚本を書いた拓哉自身は、まさに“ルーザー”として人生に行き詰まっていた。そんな緊迫した空気の中、三枝は拓哉に思いがけない言葉を放つ。「この事件の続き、脚本にしてください！」――。&lt;br&gt;銃を突きつけられながら、拓哉は事件の“脚本”を書き始める。そこから始まるのは、現実と物語が交差していく不思議な時間。閉ざされた空間の中でそれぞれの“やり直したい過去”と向き合いながら、少しずつ心を通わせていく。更に拓哉の元恋人で、現場である郵便局員の鮫島音（さめじま・おと／内田理央）も加わり、事態は思わぬ方向に！！
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
+        &lt;p&gt;
+          中尾明慶・高橋克実・内田理央出演！やけくそで熱すぎる人生逆転コメディ！物語の主人公は、かつて連続ドラマ『ルーザー』の脚本を担当した元脚本家の小泉拓哉（こいずみ・たくや／中尾明慶）。視聴率不振で作品は“7話打ち切り”という結果に終わり、ネット上でも酷評を受けて業界から姿を消した。現在はコンビニでアルバイトをしながら、夢を諦めかけている。&lt;br&gt;そんな中、母親からの連絡を受け実家に帰省した拓哉は、立ち寄った地元の郵便局で突然“人質”となってしまう。犯人は「娘に会いたい」と訴える中年男性・三枝誠（さえぐさ・まこと／高橋克実）。会社の倒産、家族の離散を経て、唯一の願いである“娘との再会”を叶えたい一心で起こした、思いつきの立てこもり事件だった。&lt;br&gt;拓哉と話すうちに三枝は、勇気をもらったドラマ『ルーザー』の脚本家が、目の前の拓哉であることに気づく。「失敗しても、やり直せばいい」あのドラマに救われたと言う三枝。だが、その脚本を書いた拓哉自身は、まさに“ルーザー”として人生に行き詰まっていた。そんな緊迫した空気の中、三枝は拓哉に思いがけない言葉を放つ。「この事件の続き、脚本にしてください！」――。&lt;br&gt;銃を突きつけられながら、拓哉は事件の“脚本”を書き始める。そこから始まるのは、現実と物語が交差していく不思議な時間。閉ざされた空間の中でそれぞれの“やり直したい過去”と向き合いながら、少しずつ心を通わせていく。更に拓哉の元恋人で、現場である郵便局員の鮫島音（さめじま・おと／内田理央）も加わり、事態は思わぬ方向に！！
+        &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep5ctk0pog"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eprjcavv76</id>
-    <title>御上先生_[Episode 2 -awareness-]</title>
-    <updated>2025-12-20T12:00:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprjcavv76.jpg"&gt;
-
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
-
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026年01月18日&lt;/dd&gt;
-
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;1月26日(日)放送分&lt;/dd&gt;
-
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;TBS&lt;/dd&gt;
-      &lt;/dl&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;試験会場で起きた殺人事件と自分がリークした不倫記事は関係がある。御上（松坂桃李）の言葉が気になった報道部の神崎拓斗（奥平大兼）は、隣徳学院を辞めた教師・冴島悠子（常盤貴子）に会いに行く。&lt;br&gt;事実が明らかになる中で、神崎の記事について生徒たちに討論させる御上。同じ頃、文科省の塚田幸村（及川光博）と槙野恭介（岡田将生）が動き出す――。&lt;br&gt;殺人事件、不倫記事、隣徳、文科省、これらには一体どんな関係があるのか、そして殺人犯の目的とは――。
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
-    <link href="https://tver.jp/episodes/eprjcavv76"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epejc5bfuh</id>
-    <title>御上先生_[Episode 3 -beginning-]</title>
-    <updated>2025-12-20T12:00:00+09:00</updated>
-    <content>    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epejc5bfuh.jpg"&gt;
-
-      &lt;dl&gt;
-        &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-        &lt;dd&gt;2025年12月20日&lt;/dd&gt;
-
-        &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-        &lt;dd&gt;2026年01月18日&lt;/dd&gt;
-
-        &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-        &lt;dd&gt;2月2日(日)放送分&lt;/dd&gt;
-
-        &lt;dt&gt;📡 放送局&lt;/dt&gt;
-        &lt;dd&gt;TBS&lt;/dd&gt;
-      &lt;/dl&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;殺人犯・真山弓弦（堀田真由）と面会した御上（松坂桃李）は、事件がこの世に及ぼした影響について語る。御上はなぜ真山のもとを訪れたのか。&lt;br&gt;一方で、神崎（奥平大兼）は自分が書いた記事の真実を知るために冴島（常盤貴子）に食い下がるのだが…。&lt;br&gt;御上の存在が３年２組を徐々に突き動かしていくが、反発も当然生まれていく。対して御上はどのように生徒を導いていくのだろうか。&lt;br&gt;そして、ついに御上の過去が明かされる――、御上の前に度々現れる謎の青年の正体とは。
-      &lt;/p&gt;
-    &lt;/div&gt;  </content>
-    <link href="https://tver.jp/episodes/epejc5bfuh"/>
   </entry>
 </feed>
