@@ -1,5 +1,6 @@
 from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
+import locale
 from os      import getenv, environ, path, makedirs
 import re
 import tver_tool
@@ -14,6 +15,7 @@ headers = {
 
 rrr = urllib.parse.urlparse("https://tver.jp/")
 
+locale.setlocale(locale.LC_TIME, "ja_JP.UTF-8")
 data = tver_tool.request_get(url, headers)
 iso_time_now = tver_tool.time_iso()
 
@@ -101,11 +103,11 @@ def process_items(lilili:list):
 
       start_jst                = datetime.fromtimestamp(item['item']['startAt'], ZoneInfo("Asia/Tokyo"))
       start_iso                = start_jst.isoformat()
-      start_date               = start_jst.strftime("%Y年%m月%d日")
+      start_date               = start_jst.strftime("%Y年%m月%d日(%a)-%H時%M分")
 
       end_jst                  = datetime.fromtimestamp(item['item']['endAt'], ZoneInfo("Asia/Tokyo"))
       # end_iso                  = end_jst.isoformat()
-      end_date                 = end_jst.strftime("%Y年%m月%d日")
+      end_date                 = end_jst.strftime("%Y年%m月%d日(%a)-%H時%M分")
 
       # series_images            = f"https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg"
       episode_images           = f"https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg"
