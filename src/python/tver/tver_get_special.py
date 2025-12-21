@@ -3,20 +3,15 @@ import tldextract
 import tver_tool
 from feedgen.feed import FeedGenerator
 
-rrr = tver_tool.get_uid_and_token()
-platform_uid   = rrr.platform_uid
-platform_token = rrr.platform_token
-
 origin_url = "https://tver.jp/"
 url_1      = "https://service-api.tver.jp/api/v1/callSpecial"
 
-ext = tldextract.extract(origin_url)
-iso_time_now = tver_tool.time_iso()
-
-json_data  = tver_tool.request_get(url_1)
-contents_1 = json_data['result']['contents']
 
 def get_sp_sub_id(sp_main_id):
+
+  rrr = tver_tool.get_uid_and_token()
+  platform_uid   = rrr.platform_uid
+  platform_token = rrr.platform_token
 
   url_2 = f"https://platform-api.tver.jp/service/api/v1/callSpecialContents/{sp_main_id}?platform_uid={platform_uid}&platform_token={platform_token}&require_data=later"
 
@@ -26,6 +21,10 @@ def get_sp_sub_id(sp_main_id):
 
 
 def generating_feed():
+
+  iso_time_now = tver_tool.time_iso()
+  json_data    = tver_tool.request_get(url_1)
+  contents_1   = json_data['result']['contents']
 
   fg = FeedGenerator()
   fg.id(origin_url)
@@ -67,33 +66,28 @@ def generating_feed():
 
 
 
-
-
-workspace = getenv("GITHUB_WORKSPACE")
-home_dir  = getenv("HOME")
-
-path_to_use = workspace if workspace else home_dir
-publish_dir = "docs"
-middle_dir  = "feed"
-atom_file   = "special_main.atom"
-
-atom_dir = path.join(path_to_use, publish_dir, middle_dir, ext.domain)
-
-makedirs(atom_dir, exist_ok=True)
-
-atom_path = path.join(atom_dir, atom_file)
-
-
-# if workspace:
-#   with open(environ["GITHUB_OUTPUT"], "a") as f:
-#     f.write(f"atom_file={atom_file}\n")
-
-
 def main():
-  atom_xml = generating_feed()
+
+  ext = tldextract.extract(origin_url)
+
+  workspace = getenv("GITHUB_WORKSPACE")
+  home_dir  = getenv("HOME")
+
+  path_to_use = workspace if workspace else home_dir
+  publish_dir = "docs"
+  middle_dir  = "feed"
+  atom_file   = "special_main.atom"
+
+  atom_dir = path.join(path_to_use, publish_dir, middle_dir, ext.domain)
+
+  makedirs(atom_dir, exist_ok=True)
+
+  atom_path = path.join(atom_dir, atom_file)
+  atom_xml  = generating_feed()
 
   with open(atom_path, "wb") as f:
     f.write(atom_xml)
+
 
 if __name__ == '__main__':
   main()

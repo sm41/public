@@ -7,17 +7,9 @@ import re
 import tver_tool
 from feedgen.feed import FeedGenerator
 
-
 origin_url = "https://tver.jp/"
 url        = "https://service-api.tver.jp/api/v1/callNewerDetail/drama"
 
-ext          = tldextract.extract(origin_url)
-iso_time_now = tver_tool.time_iso()
-
-data     = tver_tool.request_get(url)
-contents = data['result']['contents']['contents']
-
-locale.setlocale(locale.LC_TIME, "ja_JP.UTF-8")
 
 def check_conditions(item):
   c = item['content']
@@ -34,6 +26,9 @@ def call_new():
   month_day_items = []
   blocked_items   = []
   year_items      = []
+
+  data     = tver_tool.request_get(url)
+  contents = data['result']['contents']['contents']
 
   for item in reversed(contents):
 
@@ -62,6 +57,9 @@ def call_new():
 
 
 def process_items(lilili:list):
+
+  iso_time_now = tver_tool.time_iso()
+  ext          = tldextract.extract(origin_url)
 
   workspace = getenv("GITHUB_WORKSPACE")
   home_dir  = getenv("HOME")
@@ -132,9 +130,9 @@ def process_items(lilili:list):
     atom_file = f"newer_{filename_id}.atom"
     atom_path = path.join(atom_dir, atom_file)
 
-    if workspace:
-      with open(environ["GITHUB_OUTPUT"], "a") as f:
-        f.write(f"filename_id={filename_id}\n")
+    # if workspace:
+    #   with open(environ["GITHUB_OUTPUT"], "a") as f:
+    #     f.write(f"filename_id={filename_id}\n")
 
     atom_xml  = fg.atom_str(pretty=True)
 
@@ -144,6 +142,8 @@ def process_items(lilili:list):
 
 
 def main():
+  locale.setlocale(locale.LC_TIME, "ja_JP.UTF-8")
+
   blocked_items, month_day_items, year_items = call_new()
 
   ready = [

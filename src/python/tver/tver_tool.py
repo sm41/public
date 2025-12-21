@@ -68,9 +68,6 @@ class line_break:
   def __init__(self):
     pass
 
-  def disable_line_break(self, strings:str):
-    self.dis_lb_str = strings.replace("\n", "\\n")
-
   def lb_html(self, strings:str):
     self.lb_html_str = strings.replace("\n", "<br>")
 
