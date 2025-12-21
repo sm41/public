@@ -2,13 +2,589 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-21T16:18:49+09:00</updated>
+  <updated>2025-12-21T18:19:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyppxhyxh</id>
+    <title>秘密諜報員 エリカ_[Mission 9]</title>
+    <updated>2025-12-21T18:00:00+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyppxhyxh.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_18時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月04日(日)_17時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2011年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;読売テレビ&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        メイドの頂点を決めるコンテストのファイナリストの早織（岩田さゆり）が事務所を訪れた。脅迫を受けており、ファイナルの日まで身を守ってほしいという。エリカ（栗山千明）は、メイド姿で早織の職場に潜入する。&lt;br&gt;&lt;br&gt;【秘密諜報員 エリカ 一挙配信】&lt;br&gt;#１　12月5日(金)18:00　～　2026年1月12日(月)17:59&lt;br&gt;#２　12月7日(日)18:00　～　2026年1月12日(月)17:59&lt;br&gt;#３　12月9日(火)18:00　～　2026年1月12日(月)17:59&lt;br&gt;#４　12月11日(木)18:00　～　12月25日(木)17:59&lt;br&gt;#５　12月13日(土)18:00　～　12月27日(土)17:59&lt;br&gt;#６　12月15日(月)18:00　～　12月29日(月)17:59&lt;br&gt;#７　12月17日(水)18:00　～　12月31日(水)17:59&lt;br&gt;#８　12月19日(金)18:00　～　2026年1月2日(金)17:59&lt;br&gt;#９　12月21日(日)18:00　～　2026年1月4日(日)17:59&lt;br&gt;#10　12月23日(火)18:00　～　2026年1月6日(火)17:59&lt;br&gt;#11　12月25日(木)18:00　～　2026年1月8日(木)17:59&lt;br&gt;#12　12月27日(土)18:00　～　2026年1月10日(土)17:59&lt;br&gt;#13　12月29日(月)18:00　～　2026年1月12日(月)17:59
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epyppxhyxh"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eprgfek0hw</id>
+    <title>探偵が早すぎる　春のトリック返し祭り_[#5 驚愕トリック返し発動！ついに犠牲者が…!?]</title>
+    <updated>2025-12-21T18:00:00+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprgfek0hw.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_18時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月04日(日)_17時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2022年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;読売テレビ&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        千曲川（滝藤賢一）から、大谷（塩野瑛久）に命を狙われているのではないかと言われ、心が揺れる一華（広瀬アリス）。一方、成美（ＭＥＧＵＭＩ）は、一華を殺す為の毒を生成していた。&lt;br&gt;一華は大谷から、宗介（萩原利久）のバーで開かれるサッカー観戦のイベントに誘われる。一華は迷いながらもバーに行くと、すでに千曲川と橋田（水野美紀）がいた。大谷は、一華にフェイスペイントを勧めるが、ペイント液には何か仕掛けが…！？&lt;br&gt;&lt;br&gt;【探偵が早すぎる　春のトリック返し祭り 一挙配信】&lt;br&gt;#１　12月12日(金)18:00　～　2026年1月16日(木)17:59&lt;br&gt;#２　12月14日(日)18:00　～　2026年1月16日(木)17:59&lt;br&gt;#３　12月16日(火)18:00　～　2026年1月16日(木)17:59&lt;br&gt;#４　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#５　12月21日(日)18:00　～　2026年1月4日(日)17:59&lt;br&gt;#６　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#７　12月27日(土)18:00　～　2026年1月10日(土)17:59&lt;br&gt;#８　12月29日(月)18:00　～　2026年1月12日(月)17:59&lt;br&gt;#９　12月31日(水)18:00　～　2026年1月14日(水)17:59&lt;br&gt;#10　2026年1月2日(金)18:00　～　2026年1月16日(金)17:59
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eprgfek0hw"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epvvpn8p00</id>
+    <title>くすぶり女とすん止め女_[第4話 女の幸せに「○○」と「○○○」はマストなの？]</title>
+    <updated>2025-12-21T17:00:17+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvvpn8p00.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2023年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/18（木）17:00～&#13;&lt;br&gt;#3,#4：12/21（日）17:00～&#13;&lt;br&gt;#5,#6：12/24（水）17:00～&#13;&lt;br&gt;#7,#8：12/29（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;武（勝村政信）に同じ職場で働いていることがバレてしまった郁子（西田尚美）は離婚を切り出し、勢いのまま明（込江海翔）と澪（河野彩吹）を連れて家を出てしまう…。行く当てがないところ八田（渋谷謙人）に偶然出会い、事情を説明すると「しばらくうちに泊まりませんか？」と言われそのまま八田の家に泊まることに。一方ほのか（香音）は、秀一（杢代和人）の結婚をSNSで知る事に…。　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epvvpn8p00"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epxyavqe6d</id>
+    <title>くすぶり女とすん止め女_[第3話 「○○」と「○○」どっちが傷つく？]</title>
+    <updated>2025-12-21T17:00:16+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxyavqe6d.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2023年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/18（木）17:00～&#13;&lt;br&gt;#3,#4：12/21（日）17:00～&#13;&lt;br&gt;#5,#6：12/24（水）17:00～&#13;&lt;br&gt;#7,#8：12/29（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;郁子（西田尚美）はバブル営業が功を奏し入社早々3千万の契約を取る。八田（渋谷謙人）はその様子を見て次の仕事もほのか（香音）と組むように言うのだがそんな郁子をどこか疎ましく思うほのか。新規営業のPRを二人が考えることになるが、ほのかとの意見が別れ郁子は苦戦する。そんな中、日々の家事に追われる主婦目線で考えた企画をほのかに見せると…。　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epxyavqe6d"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epadzxdnug</id>
+    <title>完全に詰んだイチ子はもうカリスマになるしかないの_[第4話 一発には一発で。]</title>
+    <updated>2025-12-21T17:00:15+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epadzxdnug.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2022年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/18（木）17:00～&#13;&lt;br&gt;#3,#4：12/21（日）17:00～&#13;&lt;br&gt;#5,#6：12/24（水）17:00～&#13;&lt;br&gt;#7,#8：12/28（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;美容品ブランド「カシレ」のカリスマ社長・不美（MEGUMI）の計らいで批判コメントが減った有加里壱子（深川麻衣）。一方壱子を可愛がっている不美は「カシレ」の運営トップの坂巻（岩崎う大）から交流を控えるよう釘をさされる。そんな中壱子は交際していた相手の嫁・奥野多江（まつきりな）が不美のファンだと知る。不美に多江との仲をとりもってもらおうと計画する壱子。指定した場所に現れた多江は壱子の姿を目にして…？　［期間限定無料配信］　深川麻衣 出演！「キンパとおにぎり～恋するふたりは似ていてちがう～」テレビ東京系列にて1月12日(月)スタート！毎週月曜夜11時6分より放送！
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epadzxdnug"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eplsbw8e6l</id>
+    <title>完全に詰んだイチ子はもうカリスマになるしかないの_[第3話 カリスマか？マリオネットか？]</title>
+    <updated>2025-12-21T17:00:14+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplsbw8e6l.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2022年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/18（木）17:00～&#13;&lt;br&gt;#3,#4：12/21（日）17:00～&#13;&lt;br&gt;#5,#6：12/24（水）17:00～&#13;&lt;br&gt;#7,#8：12/28（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;カリスマを目指す壱子（深川麻衣）だが、美容ブランド「カシレ」の社長・不美（MEGUMI）のネット番組に出演した結果、世間を再び敵に回してしまった。しかしその動画が拡散したため、「カシレ」の運営トップ・坂巻（岩崎う大）に新しいブランドの広告塔になるように誘われる。その提案に迷う壱子だったが、不美は壱子を説得するために、驚きの事実を告げる。さらに恭平（野村周平）からきたメールで壱子はある決断をする。　［期間限定無料配信］　深川麻衣 出演！「キンパとおにぎり～恋するふたりは似ていてちがう～」テレビ東京系列にて1月12日(月)スタート！毎週月曜夜11時6分より放送！
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eplsbw8e6l"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epncnrvtu3</id>
+    <title>セトウツミ_[第8話]</title>
+    <updated>2025-12-21T17:00:13+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epncnrvtu3.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2017年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/10（水）17:00～&#13;&lt;br&gt;#3,#4：12/14（日）17:00～&#13;&lt;br&gt;#5,#6：12/18（木）17:00～&#13;&lt;br&gt;#7,#8：12/21（日）17:00～&#13;&lt;br&gt;#9,#10：12/24（水）17:00～&#13;&lt;br&gt;#11：12/28（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;関西の高校生、内海想（高杉真宙）と瀬戸小吉（葉山奨之）が繰り広げる放課後トーク2編。　（1）“絵しりとり”を始める2人。互いに無言の心理ゲーム。勘違いと深読みによって噛み合わないまま迎える、見事な結末とは!?　（2）河川敷で再び手紙をしたためる田中真二（森永悠希）。樫村一期（清原果耶）へのラブレターだ。そこへハツ美（片山友希）が現れて文面を読まれてしまい……　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epncnrvtu3"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7q24o79s</id>
+    <title>セトウツミ_[第7話]</title>
+    <updated>2025-12-21T17:00:12+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7q24o79s.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2017年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/10（水）17:00～&#13;&lt;br&gt;#3,#4：12/14（日）17:00～&#13;&lt;br&gt;#5,#6：12/18（木）17:00～&#13;&lt;br&gt;#7,#8：12/21（日）17:00～&#13;&lt;br&gt;#9,#10：12/24（水）17:00～&#13;&lt;br&gt;#11：12/28（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;関西の高校生、内海想（高杉真宙）と瀬戸小吉（葉山奨之）が繰り広げる放課後トーク3編。　（1）瀬戸の両親は離婚問題が勃発中。祖父は若き日の祖母を求めて徘徊中。嘆く瀬戸に内海は……。　（2）河川敷に現れた車いすの少女（山田杏奈）。悲壮感漂う少女を前になぜか饒舌な内海。瀬戸とのトークは次第にテンションが上がり……。　（3）樫村（清原果耶）VSハツ美（片山友希）再び！　瀬戸と内海それぞれに恋する2人のトークバトルが炸裂。　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep7q24o79s"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epper1necd</id>
+    <title>日本ボロ宿紀行_[第6話 千葉県銚子市 民宿犬若]</title>
+    <updated>2025-12-21T17:00:11+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epper1necd.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2019年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/15（月）17:00～&#13;&lt;br&gt;#3,#4：12/16（火）17:00～&#13;&lt;br&gt;#5,#6：12/21（日）17:00～&#13;&lt;br&gt;#7,#8：12/24（水）17:00～&#13;&lt;br&gt;#9,#10：12/27（土）17:00～&#13;&lt;br&gt;#11,#12：12/30（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;父・篠宮一平（平田満）の急死により、芸能事務所の社長を引き継いだ春子（深川麻衣）は、唯一の所属歌手・桜庭龍二（高橋和也）と営業の旅をしている。今回訪れたのはひと気のない寂れた漁港。「誰も歌なんか聞かない」と半ばやけくそに歌う龍二だったが、CDが20枚も売れたことに驚きつつも喜んでいた。宿泊先にたどり着いた2人は部屋へ。すると外に、営業先の漁港の片隅に1人で立っていた少女・渚（栗原夢果）の姿を見つけ……。　［期間限定無料配信］　深川麻衣 出演！「キンパとおにぎり～恋するふたりは似ていてちがう～」テレビ東京系列にて1月12日(月)スタート！毎週月曜夜11時6分より放送！
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epper1necd"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epthebnxcf</id>
+    <title>日本ボロ宿紀行_[第5話 千葉県 香取市 木の下旅館]</title>
+    <updated>2025-12-21T17:00:10+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epthebnxcf.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2019年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/15（月）17:00～&#13;&lt;br&gt;#3,#4：12/16（火）17:00～&#13;&lt;br&gt;#5,#6：12/21（日）17:00～&#13;&lt;br&gt;#7,#8：12/24（水）17:00～&#13;&lt;br&gt;#9,#10：12/27（土）17:00～&#13;&lt;br&gt;#11,#12：12/30（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;父・篠宮一平（平田満）の急死により、芸能事務所の社長を引き継いだ春子（深川麻衣）は、唯一の所属歌手・桜庭龍二（高橋和也）と営業の旅をしている。今夜の宿泊先を探していた2人は、ひなびた“ボロ宿”を発見。春子はここに泊まることを決意するが、ある理由から現在は休業中。しかしあきらめきれない春子は……。そして、今の桜庭龍二を知ってもらおうと20年前にヒットした龍二の曲『旅人』のMVを新たに作成しようと考え……。　［期間限定無料配信］　深川麻衣 出演！「キンパとおにぎり～恋するふたりは似ていてちがう～」テレビ東京系列にて1月12日(月)スタート！毎週月曜夜11時6分より放送！
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epthebnxcf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epr23j3qpq</id>
+    <title>復讐の未亡人_[episode4]</title>
+    <updated>2025-12-21T17:00:05+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr23j3qpq.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2022年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/18（木）17:00～&#13;&lt;br&gt;#3,#4：12/21（日）17:00～&#13;&lt;br&gt;#5,#6：12/27（土）17:00～&#13;&lt;br&gt;#7,#8：12/28（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;秘密裏に社長をも追いだすことに成功した鈴木密（松本若菜）。開発部にも山下晴菜（小林涼子）が新たに加わり会社は一掃されたかに思えたが、義弟で探偵の陽史（淵上泰史）の情報で、夫・優吾（平岡祐太）が自殺した日、最後に会っていたのは同僚の斎藤（桐山漣）だった可能性があると聞かされる。そうした中、密と斎藤は歩道橋から飛び降りようとする少女・凛（浅田芭路）を保護する。密は凛と自分の過去と重ね……。　※桐山漣の漣の字は点がひとつ　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epr23j3qpq"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epmtk76vl5</id>
+    <title>復讐の未亡人_[episode3]</title>
+    <updated>2025-12-21T17:00:04+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmtk76vl5.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2022年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/18（木）17:00～&#13;&lt;br&gt;#3,#4：12/21（日）17:00～&#13;&lt;br&gt;#5,#6：12/27（土）17:00～&#13;&lt;br&gt;#7,#8：12/28（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;有能で仕事が早く、さらに美人だと社内でも噂になり始めた鈴木密（松本若菜）。同僚の斎藤（桐山漣）からは「ライバル企業のスパイ」とからかわれるも溶け込んでいた。ある日、総務部・佐伯麻穂（足立梨花）が密に社長・若月勇（前川泰之）からご指名の仕事と急に押し付けられる。密はランニングが日課の若月に偶然を装い近づき真意を探るが……。一方で職場ではあらたな問題が発生する……！　※桐山漣の漣の字は点がひとつ　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epmtk76vl5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epfozg023h</id>
+    <title>38歳バツイチ独身女がマッチングアプリをやってみた結果日記_[第2話]</title>
+    <updated>2025-12-21T17:00:03+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfozg023h.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2020年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/21（日）17:00～&#13;&lt;br&gt;#3,#4：12/25（木）17:00～&#13;&lt;br&gt;#5,#6：12/29（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;国立大学の学生で通称・国立くん（鈴木康介）とデートをすることになったチアキ（山口紗弥加）。居酒屋デートの後、何もしないと言い張る彼の押しに負け、チアキは彼を家に招き入れてしまう。始めは楽しく過ごしている2人だったが、だんだん国立くんが近づいてきて……。ついにチアキは年下男子と!?　その後も出会う男たちはみんな体の関係が目的の通称「ヤリモク」ばかりだった。　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epfozg023h"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epho2vscsi</id>
+    <title>38歳バツイチ独身女がマッチングアプリをやってみた結果日記_[第1話]</title>
+    <updated>2025-12-21T17:00:02+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epho2vscsi.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月26日(月)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2020年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/21（日）17:00～&#13;&lt;br&gt;#3,#4：12/25（木）17:00～&#13;&lt;br&gt;#5,#6：12/29（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;38歳バツイチ独身のチアキ（山口紗弥加）は若くして結婚したため男性経験があまりない。すっこぬけてしまった青春を取り戻したいと思っていたとき、親友のリカ（町田マリー）に勧められたのが“マッチングアプリ”だった。興味本位で始めてみたチアキだが、アプリの中には年齢差なんて気にしない年下のイケメン男子が溢れていた！　年下男子たちと健全なデートを繰り返すチアキ。しかしある朝、目を覚ますと脱ぎ散らかされた服、そして隣には大学生が……!?　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epho2vscsi"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epsykxromz</id>
+    <title>マジすか学園3_[第12話（最終回）]</title>
+    <updated>2025-12-21T17:00:01+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsykxromz.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2012年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/3（水）17:00～&#13;&lt;br&gt;#3,#4：12/8（月）17:00～&#13;&lt;br&gt;#5,#6：12/11（木）17:00～&#13;&lt;br&gt;#7,#8：12/15（月）17:00～&#13;&lt;br&gt;#9,#10：12/18（木）17:00～&#13;&lt;br&gt;#11,#12：12/21（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ついにプリズンとの全面戦争に乗り出したパル（島崎遥香）。しかし、パルを慕っていたはずのピース（木﨑ゆりあ）が、実はプリズン側の人間だったことが明らかとなった！　一方、所長室で所長（洞口依子）と対峙していたノブナガ（松井珠理奈）は、目の前で所長にメッシ（高橋朱里）の毒入り腕輪システム作動ボタンを押されてしまう！　圧倒的に不利な状況に追い込まれてしまったパルたち。果たして彼女たちを待ち受ける運命とは……!?　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epsykxromz"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep83d1jb8i</id>
+    <title>マジすか学園3_[第11話]</title>
+    <updated>2025-12-21T17:00:00+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep83d1jb8i.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_17時00分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2026年_01月18日(日)_23時59分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;2012年放送&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;テレ東&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/3（水）17:00～&#13;&lt;br&gt;#3,#4：12/8（月）17:00～&#13;&lt;br&gt;#5,#6：12/11（木）17:00～&#13;&lt;br&gt;#7,#8：12/15（月）17:00～&#13;&lt;br&gt;#9,#10：12/18（木）17:00～&#13;&lt;br&gt;#11,#12：12/21（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;「これ以上、誰の命も自由にはさせない！」プリズンに対しついにパル（島崎遥香）が反旗を翻した！　集団監房に入れられていたチームマングースを助け出し、全員でプリズンから脱走することを決意したのだ！　独居房から脱走してきたノブナガ（松井珠理奈）も合流し、ノブナガはプリズンの心臓部へ、ピース（木﨑ゆりあ）たちはプリズンの地図を手に入れようと行動を開始する。しかし、そんなパルたちを衝撃の展開が待ち受けていた！　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep83d1jb8i"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epts316qmv</id>
     <title>渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)_[第三十九回]</title>
@@ -2096,545 +2672,5 @@
     &lt;/div&gt;
   &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep3ozba68d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3buehndl</id>
-    <title>嘘解きレトリック_[第6話 少女探偵団結成！手鏡に隠された秘密とは…！？]</title>
-    <updated>2025-12-21T00:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3buehndl.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月21日(日)_00時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：12月12日(金) ～ 01月11日(日)&lt;br&gt;#4：12月15日(月) ～ 12月21日(日)&lt;br&gt;#5：12月18日(木) ～ 12月24日(水)&lt;br&gt;#6：12月21日(日) ～ 12月27日(土)&lt;br&gt;#7：12月24日(水) ～ 12月30日(火)&lt;br&gt;#8：12月27日(土) ～ 01月2日(金)&lt;br&gt;#9：12月30日(火) ～ 01月5日(月)&lt;br&gt;#10：01月2日(金) ～ 01月8日(木)&lt;br&gt;#11：01月5日(月) ～ 01月11日(日)&lt;br&gt;&lt;br&gt;九十九夜町で探偵業を営む祝左右馬（鈴鹿央士）の探偵助手となった浦部鹿乃子（松本穂香）。鹿乃子は助手として“早く先生の役に立ちたい”と思っていた。そんな中、事務所の大家が鹿乃子に猫探しを依頼。無事に猫を発見するも、家賃をまけてもらえないか、金にならないかと猫を交渉材料として考える左右馬にあきれる鹿乃子。&lt;br&gt;&lt;br&gt;そんな2人が事務所に戻ると、藤島千代（片山友希）を見つける。「関わると、ロクなことがない」と逃げる左右馬は、鹿乃子と若竹座のお練り（祭礼の行列）に紛れ込んで身を隠す。だが、知り合いに声をかけられた左右馬を千代が発見。左右馬の方に駆け寄ろうとした千代は男とぶつかって倒れてしまう。男は千代に怪我がないか確認すると去り、鹿乃子は千代が落としたカバンなどを拾う。そして、着崩れた千代の着物を着付け直すために事務所へ行くことになった。&lt;br&gt;&lt;br&gt;着付けを終えた千代は、探偵事務所に興味津々。事務所の様子をメモしようとカバンを開けると、見知らぬ手鏡があった。先ほどぶつかった時ではないかと推測する千代は男に手鏡を届けに行こうと言い出す。左右馬は男の当時の装いなどから、左官屋さんではないかとアドバイスし、鹿乃子を千代に同行させる。千代は“少女探偵団結成！”と喜び勇んで事務所を出発する。&lt;br&gt;&lt;br&gt;早速、左官屋をあたった鹿乃子と千代は、利市（橋本淳）ではないかと教えてもらい、無事に利市に手鏡を返すことができたのだが、その後、周辺でひったくり事件が発生していることが発覚。「若い男に手鏡を盗まれた」という女性に手鏡の特徴を聞くと、利市が持っている手鏡と一致、鹿乃子と千代は利市をひったくり犯として再び捜索する。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『嘘解きレトリック』を全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep3buehndl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2azi83oy</id>
-    <title>ヒモメン_[第2話]</title>
-    <updated>2025-12-21T00:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2azi83oy.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月21日(日)_00時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_03月08日(日)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2018年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;テレビ朝日&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        12/21(日)～ #1-#3&#13;&lt;br&gt;1/11(日)～ #4-#5&#13;&lt;br&gt;2/8(日)～ #6-#7&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;「連れていきたい場所がある」と、同棲中のヒモ彼氏・碑文谷翔（窪田正孝）に連れ出された、春日ゆり子（川口春奈）。到着した先は――なんと結婚式場！　ゆり子はプロポーズされたものと思い込み、感動の涙を浮かべる…！&#13;&lt;br&gt;ところが、翔の目当ては、式場で開催されていた無料の食事会だったのだ…！　歓喜から一転、奈落の底に突き落とされたゆり子は、がく然とするばかり。しかも困ったことに、その式場でウエディングプランナーである姉の桜子（片瀬那奈）とバッタリ遭遇してしまう。男性を仕事や年収で判断するタイプの桜子に、無職の翔を会わせたら必ず別れさせられる…。そう考えたゆり子は、とっさに翔の存在を隠す。
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep2azi83oy"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1v20hpk7</id>
-    <title>HOPE～期待ゼロの新入社員～_[第6話 踏ん張れ願いは必ず届けてやる新人の発想で大企業が動く30分拡大SP]</title>
-    <updated>2025-12-21T00:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1v20hpk7.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月21日(日)_00時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月27日(土)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2016年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;フジテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：12月12日(金) ～ 01月05日(月)&lt;br&gt;#4：12月15日(月) ～ 12月21日(日)&lt;br&gt;#5：12月18日(木) ～ 12月24日(水)&lt;br&gt;#6：12月21日(日) ～ 12月27日(土)&lt;br&gt;#7：12月24日(水) ～ 12月30日(火)&lt;br&gt;#8：12月27日(土) ～ 01月02日(金)&lt;br&gt;#9：12月30日(火) ～ 01月05日(月)&lt;br&gt;&lt;br&gt;囲碁のプロ棋士になれず失意の底にいた一ノ瀬歩（中島裕翔）。見かねた母親（朝加真由美）のコネで総合商社・与一物産のインターン採用試験を受けることになり、同期から爪はじきにされ、仕事ではミスばかり犯すも、最終のプレゼン試験で役員たちの心を動かし、桐明真司（瀬戸康史）、香月あかね（山本美月）、人見将吾（桐山照史）らとともに見事、採用試験を突破した。ただし、1年契約という条件付きで―。&lt;br&gt;&lt;br&gt;一ノ瀬は、財務部から却下されていた炭素排出権の企画を成立させたあかねに刺激され、新規事業の企画を考えたいと課長の織田（遠藤憲一）に願い出る。織田は、安芸（山内圭哉）とふたりでみっちりしごいてやる、と言ってそれを許可した。&lt;br&gt;同じころ、鉄鋼2課では、太平洋沖を航行中の貨物船の船体に亀裂が見つかり、その対応に追われていた。港に引き返すことも、別の船に積み替えることも難しい状況だという。それを知った一ノ瀬は、亀裂をふさぐことはできないのかと言い出す。鉄鋼2課主任の結城（丸山智己）は、一ノ瀬の言葉をヒントに船体溶接の手配を進め、何とかトラブルを回避する。結城は、一ノ瀬のおかげで助かった、と織田に報告した。そんな一ノ瀬の活躍ぶりに、桐明はいら立ちを隠せない。&lt;br&gt;営業3課内で新規事業の企画をプレゼンした一ノ瀬は、モノを売る根本が理解できていない、と織田から酷評される。そこで一ノ瀬に課せられたのは、1万円を元手に商品を仕入れ、それを売って利益を出してくる、という営業課恒例の研修だった。安芸から話を聞いた結城は、桐明もその研修に参加させたいと申し出る。&lt;br&gt;一方、あかねは、波丘コークス工業に出向き、コークスをコンテナに移す手配をしてくるよう命じられる。上司の鳴海（マギー）ともめて早退を申し出た人見は、たまたまあかねと出会い、彼女と一緒に波丘コークスに行くが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『HOPE～期待ゼロの新入社員～』を全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep1v20hpk7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epllvt4hhp</id>
-    <title>今夜、わたしはカラダで恋をする。Season1_[Ep2 君を抱きたい、と思った夜。]</title>
-    <updated>2025-12-20T20:45:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epllvt4hhp.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_20時45分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2022年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        書店でバイトをしている大学生の倉田あかり（寺本莉緒）は、内向的で超インドア派。実はAV鑑賞という誰にも話せない趣味を持っていた。&lt;br&gt;そんなある日、“出版社の人も来るし、就活に有利になるよ”と説得されバイト先の飲み会に参加することに。そこにいたのが出版社に勤める大沼（猪塚健太）だった。終電間際になり、大沼に自宅まで送ってもらったあかりは大沼を招き入れる…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;【Season1】&lt;br&gt;12月19日(金) 夜8時45分～　#1&lt;br&gt;12月20日(土) 夜8時45分～　#2&lt;br&gt;12月21日(日) 夜8時45分～　#3（最終話）&lt;br&gt;【Season2】&lt;br&gt;12月22日(月) 夜8時45分～　#1&lt;br&gt;12月23日(火) 夜8時45分～　#2&lt;br&gt;12月24日(水) 夜8時45分～　#3&lt;br&gt;12月25日(木) 夜8時45分～　#4（最終話）
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epllvt4hhp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1t5gbubf</id>
-    <title>日曜の夜ぐらいは…_[第2話 忘れたい、でも本当は会いたい…]</title>
-    <updated>2025-12-20T20:30:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1t5gbubf.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_20時30分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2023年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        楽しかったバスツアー後、岸田サチ（清野菜名）は自らの意思でつらいだけの日常に戻るが、つい友達を求めてしまう反動にさいなまれる。野田翔子（岸井ゆきの）と樋口若葉（生見愛瑠）もまた、３人の出会いがその場限りで終わってしまったことに未練を募らせていた。そんな中、エレキコミックがラジオ番組内で、市川みね（岡山天音）のバスツアー報告を紹介。それぞれ別々の場所で耳を傾けるサチ、翔子、若葉は、自分たちの出会いが特別だったというみねのレポートを聞き…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月19日(金) 夜8時30分～　#1&lt;br&gt;12月20日(土) 夜8時30分～　#2&lt;br&gt;12月21日(日) 夜8時30分～　#3&lt;br&gt;12月22日(月) 夜8時30分～　#4&lt;br&gt;12月23日(火) 夜8時30分～　#5&lt;br&gt;12月24日(水) 夜8時30分～　#6&lt;br&gt;12月25日(木) 夜8時30分～　#7&lt;br&gt;12月26日(金) 夜8時30分～　#8&lt;br&gt;12月27日(土) 夜8時30分～　#9&lt;br&gt;12月28日(日) 夜8時30分～　#10（最終話）
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep1t5gbubf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcqlur60v</id>
-    <title>何曜日に生まれたの_[第2話　カリスマの美しい彼は]</title>
-    <updated>2025-12-20T20:15:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcqlur60v.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_20時15分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2023年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        10年間“コモリビト（引きこもり）”だった黒目すい（飯豊まりえ）は、同窓会が開催されているホテルに到着後、化粧室の個室に閉じこもる。勇気を出して化粧室から出たが、同窓会はすでに終了していた。&lt;br&gt;情けない自分に落ち込みながら歩いていると、二次会のカラオケ店から出てきた元サッカー部の江田悠馬（井上祐貴）に呼び止められる。動揺したすいは、人気小説家・公文竜炎（溝端淳平）から教えられた、会話に困ったときに使える魔法の言葉「ナンウマ？」という言葉を投げかける。10年ぶりの再会を果たし、連絡先も交換。長らく引きこもり生活を送っていた娘の勇気ある行動に父親の丈治（陣内孝則）は感動するが、すいをモデルに物語を紡ぐ公文は、「高校時代に淡い思いを通わせていたすいと悠馬の10年越しの再会は物語としてはありきたりで退屈だ」として10年前に共にバイク事故を起こしたサッカー部のエース・雨宮純平（YU）との話を提供してほしいとすいに伝える。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月19日(金) 夜8時15分～　#1&lt;br&gt;12月20日(土) 夜8時15分～　#2&lt;br&gt;12月21日(日) 夜8時15分～　#3&lt;br&gt;12月22日(月) 夜8時15分～　#4&lt;br&gt;12月23日(火) 夜8時15分～　#5&lt;br&gt;12月24日(水) 夜8時15分～　#6&lt;br&gt;12月25日(木) 夜8時15分～　#7&lt;br&gt;12月26日(金) 夜8時15分～　#8&lt;br&gt;12月27日(土) 夜8時15分～　#9（最終話）
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epcqlur60v"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8s38k6wd</id>
-    <title>ガチ恋粘着獣_[#9 あなたが、私を選ばないのが悪い]</title>
-    <updated>2025-12-20T20:15:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8s38k6wd.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_20時15分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2023年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        コスモ（山下幸輝）との連絡を絶ち、ファンでいることをやめようとした琴乃（石井杏奈）。心配した奈緒（小島藤子）が琴乃の自宅を訪れると、コスモへの思いを断ち切れずに苦しんでいる姿を目の当たりにし、コズミックとヘイダルゾーンの合同ファンミーティングのチケットを手渡す。&lt;br&gt;その一方で、琴乃からの連絡をずっと待ち続けていたコスモ。スバル（井上想良）は、そんな悶々としているコスモのことを気にかける一方で、ギンガ（松本大輝）は合同ファンミーティングのことで頭が一杯になっていた。そして、ヘイダルゾーンのミツクリ（平井亜門）は、合同ファンミーティングを前に、ギンガへの想いをこじらせていくのだった。&lt;br&gt;そんな中で迎えた合同ファンミーティング当日。浮足立つコスモとスバルを横目に、ヘイダルゾーンに負けられない危機感からピリピリしているギンガがいた。そんなギンガにミツクリは「コズミック、解散しちゃえば？」とそそのかすのだが…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月12日(金) 夜8時15分～　#1&lt;br&gt;12月13日(土) 夜8時15分～　#2&lt;br&gt;12月14日(日) 夜8時15分～　#3&lt;br&gt;12月15日(月) 夜8時15分～　#4&lt;br&gt;12月16日(火) 夜8時15分～　#5&lt;br&gt;12月17日(水) 夜8時15分～　#6&lt;br&gt;12月18日(木) 夜8時15分～　#7&lt;br&gt;12月19日(金) 夜8時15分～　#8&lt;br&gt;12月20日(土) 夜8時15分～　#9&lt;br&gt;12月21日(日) 夜8時15分～　#10（最終話）
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep8s38k6wd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplqyqmf3l</id>
-    <title>凪のお暇_[第９話「凪、慎二、家族をリセットする」]</title>
-    <updated>2025-12-20T20:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplqyqmf3l.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_20時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月25日(木)_19時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2019年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月5日(金)20:00～1月16日(金)21:59&lt;br&gt;#4：12月7日(日)20:00～12月12日(金)19:59&lt;br&gt;#5：12月10日(水)20:00～12月15日(月)19:59&lt;br&gt;#6：12月12日(金)20:00～12月17日(水)19:59&lt;br&gt;#7：12月15日(月)20:00～12月20日(土)19:59&lt;br&gt;#8：12月17日(水)20:00～12月22日(月)19:59&lt;br&gt;#9：12月20日(土)20:00～12月25日(木)19:59&lt;br&gt;#10：12月22日(月)20:00～12月27日(土)19:59&lt;br&gt;※本作品は12月27日(土)～1月16日(金)にも配信を行います&lt;br&gt;------------&lt;br&gt;突然上京してきた凪（黒木華）の母・夕（片平なぎさ）に、凪の婚約者と言ってしまった慎二（高橋一生）。その流れであれよあれよという間に、大島家と我聞家の両家顔合わせをすることになってしまい、今さら本当のことを言えない状況に。後に引けなくなった２人は…。一方で、アパートの共有スペースで、龍子（市川実日子）、緑（三田佳子）、みすず（吉田羊）、うらら（白鳥玉季）から、凪と結婚したいがためにわざと嘘をついたのではないかと疑われる慎二。ゴン（中村倫也）は凪と慎二の姿を見て、今までに感じた事がない憤りを感じていた。お暇が終了し、ゴンの部屋を去ろうとする慎二に、ゴンはある言葉を投げかける。
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eplqyqmf3l"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep4ra1szj0</id>
-    <title>素晴らしき哉、先生！_[2限目 先生だって失恋します。]</title>
-    <updated>2025-12-20T20:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4ra1szj0.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_20時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月03日(土)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2024年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        大友聖也（小関裕太）からのプロポーズを受け、一度は担任を降りる決意をした笹岡りお（生田絵梨花）だったが、生徒たちに励まされ、３年Ｃ組の卒業を見届けようと気を取り直す。ところが、その話をするため聖也の部屋を訪れると、衝撃の事実が発覚！&lt;br&gt;りおは聖也の部屋を飛び出し、妹のせり（内海誠子）と父の秀樹（高橋克典）に銀座で合流。その直前、生徒の沢井谷玲奈（茅島みずき）にそっくりな女性を見かけるが、これ以上問題を抱えたくないりおはついやり過ごしてしまう…。&lt;br&gt;翌朝、３年Ｃ組に玲奈の姿はなく、大木戸光源（小宮璃央）は遅刻気味に登校。二人とも一人親家庭で、どちらの保護者も三者面談を拒否していた。りおは副担任の山添快斗（葉山奨之）と相談し、それぞれの家庭を訪問することにするのだが、どちらの親にも良くない噂があり、りおはまたしてもトイレに駆け込む状況に…。&lt;br&gt;次々と難題が降りかかる間、幾度となく聖也から連絡が入るが、りおは無視を続ける。そんなある日、自宅に帰るとそこに聖也の姿が！？&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月19日(金 ) 夜8時～     #1&lt;br&gt;12月20日(土)  夜8時～　#2&lt;br&gt;12月21日(日)  夜8時～　#3&lt;br&gt;12月22日(月)  夜8時～　#4&lt;br&gt;12月23日(火)  夜8時～　#5&lt;br&gt;12月24日(水)  夜8時～　#6&lt;br&gt;1月2日(金)        夜8時～　#7&lt;br&gt;1月3日(土)        夜8時～　#8（最終話）
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep4ra1szj0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3shfh327</id>
-    <title>3年B組金八先生(第5シリーズ)_[第７回 迷える子羊たち]</title>
-    <updated>2025-12-20T20:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3shfh327.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_20時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月03日(土)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;1999年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;三者面談の季節がやってきた。金八（武田鉄矢）は希望や目標を書くアンケート用紙を配ったが、３年B組の生徒たちが書いたアンケートに金八は頭を抱えた。その中で、太田アスミ（森下加奈）は「進路は芸能界、スターになります」とはっきり言い切っていて…。そんなある日、３Bのバーバラ（大山千穂）の写真が雑誌に載った。教室の中はその写真の話題で持ちきりになった。小学校の６年の時に青山でスカウトされてからモデルの仕事をし、テレビに出たこともあるというバーバラの話にアスミが飛びつき…。
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep3shfh327"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5es9y8o8</id>
-    <title>around1/4_[…あほらしい。]</title>
-    <updated>2025-12-20T19:45:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5es9y8o8.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_19時45分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月20日(火)_23時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2023年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;ABCテレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        人付き合いの良さから、一見チャラいように見られていた康祐（佐藤大樹）だが、早苗のことは一途に大切に思っていた。そして、８年のあいだ一人の彼氏しか知らずに過ごしてきた早苗（美山加恋）は、これまで知らなかった“世界”を見せてくれる康祐に惹かれていた。だからこそ行き違い、お互いが昔の恋人とヨリを戻したと思い込んでいた２人。&lt;br&gt;&lt;br&gt;そんな２人の不器用な行き違いを察した明日美（工藤遥）は、直己（松岡広大）に連絡を取り、お互いの誤解が解けるように世話を焼くのだった。&lt;br&gt;&lt;br&gt;そんなある日、明日美の部屋へと正（平岡祐太）が訪ねてきた。しばらくのあいだメッセージを送っても既読にさえならなかった正の突然の来訪に明日美は喜ぶが、その刹那、正の背後には妻・えみ（須田亜香里）の姿が！えみのバッグにはマタニティーマークが着けられていた…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月12日(金) 夜7時45分～　#1&lt;br&gt;12月13日(土) 夜7時45分～　#2&lt;br&gt;12月14日(日) 夜7時45分～　#3&lt;br&gt;12月15日(月) 夜7時45分～　#4&lt;br&gt;12月16日(火) 夜7時45分～　#5&lt;br&gt;12月17日(水) 夜7時45分～　#6&lt;br&gt;12月18日(木) 夜7時45分～　#7&lt;br&gt;12月19日(金) 夜7時45分～　#8&lt;br&gt;12月20日(土) 夜7時45分～　#9&lt;br&gt;12月21日(日) 夜7時45分～　#10（最終話）
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep5es9y8o8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epyyz5usao</id>
-    <title>大恋愛～僕を忘れる君と_[最終話 君には絶対、絶対、僕なんだ！これは神様がくれた最後の奇跡]</title>
-    <updated>2025-12-20T18:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyyz5usao.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_18時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月25日(木)_17時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2018年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：戸田恵梨香 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月5日(金)18:00～1月18日(日)20:59&lt;br&gt;#4：12月5日(金)18:00～12月10日(水)17:59&lt;br&gt;#5：12月8日(月)18:00～12月13日(土)17:59&lt;br&gt;#6：12月10日(水)18:00～12月15日(月)17:59&lt;br&gt;#7：12月13日(土)18:00～12月18日(木)17:59&lt;br&gt;#8：12月15日(月)18:00～12月20日(土)17:59&lt;br&gt;#9：12月18日(木)18:00～12月23日(火)17:59&lt;br&gt;#10：12月20日(土)18:00～12月25日(木)17:59&lt;br&gt;※本作品は12月25日(木)～1月18日(日)20:59にも配信を行います&lt;br&gt;------------&lt;br&gt;家族に何も告げず、手紙と携帯電話を残し、突然いなくなってしまった尚（戸田恵梨香）。真司（ムロツヨシ）は警察に相談するが、事件性が確認できないため、動いてくれない。薫（草刈民代）と侑市（松岡昌宏）も駆け付け、病院にも尚の行方を確認するが、情報はなく…。それから８カ月。いまだ見つからない尚の消息を案じ、テレビの行方不明者捜索番組で、薫が情報提供を呼び掛けることに…。
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epyyz5usao"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epfoel68ql</id>
-    <title>東京エレベーターガール_[第七話「とめられぬ想い」]</title>
-    <updated>2025-12-20T18:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfoel68ql.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_18時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月26日(金)_17時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;1992年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;TBS&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        「映画ラストマン -FIRST LOVE-」１２月２４日（水）全国公開！！&lt;br&gt;出演：宮沢りえ 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月19日(水)12:00～1月31日(土)23:59&lt;br&gt;#4-5：12月14日(日)18:00～12月20日(土)17:59&lt;br&gt;#6-7：12月20日(土)18:00～12月26日(金)17:59&lt;br&gt;#8-9：12月26日(金)18:00～1月1日(木)17:59&lt;br&gt;#10-11：1月1日(木)18:00～1月7日(水)17:59&lt;br&gt;※本作品は1月7日(水)～1月31日(土)にも配信を行います&lt;br&gt;------------&lt;br&gt;吉本（赤井英和）が休暇を取って大阪の妻子の元へ帰ったため、つかさ（宮沢りえ）は、島（東幹久）からスキー旅行に誘われても気乗りがしない。その夜、つかさはアパートに来た島に突然押し倒される。必死で島を追い返したものの、つかさは動揺のあまり、大阪の吉本の家に電話してしまう。だが、受話器から子供の声を聞いたつかさは、何も言えずに電話を切る。一方、前野（佐野史郎）から「子供は堕ろしてほしい」と頼まれた薫（中嶋朋子）は自殺しかけ、寸前のところで尚子（奥山佳恵）と亨（宮下直紀）に引き止められ…。
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epfoel68ql"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcemodcc6</id>
-    <title>架空OL日記_[#7]</title>
-    <updated>2025-12-20T18:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcemodcc6.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_18時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月03日(土)_17時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2017年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;読売テレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        給湯室で副支店長とすれ違いざま「あれ？ちょっとふっくらした」と声をかけられた升野（バカリズム）。ショックを受けた升野は仕事終わり、更衣室で皆にダイエットを宣言する。サエ（佐藤玲）も便乗し、２人は「とにかく食べない！」と主張。そんな２人を小峰が巧みな言葉で焼肉に誘い出すが、果たして…&lt;br&gt;&lt;br&gt;【架空OL日記 一挙配信】&lt;br&gt;#１　12月5日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　12月7日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月9日(火)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#４　12月11日(木)18:00　～　12月25日(木)17:59&lt;br&gt;#５　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#６　12月17日(水)18:00　～　12月31日(水)17:59&lt;br&gt;#７　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#８　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#９　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#10　12月26日(金)18:00　～　2026年1月9日(金)17:59
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epcemodcc6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epb4oxb5vp</id>
-    <title>プロゴルファー花_[第12話]</title>
-    <updated>2025-12-20T18:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb4oxb5vp.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_18時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月03日(土)_17時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;2010年放送&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;読売テレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        全日本女子オープンのエントリーにギリギリ間に合った花は、ライバル・リコ、賞金女王・大原と同じ組でまわる事になる。ゴルフ仙人の修行で成長した花は大原の新人潰しの策略にも動じず、初日トップに躍り出る。&lt;br&gt;&lt;br&gt;【プロゴルファー花 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#３　12月2日(火)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:599&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epb4oxb5vp"/>
   </entry>
 </feed>

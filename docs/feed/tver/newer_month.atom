@@ -2,13 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-21T16:18:49+09:00</updated>
+  <updated>2025-12-21T18:19:17+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epj9dfwkpg</id>
+    <title>スケバン刑事_[第12話「サキ！おまえはもう死んでいる！」]</title>
+    <updated>2025-12-21T16:30:00+09:00</updated>
+    <content type="html">
+  &lt;body&gt;
+    &lt;div&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj9dfwkpg.jpg"&gt;
+
+      &lt;div class="dl-wrap"&gt;
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月21日(日)_16時30分&lt;/dd&gt;
+
+          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
+          &lt;dd&gt;2025年_12月28日(日)_16時00分&lt;/dd&gt;
+        &lt;/dl&gt;
+
+        &lt;dl class="item"&gt;
+          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
+          &lt;dd&gt;12月21日(日)放送分&lt;/dd&gt;
+
+          &lt;dt&gt;📡 放送局&lt;/dt&gt;
+          &lt;dd&gt;TOKYO MX&lt;/dd&gt;
+        &lt;/dl&gt;
+      &lt;/div&gt;
+
+      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
+
+      &lt;p&gt;
+        傷ついたサキは三平に助けられた。一方、海槌亜悠巳は鷹の羽学園を拠点として、各高校を掌中にしようとしていた。それを知ったサキは亜悠巳と対決する。
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epj9dfwkpg"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppiv0pn8v</id>
     <title>御上先生_[Episode 4 -fate-]</title>
@@ -188,77 +224,5 @@
     &lt;/div&gt;
   &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ephxhqivry"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep539nqxs3</id>
-    <title>良いこと悪いこと_[最終話 真犯人、だーれだ?]</title>
-    <updated>2025-12-20T21:54:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep539nqxs3.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_21時54分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月27日(土)_20時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;12月20日(土)放送分&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;日テレ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        「真犯人、だーれだ?」最終回!今夜すべてが明らかに。
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep539nqxs3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epj2les319</id>
-    <title>DQNの星に嫁ぎました_[【スマホ用】#12]</title>
-    <updated>2025-12-20T18:00:00+09:00</updated>
-    <content type="html">
-  &lt;body&gt;
-    &lt;div&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj2les319.jpg"&gt;
-
-      &lt;div class="dl-wrap"&gt;
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🕘 配信開始&lt;/dt&gt;
-          &lt;dd&gt;2025年_12月20日(土)_18時00分&lt;/dd&gt;
-
-          &lt;dt&gt;🕓 配信終了&lt;/dt&gt;
-          &lt;dd&gt;2026年_01月03日(土)_17時59分&lt;/dd&gt;
-        &lt;/dl&gt;
-
-        &lt;dl class="item"&gt;
-          &lt;dt&gt;🗓️ 放送&lt;/dt&gt;
-          &lt;dd&gt;7月27日(日)放送分&lt;/dd&gt;
-
-          &lt;dt&gt;📡 放送局&lt;/dt&gt;
-          &lt;dd&gt;読売テレビ&lt;/dd&gt;
-        &lt;/dl&gt;
-      &lt;/div&gt;
-
-      &lt;hr style="border:0; border-top:1px solid yellow"&gt;
-
-      &lt;p&gt;
-        東京から夫の地元に引っ越しすることになった主婦の小野あずさ（高橋春織）。ところが地元に帰ると真面目で優しい夫・勇輝（神田穣）とその仲間達はいわゆる「DQN」だった！！あずさが子どもと帰宅するとそこには家で勝手に食事をしている勇輝とＤＱＮ達が！激昂するあずさに勇輝は「ここはみんなで仲良く愛し合える世界」と狂った思考を伝える。そしてあずさは携帯を奪われ拘束されてしまい…&lt;br&gt;&lt;br&gt;【DQNの星に嫁ぎました 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月2日(火)18:00　～　12月16日(火)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:59&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#14　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#15　12月26日(金)18:00　～　2026年1月9日(金)17:59
-      &lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epj2les319"/>
   </entry>
 </feed>
