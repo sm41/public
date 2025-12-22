@@ -2,13 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-22T11:59:34+09:00</updated>
+  <updated>2025-12-22T13:09:02+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep9mu9bhmm</id>
+    <title>流星花園II～花より男子～_[第2話　果たされなかった約束]</title>
+    <updated>2025-12-22T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9mu9bhmm.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;
+        流星花園II～花より男子～
+      &lt;/a&gt;
+
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕘 配信開始&lt;/th&gt;
+          &lt;th&gt;🗓️ 放送&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月22日(月)_12時00分&lt;/td&gt;
+          &lt;td&gt;12月22日(月)放送分&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕓 配信終了&lt;/th&gt;
+          &lt;th&gt;📡 放送局&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2026年_05月27日(水)_11時59分&lt;/td&gt;
+          &lt;td&gt;テレ玉&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        約束の教会で司を待つつくし。しかし司は現れず、不安になったつくしはパリにいる藤堂静に助けを求める。二人が司を捜す中、市場の主人は流れ星の指輪に不吉な伝説があること、そして司がそれを買ったと明かす。事故で倒れた司はエルサの看護を受け病院で目を覚ます。そして、司の失踪を知ったF3もバルセロナへ駆けつける…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep9mu9bhmm"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep4071gvij</id>
+    <title>笑うハナに恋きたる_[第1話 出会ったが運の尽き]</title>
+    <updated>2025-12-22T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4071gvij.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;
+        笑うハナに恋きたる
+      &lt;/a&gt;
+
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕘 配信開始&lt;/th&gt;
+          &lt;th&gt;🗓️ 放送&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月22日(月)_12時00分&lt;/td&gt;
+          &lt;td&gt;12月21日(日)放送分&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕓 配信終了&lt;/th&gt;
+          &lt;th&gt;📡 放送局&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2026年_06月01日(月)_12時00分&lt;/td&gt;
+          &lt;td&gt;IBCテレビ&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        バーゲンの帰り道にバイクが故障し、困惑するハナ(レイニー・ヤン)の前にタクシーが停車する。カリスマスタイリストのタム(ウィルバー・パン)が呼んだタクシーにも関わらず、ハナは無理やり同乗し…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep4071gvij"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep32wbu0zl</id>
     <title>三国志　秘密の皇帝_[第3話]</title>
@@ -459,46 +541,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epcui71b3z"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epj9dfwkpg</id>
-    <title>スケバン刑事_[第12話「サキ！おまえはもう死んでいる！」]</title>
-    <updated>2025-12-21T16:30:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj9dfwkpg.jpg"&gt;
-      &lt;br&gt;
-      &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;
-        スケバン刑事
-      &lt;/a&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_16時30分&lt;/td&gt;
-          &lt;td&gt;12月21日(日)放送分&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月28日(日)_16時00分&lt;/td&gt;
-          &lt;td&gt;TOKYO MX&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        傷ついたサキは三平に助けられた。一方、海槌亜悠巳は鷹の羽学園を拠点として、各高校を掌中にしようとしていた。それを知ったサキは亜悠巳と対決する。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epj9dfwkpg"/>
   </entry>
 </feed>
