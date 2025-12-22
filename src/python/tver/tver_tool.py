@@ -85,8 +85,8 @@ def gen_html(episode_images, series_images, content, series_title, series_id, st
         </th>
         <th>
           <td>
-            <div>🗓️ 放送&emsp;&emsp; : {broadcastDateLabel}</div>
-            <div>📡 放送局&emsp; : {production_provider_name}</div>
+            <div>🗓️ 放送&emsp; : {broadcastDateLabel}</div>
+            <div>📡 放送局 : {production_provider_name}</div>
           </th>
         </td>
       </table>
