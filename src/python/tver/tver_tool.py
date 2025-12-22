@@ -92,35 +92,28 @@ def line_break(strings:str):
   return lb_html_str
 
 
-def gen_html(img_url, content, series_title, series_id, start_at, end_at, broadcastDateLabel, production_provider_name):
+def gen_html(episode_images, series_images, content, series_title, series_id, start_at, end_at, broadcastDateLabel, production_provider_name):
 
   html_template = f"""\
     <body>
-      <img src="{img_url}">
-      <br>
-      <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">
-        {series_title}
-      </a>
+      <img src="{episode_images}">
 
-      <table style=width:100%;>
-        <tr style=text-align:left;>
-          <th>🕘 配信開始</th>
-          <th>🗓️ 放送</th>
-        </tr>
+      <hr>
 
-        <tr style=text-align:center;>
-          <td>{start_at}</td>
-          <td>{broadcastDateLabel}</td>
-        </tr>
-
-        <tr style=text-align:left;>
-          <th>🕓 配信終了</th>
-          <th>📡 放送局</th>
-        </tr>
-
-        <tr style=text-align:center;>
-          <td>{end_at}</td>
-          <td>{production_provider_name}</td>
+      <table>
+        <tr>
+          <td style="vertical-align: top;">
+            <img src="{series_images}" height="100">
+          </td>
+          <td style="padding-left: 12px;">
+            <div>🎞️ 作品名&emsp; : {series_title}
+              <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">🔗</a>
+            </div>
+            <div>🕘 配信開始 : {start_at}</div>
+            <div>🕓 配信終了 : {end_at}</div>
+            <div>🗓️ 放送&emsp;&emsp; : {broadcastDateLabel}</div>
+            <div>📡 放送局&emsp; : {production_provider_name}</div>
+          </td>
         </tr>
       </table>
 

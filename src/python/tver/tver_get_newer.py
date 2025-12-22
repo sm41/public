@@ -105,13 +105,13 @@ def process_items(list_of_genre_dict:list):
       # end_iso                  = end_jst.isoformat()
       end_date                 = end_jst.strftime("%Y年_%m月%d日(%a)_%H時%M分")
 
-      # series_images            = f"https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg"
+      series_images            = f"https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg"
       episode_images           = f"https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg"
 
       ooo = tver_tool.get_description(episode_id)
       hhh = tver_tool.line_break(ooo['description'])
 
-      html = tver_tool.gen_html(episode_images, hhh, series_title, series_id, start_date, end_date, broadcast_date, production_provider_name)
+      html = tver_tool.gen_html(episode_images, series_images, hhh, series_title, series_id, start_date, end_date, broadcast_date, production_provider_name)
 
       fe = fg.add_entry()
       fe.id(f"https://tver.jp/episodes/{episode_id}")
