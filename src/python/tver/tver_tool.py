@@ -11,7 +11,6 @@ from zoneinfo import ZoneInfo
 
 
 class get_uid_and_token:
-
   url = "https://platform-api.tver.jp/v2/api/platform_users/browser/create"
 
   headers = {
@@ -38,7 +37,6 @@ class get_uid_and_token:
 
 
 def request_get(url):
-
   headers = {
     "x-tver-platform-type": "web"
   }
@@ -47,20 +45,6 @@ def request_get(url):
   response.raise_for_status()  # エラー時に例外
   json_data = response.json()
   return json_data
-
-
-# class get_description:
-#   def __init__(self, id:str):
-#     if id.startswith("sr"):
-#       self.url = f"https://statics.tver.jp/content/series/{id}.json"
-#     elif id.startswith("ep"):
-#       self.url = f"https://statics.tver.jp/content/episode/{id}.json"
-#     else:
-#       self.url = f"https://statics.tver.jp/content/special/{id}.json"
-
-
-#   def request_get(self):
-#     self.data = request_get(self.url)
 
 
 def get_description(id:str):
@@ -76,52 +60,29 @@ def get_description(id:str):
   return data
 
 
-
-
-# class line_break:
-#   def __init__(self):
-#     pass
-
-#   def lb_html(self, strings:str):
-#     self.lb_html_str = strings.replace("\n", "<br>")
-
-
-
 def line_break(strings:str):
   lb_html_str = strings.replace("\n", "<br>")
   return lb_html_str
 
 
 def gen_html(episode_images, series_images, content, series_title, series_id, start_at, end_at, broadcastDateLabel, production_provider_name):
-
   html_template = f"""\
     <body>
       <img src="{episode_images}">
-
       <hr>
-
-      <table>
-        <tr>
-          <td style="vertical-align: top;">
-            <img src="{series_images}" height="100">
-          </td>
-          <td style="padding-left: 12px;">
-            <div>🎞️ 作品名&emsp; : {series_title}
-              <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">🔗</a>
-            </div>
-            <div>🕘 配信開始 : {start_at}</div>
-            <div>🕓 配信終了 : {end_at}</div>
-            <div>🗓️ 放送&emsp;&emsp; : {broadcastDateLabel}</div>
-            <div>📡 放送局&emsp; : {production_provider_name}</div>
-          </td>
-        </tr>
-      </table>
-
-      <hr>
-
       <p>
         {content}
       </p>
+      <hr>
+      <img src="{series_images}" height="100">
+      <hr>
+      <div>🎞️ 作品名&emsp; : {series_title}
+        <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">🔗</a>
+      </div>
+      <div>🕘 配信開始 : {start_at}</div>
+      <div>🕓 配信終了 : {end_at}</div>
+      <div>🗓️ 放送&emsp;&emsp; : {broadcastDateLabel}</div>
+      <div>📡 放送局&emsp; : {production_provider_name}</div>
     </body>\
   """
 
@@ -130,7 +91,6 @@ def gen_html(episode_images, series_images, content, series_title, series_id, st
 
 
 def get_sp_main_html(img_url, content):
-
     sp_main_html_template = f"""\
       <div>
         <img src="{img_url}">
