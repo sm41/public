@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-22T20:17:56+09:00</updated>
+  <updated>2025-12-22T22:32:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -18,22 +18,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 孤独のグルメ Season5
-              &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時25分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 孤独のグルメ Season5
+            &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時25分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -52,22 +62,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : DQNの星に嫁ぎました
-              &lt;a href="https://tver.jp/series/sro01zbw46s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : DQNの星に嫁ぎました
+            &lt;a href="https://tver.jp/series/sro01zbw46s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -86,22 +106,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : DQNの星に嫁ぎました
-              &lt;a href="https://tver.jp/series/sro01zbw46s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : DQNの星に嫁ぎました
+            &lt;a href="https://tver.jp/series/sro01zbw46s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -120,22 +150,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 五十嵐夫妻は偽装他人
-              &lt;a href="https://tver.jp/series/srehmhdr6q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2月12日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 五十嵐夫妻は偽装他人
+            &lt;a href="https://tver.jp/series/srehmhdr6q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2月12日(水)放送分&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -154,22 +194,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 五十嵐夫妻は偽装他人
-              &lt;a href="https://tver.jp/series/srehmhdr6q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2月5日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 五十嵐夫妻は偽装他人
+            &lt;a href="https://tver.jp/series/srehmhdr6q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2月5日(水)放送分&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -188,22 +238,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 流星花園II～花より男子～
-              &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ玉&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 流星花園II～花より男子～
+            &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ玉&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -222,22 +282,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 笑うハナに恋きたる
-              &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_06月01日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月21日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : IBCテレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 笑うハナに恋きたる
+            &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_06月01日(月)_12時00分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月21日(日)放送分&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : IBCテレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -256,22 +326,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 三国志　秘密の皇帝
-              &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_09時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_08時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレビ大阪&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 三国志　秘密の皇帝
+            &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_09時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_08時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレビ大阪&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
 
       &lt;hr&gt;
 

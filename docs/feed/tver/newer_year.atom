@@ -2,13 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-22T20:17:56+09:00</updated>
+  <updated>2025-12-22T22:32:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep5dzjzeyx</id>
+    <title>今夜、わたしはカラダで恋をする。Season2_[第1話 セフレでもいいから。]</title>
+    <updated>2025-12-22T20:45:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5dzjzeyx.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 今夜、わたしはカラダで恋をする。Season2
+            &lt;a href="https://tver.jp/series/srwz54t4m2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時45分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : ABCテレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwz54t4m2.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        青山葉月（新田さちか）は、大学進学を機に田舎から憧れの東京へ上京してきた大学４年生。地元にいる彼氏とは遠距離恋愛を続けていたが、半年前からモデルの長谷川稜（岩上隼也）と、カラダを重ねるだけの関係を続けていた。&lt;br&gt;&lt;br&gt;そんなある日。葉月は長谷川と一緒に飲み会に。しかし、目の前で長谷川が別の女性を口説くのを目の当たりにする。葉月が「このあと部屋に行きたい」とメッセージを送っても、見て見ぬふりをする長谷川。そんな葉月の様子を察知したのは、飲み会に参加していた大沼亮介（猪塚健太）だった。飲み会後、長谷川は口説いていた女性と寄り添い街へと消えてしまった。その様子を寂しそうに見つめる葉月に大沼は優しく声をかける。&lt;br&gt;&lt;br&gt;葉月は大沼に誘われるままホテルへ向かいカラダを委ねるのだったが…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;【Season1】&lt;br&gt;12月19日(金) 夜8時45分～　#1&lt;br&gt;12月20日(土) 夜8時45分～　#2&lt;br&gt;12月21日(日) 夜8時45分～　#3（最終話）&lt;br&gt;【Season2】&lt;br&gt;12月22日(月) 夜8時45分～　#1&lt;br&gt;12月23日(火) 夜8時45分～　#2&lt;br&gt;12月24日(水) 夜8時45分～　#3&lt;br&gt;12月25日(木) 夜8時45分～　#4（最終話）
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep5dzjzeyx"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epf8gllwio</id>
+    <title>日曜の夜ぐらいは…_[第4話 私の友情の歴史は…後悔…裏切り…不安…]</title>
+    <updated>2025-12-22T20:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf8gllwio.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 日曜の夜ぐらいは…
+            &lt;a href="https://tver.jp/series/srf2ejuoxr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時30分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : ABCテレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf2ejuoxr.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        岸田サチ（清野菜名）のバイト先に父の博嗣（尾美としのり）が金の無心に現れる。離婚後のこととはいえ、邦子（和久井映見）が車イス生活を送ることになった際、一円の援助もしてくれなかった博嗣に、サチは恨み以外の感情を持てないでいるが…。一方、こまごまと面白くないことが続いた野田翔子（岸井ゆきの）は、憂さ晴らしに一番高いアイスを買おうと立ち寄ったコンビニでさらなるトラブルに巻き込まれてしまう。また、樋口家には若葉（生見愛瑠）の母・まどか（矢田亜希子）が突如現れ、富士子（宮本信子）と壮絶な修羅場を繰り広げた挙句、若葉の通帳に手を伸ばし…！３人で幸せになるはずが、全然うまくいかない現実に直面するサチ、翔子、若葉は、直に会うことにする。カフェに行き、買い物をし、サチの家に泊まることにした３人は、これまでの人生を語り合い、友達として過ごす他愛もない時間を心ゆくまで楽しむ。そんな中、サチは忘れていたあることを思い出し…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月19日(金) 夜8時30分～　#1&lt;br&gt;12月20日(土) 夜8時30分～　#2&lt;br&gt;12月21日(日) 夜8時30分～　#3&lt;br&gt;12月22日(月) 夜8時30分～　#4&lt;br&gt;12月23日(火) 夜8時30分～　#5&lt;br&gt;12月24日(水) 夜8時30分～　#6&lt;br&gt;12月25日(木) 夜8時30分～　#7&lt;br&gt;12月26日(金) 夜8時30分～　#8&lt;br&gt;12月27日(土) 夜8時30分～　#9&lt;br&gt;12月28日(日) 夜8時30分～　#10（最終話）
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epf8gllwio"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epiwkwrz7c</id>
     <title>何曜日に生まれたの_[第4話　サイコパスな彼女の恋は]</title>
@@ -18,22 +106,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 何曜日に生まれたの
-              &lt;a href="https://tver.jp/series/srx39d7xkq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時15分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : ABCテレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx39d7xkq.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 何曜日に生まれたの
+            &lt;a href="https://tver.jp/series/srx39d7xkq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時15分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : ABCテレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx39d7xkq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -52,22 +150,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 凪のお暇
-              &lt;a href="https://tver.jp/series/srtgk3xlds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月27日(土)_19時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtgk3xlds.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 凪のお暇
+            &lt;a href="https://tver.jp/series/srtgk3xlds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月27日(土)_19時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtgk3xlds.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -86,22 +194,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 親と子の誤算
-              &lt;a href="https://tver.jp/series/sr3l1ve1vi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_19時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 1982年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3l1ve1vi.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 親と子の誤算
+            &lt;a href="https://tver.jp/series/sr3l1ve1vi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_19時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 1982年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3l1ve1vi.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -120,22 +238,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 3年B組金八先生(第5シリーズ)
-              &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 1999年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 3年B組金八先生(第5シリーズ)
+            &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 1999年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -154,22 +282,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 素晴らしき哉、先生！
-              &lt;a href="https://tver.jp/series/src97bqiem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : ABCテレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src97bqiem.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 素晴らしき哉、先生！
+            &lt;a href="https://tver.jp/series/src97bqiem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : ABCテレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src97bqiem.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -188,22 +326,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : おやじの背中
-              &lt;a href="https://tver.jp/series/sr4op48am3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_19時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2014年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4op48am3.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : おやじの背中
+            &lt;a href="https://tver.jp/series/sr4op48am3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_20時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_19時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2014年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4op48am3.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -222,22 +370,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
-              &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+            &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -256,22 +414,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
-              &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+            &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -290,22 +458,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
-              &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+            &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -324,22 +502,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
-              &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+            &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -358,22 +546,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
-              &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+            &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -392,22 +590,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
-              &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+            &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -426,22 +634,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : プロゴルファー花
-              &lt;a href="https://tver.jp/series/sr2rkl41ah" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2rkl41ah.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : プロゴルファー花
+            &lt;a href="https://tver.jp/series/sr2rkl41ah" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2rkl41ah.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -460,22 +678,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 架空OL日記
-              &lt;a href="https://tver.jp/series/srvrcd5arn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2017年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvrcd5arn.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 架空OL日記
+            &lt;a href="https://tver.jp/series/srvrcd5arn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2017年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvrcd5arn.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -494,22 +722,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ランチ合コン探偵～恋とグルメと謎解きと～
-              &lt;a href="https://tver.jp/series/sr9na5uv2s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9na5uv2s.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ランチ合コン探偵～恋とグルメと謎解きと～
+            &lt;a href="https://tver.jp/series/sr9na5uv2s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9na5uv2s.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -528,22 +766,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : シロでもクロでもない世界で、パンダは笑う。
-              &lt;a href="https://tver.jp/series/sr5qun3uq3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5qun3uq3.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : シロでもクロでもない世界で、パンダは笑う。
+            &lt;a href="https://tver.jp/series/sr5qun3uq3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5qun3uq3.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -562,22 +810,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 極主夫道
-              &lt;a href="https://tver.jp/series/sri855k0x8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri855k0x8.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 極主夫道
+            &lt;a href="https://tver.jp/series/sri855k0x8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri855k0x8.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -596,22 +854,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 夕暮れに、手をつなぐ
-              &lt;a href="https://tver.jp/series/sr98lmizol" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_17時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr98lmizol.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 夕暮れに、手をつなぐ
+            &lt;a href="https://tver.jp/series/sr98lmizol" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_18時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_17時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr98lmizol.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -630,22 +898,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 先生のおとりよせ
-              &lt;a href="https://tver.jp/series/srxxidjhpl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxxidjhpl.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 先生のおとりよせ
+            &lt;a href="https://tver.jp/series/srxxidjhpl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxxidjhpl.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -664,22 +942,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 先生のおとりよせ
-              &lt;a href="https://tver.jp/series/srxxidjhpl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxxidjhpl.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 先生のおとりよせ
+            &lt;a href="https://tver.jp/series/srxxidjhpl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxxidjhpl.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -698,22 +986,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 来世ではちゃんとします２
-              &lt;a href="https://tver.jp/series/sr4x2fqjd5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4x2fqjd5.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 来世ではちゃんとします２
+            &lt;a href="https://tver.jp/series/sr4x2fqjd5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4x2fqjd5.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -732,22 +1030,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 来世ではちゃんとします２
-              &lt;a href="https://tver.jp/series/sr4x2fqjd5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月29日(木)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4x2fqjd5.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 来世ではちゃんとします２
+            &lt;a href="https://tver.jp/series/sr4x2fqjd5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月29日(木)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4x2fqjd5.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -766,22 +1074,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 春の呪い
-              &lt;a href="https://tver.jp/series/sr1web4jlh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1web4jlh.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 春の呪い
+            &lt;a href="https://tver.jp/series/sr1web4jlh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1web4jlh.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -800,22 +1118,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 春の呪い
-              &lt;a href="https://tver.jp/series/sr1web4jlh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月27日(火)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1web4jlh.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 春の呪い
+            &lt;a href="https://tver.jp/series/sr1web4jlh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月27日(火)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1web4jlh.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -834,22 +1162,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : やわ男とカタ子
-              &lt;a href="https://tver.jp/series/sr6tfn2cqy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6tfn2cqy.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : やわ男とカタ子
+            &lt;a href="https://tver.jp/series/sr6tfn2cqy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6tfn2cqy.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -868,22 +1206,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : やわ男とカタ子
-              &lt;a href="https://tver.jp/series/sr6tfn2cqy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6tfn2cqy.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : やわ男とカタ子
+            &lt;a href="https://tver.jp/series/sr6tfn2cqy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6tfn2cqy.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -902,22 +1250,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 女の戦争～バチェラー殺人事件～
-              &lt;a href="https://tver.jp/series/sri38uswc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri38uswc6.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 女の戦争～バチェラー殺人事件～
+            &lt;a href="https://tver.jp/series/sri38uswc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri38uswc6.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -936,22 +1294,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 女の戦争～バチェラー殺人事件～
-              &lt;a href="https://tver.jp/series/sri38uswc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri38uswc6.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 女の戦争～バチェラー殺人事件～
+            &lt;a href="https://tver.jp/series/sri38uswc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri38uswc6.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -970,22 +1338,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : みなと商事コインランドリー
-              &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : みなと商事コインランドリー
+            &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1004,22 +1382,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : みなと商事コインランドリー
-              &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : みなと商事コインランドリー
+            &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1038,22 +1426,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : けむたい姉とずるい妹
-              &lt;a href="https://tver.jp/series/sr4wcsi4pg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4wcsi4pg.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : けむたい姉とずるい妹
+            &lt;a href="https://tver.jp/series/sr4wcsi4pg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4wcsi4pg.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1072,22 +1470,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : けむたい姉とずるい妹
-              &lt;a href="https://tver.jp/series/sr4wcsi4pg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月27日(火)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4wcsi4pg.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : けむたい姉とずるい妹
+            &lt;a href="https://tver.jp/series/sr4wcsi4pg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月27日(火)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2023年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4wcsi4pg.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1106,22 +1514,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ひだまりが聴こえる
-              &lt;a href="https://tver.jp/series/srfwjmndd4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfwjmndd4.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ひだまりが聴こえる
+            &lt;a href="https://tver.jp/series/srfwjmndd4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfwjmndd4.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1140,22 +1558,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ひだまりが聴こえる
-              &lt;a href="https://tver.jp/series/srfwjmndd4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfwjmndd4.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ひだまりが聴こえる
+            &lt;a href="https://tver.jp/series/srfwjmndd4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srfwjmndd4.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1174,22 +1602,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 量産型リコ -プラモ女子の人生組み立て記-
-              &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9hp0uf40.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 量産型リコ -プラモ女子の人生組み立て記-
+            &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9hp0uf40.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1208,22 +1646,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 量産型リコ -プラモ女子の人生組み立て記-
-              &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9hp0uf40.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 量産型リコ -プラモ女子の人生組み立て記-
+            &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9hp0uf40.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1242,22 +1690,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : おじさまと猫
-              &lt;a href="https://tver.jp/series/sr9tvawlto" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9tvawlto.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : おじさまと猫
+            &lt;a href="https://tver.jp/series/sr9tvawlto" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9tvawlto.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1276,22 +1734,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : おじさまと猫
-              &lt;a href="https://tver.jp/series/sr9tvawlto" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9tvawlto.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : おじさまと猫
+            &lt;a href="https://tver.jp/series/sr9tvawlto" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_17時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9tvawlto.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1310,22 +1778,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : あいくるしい
-              &lt;a href="https://tver.jp/series/srlhecyrar" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_16時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_15時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2005年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlhecyrar.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : あいくるしい
+            &lt;a href="https://tver.jp/series/srlhecyrar" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_16時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_15時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2005年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlhecyrar.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1344,22 +1822,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)
-              &lt;a href="https://tver.jp/series/srw8hd409c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_16時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月04日(日)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2011年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw8hd409c.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)
+            &lt;a href="https://tver.jp/series/srw8hd409c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_16時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月04日(日)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2011年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw8hd409c.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1378,22 +1866,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 刑事のまなざし
-              &lt;a href="https://tver.jp/series/sr88xxn2c1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_14時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2013年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr88xxn2c1.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 刑事のまなざし
+            &lt;a href="https://tver.jp/series/sr88xxn2c1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_14時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2013年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr88xxn2c1.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1412,22 +1910,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 刑事のまなざし
-              &lt;a href="https://tver.jp/series/sr88xxn2c1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_14時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2013年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr88xxn2c1.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 刑事のまなざし
+            &lt;a href="https://tver.jp/series/sr88xxn2c1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_14時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2013年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr88xxn2c1.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1446,22 +1954,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 刑事のまなざし
-              &lt;a href="https://tver.jp/series/sr88xxn2c1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_14時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2013年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr88xxn2c1.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 刑事のまなざし
+            &lt;a href="https://tver.jp/series/sr88xxn2c1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_14時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2013年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr88xxn2c1.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1480,22 +1998,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 真犯人フラグ
-              &lt;a href="https://tver.jp/series/srxh4678rn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxh4678rn.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 真犯人フラグ
+            &lt;a href="https://tver.jp/series/srxh4678rn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxh4678rn.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1514,22 +2042,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 真犯人フラグ　真相編
-              &lt;a href="https://tver.jp/series/srxh4678rn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxh4678rn.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 真犯人フラグ　真相編
+            &lt;a href="https://tver.jp/series/srxh4678rn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2022年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxh4678rn.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1548,22 +2086,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 愛はどうだ
-              &lt;a href="https://tver.jp/series/srrs8w5fqs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 1992年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrs8w5fqs.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 愛はどうだ
+            &lt;a href="https://tver.jp/series/srrs8w5fqs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 1992年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrs8w5fqs.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1582,22 +2130,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ホタルノヒカリ2
-              &lt;a href="https://tver.jp/series/srtzoomt81" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtzoomt81.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ホタルノヒカリ2
+            &lt;a href="https://tver.jp/series/srtzoomt81" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtzoomt81.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1616,22 +2174,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ホタルノヒカリ2
-              &lt;a href="https://tver.jp/series/srtzoomt81" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtzoomt81.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ホタルノヒカリ2
+            &lt;a href="https://tver.jp/series/srtzoomt81" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtzoomt81.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1650,22 +2218,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : Q10
-              &lt;a href="https://tver.jp/series/srbl29p6q1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbl29p6q1.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : Q10
+            &lt;a href="https://tver.jp/series/srbl29p6q1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbl29p6q1.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1684,22 +2262,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : TOKYO MER～走る緊急救命室～
-              &lt;a href="https://tver.jp/series/srwttibvhk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwttibvhk.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : TOKYO MER～走る緊急救命室～
+            &lt;a href="https://tver.jp/series/srwttibvhk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwttibvhk.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1718,22 +2306,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 親バカ青春白書
-              &lt;a href="https://tver.jp/series/srx6e5efue" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6e5efue.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 親バカ青春白書
+            &lt;a href="https://tver.jp/series/srx6e5efue" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx6e5efue.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1752,22 +2350,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : もみ消して冬 ～わが家の問題なかったことに～
-              &lt;a href="https://tver.jp/series/srs26txr8s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2018年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs26txr8s.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : もみ消して冬 ～わが家の問題なかったことに～
+            &lt;a href="https://tver.jp/series/srs26txr8s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2018年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs26txr8s.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1786,22 +2394,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ホタルノヒカリ
-              &lt;a href="https://tver.jp/series/srtzoomt81" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2007年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtzoomt81.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ホタルノヒカリ
+            &lt;a href="https://tver.jp/series/srtzoomt81" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2007年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtzoomt81.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1820,22 +2438,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ノーサイド・ゲーム
-              &lt;a href="https://tver.jp/series/sr0e1xy4pt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0e1xy4pt.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ノーサイド・ゲーム
+            &lt;a href="https://tver.jp/series/sr0e1xy4pt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0e1xy4pt.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1854,22 +2482,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 恋はDeepに
-              &lt;a href="https://tver.jp/series/srkuqi7mu2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkuqi7mu2.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 恋はDeepに
+            &lt;a href="https://tver.jp/series/srkuqi7mu2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkuqi7mu2.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1888,22 +2526,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 恋はDeepに
-              &lt;a href="https://tver.jp/series/srkuqi7mu2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkuqi7mu2.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 恋はDeepに
+            &lt;a href="https://tver.jp/series/srkuqi7mu2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srkuqi7mu2.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1922,22 +2570,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 大好き！五つ子3
-              &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2001年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 大好き！五つ子3
+            &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2001年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1956,22 +2614,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : もみ消して冬 ～わが家の問題なかったことに～
-              &lt;a href="https://tver.jp/series/srs26txr8s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2018年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs26txr8s.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : もみ消して冬 ～わが家の問題なかったことに～
+            &lt;a href="https://tver.jp/series/srs26txr8s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2018年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs26txr8s.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1990,22 +2658,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : もみ消して冬 2019夏～夏でも寒くて死にそうです～
-              &lt;a href="https://tver.jp/series/srs26txr8s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs26txr8s.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : もみ消して冬 2019夏～夏でも寒くて死にそうです～
+            &lt;a href="https://tver.jp/series/srs26txr8s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srs26txr8s.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2024,22 +2702,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ３年Ａ組―今から皆さんは、人質です―
-              &lt;a href="https://tver.jp/series/srrkmyb446" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrkmyb446.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ３年Ａ組―今から皆さんは、人質です―
+            &lt;a href="https://tver.jp/series/srrkmyb446" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrkmyb446.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2058,22 +2746,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : キッズ・ウォー２～ざけんなよ～
-              &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_06月15日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2000年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : CBCテレビ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : キッズ・ウォー２～ざけんなよ～
+            &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2026年_06月15日(月)_12時00分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2000年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : CBCテレビ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2092,22 +2790,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 真犯人フラグ
-              &lt;a href="https://tver.jp/series/srxh4678rn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxh4678rn.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 真犯人フラグ
+            &lt;a href="https://tver.jp/series/srxh4678rn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxh4678rn.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2126,22 +2834,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ３年Ａ組―今から皆さんは、人質です―
-              &lt;a href="https://tver.jp/series/srrkmyb446" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrkmyb446.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ３年Ａ組―今から皆さんは、人質です―
+            &lt;a href="https://tver.jp/series/srrkmyb446" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2019年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrkmyb446.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2160,22 +2878,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : TOKYO MER～走る緊急救命室～
-              &lt;a href="https://tver.jp/series/srwttibvhk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwttibvhk.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : TOKYO MER～走る緊急救命室～
+            &lt;a href="https://tver.jp/series/srwttibvhk" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2021年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwttibvhk.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2194,22 +2922,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 消せない「私」ー復讐の連鎖ー
-              &lt;a href="https://tver.jp/series/sruen76gzz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruen76gzz.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 消せない「私」ー復讐の連鎖ー
+            &lt;a href="https://tver.jp/series/sruen76gzz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruen76gzz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2228,22 +2966,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 消せない「私」ー復讐の連鎖ー
-              &lt;a href="https://tver.jp/series/sruen76gzz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruen76gzz.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 消せない「私」ー復讐の連鎖ー
+            &lt;a href="https://tver.jp/series/sruen76gzz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2024年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruen76gzz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2262,22 +3010,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ホタルノヒカリ2
-              &lt;a href="https://tver.jp/series/srtzoomt81" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtzoomt81.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ホタルノヒカリ2
+            &lt;a href="https://tver.jp/series/srtzoomt81" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2010年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : 日テレ&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtzoomt81.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2296,22 +3054,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 病室で念仏を唱えないでください
-              &lt;a href="https://tver.jp/series/srxg7fe0un" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxg7fe0un.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : 病室で念仏を唱えないでください
+            &lt;a href="https://tver.jp/series/srxg7fe0un" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2020年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxg7fe0un.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2330,22 +3098,32 @@
 
       &lt;hr&gt;
 
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : ヤメゴク～ヤクザやめて頂きます～
-              &lt;a href="https://tver.jp/series/srz0zrfgn2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_10時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_09時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2015年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
-          &lt;/td&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz0zrfgn2.jpg" height="100"&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
+      &lt;dl&gt;
+        &lt;dt&gt;
+          &lt;div&gt;🎞️ 作品名&amp;emsp; : ヤメゴク～ヤクザやめて頂きます～
+            &lt;a href="https://tver.jp/series/srz0zrfgn2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+          &lt;/div&gt;
+        &lt;/dt&gt;
+        &lt;dd&gt;
+              &lt;table&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_10時00分&lt;/div&gt;
+                    &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_09時59分&lt;/div&gt;
+                  &lt;/td&gt;
+                &lt;/th&gt;
+                &lt;th&gt;
+                  &lt;td&gt;
+                    &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2015年放送&lt;/div&gt;
+                    &lt;div&gt;📡 放送局&amp;emsp; : TBS&lt;/div&gt;
+                  &lt;/th&gt;
+                &lt;/td&gt;
+              &lt;/table&gt;
+        &lt;/dd&gt;
+      &lt;/dl&gt;
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz0zrfgn2.jpg"&gt;
 
       &lt;hr&gt;
 
