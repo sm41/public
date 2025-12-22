@@ -72,29 +72,25 @@ def gen_html(episode_images, series_images, content, series_title, series_id, st
 
       <hr>
 
-      <dl>
-        <dt>
-          <div>🎞️ 作品名&emsp; : {series_title}
-            <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">🔗</a>
-          </div>
-        </dt>
-        <dd>
-              <table>
-                <th>
-                  <td>
-                    <div>🕘 配信開始 : {start_at}</div>
-                    <div>🕓 配信終了 : {end_at}</div>
-                  </td>
-                </th>
-                <th>
-                  <td>
-                    <div>🗓️ 放送&emsp;&emsp; : {broadcastDateLabel}</div>
-                    <div>📡 放送局&emsp; : {production_provider_name}</div>
-                  </th>
-                </td>
-              </table>
-        </dd>
-      </dl>
+      <div>🎞️ 作品名&emsp; : {series_title}
+        <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">🔗</a>
+      </div>
+
+      <table>
+        <th>
+          <td>
+            <div>🕘 配信開始 : {start_at}</div>
+            <div>🕓 配信終了 : {end_at}</div>
+          </td>
+        </th>
+        <th>
+          <td>
+            <div>🗓️ 放送&emsp;&emsp; : {broadcastDateLabel}</div>
+            <div>📡 放送局&emsp; : {production_provider_name}</div>
+          </th>
+        </td>
+      </table>
+
       <hr>
 
       <img src="{series_images}">
@@ -116,7 +112,7 @@ def get_sp_main_html(img_url, content):
       <div>
         <img src="{img_url}">
 
-        <hr style="border:0; border-top:1px solid yellow">
+        <hr>
 
         <p>
           {content}

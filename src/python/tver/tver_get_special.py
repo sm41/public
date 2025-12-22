@@ -41,16 +41,8 @@ def generating_feed():
     special_sub_id     = get_sp_sub_id(special_main_id, rrr.platform_uid, rrr.platform_token)
     special_images     = f"https://image-cdn.tver.jp/images/content/thumbnail/specialMain/xlarge/{special_main_id}.jpg"
 
-    # sss = tver_tool.get_description(special_sub_id)
-    # sss.request_get()
-
     ooo = tver_tool.get_description(special_sub_id)
     hhh = tver_tool.line_break(ooo['description'])
-
-    # lb = tver_tool.line_break()
-    # lb.lb_html(sss.data['description'])
-    # lb.lb_html(ooo['description'])
-    # hhh = lb.lb_html_str
 
     html = tver_tool.get_sp_main_html(special_images, hhh)
 
@@ -63,8 +55,6 @@ def generating_feed():
 
   atom_xml = fg.atom_str(pretty=True)
   return atom_xml
-
-
 
 
 def main():
