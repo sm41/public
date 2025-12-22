@@ -69,20 +69,31 @@ def gen_html(episode_images, series_images, content, series_title, series_id, st
   html_template = f"""\
     <body>
       <img src="{episode_images}">
+
       <hr>
+
+      <table>
+        <tr>
+          <td style="padding-left: 12px;">
+            <div>🎞️ 作品名&emsp; : {series_title}
+              <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">🔗</a>
+            </div>
+            <div>🕘 配信開始 : {start_at}</div>
+            <div>🕓 配信終了 : {end_at}</div>
+            <div>🗓️ 放送&emsp;&emsp; : {broadcastDateLabel}</div>
+            <div>📡 放送局&emsp; : {production_provider_name}</div>
+          </td>
+          <td style="vertical-align: top;">
+            <img src="{series_images}" height="100">
+          </td>
+        </tr>
+      </table>
+
+      <hr>
+
       <p>
         {content}
       </p>
-      <hr>
-      <img src="{series_images}" height="100">
-      <hr>
-      <div>🎞️ 作品名&emsp; : {series_title}
-        <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">🔗</a>
-      </div>
-      <div>🕘 配信開始 : {start_at}</div>
-      <div>🕓 配信終了 : {end_at}</div>
-      <div>🗓️ 放送&emsp;&emsp; : {broadcastDateLabel}</div>
-      <div>📡 放送局&emsp; : {production_provider_name}</div>
     </body>\
   """
 
