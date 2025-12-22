@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-23T00:21:14+09:00</updated>
+  <updated>2025-12-23T02:18:05+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep215vwezg</id>
+    <title>LOVE SWITCH_[第8話 揺れる炎]</title>
+    <updated>2025-12-23T02:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep215vwezg.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 作品名&amp;emsp; : LOVE SWITCH
+        &lt;a href="https://tver.jp/series/srqrayoy2y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_02時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 長野放送&lt;/div&gt;
+          &lt;/th&gt;
+        &lt;/td&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srqrayoy2y.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        光哉の決断。グループデートの後、ナナミと楓に自分の想いを告げる。3人はそれぞれの気持ちと、互いを尊重する想いを胸に、最後の時間を過ごしていく。そして、3人にとって最後の夜。もう一つの恋も、大きく動き出す。野尻湖から始まり、信州の雄大な自然の中で時を重ねてきた物語は、ついに結末へ。感動の最終回。今、恋の炎が大きく揺れる。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep215vwezg"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epd1lj1zwb</id>
+    <title>悪いのはあなたです_[#８ 女の裏切りと、男の欲望]</title>
+    <updated>2025-12-23T01:59:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd1lj1zwb.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 作品名&amp;emsp; : 悪いのはあなたです
+        &lt;a href="https://tver.jp/series/srgrkbx4un" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_01時59分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_01時28分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+          &lt;/th&gt;
+        &lt;/td&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgrkbx4un.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        莉子（工藤美桜）は友人の芳子（高田里穂）とツトム（小川史記）が夫婦であることを知る。しかし、ツトムからは「もう一度僕とのことを考えなおして」と言われてしまう。&lt;br&gt;一方、ミカ（加藤史帆）は莉子の留守中に家に押しかけ、タクマ（山中柔太朗）に「莉子は彼女にふさわしくない」と言い迫る。そこへ莉子が帰宅してしまい、ミカは開き直り、タクマと浮気をしていたこと、さらには莉子が浮気していたことまで打ち明け始める…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epd1lj1zwb"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epxc7l9p91</id>
+    <title>TXQ FICTION / UFO山_[UFO山(1)]</title>
+    <updated>2025-12-23T01:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxc7l9p91.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 作品名&amp;emsp; : TXQ FICTION / UFO山
+        &lt;a href="https://tver.jp/series/srog0v9atu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_01時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/th&gt;
+        &lt;/td&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srog0v9atu.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        2025年12月22日放送
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epxc7l9p91"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep5rc1o08a</id>
     <title>シナントロープ_[最終話 「あの人は…とんでもないです」]</title>
@@ -31,8 +151,8 @@
         &lt;/th&gt;
         &lt;th&gt;
           &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
           &lt;/th&gt;
         &lt;/td&gt;
       &lt;/table&gt;
@@ -71,8 +191,8 @@
         &lt;/th&gt;
         &lt;th&gt;
           &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : カンテレ&lt;/div&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
           &lt;/th&gt;
         &lt;/td&gt;
       &lt;/table&gt;
@@ -111,8 +231,8 @@
         &lt;/th&gt;
         &lt;th&gt;
           &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
           &lt;/th&gt;
         &lt;/td&gt;
       &lt;/table&gt;
@@ -151,8 +271,8 @@
         &lt;/th&gt;
         &lt;th&gt;
           &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
           &lt;/th&gt;
         &lt;/td&gt;
       &lt;/table&gt;
@@ -191,8 +311,8 @@
         &lt;/th&gt;
         &lt;th&gt;
           &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
           &lt;/th&gt;
         &lt;/td&gt;
       &lt;/table&gt;
@@ -231,8 +351,8 @@
         &lt;/th&gt;
         &lt;th&gt;
           &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2月12日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2月12日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
           &lt;/th&gt;
         &lt;/td&gt;
       &lt;/table&gt;
@@ -271,8 +391,8 @@
         &lt;/th&gt;
         &lt;th&gt;
           &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2月5日(水)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2月5日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
           &lt;/th&gt;
         &lt;/td&gt;
       &lt;/table&gt;
