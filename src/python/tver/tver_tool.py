@@ -92,11 +92,15 @@ def line_break(strings:str):
   return lb_html_str
 
 
-def gen_html(img_url, content, start_at, end_at, broadcastDateLabel, production_provider_name):
+def gen_html(img_url, content, series_title, series_id, start_at, end_at, broadcastDateLabel, production_provider_name):
 
   html_template = f"""\
     <body>
       <img src="{img_url}">
+      <br>
+      <a href="https://tver.jp/series/{series_id}" target="_blank">
+        {series_title}
+      </a>
 
       <table style=width:100%;>
         <tr style=text-align:left;>

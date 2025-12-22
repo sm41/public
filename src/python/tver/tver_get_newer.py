@@ -91,7 +91,7 @@ def process_items(list_of_genre_dict:list):
 
     for item in dict_of_genre['items']:
       series_title             = item['item']['content']['seriesTitle']
-      # series_id                = item['item']['content']['seriesID']
+      series_id                = item['item']['content']['seriesID']
       episode_title            = item['item']['content']['title']
       episode_id               = item['item']['content']['id']
       broadcast_date           = item['item']['content']['broadcastDateLabel']
@@ -108,21 +108,10 @@ def process_items(list_of_genre_dict:list):
       # series_images            = f"https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/{series_id}.jpg"
       episode_images           = f"https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/{episode_id}.jpg"
 
-      # sss = tver_tool.get_description(series_id)
-      # sss.request_get()
-
-      # eee = tver_tool.get_description(episode_id)
-      # eee.request_get()
-
       ooo = tver_tool.get_description(episode_id)
       hhh = tver_tool.line_break(ooo['description'])
 
-      # lb = tver_tool.line_break()
-      # lb.lb_html(eee.data['description'])
-      # lb.lb_html(ooo['description'])
-      # hhh = lb.lb_html_str
-
-      html = tver_tool.gen_html(episode_images, hhh, start_date, end_date, broadcast_date, production_provider_name)
+      html = tver_tool.gen_html(episode_images, hhh, series_title, series_id, start_date, end_date, broadcast_date, production_provider_name)
 
       fe = fg.add_entry()
       fe.id(f"https://tver.jp/episodes/{episode_id}")
