@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-22T02:16:36+09:00</updated>
+  <updated>2025-12-22T11:59:34+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,11 +10,138 @@
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://tver.jp/episodes/ep32wbu0zl</id>
+    <title>三国志　秘密の皇帝_[第3話]</title>
+    <updated>2025-12-22T09:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep32wbu0zl.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;
+        三国志　秘密の皇帝
+      &lt;/a&gt;
+
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕘 配信開始&lt;/th&gt;
+          &lt;th&gt;🗓️ 放送&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月22日(月)_09時00分&lt;/td&gt;
+          &lt;td&gt;12月22日(月)放送分&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕓 配信終了&lt;/th&gt;
+          &lt;th&gt;📡 放送局&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月29日(月)_08時59分&lt;/td&gt;
+          &lt;td&gt;テレビ大阪&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        満寵（まんちょう）ら臣下の前に出ることになった劉平（りゅうへい）。用心深く振る舞う劉平だったが、その言動により様子がおかしいと怪しまれてしまう。満寵と荀彧（じゅんいく）は確証こそないものの、劉平への不信感を強めていった。一方その頃、弘農（こうのう）王祠にたどり着いた司馬懿（しばい）は、床に転がっている劉平の医書を見つける。するとその時、背後から刀の刃が…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep32wbu0zl"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epzvl78qse</id>
+    <title>欲しがり女子と、訳あり男子。_[＃２]</title>
+    <updated>2025-12-22T07:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzvl78qse.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srpjvcs5ah" target="_blank" rel="noopener noreferrer"&gt;
+        欲しがり女子と、訳あり男子。
+      &lt;/a&gt;
+
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕘 配信開始&lt;/th&gt;
+          &lt;th&gt;🗓️ 放送&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月22日(月)_07時30分&lt;/td&gt;
+          &lt;td&gt;12月22日(月)放送分&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕓 配信終了&lt;/th&gt;
+          &lt;th&gt;📡 放送局&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2026年_02月02日(月)_07時30分&lt;/td&gt;
+          &lt;td&gt;TOKYO MX&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        女性との距離感がわからず失敗続きの大地。朝食づくりにも挑戦するが真っ黒に焦がしてしまい、女子たちから散々な反応を受ける。一方、ひまわりの強烈すぎるスキンシップや紅葉の無表情な監視など、大地はますます混乱。シェアハウスのルールや人間関係に翻弄され、居場所がないと感じ始める。そんな中、春風の元彼の影がちらつき…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epzvl78qse"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epk3rdjq1u</id>
+    <title>欲しがり女子と、訳あり男子。_[＃１]</title>
+    <updated>2025-12-22T07:15:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk3rdjq1u.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srpjvcs5ah" target="_blank" rel="noopener noreferrer"&gt;
+        欲しがり女子と、訳あり男子。
+      &lt;/a&gt;
+
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕘 配信開始&lt;/th&gt;
+          &lt;th&gt;🗓️ 放送&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月22日(月)_07時15分&lt;/td&gt;
+          &lt;td&gt;12月22日(月)放送分&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕓 配信終了&lt;/th&gt;
+          &lt;th&gt;📡 放送局&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2026年_02月02日(月)_07時30分&lt;/td&gt;
+          &lt;td&gt;TOKYO MX&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        広告代理店で働く中野大地は、極度の“女性恐怖症”。ある噂が原因で会社での立場が危うくなり、上司の勧めでシェアハウスの管理人を兼任することに。&lt;br&gt;ところが入居者は癖だらけの女子4人。初日から誤解やトラブルが連発し、大地は怯えながらも少しずつ向き合おうとする。&lt;br&gt;そんな中、住人の春風が大地の様子に違和感を抱き…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epk3rdjq1u"/>
+  </entry>
+  <entry>
     <id>https://tver.jp/episodes/epvgk00kdb</id>
     <title>復讐相手がすでに不幸のどん底なんですが！_[【スマホ用】#10「幸せは夢」POV：ヨウコ・サクラ]</title>
     <updated>2025-12-22T01:35:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvgk00kdb.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srn814zpt4" target="_blank" rel="noopener noreferrer"&gt;
+        復讐相手がすでに不幸のどん底なんですが！
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -52,6 +179,10 @@
     <updated>2025-12-22T01:35:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnhhp64tf.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srn814zpt4" target="_blank" rel="noopener noreferrer"&gt;
+        復讐相手がすでに不幸のどん底なんですが！
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -89,6 +220,10 @@
     <updated>2025-12-22T01:34:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8vlwz3d6.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr40hk960m" target="_blank" rel="noopener noreferrer"&gt;
+        飯を喰らひて華と告ぐ
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -126,6 +261,10 @@
     <updated>2025-12-22T01:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epru9yai9a.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;
+        仮面の忍者 赤影
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -163,6 +302,10 @@
     <updated>2025-12-22T01:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr73r9cmh.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;
+        仮面の忍者 赤影
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -200,6 +343,10 @@
     <updated>2025-12-22T01:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8qc5dpui.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;
+        仮面の忍者 赤影
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -237,6 +384,10 @@
     <updated>2025-12-22T00:55:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epafmaiuvv.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr2lviu2dq" target="_blank" rel="noopener noreferrer"&gt;
+        君としたキスはいつまでも
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -274,6 +425,10 @@
     <updated>2025-12-21T23:25:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcui71b3z.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srdx419m0o" target="_blank" rel="noopener noreferrer"&gt;
+        ノンレムの窓
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -311,6 +466,10 @@
     <updated>2025-12-21T16:30:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj9dfwkpg.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srx6jjv23a" target="_blank" rel="noopener noreferrer"&gt;
+        スケバン刑事
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -341,42 +500,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epj9dfwkpg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppiv0pn8v</id>
-    <title>御上先生_[Episode 4 -fate-]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppiv0pn8v.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;2月9日(日)放送分&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
-          &lt;td&gt;TBS&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;冴島（常盤貴子）と国家公務員採用総合職試験会場で起こった殺人事件の関係が公になり、神崎（奥平大兼）は責任を感じて冴島のパート先を訪れるが、すでに辞めた後だった。&lt;br&gt;そんな中、教室では御上（松坂桃李）の提案で、生徒たちがある事柄に関して議論を始める。&lt;br&gt;また、隣徳学院に届いたヤマトタケルを名乗る人物からの１枚のFAXについて、是枝文香（吉岡里帆）は自分なりの答えに辿り着き――。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eppiv0pn8v"/>
   </entry>
 </feed>

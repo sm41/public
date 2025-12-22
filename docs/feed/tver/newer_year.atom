@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-22T02:16:36+09:00</updated>
+  <updated>2025-12-22T11:59:34+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,11 +10,56 @@
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://tver.jp/episodes/epk0s5exhg</id>
+    <title>ヤメゴク～ヤクザやめて頂きます～_[第六話 母とヤクザ あなたは私の仇です]</title>
+    <updated>2025-12-22T10:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk0s5exhg.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srz0zrfgn2" target="_blank" rel="noopener noreferrer"&gt;
+        ヤメゴク～ヤクザやめて頂きます～
+      &lt;/a&gt;
+
+      &lt;table style=width:100%;&gt;
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕘 配信開始&lt;/th&gt;
+          &lt;th&gt;🗓️ 放送&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月22日(月)_10時00分&lt;/td&gt;
+          &lt;td&gt;2015年放送&lt;/td&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:left;&gt;
+          &lt;th&gt;🕓 配信終了&lt;/th&gt;
+          &lt;th&gt;📡 放送局&lt;/th&gt;
+        &lt;/tr&gt;
+
+        &lt;tr style=text-align:center;&gt;
+          &lt;td&gt;2025年_12月31日(水)_09時59分&lt;/td&gt;
+          &lt;td&gt;TBS&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月13日(土)10:00～&lt;br&gt;#4：12月13日(土)10:00～12月22日(月)9:59&lt;br&gt;#5：12月17日(水)10:00～12月26日(金)9:59&lt;br&gt;#6：12月22日(月)10:00～12月31日(水)9:59&lt;br&gt;#7：12月26日(金)10:00～1月4日(日)9:59&lt;br&gt;#8：12月31日(水)10:00～1月9日(金)9:59&lt;br&gt;#9：1月4日(日)10:00～1月13日(火)9:59&lt;br&gt;#10：1月9日(金)10:00～&lt;br&gt;------------&lt;br&gt;幼少期の麦秋を知る交番勤務の岩井田守（金田明夫）が足抜けコールにやって来た。元暴力団構成員・小牧裕也（山本浩司）の就職先を斡旋して欲しいと言うのだが、本人は人生に疲れきった様子で生気がない。情に厚い“町のおまわりさん”気質の岩井田は、関東貴船組の若頭・水田千一（金すんら）が組長を務める水千組の構成員だった小牧を１年前に暴行で逮捕。その後、組から絶縁され自殺未遂を図ったときも助けに駆けつけるなど何かと気にかけているが、麦秋（大島優子）はすでに足抜け済みの小牧の就職に興味を示さない。三ヶ島（北村一輝）と佐野（勝地涼）は、麦秋に代わって小牧の世話に精を出すが、就職活動は難航。小牧が精神的に働ける状態ではなく経済的にも困窮していると判断した佐野は、一時的に生活保護を受給することを提案する。ところが麦秋は「労働可能な身体能力があるのに、一般市民の税金を使うことは許せません！」と反発し、まさかの行動に…。麦秋の、暴力団への異常な憎しみを不審に思っていた三ヶ島は、岩井田に麦秋一家とヤクザとの関係を聞き出す。そこで明かされたのは、麦秋も知らない、母・由美子（名取裕子）と関東貴船組の組長・橘（遠藤憲一）の驚くべき関係だった。その頃、福祉事務所から提出を求められた“絶縁状”が手に入らず、小牧の生活保護への道が断たれた足抜けコールへ、橘から電話が入り…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epk0s5exhg"/>
+  </entry>
+  <entry>
     <id>https://tver.jp/episodes/epztv8uw04</id>
     <title>Destiny_[第4話 誰が彼女を殺した？]</title>
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epztv8uw04.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr9fan1hkw" target="_blank" rel="noopener noreferrer"&gt;
+        Destiny
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -52,6 +97,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxsht9l3g.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sruu2owsk1" target="_blank" rel="noopener noreferrer"&gt;
+        恋仲
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -89,6 +138,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx57pse4o.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srodsygrde" target="_blank" rel="noopener noreferrer"&gt;
+        元彼の遺言状
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -126,6 +179,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwpwkagpc.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sre0w24jg7" target="_blank" rel="noopener noreferrer"&gt;
+        コンフィデンスマンJP  
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -163,6 +220,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwld8lpey.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srbw8tbv8q" target="_blank" rel="noopener noreferrer"&gt;
+        TOKYOコントロール 東京航空交通管制部
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -200,6 +261,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw0tbq64t.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srpgg8ka2e" target="_blank" rel="noopener noreferrer"&gt;
+        ラスト・フレンズ
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -237,6 +302,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvfwf47bs.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srf5d5tl55" target="_blank" rel="noopener noreferrer"&gt;
+        東京タワー
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -274,6 +343,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvch9fn5e.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srnbcv9my4" target="_blank" rel="noopener noreferrer"&gt;
+        遅咲きのヒマワリ～ボクの人生、リニューアル～
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -311,6 +384,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuh47n8wl.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr9b70lgds" target="_blank" rel="noopener noreferrer"&gt;
+        全開ガール
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -348,6 +425,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptz67nuvp.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srd173sgfi" target="_blank" rel="noopener noreferrer"&gt;
+        アンサング・シンデレラ 病院薬剤師の処方箋
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -385,6 +466,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epttbg602k.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr0iz2g83x" target="_blank" rel="noopener noreferrer"&gt;
+        警視庁いきもの係
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -422,6 +507,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epthqd4334.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr3r43aoeq" target="_blank" rel="noopener noreferrer"&gt;
+        オクラ～迷宮入り事件捜査～
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -459,6 +548,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eptadnom6s.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr9fan1hkw" target="_blank" rel="noopener noreferrer"&gt;
+        Destiny
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -496,6 +589,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epse7d5iq3.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srxhv3xnnu" target="_blank" rel="noopener noreferrer"&gt;
+        ショムニ2013
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -533,6 +630,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqv1a8066.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sruyxtuuyz" target="_blank" rel="noopener noreferrer"&gt;
+        残念な夫。
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -570,6 +671,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqjpjelf6.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr9fan1hkw" target="_blank" rel="noopener noreferrer"&gt;
+        Destiny
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -607,6 +712,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq2l5qlcp.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr0ug38rwh" target="_blank" rel="noopener noreferrer"&gt;
+        ラブコンプレックス
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -644,6 +753,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppyuvoogc.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srodmw11gm" target="_blank" rel="noopener noreferrer"&gt;
+        ラジエーションハウス～放射線科の診断レポート～
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -681,6 +794,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epowxputaf.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr72qpil2x" target="_blank" rel="noopener noreferrer"&gt;
+        青島くんはいじわる
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -718,6 +835,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo2pputlx.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr72qpil2x" target="_blank" rel="noopener noreferrer"&gt;
+        青島くんはいじわる
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -755,6 +876,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmhm1gmnr.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srf5d5tl55" target="_blank" rel="noopener noreferrer"&gt;
+        東京タワー
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -792,6 +917,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjvktund7.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srlobbmqcn" target="_blank" rel="noopener noreferrer"&gt;
+        366日
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -829,6 +958,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiliqvs4a.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srzgzuv4vk" target="_blank" rel="noopener noreferrer"&gt;
+        スタンドUPスタート
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -866,6 +999,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephn6iqf7w.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srjlavge7a" target="_blank" rel="noopener noreferrer"&gt;
+        うちの弁護士は手がかかる
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -903,6 +1040,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg6xq1sk4.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sroujw664m" target="_blank" rel="noopener noreferrer"&gt;
+        信長協奏曲
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -940,6 +1081,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfynvze5e.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sre8a44leo" target="_blank" rel="noopener noreferrer"&gt;
+        お水の花道～女30歳ガケップチ～
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -977,6 +1122,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epe71vctlb.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sre0s9h5k4" target="_blank" rel="noopener noreferrer"&gt;
+        オーバー・タイム
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1014,6 +1163,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epdflxxkdm.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr72qpil2x" target="_blank" rel="noopener noreferrer"&gt;
+        青島くんはいじわる
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1051,6 +1204,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5upf6jfj.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srrmn02l3v" target="_blank" rel="noopener noreferrer"&gt;
+        パリピ孔明
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1088,6 +1245,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1xj4qfdp.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srs3jxclwc" target="_blank" rel="noopener noreferrer"&gt;
+        メイちゃんの執事
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1125,6 +1286,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep136s79qq.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srf5d5tl55" target="_blank" rel="noopener noreferrer"&gt;
+        東京タワー
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1162,6 +1327,10 @@
     <updated>2025-12-22T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0rh3lnih.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srj0vspzip" target="_blank" rel="noopener noreferrer"&gt;
+        BOSS（2009）
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1199,6 +1368,10 @@
     <updated>2025-12-21T20:45:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiqwijbi9.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srwz54t4m2" target="_blank" rel="noopener noreferrer"&gt;
+        今夜、わたしはカラダで恋をする。Season1
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1236,6 +1409,10 @@
     <updated>2025-12-21T20:30:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3ospslfh.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srf2ejuoxr" target="_blank" rel="noopener noreferrer"&gt;
+        日曜の夜ぐらいは…
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1273,6 +1450,10 @@
     <updated>2025-12-21T20:15:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw6tebyel.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srx39d7xkq" target="_blank" rel="noopener noreferrer"&gt;
+        何曜日に生まれたの
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1310,6 +1491,10 @@
     <updated>2025-12-21T20:15:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0omjaucb.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srn6n704a5" target="_blank" rel="noopener noreferrer"&gt;
+        ガチ恋粘着獣
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1347,6 +1532,10 @@
     <updated>2025-12-21T20:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppgqf456s.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;
+        3年B組金八先生(第5シリーズ)
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1384,6 +1573,10 @@
     <updated>2025-12-21T20:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnsx9apbe.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/src97bqiem" target="_blank" rel="noopener noreferrer"&gt;
+        素晴らしき哉、先生！
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1421,6 +1614,10 @@
     <updated>2025-12-21T20:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk1b8mtci.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr62nve6vd" target="_blank" rel="noopener noreferrer"&gt;
+        私が恋愛できない理由
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1458,6 +1655,10 @@
     <updated>2025-12-21T19:45:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp8clyeg8.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sre7o8mc5i" target="_blank" rel="noopener noreferrer"&gt;
+        around1/4
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1495,6 +1696,10 @@
     <updated>2025-12-21T18:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyppxhyxh.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srljjpf3f9" target="_blank" rel="noopener noreferrer"&gt;
+        秘密諜報員 エリカ
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1532,6 +1737,10 @@
     <updated>2025-12-21T18:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprgfek0hw.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sryx3kaw3q" target="_blank" rel="noopener noreferrer"&gt;
+        探偵が早すぎる　春のトリック返し祭り
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1569,6 +1778,10 @@
     <updated>2025-12-21T17:00:17+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvvpn8p00.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srrdh83ki7" target="_blank" rel="noopener noreferrer"&gt;
+        くすぶり女とすん止め女
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1606,6 +1819,10 @@
     <updated>2025-12-21T17:00:16+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxyavqe6d.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srrdh83ki7" target="_blank" rel="noopener noreferrer"&gt;
+        くすぶり女とすん止め女
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1643,6 +1860,10 @@
     <updated>2025-12-21T17:00:15+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epadzxdnug.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/src5l1feg3" target="_blank" rel="noopener noreferrer"&gt;
+        完全に詰んだイチ子はもうカリスマになるしかないの
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1680,6 +1901,10 @@
     <updated>2025-12-21T17:00:14+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplsbw8e6l.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/src5l1feg3" target="_blank" rel="noopener noreferrer"&gt;
+        完全に詰んだイチ子はもうカリスマになるしかないの
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1717,6 +1942,10 @@
     <updated>2025-12-21T17:00:13+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epncnrvtu3.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srz2p99qb8" target="_blank" rel="noopener noreferrer"&gt;
+        セトウツミ
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1754,6 +1983,10 @@
     <updated>2025-12-21T17:00:12+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7q24o79s.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srz2p99qb8" target="_blank" rel="noopener noreferrer"&gt;
+        セトウツミ
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1791,6 +2024,10 @@
     <updated>2025-12-21T17:00:11+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epper1necd.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srth9p5teb" target="_blank" rel="noopener noreferrer"&gt;
+        日本ボロ宿紀行
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1828,6 +2065,10 @@
     <updated>2025-12-21T17:00:10+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epthebnxcf.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srth9p5teb" target="_blank" rel="noopener noreferrer"&gt;
+        日本ボロ宿紀行
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1865,6 +2106,10 @@
     <updated>2025-12-21T17:00:05+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr23j3qpq.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srfmusgyzt" target="_blank" rel="noopener noreferrer"&gt;
+        復讐の未亡人
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1902,6 +2147,10 @@
     <updated>2025-12-21T17:00:04+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmtk76vl5.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srfmusgyzt" target="_blank" rel="noopener noreferrer"&gt;
+        復讐の未亡人
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1939,6 +2188,10 @@
     <updated>2025-12-21T17:00:03+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfozg023h.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr2i4b9e77" target="_blank" rel="noopener noreferrer"&gt;
+        38歳バツイチ独身女がマッチングアプリをやってみた結果日記
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -1976,6 +2229,10 @@
     <updated>2025-12-21T17:00:02+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epho2vscsi.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr2i4b9e77" target="_blank" rel="noopener noreferrer"&gt;
+        38歳バツイチ独身女がマッチングアプリをやってみた結果日記
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -2013,6 +2270,10 @@
     <updated>2025-12-21T17:00:01+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsykxromz.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr4b9fg3z6" target="_blank" rel="noopener noreferrer"&gt;
+        マジすか学園3
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -2050,6 +2311,10 @@
     <updated>2025-12-21T17:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep83d1jb8i.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr4b9fg3z6" target="_blank" rel="noopener noreferrer"&gt;
+        マジすか学園3
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -2087,6 +2352,10 @@
     <updated>2025-12-21T16:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epts316qmv.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srw8hd409c" target="_blank" rel="noopener noreferrer"&gt;
+        渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -2124,6 +2393,10 @@
     <updated>2025-12-21T16:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eply7du7n9.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srdemn0zgj" target="_blank" rel="noopener noreferrer"&gt;
+        リコカツ
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -2161,6 +2434,10 @@
     <updated>2025-12-21T16:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg2w52plu.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srq0xxcz9e" target="_blank" rel="noopener noreferrer"&gt;
+        赤い指～｢新参者｣加賀恭一郎再び!
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -2198,6 +2475,10 @@
     <updated>2025-12-21T14:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbr7y6l9c.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/srarmoatxd" target="_blank" rel="noopener noreferrer"&gt;
+        リバース
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -2235,6 +2516,10 @@
     <updated>2025-12-21T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
       &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzfofnlu2.jpg"&gt;
+      &lt;br&gt;
+      &lt;a href="https://tver.jp/series/sr94xt9igo" target="_blank" rel="noopener noreferrer"&gt;
+        天皇の料理番
+      &lt;/a&gt;
 
       &lt;table style=width:100%;&gt;
         &lt;tr style=text-align:left;&gt;
@@ -2265,412 +2550,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epzfofnlu2"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzdfmv0ql</id>
-    <title>サイコメトラーEIJI SP_[戦慄の殺人シェフ！！豪華料理に秘められた凶器の罠！！]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzdfmv0ql.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;2000年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2026年_01月11日(日)_23時59分&lt;/td&gt;
-          &lt;td&gt;日テレ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/11(木)12:00～&lt;br&gt;#5　12/14(日)12:00～&lt;br&gt;#6-7　12/18(木)12:00～&lt;br&gt;#8-10,SP　12/21(日)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;物語は“サイコメトリー”（ある場所や物体、人物に触れることで過去に起きた事実や映像、音などの断片を読み取る力のこと。）と言う特殊能力を持つ高校生の主人公、明日真映児（松岡昌宏）がその能力を発揮して、警視庁の美人刑事・志摩亮子（工藤静香）と共に様々な事件を解決していくと言うニューヒーロー・アクション・エンタテインメント作品のスペシャル。&lt;br&gt;真の料理人グルメ番組で殺意の激突！！夢果てた友の命
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epzdfmv0ql"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eprvvxrge9</id>
-    <title>サイコメトラーEIJI2_[最終回 CASE6　Last Revolution　完結編]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprvvxrge9.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;1999年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2026年_01月11日(日)_23時59分&lt;/td&gt;
-          &lt;td&gt;日テレ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/11(木)12:00～&lt;br&gt;#5　12/14(日)12:00～&lt;br&gt;#6-7　12/18(木)12:00～&lt;br&gt;#8-10,SP　12/21(日)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;物語は“サイコメトリー”（ある場所や物体、人物に触れることで過去に起きた事実や映像、音などの断片を読み取る力のこと。）と言う特殊能力を持つ高校生の主人公、明日真映児（松岡昌宏）がその能力を発揮して、警視庁の美人刑事・志摩亮子（工藤静香）と共に様々な事件を解決していくと言うニューヒーロー・アクション・エンタテインメント作品の第2クール。&lt;br&gt;連続爆弾魔の野望に決死の攻防戦・映児海中で友情死（最終回）
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eprvvxrge9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eprd82tkam</id>
-    <title>TOKYO MER～隅田川ミッション～_[TOKYO MER～隅田川ミッション～]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprd82tkam.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;2023年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2026年_01月18日(日)_20時59分&lt;/td&gt;
-          &lt;td&gt;TBS&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 主演：鈴木亮平 関連作品を期間限定配信！！&lt;br&gt;------------&lt;br&gt;12月21日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;劇場版『TOKYO MER～走る緊急救命室～』公開を記念したスペシャルドラマ！東京の観光名所である隅田川で、大型水上バスと屋形船の衝突事故が発生！その中には弦巻比奈（中条あやみ）が心臓手術を担当したばかりの幼い女の子の姿も…。喜多見幸太（鈴木亮平）率いるMERのメンバーたちは、東京消防庁の即応対処部隊と共に決死の救命作業に挑む。共演には賀来賢人、中条あやみ、石田ゆり子ら連続ドラマでおなじみの豪華俳優陣に加え、伊藤淳史の出演も決定！伊藤は厚生労働省から「TOKYO MER」に派遣された医系技官・青戸達也を演じる。愛想よく笑顔を振りまく青戸だが、実はとんでもない食わせ者で…MER初の“ポンコツ医師”登場によって、事故現場に大波乱が！？&lt;br&gt;【ストーリー】&lt;br&gt;「TOKYO MER」の正式認可から半年。全国の政令指定都市にMERを展開するため、チームを去ることになった音羽尚（賀来賢人）の代わりとなるセカンドドクター問題に喜多見幸太（鈴木亮平）は頭を悩ませていた。チーム内では弦巻比奈（中条あやみ）の昇格を望む声も上がるが、音羽は比奈に循環器外科の道に進むべきだと断言。比奈も音羽の代わりになれるのかとプレッシャーを感じ、悩んでいた。そんな折、サポートドクターとして青戸達也（伊藤淳史）がMERにやってくる。青戸は音羽と同じく厚生労働省の医系技官で、表向きはセカンドドクター候補としての派遣だが、そこには厚労省側のある思惑が…。そんな矢先、隅田川で大型水上バスと屋形船の衝突事故が発生。多数の負傷者を乗せたまま、コントロールを失った屋形船は暴走。現場に急行したMERのメンバーたちだが、接舷できないため乗り込むことさえできない。さらに船底内部での燃料漏れにより、多くの患者を乗せたまま爆発する可能性が発覚！喜多見たちは取り残された人々の救助のため、予想外の作戦に出る。それはまさに、決死の挑戦だった…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eprd82tkam"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epow1zhyblp</id>
-    <title>仮面ティーチャー_[第九話「彼の使命」]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epow1zhyblp.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;2013年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
-          &lt;td&gt;日テレ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【日ドラ『パンチドランク・ウーマン　－脱獄まであと××日－』（２０２６年１月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/11(木)12:00～&lt;br&gt;#5　12/14(日)12:00～&lt;br&gt;#6-8　12/18(木)12:00～&lt;br&gt;#9-10　12/21(日)12:00～&lt;br&gt;#11-12,SP　12/25(木)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;剛太(藤ヶ谷太輔)を慕っている小林佐恵子(山本舞香)が、剛太が仮面ティーチャーであることを知ってしまう。兄・翔平(神永圭佑)が仮面ティーチャーのせいで亡くなったと思っている佐恵子は、複雑な思いを抱え剛太を拒絶する。そんな折、剛太は校長の菅原(志賀廣太郎)から、仮面ティーチャーの解任を告げられた。華空学院高校はもう一人の仮面ティーチャーである草薙(ジェシー)に任せるという決断に呆然とする剛太。一方、黒い仮面ティーチャーに力で制圧され、大人しくなったように思えた2－Cの麻美(中村有沙)たち。だが、遊び半分で金儲けをしようとしたことで、思わぬトラブルに巻き込まれる。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epow1zhyblp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnl6xpjfo</id>
-    <title>サイコメトラーEIJI2_[CASE6　Last Revolution]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnl6xpjfo.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;1999年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2026年_01月11日(日)_23時59分&lt;/td&gt;
-          &lt;td&gt;日テレ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/11(木)12:00～&lt;br&gt;#5　12/14(日)12:00～&lt;br&gt;#6-7　12/18(木)12:00～&lt;br&gt;#8-10,SP　12/21(日)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;物語は“サイコメトリー”（ある場所や物体、人物に触れることで過去に起きた事実や映像、音などの断片を読み取る力のこと。）と言う特殊能力を持つ高校生の主人公、明日真映児（松岡昌宏）がその能力を発揮して、警視庁の美人刑事・志摩亮子（工藤静香）と共に様々な事件を解決していくと言うニューヒーロー・アクション・エンタテインメント作品の第2クール。&lt;br&gt;地獄の絆！麻薬密売に隠された映児殺し！！最終敵登場。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epnl6xpjfo"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epld4l6qkb</id>
-    <title>天皇の料理番_[episode11 皇居編～最愛の人と最後の晩餐]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epld4l6qkb.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;2015年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
-          &lt;td&gt;TBS&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 主演：鈴木亮平 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#4-6：12月7日(日)12:00～12月14日(日)11:59&lt;br&gt;#7-9：12月14日(日)12:00～12月21日(日)11:59&lt;br&gt;#10-12：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;※本作品は12月28日(日)～1月18日(日)20:59にも配信を行います&lt;br&gt;------------&lt;br&gt;大震災から逃れた篤蔵（佐藤健）たち。俊子（黒木華）の体調はまだ回復していないものの、一家でたくましく暮らしていた。年も明け、大膳も落ち着きを取り戻してきたある日、篤蔵の前に意外な人物が姿を現す。時は流れ「昭和」という新時代が幕を開け、大膳も新しい形に生まれ変わろうとしていた。一方、変わらず平穏な日々を過ごしていた篤蔵たちだったが…！？
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epld4l6qkb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eph8ajfbdv</id>
-    <title>サイコメトラーEIJI2_[CASE5　笑う死体]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph8ajfbdv.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;1999年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2026年_01月11日(日)_23時59分&lt;/td&gt;
-          &lt;td&gt;日テレ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/11(木)12:00～&lt;br&gt;#5　12/14(日)12:00～&lt;br&gt;#6-7　12/18(木)12:00～&lt;br&gt;#8-10,SP　12/21(日)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;物語は“サイコメトリー”（ある場所や物体、人物に触れることで過去に起きた事実や映像、音などの断片を読み取る力のこと。）と言う特殊能力を持つ高校生の主人公、明日真映児（松岡昌宏）がその能力を発揮して、警視庁の美人刑事・志摩亮子（工藤静香）と共に様々な事件を解決していくと言うニューヒーロー・アクション・エンタテインメント作品の第2クール。&lt;br&gt;エリート女子大生連続自殺事件！笑う死体の謎を暴け。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eph8ajfbdv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcsa6odnj</id>
-    <title>新空港占拠_[第7話　新・逃亡]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcsa6odnj.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;2024年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
-          &lt;td&gt;日テレ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　11/30(日)12:00～&lt;br&gt;#4　12/14(日)12:00～&lt;br&gt;#5　12/17(水)12:00～&lt;br&gt;#6-7　12/21(日)12:00～&lt;br&gt;#8-10　12/24(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;空港爆破まで4時間…!獣の標的“山猫”の正体解明を急ぐ武蔵(櫻井翔)は、手がかりを知る天童(黒沢あすか)の拘束を解き、警備の目をかいくぐって逃走を始める…!空港では、仲間を人質にとられた獣たちが龍の決断を巡って衝突…。一方、本庄(瀧内公美)は、大和(菊池風磨)から山猫の情報を聞き出すために切り札を使う…。そんな中、武蔵と天童の逃亡に気付いたさくら(ソニン)は、武蔵の確保に動き出す!!
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epcsa6odnj"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep88vlh2or</id>
-    <title>天皇の料理番_[episode10 皇居編～関東大震災と家族の決意]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep88vlh2or.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;2015年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
-          &lt;td&gt;TBS&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 主演：鈴木亮平 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#4-6：12月7日(日)12:00～12月14日(日)11:59&lt;br&gt;#7-9：12月14日(日)12:00～12月21日(日)11:59&lt;br&gt;#10-12：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;※本作品は12月28日(日)～1月18日(日)20:59にも配信を行います&lt;br&gt;------------&lt;br&gt;厨司長として大膳で働き始めて１０年、篤蔵（佐藤健）は俊子（黒木華）と共に家庭を築いていた。そんな中、東京地方を大震災が襲う。調理場にやってきた篤蔵は、天皇の料理番として、被災した人々のために何ができるかを模索する。一方、篤蔵の自宅も火事に見舞われていた。逃げ遅れた俊子に火の手が迫る。そして…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep88vlh2or"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6sp0hi1y</id>
-    <title>推しが武道館いってくれたら死ぬ_[#10 「沢山のアイドルの中で舞菜ちゃんと出会えたことは奇跡だ」]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6sp0hi1y.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;2022年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2026年_01月21日(水)_23時59分&lt;/td&gt;
-          &lt;td&gt;ABCテレビ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        「岡山アイドルフェス」の前日公演で、舞菜（伊礼姫奈）の様子がおかしいことに気づいた玲奈（片田陽依）は、えりぴよ（松村沙友理）に「舞菜ちゃんのこと、勇気づけてあげてください」と伝える。舞菜のために、自分に何ができるのか…。そして迎えたフェス当日。えりぴよの姿は会場になく…。&lt;br&gt;初めてのフェス会場に浮足立つメンバーたちの中で、ひとりこわばった表情の舞菜（伊礼姫奈）。楽屋を出て行ったきり戻ってこない舞菜を心配したれお（中村里帆）と空音（MOMO）は、舞菜を探しに向うのだが…。&lt;br&gt;出番が近づく中、えりぴよがようやく会場に駆け込んできた。その視線の先にいたのは、一人でポツンと座っている舞菜の姿で…!?&lt;br&gt;アイドルとして自信をなくしていた舞菜に対して、推しを応援するファンとして、えりぴよが伝えたまっすぐな想いとは…!?&lt;br&gt;ファンとアイドルの切なくも尊い関係が生む、ドルオタ青春コメディついに最終話！えりぴよたちが見守るなか、ChamJamは万感のステージへと臨む！&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月12日(金) 昼12時～　#1&lt;br&gt;12月13日(土) 昼12時～　#2&lt;br&gt;12月14日(日) 昼12時～　#3&lt;br&gt;12月15日(月) 昼12時～　#4&lt;br&gt;12月16日(火) 昼12時～　#5&lt;br&gt;12月17日(水) 昼12時～　#6&lt;br&gt;12月18日(木) 昼12時～　#7&lt;br&gt;12月19日(金) 昼12時～　#8&lt;br&gt;12月20日(土) 昼12時～　#9&lt;br&gt;12月21日(日) 昼12時～　#10（最終話）
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep6sp0hi1y"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6et5hvqo</id>
-    <title>新空港占拠_[第6話　新・犯人]</title>
-    <updated>2025-12-21T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6et5hvqo.jpg"&gt;
-
-      &lt;table style=width:100%;&gt;
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕘 配信開始&lt;/th&gt;
-          &lt;th&gt;🗓️ 放送&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月21日(日)_12時00分&lt;/td&gt;
-          &lt;td&gt;2024年放送&lt;/td&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:left;&gt;
-          &lt;th&gt;🕓 配信終了&lt;/th&gt;
-          &lt;th&gt;📡 放送局&lt;/th&gt;
-        &lt;/tr&gt;
-
-        &lt;tr style=text-align:center;&gt;
-          &lt;td&gt;2025年_12月28日(日)_11時59分&lt;/td&gt;
-          &lt;td&gt;日テレ&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　11/30(日)12:00～&lt;br&gt;#4　12/14(日)12:00～&lt;br&gt;#5　12/17(水)12:00～&lt;br&gt;#6-7　12/21(日)12:00～&lt;br&gt;#8-10　12/24(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;空港社長・天童(黒沢あすか)のウソを暴こうとする武蔵(櫻井翔)は、5年前に空港建設を巡って起きた殺人事件にたどり着くが、事件現場となった神社で命を狙われ絶体絶命!一方、裕子(比嘉愛未)と謎の男(ジェシー)は綾部(吉田健悟)に捕まり万事休す!そんな中、県警は神社の防犯カメラから衝撃の映像を発見…!暴かれる天童の罪と、獣たちの素顔!彼らはなぜ獣と化したのか!?壮絶な過去…結成前夜の誓い…獣の真の目的が明らかに!!
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep6et5hvqo"/>
   </entry>
 </feed>
