@@ -98,7 +98,7 @@ def gen_html(img_url, content, series_title, series_id, start_at, end_at, broadc
     <body>
       <img src="{img_url}">
       <br>
-      <a href="https://tver.jp/series/{series_id}" target="_blank">
+      <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">
         {series_title}
       </a>
 
