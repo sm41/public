@@ -72,7 +72,7 @@ def gen_html(episode_images, series_images, content, series_title, series_id, st
 
       <hr>
 
-      <div>🎞️ 作品名&emsp; : {series_title}
+      <div>🎞️ {series_title}
         <a href="https://tver.jp/series/{series_id}" target="_blank" rel="noopener noreferrer">🔗</a>
       </div>
 
@@ -87,8 +87,8 @@ def gen_html(episode_images, series_images, content, series_title, series_id, st
           <td>
             <div>🗓️ 放送&emsp; : {broadcastDateLabel}</div>
             <div>📡 放送局 : {production_provider_name}</div>
-          </th>
-        </td>
+          </td>
+        </th>
       </table>
 
       <hr>
