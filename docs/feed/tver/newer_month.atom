@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-22T18:28:07+09:00</updated>
+  <updated>2025-12-22T20:17:56+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -20,9 +20,6 @@
 
       &lt;table&gt;
         &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg" height="100"&gt;
-          &lt;/td&gt;
           &lt;td style="padding-left: 12px;"&gt;
             &lt;div&gt;🎞️ 作品名&amp;emsp; : 孤独のグルメ Season5
               &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
@@ -31,6 +28,9 @@
             &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_23時59分&lt;/div&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
             &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+          &lt;td style="vertical-align: top;"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg" height="100"&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
       &lt;/table&gt;
@@ -54,9 +54,6 @@
 
       &lt;table&gt;
         &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg" height="100"&gt;
-          &lt;/td&gt;
           &lt;td style="padding-left: 12px;"&gt;
             &lt;div&gt;🎞️ 作品名&amp;emsp; : DQNの星に嫁ぎました
               &lt;a href="https://tver.jp/series/sro01zbw46s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
@@ -65,6 +62,9 @@
             &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
             &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+          &lt;/td&gt;
+          &lt;td style="vertical-align: top;"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg" height="100"&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
       &lt;/table&gt;
@@ -88,9 +88,6 @@
 
       &lt;table&gt;
         &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg" height="100"&gt;
-          &lt;/td&gt;
           &lt;td style="padding-left: 12px;"&gt;
             &lt;div&gt;🎞️ 作品名&amp;emsp; : DQNの星に嫁ぎました
               &lt;a href="https://tver.jp/series/sro01zbw46s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
@@ -99,6 +96,9 @@
             &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_17時59分&lt;/div&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 7月30日(水)放送分&lt;/div&gt;
             &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
+          &lt;/td&gt;
+          &lt;td style="vertical-align: top;"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg" height="100"&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
       &lt;/table&gt;
@@ -122,9 +122,6 @@
 
       &lt;table&gt;
         &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg" height="100"&gt;
-          &lt;/td&gt;
           &lt;td style="padding-left: 12px;"&gt;
             &lt;div&gt;🎞️ 作品名&amp;emsp; : 五十嵐夫妻は偽装他人
               &lt;a href="https://tver.jp/series/srehmhdr6q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
@@ -133,6 +130,9 @@
             &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2月12日(水)放送分&lt;/div&gt;
             &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+          &lt;td style="vertical-align: top;"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg" height="100"&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
       &lt;/table&gt;
@@ -156,9 +156,6 @@
 
       &lt;table&gt;
         &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg" height="100"&gt;
-          &lt;/td&gt;
           &lt;td style="padding-left: 12px;"&gt;
             &lt;div&gt;🎞️ 作品名&amp;emsp; : 五十嵐夫妻は偽装他人
               &lt;a href="https://tver.jp/series/srehmhdr6q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
@@ -167,6 +164,9 @@
             &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 2月5日(水)放送分&lt;/div&gt;
             &lt;div&gt;📡 放送局&amp;emsp; : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+          &lt;td style="vertical-align: top;"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srehmhdr6q.jpg" height="100"&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
       &lt;/table&gt;
@@ -190,9 +190,6 @@
 
       &lt;table&gt;
         &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg" height="100"&gt;
-          &lt;/td&gt;
           &lt;td style="padding-left: 12px;"&gt;
             &lt;div&gt;🎞️ 作品名&amp;emsp; : 流星花園II～花より男子～
               &lt;a href="https://tver.jp/series/srz040n9lf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
@@ -201,6 +198,9 @@
             &lt;div&gt;🕓 配信終了 : 2026年_05月27日(水)_11時59分&lt;/div&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
             &lt;div&gt;📡 放送局&amp;emsp; : テレ玉&lt;/div&gt;
+          &lt;/td&gt;
+          &lt;td style="vertical-align: top;"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz040n9lf.jpg" height="100"&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
       &lt;/table&gt;
@@ -224,9 +224,6 @@
 
       &lt;table&gt;
         &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg" height="100"&gt;
-          &lt;/td&gt;
           &lt;td style="padding-left: 12px;"&gt;
             &lt;div&gt;🎞️ 作品名&amp;emsp; : 笑うハナに恋きたる
               &lt;a href="https://tver.jp/series/srybpojudl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
@@ -235,6 +232,9 @@
             &lt;div&gt;🕓 配信終了 : 2026年_06月01日(月)_12時00分&lt;/div&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月21日(日)放送分&lt;/div&gt;
             &lt;div&gt;📡 放送局&amp;emsp; : IBCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+          &lt;td style="vertical-align: top;"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srybpojudl.jpg" height="100"&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
       &lt;/table&gt;
@@ -258,9 +258,6 @@
 
       &lt;table&gt;
         &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg" height="100"&gt;
-          &lt;/td&gt;
           &lt;td style="padding-left: 12px;"&gt;
             &lt;div&gt;🎞️ 作品名&amp;emsp; : 三国志　秘密の皇帝
               &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
@@ -269,6 +266,9 @@
             &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_08時59分&lt;/div&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
             &lt;div&gt;📡 放送局&amp;emsp; : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+          &lt;td style="vertical-align: top;"&gt;
+            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg" height="100"&gt;
           &lt;/td&gt;
         &lt;/tr&gt;
       &lt;/table&gt;
@@ -280,311 +280,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep32wbu0zl"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzvl78qse</id>
-    <title>欲しがり女子と、訳あり男子。_[＃２]</title>
-    <updated>2025-12-22T07:30:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzvl78qse.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpjvcs5ah.jpg" height="100"&gt;
-          &lt;/td&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 欲しがり女子と、訳あり男子。
-              &lt;a href="https://tver.jp/series/srpjvcs5ah" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_07時30分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_07時30分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        女性との距離感がわからず失敗続きの大地。朝食づくりにも挑戦するが真っ黒に焦がしてしまい、女子たちから散々な反応を受ける。一方、ひまわりの強烈すぎるスキンシップや紅葉の無表情な監視など、大地はますます混乱。シェアハウスのルールや人間関係に翻弄され、居場所がないと感じ始める。そんな中、春風の元彼の影がちらつき…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epzvl78qse"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epk3rdjq1u</id>
-    <title>欲しがり女子と、訳あり男子。_[＃１]</title>
-    <updated>2025-12-22T07:15:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk3rdjq1u.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpjvcs5ah.jpg" height="100"&gt;
-          &lt;/td&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 欲しがり女子と、訳あり男子。
-              &lt;a href="https://tver.jp/series/srpjvcs5ah" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_07時15分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_07時30分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        広告代理店で働く中野大地は、極度の“女性恐怖症”。ある噂が原因で会社での立場が危うくなり、上司の勧めでシェアハウスの管理人を兼任することに。&lt;br&gt;ところが入居者は癖だらけの女子4人。初日から誤解やトラブルが連発し、大地は怯えながらも少しずつ向き合おうとする。&lt;br&gt;そんな中、住人の春風が大地の様子に違和感を抱き…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epk3rdjq1u"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epvgk00kdb</id>
-    <title>復讐相手がすでに不幸のどん底なんですが！_[【スマホ用】#10「幸せは夢」POV：ヨウコ・サクラ]</title>
-    <updated>2025-12-22T01:35:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvgk00kdb.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srn814zpt4.jpg" height="100"&gt;
-          &lt;/td&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 復讐相手がすでに不幸のどん底なんですが！
-              &lt;a href="https://tver.jp/series/srn814zpt4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_01時35分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_01時34分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月21日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        加茂アイ（小島梨里杏）はサクラ（君島光輝）に復讐するため整形し家政婦になったが、復讐相手のサクラは、夫のヒロシ（佐野岳）からモラハラをうけ姑のヨウコ（櫻井淳子）から嫌がらせされ、すでに不幸のどん底！過去にヒロシの浮気相手を殺してしまったサクラはアイを騙し利用し一家全員と地下室の死体を亡き者にして証拠隠滅を図ろうとしていた…！サクラは真実を知ったアイを包丁で刺しヒロシを叩きのめす。そして最後に寝ていたヨウコを奇襲して…
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epvgk00kdb"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epnhhp64tf</id>
-    <title>復讐相手がすでに不幸のどん底なんですが！_[#10「幸せは夢」POV：ヨウコ・サクラ]</title>
-    <updated>2025-12-22T01:35:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnhhp64tf.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srn814zpt4.jpg" height="100"&gt;
-          &lt;/td&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 復讐相手がすでに不幸のどん底なんですが！
-              &lt;a href="https://tver.jp/series/srn814zpt4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_01時35分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_01時34分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月21日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : 読売テレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        加茂アイ（小島梨里杏）はサクラ（君島光輝）に復讐するため整形し家政婦になったが、復讐相手のサクラは、夫のヒロシ（佐野岳）からモラハラをうけ姑のヨウコ（櫻井淳子）から嫌がらせされ、すでに不幸のどん底！過去にヒロシの浮気相手を殺してしまったサクラはアイを騙し利用し一家全員と地下室の死体を亡き者にして証拠隠滅を図ろうとしていた…！サクラは真実を知ったアイを包丁で刺しヒロシを叩きのめす。そして最後に寝ていたヨウコを奇襲して…
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epnhhp64tf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8vlwz3d6</id>
-    <title>飯を喰らひて華と告ぐ_[塩むすび]</title>
-    <updated>2025-12-22T01:34:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8vlwz3d6.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr40hk960m.jpg" height="100"&gt;
-          &lt;/td&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 飯を喰らひて華と告ぐ
-              &lt;a href="https://tver.jp/series/sr40hk960m" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_01時34分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_01時34分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月21日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        役者になることを夢見て上京した山下。だが10年経っても芽が出ず、生活は困窮。水道もガスも止められ、何日も何も食べられていない。ついに包丁片手にコンビニ強盗をもくろむも、勇気がなく断念。その時ふと漂ってきたいい匂いに誘われるように、「一香軒」へ。そこには秋刀魚を七輪で焼く店主の姿があった。片手に包丁を持つ山下に、さすがの店主もビビるかと思いきや、静かに山下を抱きしめ、土鍋で炊いたあたたかい塩むすびを握り始める。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep8vlwz3d6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epru9yai9a</id>
-    <title>仮面の忍者 赤影_[第四話 決戦、千年蟇]</title>
-    <updated>2025-12-22T01:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epru9yai9a.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srairnshw0.jpg" height="100"&gt;
-          &lt;/td&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 仮面の忍者 赤影
-              &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_01時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月12日(月)_00時40分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 11月16日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレビ朝日&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        織田信長（EXILE TAKAHIRO）からの命によって赤影（佐藤大樹）、青影（木村慧人）、白影（加藤諒）と名乗ることになった3人は、幻妖斎率いる《金目教》の総本山のある霞谷に向かい、潜入することを計画。そんな中、石田三成（中尾暢樹）、福島正則（水石亜飛夢）、加藤清正（志波景介）が、織田家の軍門にくだるという闇姫（山本千尋）を捕らえる。闇姫を怪しんだ白影は赤影に見張りを託すことに。赤影は、彼女と心を通わせようとするが…!?&#13;&lt;br&gt;一方で、蟇法師（本山力）の操る千年蟇が、より巨大化し襲来！　青影と白影が挑むも、さらに凶暴となった千年蟇を相手に大ピンチに陥って――。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epru9yai9a"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epr73r9cmh</id>
-    <title>仮面の忍者 赤影_[第五話 金目教の罠]</title>
-    <updated>2025-12-22T01:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr73r9cmh.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srairnshw0.jpg" height="100"&gt;
-          &lt;/td&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 仮面の忍者 赤影
-              &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_01時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月12日(月)_00時40分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 11月23日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレビ朝日&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        逃げた闇姫（山本千尋）を追跡するべく、赤影（佐藤大樹）は、青影（木村慧人）、白影（加藤諒）とともに金目教の総本山、《霞谷》へ向かう。しかし、その道中で蝙蝠（こうもり）の大群が彼らを急襲。《金目教》の刺客、伝説の忍・黒蝙蝠の黒兵衛（唐橋充）が襲い来る！　赤影たちは黒兵衛と激しく攻防するが、黒兵衛の操る毒仕込みの蝙蝠の術に苦戦。そんな中、白影はある機転を利かせるのだった。&#13;&lt;br&gt;形勢逆転した《三影》と黒兵衛。しかし問いただすと、恐るべき事実が発覚！退いてつつましく暮らしていた彼のもとに幻妖斎がやってきて、妻と娘の百合（山田愛奈）を人質に取ったという…。やがて4人の前に《霞谷七人衆》の一人・鬼念坊（勝矢）が現われる。鬼念坊はその怪力で赤影たちを翻弄。あろうことか意識を失った白影を連れ去ってしまい…!?
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epr73r9cmh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8qc5dpui</id>
-    <title>仮面の忍者 赤影_[第八話 幻妖斎の正体]</title>
-    <updated>2025-12-22T01:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8qc5dpui.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srairnshw0.jpg" height="100"&gt;
-          &lt;/td&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 仮面の忍者 赤影
-              &lt;a href="https://tver.jp/series/srairnshw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_01時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_00時40分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月21日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : テレビ朝日&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        滝川一益（忍成修吾）の後をつけていた怪しい町人の正体が《霞谷七人衆》の一人・朧一貫（小野塚勇人）だったことに驚く赤影（佐藤大樹）。しかも、武器商人の織辺多門（笠原秀幸）も《金目教》に寝返って…。一方で、朧一貫の罠にはまった青影（木村慧人）、白影（加藤諒）も多勢に無勢で大ピンチに。しかし窮地を脱した赤影が参上！　やがて、朧一貫の奇策で散り散りに逃げることになった三人の影たち。赤影の前には黒影（山田愛奈）が現れて…。同じころ、一人で逃げる青影の前に傀儡甚内（細田龍之介）の姿が！　そして、ついに赤影と幻妖斎が直接対峙。衝撃の正体が明らかに――!?　
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep8qc5dpui"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epafmaiuvv</id>
-    <title>君としたキスはいつまでも_[最終話　帰りたくなる場所]</title>
-    <updated>2025-12-22T00:55:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epafmaiuvv.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;table&gt;
-        &lt;tr&gt;
-          &lt;td style="vertical-align: top;"&gt;
-            &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2lviu2dq.jpg" height="100"&gt;
-          &lt;/td&gt;
-          &lt;td style="padding-left: 12px;"&gt;
-            &lt;div&gt;🎞️ 作品名&amp;emsp; : 君としたキスはいつまでも
-              &lt;a href="https://tver.jp/series/sr2lviu2dq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-            &lt;/div&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_00時55分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_23時59分&lt;/div&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp;&amp;emsp; : 12月21日(日)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局&amp;emsp; : ABCテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ヨウジ（小関裕太）のMV撮影当日の朝、サイ（松岡広大）が姿を消した。すでにチェックアウトしていて電話もつながらない。実は、昨夜のうちにサイは出演辞退することを決めていたのだった。&lt;br&gt;&lt;br&gt;サイに連絡を取り続けていたケイタ（太田将熙）とアキラ（溝口琢矢）。そして、サイを探すためにホテルを飛び出したリュウカ。ヨウジは幼馴染みたちを信じて、撮影に臨みながらサイが戻ることを待つ。&lt;br&gt;&lt;br&gt;ホテルではMVの撮影がスタートしていた。ヨウジと人気女優・東島透子（前田悠雅）とのキスシーンにヤキモキしていたチエ（清水くるみ）だったが、そのストーリーはまるでヨウジとチエの恋路を重ねたような展開で…。一方、エキストラとして出演することになったケイタとアキラは、サイが戻ることを信じて時間を稼ごうと奮闘していた。&lt;br&gt;&lt;br&gt;その頃、リュウカはサイを見つけ出す。その場所は小学校時代によく遊びに来ていた「秘密基地」だった。幼い頃から、リュウカのことを妹のようにかわいがっていたサイ、そして役者になる夢をがむしゃらに追いかけるサイに対して密かにあこがれ続けていたリュウカ。&lt;br&gt;「サイの夢のために、私はいろんな想いを飲み込んだのに…」&lt;br&gt;リュウカの切実で素直な言葉が、サイの頑なになっていた想いを解いていく。&lt;br&gt;&lt;br&gt;かつて時間を共にした母校をリノベーションしたホテルで、自分自身を見つめ直す時間をそれぞれに過ごす中で、幼なじみたちがたどり着いた“帰りたくなる場所”とは――。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epafmaiuvv"/>
   </entry>
 </feed>
