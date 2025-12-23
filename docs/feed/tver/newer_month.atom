@@ -2,13 +2,213 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-24T00:37:40+09:00</updated>
+  <updated>2025-12-24T02:37:06+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epxoklkzyf</id>
+    <title>スクープのたまご_[最終号「連続不審死事件、ついに終結！命懸けの告白！」]</title>
+    <updated>2025-12-24T01:59:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmp728su.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ スクープのたまご
+        &lt;a href="https://tver.jp/series/srrmp728su" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_01時59分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月14日(水)_00時57分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月23日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxoklkzyf.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ついに千石社に指名手配犯の久保塚（相馬理）がやってきた。北浜（赤ペン瀧川）たちに迎え入れられた久保塚は、まどか（崎本紗衣）のことは記事にしないで欲しいと言い、まどかとの出会いを語り始めた。さらに、１人目の被害者・小宮山春江（土屋いくみ）の件に話が移ると、小宮山とは面識がなく自分は無実だと訴え感情が昂ってしまう。そんな久保塚に、「容疑を晴らすことができるかもしれない」と北浜が伝えると、久保塚は今まで起きた連続不審死事件の真相を話しだす…。&lt;br&gt;同じ頃、日向子（奥山葵）は椿（佐藤友祐）と共にまどかに接触を試みようと張り込みをしていた。そしてついに現れたまどかに日向子が声を掛け帰宅を促すも、まどかからは「帰りたくない」と言われてしまう。そのまま去って行こうとするまどかの背中を見た日向子は、あることを思い出し…。&lt;br&gt;週刊千石事件班が一丸となって追ってきた連続不審死事件。&lt;br&gt;ついに、指名手配犯独占インタビューが掲載された最新号が発売となる。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epxoklkzyf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eprbdaymk3</id>
+    <title>女優めし_[第8食 一期一会の出会い]</title>
+    <updated>2025-12-24T01:45:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlr1waebg.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 女優めし
+        &lt;a href="https://tver.jp/series/srlr1waebg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_01時45分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_01時45分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月23日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprbdaymk3.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ほろ酔い気分で歩く撫子（堀未央奈）と凜華（SUMIRE）。すっかりご機嫌な撫子は、凜華を〆のラーメンに誘う。ダイエット中だから軽めにしたいと渋る凜華を連れて向かったのは、住宅街の一角にある一年中“冷やし中華”が食べられるラーメン屋。&lt;br&gt;凜華は撫子の勧めるヘルシーメニューを食べながら、故郷の広島で女優を目指していた頃の撫子を思い出し、思わず笑みをこぼす。「また行こう！」と約束して帰路につくのだった。&lt;br&gt;女優・和泉撫子の新しい役との出会い、そして美味しいごはんとの一期一会の日々は続いていく…
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eprbdaymk3"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep0irh9yty</id>
+    <title>女優めし_[第7食 甘い誘惑]</title>
+    <updated>2025-12-24T01:15:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srlr1waebg.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 女優めし
+        &lt;a href="https://tver.jp/series/srlr1waebg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_01時15分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_01時15分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月23日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0irh9yty.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        スパイ役を演じるためタイトなボディスーツに身を包む撫子（堀未央奈）。&lt;br&gt;撮影期間中厳しく体型維持をしていた撫子が、オールアップを迎え上機嫌で向かったのは、レトロな喫茶店。&lt;br&gt;そこには撮影中に何度も食べたいと思っていた禁断の蜜の味“ホットケーキ”が！&lt;br&gt;撫子が自分を甘やかし、最高のご褒美ごはんを楽しむ！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep0irh9yty"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep7euq7y4a</id>
+    <title>TXQ FICTION / UFO山_[UFO山(2)]</title>
+    <updated>2025-12-24T01:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srog0v9atu.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ TXQ FICTION / UFO山
+        &lt;a href="https://tver.jp/series/srog0v9atu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_01時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月23日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7euq7y4a.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        2025年12月23日放送
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep7euq7y4a"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epqz4rsfw1</id>
+    <title>そこから先は地獄_[最終話　全員不倫、それぞれの末路は！？]</title>
+    <updated>2025-12-24T00:54:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sretkpq5qq.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ そこから先は地獄
+        &lt;a href="https://tver.jp/series/sretkpq5qq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_00時54分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月21日(水)_00時23分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月23日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqz4rsfw1.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ★TVerお気に入り登録をお願いします！&lt;br&gt;「そこから先は地獄」は毎週火曜24時24分～放送&lt;br&gt;&lt;br&gt;地獄の三角不倫は壮絶なクライマックスへ！莉沙(井桁弘恵)は不倫相手・涼(豊田裕大)に貢ぐために保険金を着服したことがバレ、夫・高久(落合モトキ)と離婚寸前。一方、奏子(奈月セナ)は托卵をもくろんだものの流産。奏子の夫・将也(小久保寿人)は半狂乱に…。&lt;br&gt;&lt;br&gt;すべてを失った莉沙の、涼への愛憎がついに爆発！「あなたを信じたのに……あなたのために……何もかも全部なくしたのに……！」。&lt;br&gt;&lt;br&gt;ついにたどり着いた地獄の果て…。遺言書に書かれていた衝撃の真実…凪子(山崎紘菜)の死の真相とは！？予測できないラストが待ち受ける、驚愕の最終回！！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epqz4rsfw1"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epaiqhnmp3</id>
     <title>娘の命を奪ったヤツを殺すのは罪ですか？_[最終回 捨て身の復讐、決着。]</title>
