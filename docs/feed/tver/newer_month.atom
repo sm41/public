@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-23T18:24:52+09:00</updated>
+  <updated>2025-12-23T20:18:20+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epid81ochr</id>
+    <title>孤独のグルメ Season5_[第5話 台湾台北市永楽市場の鶏肉飯と乾麺]</title>
+    <updated>2025-12-23T18:25:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 孤独のグルメ Season5
+        &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_18時25分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月23日(火)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        台湾出張2日目。アジア物産展に向けて工芸品のリサーチを始めた井之頭五郎（松重豊）は、まず国立伝統芸術センターへ。茶器やトマト飴などから、さまざまなヒントを得る。そんな中、母親が日本人だという劉真一（水間ロン）に話しかけられる。五郎と同じくバイヤーをしているという。仕事の話をするうちに、劉から台北で一番古い問屋街・迪化街を勧められ、早速向かうことに。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epid81ochr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eppofuc7da</id>
     <title>財閥復讐～兄嫁になった元嫁へ～_[第2話 「哀れな二人に乾杯」]</title>
