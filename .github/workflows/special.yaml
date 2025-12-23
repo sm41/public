@@ -7,7 +7,7 @@ name: special_main
 on:
   schedule:
     # - cron: "0 0 * * *"
-    - cron: "0 2,8 * * *"
+    - cron: "20 2,8 * * *"
   workflow_dispatch:
 
 permissions:

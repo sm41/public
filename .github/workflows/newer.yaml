@@ -7,7 +7,7 @@ name: newer
 on:
   schedule:
     # - cron: "0 0 * * *"
-    - cron: "0 1-17/2 * * *"
+    - cron: "20 1-17/2 * * *"
   workflow_dispatch:
 
 permissions:
