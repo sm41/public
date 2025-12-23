@@ -2,13 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-23T02:18:05+09:00</updated>
+  <updated>2025-12-23T11:40:47+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epqmg4j96q</id>
+    <title>俺の家の話_[最終話 最後に皆さん、家族を大切に！ぜあ！]</title>
+    <updated>2025-12-23T10:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqmg4j96q.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 俺の家の話
+        &lt;a href="https://tver.jp/series/sryewjh8ba" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_10時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_09時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryewjh8ba.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：戸田恵梨香 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：12月7日(日)10:00～1月18日(日)20:59&lt;br&gt;#3：12月9日(火)10:00～12月15日(月)9:59&lt;br&gt;#4：12月11日(木)10:00～12月17日(水)9:59&lt;br&gt;#5：12月13日(土)10:00～12月19日(金)9:59&lt;br&gt;#6：12月15日(月)10:00～12月21日(日)9:59&lt;br&gt;#7：12月17日(水)10:00～12月23日(火)9:59&lt;br&gt;#8：12月19日(金)10:00～12月25日(木)9:59&lt;br&gt;#9：12月21日(日)10:00～12月27日(土)9:59&lt;br&gt;#10：12月23日(火)10:00～12月29日(月)9:59&lt;br&gt;※本作品は12月29日(月)～1月18日(日)20:59にも配信を行います&lt;br&gt;------------&lt;br&gt;グループホームを抜け出し観山家にやってきた寿三郎（西田敏行）は、３度目の脳梗塞で危篤に…。多くの門弟や家族たちに囲まれ、最期の時を迎えようとしていた寿三郎の前に、いままで正体を隠してきた寿一（長瀬智也）がスーパー世阿弥マシンとして現れる。そして寿一の「肝っ玉！しこたま！さんたま！」の掛け声で、奇跡的に寿三郎は一命を取り留める。その後、寿一は新春能楽会で舞う予定の「隅田川」の稽古に励んでいたーー。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epqmg4j96q"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eph4sapqz9</id>
+    <title>ヤンキー君とメガネちゃん_[＃６ 退学なんて認めません]</title>
+    <updated>2025-12-23T10:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph4sapqz9.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ヤンキー君とメガネちゃん
+        &lt;a href="https://tver.jp/series/srmyyrdti8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_10時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_09時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmyyrdti8.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 主演：鈴木亮平 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月14日(日)10:00～1月16日(金)21:59&lt;br&gt;#4：12月15日(月)10:00～12月23日(火)9:59&lt;br&gt;#5：12月19日(金)10:00～12月27日(土)9:59&lt;br&gt;#6：12月23日(火)10:00～12月31日(水)9:59&lt;br&gt;#7：12月27日(土)10:00～1月4日(日)9:59&lt;br&gt;#8：12月31日(水)10:00～1月8日(木)9:59&lt;br&gt;#9：1月4日(日)10:00～1月12日(月)9:59&lt;br&gt;#10：1月8日(木)10:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;相変わらず成績の悪い大地（成宮寛貴）と花（仲里依紗）は追試を受け、そこでB組の宮城純（石橋杏奈）と一緒になる。大地は追試を無事パスするが花と純は再追試を受けることに。数日後、純はアルバイトを無断でしていたことが発覚し停学処分を受け、大地はそんな純のことが気になる。同じ頃、A組では三者面談が実施されることになるが、大地と和泉（本郷奏多）だけが面談希望日を提出しておらず、大地は担任の堺（皆川猿時）から突然、家庭訪問をされてしまう。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eph4sapqz9"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epcmdhjp7t</id>
+    <title>初めて恋をした日に読む話_[第４話 勝負の勉強合宿は大混乱！二人きりの夜に僕だけのご褒美]</title>
+    <updated>2025-12-23T10:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcmdhjp7t.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 初めて恋をした日に読む話
+        &lt;a href="https://tver.jp/series/sr21656hna" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_10時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_09時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr21656hna.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月21日(日)10:00～1月16日(金)21:59&lt;br&gt;#4：12月23日(火)10:00～12月29日(月)9:59&lt;br&gt;#5：12月26日(金)10:00～1月1日(木)9:59&lt;br&gt;#6：12月29日(月)10:00～1月4日(日)9:59&lt;br&gt;#7：1月1日(木)10:00～1月7日(水)9:59&lt;br&gt;#8：1月4日(日)10:00～1月10日(土)9:59&lt;br&gt;#9：1月7日(水)10:00～1月13日(火)9:59&lt;br&gt;#10：1月10日(土)10:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;順子（深田恭子）を抱きしめ告白する雅志（永山絢斗）。しかし超鈍感な順子はそれが告白だと気がつかない。だが、その現場を目撃してしまった匡平（横浜流星）は複雑な心境に…。匡平はそのことを振り払うように一層勉強に励む。そして時は流れ、匡平は高校３年生の春を迎えた。山下（中村倫也）から匡平の学校での成績が驚くほど良くなったことと匡平の家庭環境のことを聞き、順子は今まで以上に匡平を気にかける。一方で匡平は、順子からいつまでも子ども扱いをされることにイライラを隠しきれずにいた。そして、ゴールデンウイークに入り、３泊４日で塾の強化合宿が行われることになる。合宿初日、偶然にも近くに研修で来た雅志が、合宿所に顔を出す。２人の親しげな様子に嫉妬する匡平は、順子に冷たい態度をとってしまう。その夜、匡平がロッジでたばこを吸っていたと目撃情報を聞き、慌ててロッジに駆け出す順子だったが、ぬかるんだ山道で転んでしまう。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epcmdhjp7t"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epa5ap95zr</id>
+    <title>石子と羽男－そんなコトで訴えます？－_[事案04 救護義務違反]</title>
+    <updated>2025-12-23T10:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa5ap95zr.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 石子と羽男－そんなコトで訴えます？－
+        &lt;a href="https://tver.jp/series/sr5go0kzhf" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_10時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_09時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5go0kzhf.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月29日(土)10:00～1月16日(金)21:59&lt;br&gt;#4：12月23日(火)10:00～12月29日(月)9:59&lt;br&gt;#5：12月26日(金)10:00～1月1日(木)9:59&lt;br&gt;#6：12月29日(月)10:00～1月4日(日)9:59&lt;br&gt;#7：1月1日(木)10:00～1月7日(水)9:59&lt;br&gt;#8：1月4日(日)10:00～1月10日(土)9:59&lt;br&gt;#9：1月7日(水)10:00～1月13日(火)9:59&lt;br&gt;#10：1月10日(土)10:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;潮法律事務所に堂前絵実（趣里）から弁護の依頼が舞い込む。妹の一奈（生見愛瑠）が運転する電動キックボードにぶつかって転んだ新庄隆信（じろう）が、帰宅後に容体が急変。警察がひき逃げ事件として捜査し、一奈が逮捕されてしまったのだという。一奈から「すぐに男性に駆け寄った」と聞いた石子（有村架純）と羽男（中村倫也）は示談の可能性を探るが、新庄の妻はひき逃げを主張。裁判に持ち込まれ、羽男は姉で検事の優乃（MEGUMI）と争うことに。さらに、事故当日の目撃者探しをしていた石子と羽男は、真相を探ろうと思わぬ行動に…！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epa5ap95zr"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epye1fa3nb</id>
     <title>ナースのお仕事3_[第18話 プロポーズ大作戦]</title>
@@ -18,7 +178,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ナースのお仕事3
+      &lt;div&gt;🎞️ ナースのお仕事3
         &lt;a href="https://tver.jp/series/sr0nr9d949" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -33,8 +193,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -58,7 +218,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 5→9～私に恋したお坊さん～
+      &lt;div&gt;🎞️ 5→9～私に恋したお坊さん～
         &lt;a href="https://tver.jp/series/sru6b30kj2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -73,8 +233,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2015年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -98,7 +258,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : トリック 3
+      &lt;div&gt;🎞️ トリック 3
         &lt;a href="https://tver.jp/series/sreyr2dtjq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -113,8 +273,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -138,7 +298,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 愛してるって、言いたい
+      &lt;div&gt;🎞️ 愛してるって、言いたい
         &lt;a href="https://tver.jp/series/sr3r6mu8hl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -153,8 +313,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -178,7 +338,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 王様のレストラン
+      &lt;div&gt;🎞️ 王様のレストラン
         &lt;a href="https://tver.jp/series/srtqi99h9g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -193,8 +353,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 1995年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -218,7 +378,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 警視庁アウトサイダー
+      &lt;div&gt;🎞️ 警視庁アウトサイダー
         &lt;a href="https://tver.jp/series/srjqfpikg5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -233,8 +393,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -258,7 +418,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 失恋ショコラティエ
+      &lt;div&gt;🎞️ 失恋ショコラティエ
         &lt;a href="https://tver.jp/series/sr56lyyja0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -273,8 +433,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -298,7 +458,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 家族ゲーム
+      &lt;div&gt;🎞️ 家族ゲーム
         &lt;a href="https://tver.jp/series/sre9gy29cj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -313,8 +473,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -338,7 +498,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ニューヨーク恋物語
+      &lt;div&gt;🎞️ ニューヨーク恋物語
         &lt;a href="https://tver.jp/series/srpp9o170e" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -353,8 +513,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 1988年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -378,7 +538,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : トリック 3
+      &lt;div&gt;🎞️ トリック 3
         &lt;a href="https://tver.jp/series/sreyr2dtjq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -393,8 +553,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -418,7 +578,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ライアーゲーム
+      &lt;div&gt;🎞️ ライアーゲーム
         &lt;a href="https://tver.jp/series/sr38tiiobq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -433,8 +593,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -458,7 +618,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : やんごとなき一族
+      &lt;div&gt;🎞️ やんごとなき一族
         &lt;a href="https://tver.jp/series/sr46v0db88" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -473,8 +633,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -498,7 +658,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ルパンの娘（シーズン1）
+      &lt;div&gt;🎞️ ルパンの娘（シーズン1）
         &lt;a href="https://tver.jp/series/sr0q1hsqdp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -513,8 +673,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -538,7 +698,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ファーストクラス
+      &lt;div&gt;🎞️ ファーストクラス
         &lt;a href="https://tver.jp/series/sraxhbr4er" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -553,8 +713,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -578,7 +738,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 忍者に結婚は難しい
+      &lt;div&gt;🎞️ 忍者に結婚は難しい
         &lt;a href="https://tver.jp/series/srjgkxugna" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -593,8 +753,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -618,7 +778,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 人は見た目が100パーセント
+      &lt;div&gt;🎞️ 人は見た目が100パーセント
         &lt;a href="https://tver.jp/series/srxpifdf44" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -633,8 +793,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -658,7 +818,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 監察医 朝顔
+      &lt;div&gt;🎞️ 監察医 朝顔
         &lt;a href="https://tver.jp/series/srplj5a8qz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -673,8 +833,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -698,7 +858,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : トリック 3
+      &lt;div&gt;🎞️ トリック 3
         &lt;a href="https://tver.jp/series/sreyr2dtjq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -713,8 +873,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -738,7 +898,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 南くんが恋人!?
+      &lt;div&gt;🎞️ 南くんが恋人!?
         &lt;a href="https://tver.jp/series/sr94w78b9y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -753,8 +913,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -778,7 +938,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 素晴らしきかな人生
+      &lt;div&gt;🎞️ 素晴らしきかな人生
         &lt;a href="https://tver.jp/series/srl2lgkgmm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -793,8 +953,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -818,7 +978,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ストロベリーナイト
+      &lt;div&gt;🎞️ ストロベリーナイト
         &lt;a href="https://tver.jp/series/srdj87klco" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -833,8 +993,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -858,7 +1018,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 警視庁アウトサイダー
+      &lt;div&gt;🎞️ 警視庁アウトサイダー
         &lt;a href="https://tver.jp/series/srjqfpikg5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -873,8 +1033,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -898,7 +1058,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : トリック 3
+      &lt;div&gt;🎞️ トリック 3
         &lt;a href="https://tver.jp/series/sreyr2dtjq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -913,8 +1073,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2003年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -938,7 +1098,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 警視庁アウトサイダー
+      &lt;div&gt;🎞️ 警視庁アウトサイダー
         &lt;a href="https://tver.jp/series/srjqfpikg5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -953,8 +1113,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -978,7 +1138,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 南くんが恋人!?
+      &lt;div&gt;🎞️ 南くんが恋人!?
         &lt;a href="https://tver.jp/series/sr94w78b9y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -993,8 +1153,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1018,7 +1178,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 南くんが恋人!?
+      &lt;div&gt;🎞️ 南くんが恋人!?
         &lt;a href="https://tver.jp/series/sr94w78b9y" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1033,8 +1193,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1058,7 +1218,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 風間公親―教場0―
+      &lt;div&gt;🎞️ 風間公親―教場0―
         &lt;a href="https://tver.jp/series/srntiftazq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1073,8 +1233,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1098,7 +1258,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ナイト・ドクター
+      &lt;div&gt;🎞️ ナイト・ドクター
         &lt;a href="https://tver.jp/series/srcbmqpzm4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1113,8 +1273,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1138,7 +1298,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 振り返れば奴がいる
+      &lt;div&gt;🎞️ 振り返れば奴がいる
         &lt;a href="https://tver.jp/series/srafsmt023" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1153,8 +1313,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 1993年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1178,7 +1338,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 今夜、わたしはカラダで恋をする。Season2
+      &lt;div&gt;🎞️ 今夜、わたしはカラダで恋をする。Season2
         &lt;a href="https://tver.jp/series/srwz54t4m2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1193,8 +1353,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1218,7 +1378,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 日曜の夜ぐらいは…
+      &lt;div&gt;🎞️ 日曜の夜ぐらいは…
         &lt;a href="https://tver.jp/series/srf2ejuoxr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1233,8 +1393,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1258,7 +1418,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 何曜日に生まれたの
+      &lt;div&gt;🎞️ 何曜日に生まれたの
         &lt;a href="https://tver.jp/series/srx39d7xkq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1273,8 +1433,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1298,7 +1458,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 凪のお暇
+      &lt;div&gt;🎞️ 凪のお暇
         &lt;a href="https://tver.jp/series/srtgk3xlds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1313,8 +1473,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1338,7 +1498,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 親と子の誤算
+      &lt;div&gt;🎞️ 親と子の誤算
         &lt;a href="https://tver.jp/series/sr3l1ve1vi" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1353,8 +1513,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 1982年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1378,7 +1538,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 3年B組金八先生(第5シリーズ)
+      &lt;div&gt;🎞️ 3年B組金八先生(第5シリーズ)
         &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1393,8 +1553,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 1999年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1418,7 +1578,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 素晴らしき哉、先生！
+      &lt;div&gt;🎞️ 素晴らしき哉、先生！
         &lt;a href="https://tver.jp/series/src97bqiem" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1433,8 +1593,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1458,7 +1618,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : おやじの背中
+      &lt;div&gt;🎞️ おやじの背中
         &lt;a href="https://tver.jp/series/sr4op48am3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1473,8 +1633,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2014年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1498,7 +1658,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+      &lt;div&gt;🎞️ MR. FLUSH
         &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1513,8 +1673,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1538,7 +1698,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+      &lt;div&gt;🎞️ MR. FLUSH
         &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1553,8 +1713,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1578,7 +1738,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+      &lt;div&gt;🎞️ MR. FLUSH
         &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1593,8 +1753,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1618,7 +1778,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+      &lt;div&gt;🎞️ MR. FLUSH
         &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1633,8 +1793,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1658,7 +1818,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+      &lt;div&gt;🎞️ MR. FLUSH
         &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1673,8 +1833,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1698,7 +1858,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : MR. FLUSH
+      &lt;div&gt;🎞️ MR. FLUSH
         &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1713,8 +1873,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1738,7 +1898,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : プロゴルファー花
+      &lt;div&gt;🎞️ プロゴルファー花
         &lt;a href="https://tver.jp/series/sr2rkl41ah" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1753,8 +1913,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1778,7 +1938,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 架空OL日記
+      &lt;div&gt;🎞️ 架空OL日記
         &lt;a href="https://tver.jp/series/srvrcd5arn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1793,8 +1953,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1818,7 +1978,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ランチ合コン探偵～恋とグルメと謎解きと～
+      &lt;div&gt;🎞️ ランチ合コン探偵～恋とグルメと謎解きと～
         &lt;a href="https://tver.jp/series/sr9na5uv2s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1833,8 +1993,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1858,7 +2018,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : シロでもクロでもない世界で、パンダは笑う。
+      &lt;div&gt;🎞️ シロでもクロでもない世界で、パンダは笑う。
         &lt;a href="https://tver.jp/series/sr5qun3uq3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1873,8 +2033,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1898,7 +2058,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 極主夫道
+      &lt;div&gt;🎞️ 極主夫道
         &lt;a href="https://tver.jp/series/sri855k0x8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1913,8 +2073,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1938,7 +2098,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 夕暮れに、手をつなぐ
+      &lt;div&gt;🎞️ 夕暮れに、手をつなぐ
         &lt;a href="https://tver.jp/series/sr98lmizol" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1953,8 +2113,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -1978,7 +2138,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 先生のおとりよせ
+      &lt;div&gt;🎞️ 先生のおとりよせ
         &lt;a href="https://tver.jp/series/srxxidjhpl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -1993,8 +2153,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2018,7 +2178,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 先生のおとりよせ
+      &lt;div&gt;🎞️ 先生のおとりよせ
         &lt;a href="https://tver.jp/series/srxxidjhpl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2033,8 +2193,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2058,7 +2218,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 来世ではちゃんとします２
+      &lt;div&gt;🎞️ 来世ではちゃんとします２
         &lt;a href="https://tver.jp/series/sr4x2fqjd5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2073,8 +2233,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2098,7 +2258,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 来世ではちゃんとします２
+      &lt;div&gt;🎞️ 来世ではちゃんとします２
         &lt;a href="https://tver.jp/series/sr4x2fqjd5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2113,8 +2273,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2138,7 +2298,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 春の呪い
+      &lt;div&gt;🎞️ 春の呪い
         &lt;a href="https://tver.jp/series/sr1web4jlh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2153,8 +2313,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2178,7 +2338,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 春の呪い
+      &lt;div&gt;🎞️ 春の呪い
         &lt;a href="https://tver.jp/series/sr1web4jlh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2193,8 +2353,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2218,7 +2378,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : やわ男とカタ子
+      &lt;div&gt;🎞️ やわ男とカタ子
         &lt;a href="https://tver.jp/series/sr6tfn2cqy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2233,8 +2393,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2258,7 +2418,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : やわ男とカタ子
+      &lt;div&gt;🎞️ やわ男とカタ子
         &lt;a href="https://tver.jp/series/sr6tfn2cqy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2273,8 +2433,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2298,7 +2458,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 女の戦争～バチェラー殺人事件～
+      &lt;div&gt;🎞️ 女の戦争～バチェラー殺人事件～
         &lt;a href="https://tver.jp/series/sri38uswc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2313,8 +2473,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2338,7 +2498,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 女の戦争～バチェラー殺人事件～
+      &lt;div&gt;🎞️ 女の戦争～バチェラー殺人事件～
         &lt;a href="https://tver.jp/series/sri38uswc6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2353,8 +2513,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2378,7 +2538,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : みなと商事コインランドリー
+      &lt;div&gt;🎞️ みなと商事コインランドリー
         &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2393,8 +2553,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2418,7 +2578,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : みなと商事コインランドリー
+      &lt;div&gt;🎞️ みなと商事コインランドリー
         &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2433,8 +2593,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2458,7 +2618,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : けむたい姉とずるい妹
+      &lt;div&gt;🎞️ けむたい姉とずるい妹
         &lt;a href="https://tver.jp/series/sr4wcsi4pg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2473,8 +2633,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2498,7 +2658,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : けむたい姉とずるい妹
+      &lt;div&gt;🎞️ けむたい姉とずるい妹
         &lt;a href="https://tver.jp/series/sr4wcsi4pg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2513,8 +2673,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2538,7 +2698,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ひだまりが聴こえる
+      &lt;div&gt;🎞️ ひだまりが聴こえる
         &lt;a href="https://tver.jp/series/srfwjmndd4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2553,8 +2713,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2578,7 +2738,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : ひだまりが聴こえる
+      &lt;div&gt;🎞️ ひだまりが聴こえる
         &lt;a href="https://tver.jp/series/srfwjmndd4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2593,8 +2753,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2618,7 +2778,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 量産型リコ -プラモ女子の人生組み立て記-
+      &lt;div&gt;🎞️ 量産型リコ -プラモ女子の人生組み立て記-
         &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2633,8 +2793,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2658,7 +2818,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 量産型リコ -プラモ女子の人生組み立て記-
+      &lt;div&gt;🎞️ 量産型リコ -プラモ女子の人生組み立て記-
         &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2673,8 +2833,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2698,7 +2858,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : おじさまと猫
+      &lt;div&gt;🎞️ おじさまと猫
         &lt;a href="https://tver.jp/series/sr9tvawlto" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2713,8 +2873,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2738,7 +2898,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : おじさまと猫
+      &lt;div&gt;🎞️ おじさまと猫
         &lt;a href="https://tver.jp/series/sr9tvawlto" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2753,8 +2913,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2778,7 +2938,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : あいくるしい
+      &lt;div&gt;🎞️ あいくるしい
         &lt;a href="https://tver.jp/series/srlhecyrar" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2793,8 +2953,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2005年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2818,7 +2978,7 @@
 
       &lt;hr&gt;
 
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)
+      &lt;div&gt;🎞️ 渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)
         &lt;a href="https://tver.jp/series/srw8hd409c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
       &lt;/div&gt;
 
@@ -2833,8 +2993,8 @@
           &lt;td&gt;
             &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
             &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
       &lt;/table&gt;
 
       &lt;hr&gt;
@@ -2848,165 +3008,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epti6qrrs9"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epy49mexhd</id>
-    <title>刑事のまなざし_[第８話 「傷痕」]</title>
-    <updated>2025-12-22T14:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy49mexhd.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 刑事のまなざし
-        &lt;a href="https://tver.jp/series/sr88xxn2c1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_14時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr88xxn2c1.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        「映画ラストマン -FIRST LOVE-」１２月２４日（水）全国公開！！&lt;br&gt;出演：吉田羊 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：12月14日(日)14:00～1月31日(土)13:59&lt;br&gt;#3-5：12月14日(日)14:00～12月22日(月)13:59&lt;br&gt;#6-8：12月22日(月)14:00～12月30日(火)13:59&lt;br&gt;#9-11：12月30日(火)14:00～1月7日(水)13:59&lt;br&gt;※本作品は1月7日(水)～1月31日(土)にも配信を行います&lt;br&gt;------------&lt;br&gt;東池袋署管内で沢田浩司（青木玄徳）という男が殺され、夏目（椎名桔平）たちは捜査を開始する。沢田が殺されたマンションの防犯カメラには女子高生が映っており、沢田の携帯電話の通話記録から、都内の女子高生・仲村有香（松岡茉優）と頻繁に連絡を取っていたことが判明する。夏目と福森（松重豊）、安達（小野ゆり子）が彼女が入院している病院を訪れると、久美子（板谷由夏）がいた。有香は、１年ほど前に痴漢被害に遭ってから自傷行為を繰り返すようになり、カウンセリングを受けているという。有香に沢田の話を聞いた夏目は、痴漢の犯人とされた岩崎光男（平田満）に会いに行くが…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epy49mexhd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6t5bzagv</id>
-    <title>刑事のまなざし_[第７話 「母の鎖」]</title>
-    <updated>2025-12-22T14:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6t5bzagv.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 刑事のまなざし
-        &lt;a href="https://tver.jp/series/sr88xxn2c1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_14時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr88xxn2c1.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        「映画ラストマン -FIRST LOVE-」１２月２４日（水）全国公開！！&lt;br&gt;出演：吉田羊 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：12月14日(日)14:00～1月31日(土)13:59&lt;br&gt;#3-5：12月14日(日)14:00～12月22日(月)13:59&lt;br&gt;#6-8：12月22日(月)14:00～12月30日(火)13:59&lt;br&gt;#9-11：12月30日(火)14:00～1月7日(水)13:59&lt;br&gt;※本作品は1月7日(水)～1月31日(土)にも配信を行います&lt;br&gt;------------&lt;br&gt;夏目（椎名桔平）が法務技官時代に担当した野沢琢磨（忍成修吾）が結婚することになった。夏目とカウンセラーの久美子（板谷由夏）は、琢磨と新婦・雛子（徳永えり）の結婚式に出席する。&lt;br&gt;一方、東池袋署管内で意識不明の男性が発見され、ポケットから“藤川佐知代”という名刺が見つかった。安達（小野ゆり子）と福森（松重豊）が捜査をすすめていくと、近所の人の話から藤川佐知代（朝加真由美）には娘がいることがわかる。娘に事情を聞こうと訪ねた場所に、夏目と久美子の姿が！？そこは琢磨の結婚式が行われる教会で、新婦の雛子が藤川佐知代の娘だった。式を中断して雛子に事情を聞くと、結婚に反対の佐知代とは絶縁状態で、行方も知らないという…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep6t5bzagv"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5lqw1qtw</id>
-    <title>刑事のまなざし_[第６話 「無関心」]</title>
-    <updated>2025-12-22T14:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5lqw1qtw.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 刑事のまなざし
-        &lt;a href="https://tver.jp/series/sr88xxn2c1" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_14時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr88xxn2c1.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        「映画ラストマン -FIRST LOVE-」１２月２４日（水）全国公開！！&lt;br&gt;出演：吉田羊 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：12月14日(日)14:00～1月31日(土)13:59&lt;br&gt;#3-5：12月14日(日)14:00～12月22日(月)13:59&lt;br&gt;#6-8：12月22日(月)14:00～12月30日(火)13:59&lt;br&gt;#9-11：12月30日(火)14:00～1月7日(水)13:59&lt;br&gt;※本作品は1月7日(水)～1月31日(土)にも配信を行います&lt;br&gt;------------&lt;br&gt;浜田隆一（奥野瑛太）という男が殺された。その後、浜田の指紋が１年前に発生した女子大生殺人事件の犯人のものと一致する。夏目（椎名桔平）たちは、菊池係長（要潤）と警視庁の長峰（北村有起哉）の指示で捜査にあたることに。&lt;br&gt;女子大生殺人事件の被害者は、水野愛子（渋谷飛鳥）。愛子の母・弥生（斉藤慶子）は、娘を殺した犯人が何者かに殺されたと聞き、「自分の手で殺したかった」と刑事たちに告げる。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep5lqw1qtw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epz1s6lmcy</id>
-    <title>真犯人フラグ_[＃10　第1部最終回！息子の運命と意外な犯人！！]</title>
-    <updated>2025-12-22T12:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz1s6lmcy.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 作品名&amp;emsp; : 真犯人フラグ
-        &lt;a href="https://tver.jp/series/srxh4678rn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_12時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_11時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
-          &lt;/th&gt;
-        &lt;/td&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxh4678rn.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　11/14(金)12:00～&lt;br&gt;#4-5　12/12(金)12:00～&lt;br&gt;#6-7　12/15(月)12:00～&lt;br&gt;#8-9　12/19(金)12:00～&lt;br&gt;#10＋特別版、11　12/22(月)12:00～&lt;br&gt;#12-13　12/26(金)12:00～&lt;br&gt;#14-16　12/29(月)12:00～&lt;br&gt;#17-18　1/2(金)12:00～&lt;br&gt;#19-20　1/5(月)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;篤斗(小林優仁)は病院へ運び込まれるが、心停止してしまい…!?阿久津(渋川清彦)らから、真帆(宮沢りえ)と林(深水元基)の関係が続いていたかもしれないと聞かされた凌介(西島秀俊)は、ショックを受ける。そんな中、凌介のもとに犯人らしき人物から呼び出しのメールが届く。指示された場所で待っていたのは林で…!?不穏な動きをするバタコ(香里奈)。そして警察が掴んだ最有力の容疑者とは、一体誰なのか!?
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epz1s6lmcy"/>
   </entry>
 </feed>
