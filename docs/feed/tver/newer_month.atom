@@ -2,13 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-23T16:23:16+09:00</updated>
+  <updated>2025-12-23T18:24:52+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/eppofuc7da</id>
+    <title>財閥復讐～兄嫁になった元嫁へ～_[第2話 「哀れな二人に乾杯」]</title>
+    <updated>2025-12-23T17:00:21+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4szedz3a.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 財閥復讐～兄嫁になった元嫁へ～
+        &lt;a href="https://tver.jp/series/sr4szedz3a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月13日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4szedz3a.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/31（水）17:00～&#13;&lt;br&gt;#7,#8：1/4（日）17:00～&#13;&lt;br&gt;#9,#10：1/7（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;兄・雅之（武田航平）との子を身籠った妻・絵理香（瀧本美織）。絵理香が伊勢財閥の地位と名誉を手にするため由貴也（渡邊圭祐）は利用されただけだった。愛した妻に裏切られ絶望するも、絵理香と一族を地獄に落とすため人生をかけて復讐することを誓う。そんな中、絵理香はiSEインターファッションで新ブランドを立ち上げる。順風満帆に進む一方、社長である悟史（猪塚健太）は業績不振により伊勢家で窮地に立たされていた…。　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eppofuc7da"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epyfohhzbt</id>
+    <title>財閥復讐～兄嫁になった元嫁へ～_[第1話 「不幸のどん底」]</title>
+    <updated>2025-12-23T17:00:20+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4szedz3a.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 財閥復讐～兄嫁になった元嫁へ～
+        &lt;a href="https://tver.jp/series/sr4szedz3a" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_02月04日(水)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1月6日(月)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4szedz3a.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/31（水）17:00～&#13;&lt;br&gt;#7,#8：1/4（日）17:00～&#13;&lt;br&gt;#9,#10：1/7（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;幼い頃、伊勢財閥の次男として引き取られた由貴也（渡邊圭祐）は愛人の子供だと家族から虐げられて生きてきた。母を死に追いやり、自分の人生を壊した伊勢一族への報復のため、由貴也はホワイトハッカーとして働きながら数々の不正取引の証拠を集めていく。一族の醜態を世間へ暴露することで復讐を果たし、最愛の妻・絵理香（瀧本美織）と二人で幸せに生きていく…はずだった――。予測不能のリベンジエンターテインメント開幕！　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epyfohhzbt"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epd9l5jdec</id>
     <title>年下童貞くんに翻弄されてます_[第4話「男の子にそんなこと言われたの初めて…」《ドラマ特区》]</title>
@@ -488,85 +568,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epxc7l9p91"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep5rc1o08a</id>
-    <title>シナントロープ_[最終話 「あの人は…とんでもないです」]</title>
-    <updated>2025-12-22T23:55:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxvrzcpmm.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ シナントロープ
-        &lt;a href="https://tver.jp/series/srxvrzcpmm" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_23時55分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月29日(月)_23時54分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxvrzcpmm.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        クルミと別れて山を進んでいた都成（水上恒司）は、車から降りる龍二（遠藤雄弥）の姿を目撃する。面識のある都成は、顔を隠すためとっさに目出し帽をかぶるが、すぐに見つかってしまい、右腕を切りつけられ、拘束される。龍二は折田（染谷将太）のもとに連れて行こうとするが、都成は反撃に出るため、龍二に揺さぶりを掛け、拘束を解いて逃げ出すことに成功する。都成を追う龍二は、その道中、衝撃の光景を目の当たりにして…。　［期間限定無料配信］
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep5rc1o08a"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epgs4sfndl</id>
-    <title>終幕のロンド ―もう二度と、会えないあなたに―_[最終幕 隠蔽を許さない…遺品整理人、最後の戦い]</title>
-    <updated>2025-12-22T22:54:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr57a1hgo6.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 終幕のロンド ―もう二度と、会えないあなたに―
-        &lt;a href="https://tver.jp/series/sr57a1hgo6" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_22時54分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_22時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月22日(月)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr57a1hgo6.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        彩芽（月城かなと）のリークによって関係が表沙汰になってしまった樹（草彅剛）と真琴（中村ゆり）。それぞれが集団訴訟の原告側と被告側の人間とあって、マスコミは二人の関係を騒ぎ立てる。騒動のせいで陸（永瀬矢紘）は学校へ行けなくなり、『Heaven’s messenger』にも次々とキャンセルの電話が。さらに、裁判で証言するはずだった壮太（矢野聖人）が、証言はできないと言い出し…。&lt;br&gt;一方、真琴も新作絵本が頓挫してしまい、しばらく下田の家に避難することに。樹も陸と一緒に来ないかと誘われるが…。&lt;br&gt;遺品整理人としてさまざまな家族に寄り添ってきた樹。真琴と出会い、ささやかな幸せを感じるようになった矢先に、長年にわたって死者の尊厳を踏みにじってきた巨大企業と対峙することに。切なくも温かな大人の恋の行方は―。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epgs4sfndl"/>
   </entry>
 </feed>
