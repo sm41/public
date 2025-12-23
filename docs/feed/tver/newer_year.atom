@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-23T14:23:12+09:00</updated>
+  <updated>2025-12-23T16:23:16+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -10,11 +10,51 @@
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
+    <id>https://tver.jp/episodes/epgu32iq64</id>
+    <title>渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)_[第四十一回]</title>
+    <updated>2025-12-23T16:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw8hd409c.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)
+        &lt;a href="https://tver.jp/series/srw8hd409c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_16時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月05日(月)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw8hd409c.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日１６時新エピソード更新！！】&lt;br&gt;孫娘のまひる（西原亜希）と眞（えなりかずき）の関係が一向に進展しないことにしびれを切らしたマキ（淡島千景）が“幸楽”にやってきて事情を聞くが、五月（泉ピン子）は曖昧な答えしか返せなかった。まひるの身の振り方次第で田舎の旅館の存続が決まるとマキから問い詰められたまひるは、突然“おかくら”に行こうと提案する。マキが大吉（宇津井健）の前で、まひると眞の縁談について話し始めると、それを聞いていた日向子（大谷玲凪）が…。一方、貴子（清水由紀）との関係に悩む眞は…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epgu32iq64"/>
+  </entry>
+  <entry>
     <id>https://tver.jp/episodes/epn9dvafow</id>
     <title>この恋あたためますか_[第４話 両想いになりたい！初めての旅行とキス]</title>
     <updated>2025-12-23T14:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn9dvafow.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr41vsgk4j.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -54,7 +94,7 @@
     <title>この恋あたためますか_[第３話 恋のフェロモン発動中！今夜…大波乱！]</title>
     <updated>2025-12-23T14:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcr04urmn.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr41vsgk4j.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -94,7 +134,7 @@
     <title>あせとせっけん_[#05《ドラマ特区》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzpnalmfm.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw3ii5srq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -134,7 +174,7 @@
     <title>大好き！五つ子3_[第12回 最高だネ！]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz7fx0xyl.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -174,7 +214,7 @@
     <title>LADY～最後の犯罪プロファイル～_[Episode７ 空白の23秒…殺人犯は刑事]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx9p62vl1.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7p1agjls.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -214,7 +254,7 @@
     <title>ピーナッツバターサンドウィッチ_[第４話]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvj7ag266.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sroxj5ft0g.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -254,7 +294,7 @@
     <title>サレタガワのブルー_[第５話《ドラマイズム》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epu5ox05xl.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre33hblp2.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -294,7 +334,7 @@
     <title>あせとせっけん_[#06《ドラマ特区》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epserwqp2q.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw3ii5srq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -334,7 +374,7 @@
     <title>年の差婚_[第５話《ドラマイズム》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqyceflg8.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryscryxzn.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -374,7 +414,7 @@
     <title>年の差婚_[第４話《ドラマイズム》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqd286c18.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryscryxzn.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -414,7 +454,7 @@
     <title>完璧ワイフによる完璧な復讐計画_[第4話「『反撃』全てを知った妻の復讐計画」《ドラマイズム》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epo50zvij6.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6c6xryk6.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -454,7 +494,7 @@
     <title>カカフカカ－こじらせ大人のシェアハウス－_[第５話《ドラマ特区》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epnw3hsc4d.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0kqbcek3.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -494,7 +534,7 @@
     <title>サレタガワのブルー_[第４話《ドラマイズム》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epmpqadqqe.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre33hblp2.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -534,7 +574,7 @@
     <title>キッズ・ウォー２～ざけんなよ～_[第17話]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk5pzm0iy.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -574,7 +614,7 @@
     <title>ハケンの品格_[#5]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjs2we6xv.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvspig9bk.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -614,7 +654,7 @@
     <title>凛子さんはシてみたい_[第４話《ドラマイズム》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epikm1p4gr.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk9h6ucu8.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -654,7 +694,7 @@
     <title>墜落JKと廃人教師 Lesson2_[episode 3「心中」《ドラマイズム》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi83gv0gp.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1kzwyh3o.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -694,7 +734,7 @@
     <title>ピーナッツバターサンドウィッチ_[第５話]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfmdclbv8.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sroxj5ft0g.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -734,7 +774,7 @@
     <title>ハケンの品格_[#4]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epelwr9fj5.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvspig9bk.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -774,7 +814,7 @@
     <title>ブラザー・トラップ_[Trap５「言えなかった想い…」]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep91z81kz5.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz6gcbz33.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -814,7 +854,7 @@
     <title>完璧ワイフによる完璧な復讐計画_[第5話「『混沌』復讐妻の心の迷い」《ドラマイズム》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7n04s8ik.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr6c6xryk6.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -854,7 +894,7 @@
     <title>カカフカカ－こじらせ大人のシェアハウス－_[第６話《ドラマ特区》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7jfbqt4w.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0kqbcek3.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -894,7 +934,7 @@
     <title>ブラザー・トラップ_[Trap４「素直な自分」]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7dprx843.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srz6gcbz33.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -934,7 +974,7 @@
     <title>凛子さんはシてみたい_[第５話《ドラマイズム》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep78h5pmze.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srk9h6ucu8.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -974,7 +1014,7 @@
     <title>初情事まであと１時間_[「姉と妹」望月 歩　青山美郷　中田青渚【監督・脚本：谷口恒平】《ドラマ特区》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0s0f1k01.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srogn6144c.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1014,7 +1054,7 @@
     <title>初情事まであと１時間_[「決戦の金曜日」岡本 玲　ニシダ（ラランド）【監督・脚本：谷口恒平】《ドラマ特区》]</title>
     <updated>2025-12-23T12:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep05ehhq2l.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srogn6144c.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1054,7 +1094,7 @@
     <title>俺の家の話_[最終話 最後に皆さん、家族を大切に！ぜあ！]</title>
     <updated>2025-12-23T10:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqmg4j96q.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryewjh8ba.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1094,7 +1134,7 @@
     <title>ヤンキー君とメガネちゃん_[＃６ 退学なんて認めません]</title>
     <updated>2025-12-23T10:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eph4sapqz9.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmyyrdti8.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1134,7 +1174,7 @@
     <title>初めて恋をした日に読む話_[第４話 勝負の勉強合宿は大混乱！二人きりの夜に僕だけのご褒美]</title>
     <updated>2025-12-23T10:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcmdhjp7t.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr21656hna.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1174,7 +1214,7 @@
     <title>石子と羽男－そんなコトで訴えます？－_[事案04 救護義務違反]</title>
     <updated>2025-12-23T10:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa5ap95zr.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr5go0kzhf.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1214,7 +1254,7 @@
     <title>ナースのお仕事3_[第18話 プロポーズ大作戦]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epye1fa3nb.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0nr9d949.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1254,7 +1294,7 @@
     <title>5→9～私に恋したお坊さん～_[第4話 大波乱！！一触即発の四角関係！！禁断の秘密、バレる]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxzs66ctn.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sru6b30kj2.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1294,7 +1334,7 @@
     <title>トリック 3_[第7話]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxgx2te75.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreyr2dtjq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1334,7 +1374,7 @@
     <title>愛してるって、言いたい_[episode.4 「違う景色」]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw80tlvp1.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3r6mu8hl.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1374,7 +1414,7 @@
     <title>王様のレストラン_[第9話 長い厄年の終り]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvvku29bz.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtqi99h9g.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1414,7 +1454,7 @@
     <title>警視庁アウトサイダー_[第4話「衝撃展開！裏切り者、判明」]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvckjn363.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjqfpikg5.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1454,7 +1494,7 @@
     <title>失恋ショコラティエ_[第9話 最終章突入！正も誤もない、これが恋だ]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv2obp2qp.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr56lyyja0.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1494,7 +1534,7 @@
     <title>家族ゲーム_[第10話 あの男が家庭教師になった理由～彼は誰を殺したのか？]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsrdsqp4j.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre9gy29cj.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1534,7 +1574,7 @@
     <title>ニューヨーク恋物語_[第11話]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprgewzamb.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpp9o170e.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1574,7 +1614,7 @@
     <title>トリック 3_[第4話]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epolt8qcag.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreyr2dtjq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1614,7 +1654,7 @@
     <title>ライアーゲーム_[第9話 激震！！密輸ゲーム！！謎の強敵新たに出現]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epn4hms82p.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr38tiiobq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1654,7 +1694,7 @@
     <title>やんごとなき一族_[第6話 母に訪れた試練のお茶会！庶民の逆襲スタート！]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epln0rryi7.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr46v0db88.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1694,7 +1734,7 @@
     <title>ルパンの娘（シーズン1）_[第11話 花婿が盗まれた！？泥棒娘と警察官の恋、完結！！]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epk4htnqr6.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0q1hsqdp.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1734,7 +1774,7 @@
     <title>ファーストクラス_[第4話 沢尻 受付嬢に転落 大奥顔負けの女の園！トイレ掃除で涙の夜]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephuux3dqj.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sraxhbr4er.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1774,7 +1814,7 @@
     <title>忍者に結婚は難しい_[第6話 お互いの正体がバレた！一族をかけたバトル開幕！]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgp50gnxv.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjgkxugna.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1814,7 +1854,7 @@
     <title>人は見た目が100パーセント_[第9話 運命の二人！！幸せを掴んだ、女子モドキ！！]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg6nsivk3.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxpifdf44.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1854,7 +1894,7 @@
     <title>監察医 朝顔_[第13話 茶子先生が帰ってきた！そしてあの男も・・・？]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epg0c2drc7.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srplj5a8qz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1894,7 +1934,7 @@
     <title>トリック 3_[第6話]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfr0lia7w.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreyr2dtjq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1934,7 +1974,7 @@
     <title>南くんが恋人!?_[第4話 15センチ彼とお風呂！]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfox95j88.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr94w78b9y.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -1974,7 +2014,7 @@
     <title>素晴らしきかな人生_[第11回 誰のための人生]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfbhypgyc.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srl2lgkgmm.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2014,7 +2054,7 @@
     <title>ストロベリーナイト_[第6話 感染遊戯]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbtf3j91o.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srdj87klco.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2054,7 +2094,7 @@
     <title>警視庁アウトサイダー_[第6話「コスプレの神、降臨!?」]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9v75vy2c.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjqfpikg5.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2094,7 +2134,7 @@
     <title>トリック 3_[第5話]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9oau0831.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sreyr2dtjq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2134,7 +2174,7 @@
     <title>警視庁アウトサイダー_[第5話「謎のパンチ軍団とガテン系社長」]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9kad6ud8.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjqfpikg5.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2174,7 +2214,7 @@
     <title>南くんが恋人!?_[第6話 雷雨でもとに…!?]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6o7xuo7u.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr94w78b9y.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2214,7 +2254,7 @@
     <title>南くんが恋人!?_[第5話 何で小さくなったと思う？]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4kndj3va.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr94w78b9y.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2254,7 +2294,7 @@
     <title>風間公親―教場0―_[第6話 三枚の画廊の絵]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2jajenwn.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srntiftazq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2294,7 +2334,7 @@
     <title>ナイト・ドクター_[第6話 いよいよ後半戦突入！！災害現場で起きた事故の真相とは！？]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep15olsday.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srcbmqpzm4.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2334,7 +2374,7 @@
     <title>振り返れば奴がいる_[第9話]</title>
     <updated>2025-12-23T00:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0ijdyhwu.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srafsmt023.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2374,7 +2414,7 @@
     <title>今夜、わたしはカラダで恋をする。Season2_[第1話 セフレでもいいから。]</title>
     <updated>2025-12-22T20:45:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5dzjzeyx.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwz54t4m2.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2414,7 +2454,7 @@
     <title>日曜の夜ぐらいは…_[第4話 私の友情の歴史は…後悔…裏切り…不安…]</title>
     <updated>2025-12-22T20:30:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf8gllwio.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf2ejuoxr.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2454,7 +2494,7 @@
     <title>何曜日に生まれたの_[第4話　サイコパスな彼女の恋は]</title>
     <updated>2025-12-22T20:15:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiwkwrz7c.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx39d7xkq.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2494,7 +2534,7 @@
     <title>凪のお暇_[第10話「凪、お暇終了！」]</title>
     <updated>2025-12-22T20:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzioauc0r.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtgk3xlds.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2534,7 +2574,7 @@
     <title>親と子の誤算_[第５回 レイプ・集団暴行事件]</title>
     <updated>2025-12-22T20:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp4bajmz5.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3l1ve1vi.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2574,7 +2614,7 @@
     <title>3年B組金八先生(第5シリーズ)_[第９回 ギャルの父は先生]</title>
     <updated>2025-12-22T20:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbq74gxhp.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2614,7 +2654,7 @@
     <title>素晴らしき哉、先生！_[4限目 どこまでが先生の責任？]</title>
     <updated>2025-12-22T20:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epb6xtbwkq.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src97bqiem.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2654,7 +2694,7 @@
     <title>おやじの背中_[第十話「北別府さん、どうぞ」作：三谷幸喜]</title>
     <updated>2025-12-22T20:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epa67pup47.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4op48am3.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2694,7 +2734,7 @@
     <title>MR. FLUSH_[#1　松濤で想像超える騒動]</title>
     <updated>2025-12-22T19:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz86kgy9w.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2734,7 +2774,7 @@
     <title>MR. FLUSH_[#6　広尾の非行と希望のビジョン]</title>
     <updated>2025-12-22T19:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epy4py8af7.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2774,7 +2814,7 @@
     <title>MR. FLUSH_[#5　恵比寿の迷宮 甘い誘いは No thank you]</title>
     <updated>2025-12-22T19:00:00+09:00</updated>
     <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ept881atmp.jpg"&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
 
       &lt;hr&gt;
 
@@ -2808,85 +2848,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ept881atmp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epr88dhov6</id>
-    <title>MR. FLUSH_[#4　神宮前で恋の心中、駄目ッ！]</title>
-    <updated>2025-12-22T19:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epr88dhov6.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ MR. FLUSH
-        &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        主人公の沼尻豪（呂布カルマ）は、照明デザイン会社の中間管理職。トラブルメーカーの部下、沢渡明（馬越琢己）のケツを拭くため、取引先に頭を下げに行く日々が続いている。&lt;br&gt;&lt;br&gt;恋愛が上手くいかない影響から、頼まれてもいないひび割れたハート形の照明を取引先に設置してきたという沢渡。その後始末のために沼尻は今日も取引先に謝罪に向かっていた。&lt;br&gt;なんとか謝罪を終え、近くの公園で沢渡に対して腹を立てていると、突然憔悴しきった女性に泣きつかれてしまう沼尻。その女性はどうやら不倫で傷ついているようで、沼尻の目の前で物騒な復讐を計画し始めた。&lt;br&gt;「これは事件になるのでは…」だんだんと心配になってきた次の瞬間…&lt;br&gt;&lt;br&gt;ギュルルル……突然の便意が沼尻を襲う。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epr88dhov6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epp2elspgz</id>
-    <title>MR. FLUSH_[#3　代々木八幡宮の軒先マッシュルーム]</title>
-    <updated>2025-12-22T19:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epp2elspgz.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ MR. FLUSH
-        &lt;a href="https://tver.jp/series/srj31f48tz" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月22日(月)_19時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月19日(月)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srj31f48tz.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        主人公の沼尻豪（呂布カルマ）は、照明デザイン会社の中間管理職。トラブルメーカーの部下、沢渡明（馬越琢己）のケツを拭くため、取引先に頭を下げに行く日々が続いている。&lt;br&gt;&lt;br&gt;創作料理屋に舞茸型の照明を設置するべきだと、謎の持論を展開する沢渡。沼尻はそんな沢渡に愛想を尽かし、オフィスを後にする。&lt;br&gt;沼尻が公園で一息ついていると、突然様子のおかしな女性に話しかけられる。女性は大食い動画配信者で、動画配信の際に、庭に生えてたキノコを食べてから、目の前の世界が万華鏡みたいに見えていると言う。&lt;br&gt;「毒キノコはそこらへんに自生しているからな…」ちょっとした豆知識を披露していたその時…&lt;br&gt;&lt;br&gt;ギュルルル……突然の便意が沼尻を襲う。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epp2elspgz"/>
   </entry>
 </feed>
