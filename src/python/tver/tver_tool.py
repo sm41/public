@@ -68,7 +68,7 @@ def line_break(strings:str):
 def gen_html(episode_images, series_images, content, series_title, series_id, start_at, end_at, broadcastDateLabel, production_provider_name):
   html_template = f"""\
     <body>
-      <img src="{episode_images}">
+      <img src="{series_images}">
 
       <hr>
 
