@@ -93,7 +93,7 @@ def gen_html(episode_images, series_images, content, series_title, series_id, st
 
       <hr>
 
-      <img src="{series_images}">
+      <img src="{episode_images}">
 
       <hr>
 
