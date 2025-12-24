@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-24T13:06:08+09:00</updated>
+  <updated>2025-12-24T14:42:30+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epiyondvh4</id>
+    <title>孤独の賭け～愛しき人よ～_[第４話 お行儀の悪い奴ら]</title>
+    <updated>2025-12-24T14:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sruo3vdwtx.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 孤独の賭け～愛しき人よ～
+        &lt;a href="https://tver.jp/series/sruo3vdwtx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_14時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月30日(火)_13時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2007年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epiyondvh4.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：伊藤英明 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月29日(土)14:00～1月18日(日)20:59&lt;br&gt;#4：12月24日(水)14:00～12月30日(火)13:59&lt;br&gt;#5：12月25日(木)14:00～12月31日(水)13:59&lt;br&gt;#6：12月30日(火)14:00～1月5日(月)13:59&lt;br&gt;#7：12月31日(水)14:00～1月6日(火)13:59&lt;br&gt;#8：1月5日(月)14:00～1月11日(日)13:59&lt;br&gt;#9：1月6日(火)14:00～1月12日(月)13:59&lt;br&gt;#10：1月11日(日)14:00～1月17日(土)13:59&lt;br&gt;#11：1月12日(月)14:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;小名浜の乾家を買い戻した百子（長谷川京子）は、病床の泰三（でんでん）や叔母・幸枝（山口美也子）にすぐに家を立ち退くよう言い放つ。兄や母を自殺に追い込んだ屈辱と絶望を思い知らせてやると言い、出て行った百子を追いかける従妹・美香（渡辺夏菜）。「家を買い戻すために体を賭けてお金を借りた」と聞いた美香は、そんなことまでさせていたことを謝るが、「私も姉ちゃんのこと絶対に許さない」と百子に言い放つ。ようやく復讐を果たした百子だったが、期待していたほど良い気持ちにはなれなかった。&lt;br&gt;一方、梯二郎（伊藤英明）はフェリーネ、小名浜の家に続き、バー・レギャンも手に入れようとしていた。小名浜の家を百子にプレゼントする代わりに、フェリーネの権利を自分がもらい、レギャンの経営は百子にと決めていたのだ。&lt;br&gt;そんな中、田鶴子（古手川祐子）が梯二郎を訪ねてきた。寿都子（高岡早紀）に勧められて買ったバーを、７０００万円で買い取ってほしいという。それは、梯二郎が５０００万円で買うつもりでいたレギャンだった。&lt;br&gt;さらに、融資先である東野（笹野高史）には、百子から手を引かなければ融資したお金は全額引き上げると言われ…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epiyondvh4"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyn0qd5s5</id>
     <title>俺の話は長い_[第8話 其の十六「ミカンとコタツ」]</title>
@@ -2528,85 +2568,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epnvicbjkp"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eplyipkhc5</id>
-    <title>来世ではちゃんとします３_[第2話]</title>
-    <updated>2025-12-23T17:00:23+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4x2fqjd5.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 来世ではちゃんとします３
-        &lt;a href="https://tver.jp/series/sr4x2fqjd5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eplyipkhc5.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/30（火）17:00～&#13;&lt;br&gt;#7,#8：1/2（金）17:00～&#13;&lt;br&gt;#9,#10：1/6（火）17:00～&#13;&lt;br&gt;#11,#12：1/9（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;処女しか好きになれないセカンド童貞・林勝（後藤剛範）は夢に見るほど元カノの梢のことを忘れられずにいた。そんな中、林に恋する女装男子・栗山凪（ゆうたろう）が林の家に訪ねてくるが、気まずい雰囲気に…。一方、BL漫画を描いているが恋愛経験がなくリアリティのない作品になってしまうことに悩んでいた高杉梅（太田莉菜）。特殊な性癖でエログロ漫画を描いているプロの漫画家・リンゴちゃん（小西桜子）に相談すると意外なことを言われ…。　［期間限定無料配信］　内田理央 主演！「略奪奪婚」テレビ東京にて2026年1月6日(火)スタート！深夜24時30分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eplyipkhc5"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eps0d4mph7</id>
-    <title>来世ではちゃんとします３_[第1話]</title>
-    <updated>2025-12-23T17:00:22+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4x2fqjd5.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 来世ではちゃんとします３
-        &lt;a href="https://tver.jp/series/sr4x2fqjd5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps0d4mph7.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/30（火）17:00～&#13;&lt;br&gt;#7,#8：1/2（金）17:00～&#13;&lt;br&gt;#9,#10：1/6（火）17:00～&#13;&lt;br&gt;#11,#12：1/9（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;5人のセフレと関係を持っていた性依存系女子の大森桃江（内田理央）は、会社の同僚・松田（小関裕太）と3ヶ月付き合ってから一線を越えようと約束し、健全な交際をしていた。しかし、3ヶ月を過ぎても何も起こらないことに桃江の性欲は爆発寸前！セックスしたいと思いながらも、今までのセフレ同様、セックスをしたら松田も変わってしまうのではないかと不安に思う桃江…。一方、松田も桃江と一線を越えられないことに葛藤していた。　［期間限定無料配信］　内田理央 主演！「略奪奪婚」テレビ東京にて2026年1月6日(火)スタート！深夜24時30分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eps0d4mph7"/>
   </entry>
 </feed>
