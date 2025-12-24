@@ -2,13 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-24T16:37:24+09:00</updated>
+  <updated>2025-12-24T18:39:10+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ephlc4j0ps</id>
+    <title>孤独のグルメ Season5_[第7話 東京都世田谷区千歳船橋のラム肩ロースとラムチョップ]</title>
+    <updated>2025-12-24T18:25:01+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 孤独のグルメ Season5
+        &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_18時25分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月07日(水)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月24日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephlc4j0ps.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        井之頭五郎（松重豊）は、友人の妹でヨガインストラクターの斎藤玲（浅見れいな）に会うため千歳船橋へ。自身のヨガ教室のレイアウトを相談したいという。ところがやがて疲れた五郎にヨガのレクチャーが始まり……。教室をあとにした五郎は、あまりの空腹に千歳船橋で何かを食べて帰ろうと思い立つ。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ephlc4j0ps"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epptmgyjzw</id>
+    <title>孤独のグルメ Season5_[第6話 東京都目黒区大岡山の九絵定食となめろう冷茶漬け]</title>
+    <updated>2025-12-24T18:25:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 孤独のグルメ Season5
+        &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_18時25分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月07日(水)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月24日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epptmgyjzw.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        オフィスのインテリアを変えたいという依頼を受けた井之頭五郎（松重豊）は、大岡山にやってくる。しかし、依頼主である八代（堀部圭亮）は自分の仕事に夢中で、五郎を見ようともしない。なんとか八代の希望を聞き出そうとする五郎だったが、八代は不遜な態度を続ける。怒った五郎は、その場で依頼を断り立ち去る。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epptmgyjzw"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epwyza8201</id>
+    <title>DQNの星に嫁ぎました_[#14]</title>
+    <updated>2025-12-24T18:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ DQNの星に嫁ぎました
+        &lt;a href="https://tver.jp/series/sro01zbw46s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_18時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月07日(水)_17時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 8月3日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwyza8201.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        東京から夫の地元に引っ越しすることになった主婦の小野あずさ（高橋春織）。ところが地元に帰ると真面目で優しい夫・勇輝（神田穣）とその仲間達はいわゆる「DQN」だった！！全てをあきらめて勇輝とＤＱＮ達と仲良く暮らしているように見えたあずさだったが、実は復讐するチャンスを狙っていた。ある日あずさは海でバーベキューをしようと皆を誘って…！？&lt;br&gt;&lt;br&gt;【DQNの星に嫁ぎました 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月2日(火)18:00　～　12月16日(火)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:59&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#14　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#15　12月26日(金)18:00　～　2026年1月9日(金)17:59
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epwyza8201"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epevuo8rbn</id>
+    <title>DQNの星に嫁ぎました_[【スマホ用】#14]</title>
+    <updated>2025-12-24T18:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sro01zbw46s.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ DQNの星に嫁ぎました
+        &lt;a href="https://tver.jp/series/sro01zbw46s" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_18時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月07日(水)_17時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 8月3日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 読売テレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epevuo8rbn.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        東京から夫の地元に引っ越しすることになった主婦の小野あずさ（高橋春織）。ところが地元に帰ると真面目で優しい夫・勇輝（神田穣）とその仲間達はいわゆる「DQN」だった！！全てをあきらめて勇輝とＤＱＮ達と仲良く暮らしているように見えたあずさだったが、実は復讐するチャンスを狙っていた。ある日あずさは海でバーベキューをしようと皆を誘って…！？&lt;br&gt;&lt;br&gt;【DQNの星に嫁ぎました 一挙配信】&lt;br&gt;#１　11月28日(金)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#２　11月30日(日)18:00　～　2026年1月9日(金)17:59&lt;br&gt;#３　12月2日(火)18:00　～　12月16日(火)17:59&lt;br&gt;#４　12月4日(木)18:00　～　12月18日(木)17:59&lt;br&gt;#５　12月6日(土)18:00　～　12月20日(土)17:59&lt;br&gt;#６　12月8日(月)18:00　～　12月22日(月)17:59&lt;br&gt;#７　12月10日(水)18:00　～　12月24日(水)17:59&lt;br&gt;#８　12月12日(金)18:00　～　12月26日(金)17:59&lt;br&gt;#９　12月14日(日)18:00　～　12月28日(日)17:59&lt;br&gt;#10　12月16日(火)18:00　～　12月30日(火)17:59&lt;br&gt;#11　12月18日(木)18:00　～　2026年1月1日(木)17:59&lt;br&gt;#12　12月20日(土)18:00　～　2026年1月3日(土)17:59&lt;br&gt;#13　12月22日(月)18:00　～　2026年1月5日(月)17:59&lt;br&gt;#14　12月24日(水)18:00　～　2026年1月7日(水)17:59&lt;br&gt;#15　12月26日(金)18:00　～　2026年1月9日(金)17:59
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epevuo8rbn"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epy9smk3bv</id>
     <title>三国志　秘密の皇帝_[第5話]</title>
@@ -328,285 +488,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epqz4rsfw1"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epaiqhnmp3</id>
-    <title>娘の命を奪ったヤツを殺すのは罪ですか？_[最終回 捨て身の復讐、決着。]</title>
-    <updated>2025-12-23T23:30:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4nt2vpmp.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 娘の命を奪ったヤツを殺すのは罪ですか？
-        &lt;a href="https://tver.jp/series/sr4nt2vpmp" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_23時30分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_23時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月23日(火)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epaiqhnmp3.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        優奈（大友花恋）は亡くなる前、沙織（新川優愛）の策略にはめられ、不動産会社社長・影山（姜暢雄）との望まない関係を強いられ心に深い傷を負っていた。その事実を知った玲子＝レイコ（水野美紀／齊藤京子）はがく然。娘を救えなかった罪悪感に耐えきれず、空（佐藤大空）を連れて姿を消してしまう。&lt;br&gt;別れを告げるメールを受け取った成瀬（白岩瑠姫）は、レイコのマンションへ急ぐが、空っぽの部屋に現れたのは沙織で、「邪魔者はいなくなった」と成瀬を誘惑する。&lt;br&gt;そのころ、圭太（日影琉叶）の失われていた記憶が奇跡的に回復。優奈が死んだのは僕のせいだと思いもよらぬ真実を語り始め…。&lt;br&gt;娘の命が奪われた“あの日”一体何があったのか―。すべての真相が明らかになる中、玲子＝レイコの人生をかけた復讐劇がクライマックスを迎える！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epaiqhnmp3"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epxgiggx26</id>
-    <title>ドビュッシーが弾けるまで_[【先行公開！】國村尾崎加藤が見どころを語る]</title>
-    <updated>2025-12-23T22:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvnsg77et.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ドビュッシーが弾けるまで
-        &lt;a href="https://tver.jp/series/srvnsg77et" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_22時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月14日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月23日(火)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epxgiggx26.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【クリスマスイブSPドラマ「ドビュッシーが弾けるまで」12月24日 よる10時放送】&lt;br&gt;&lt;br&gt;クリスマスイブに贈るスペシャルドラマを先行公開！&lt;br&gt;國村隼さんがええ声で語る本作の見どころとは・・・？&lt;br&gt;&lt;br&gt;★事前に“お気に入り登録”で配信開始をお知らせ！&lt;br&gt;※スマートフォンアプリのみ
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epxgiggx26"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epslpia7am</id>
-    <title>黒弁護士の痴情 世界でいちばん重い純愛_[#2 あの頃には戻れない]</title>
-    <updated>2025-12-23T21:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxzl85zh9.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 黒弁護士の痴情 世界でいちばん重い純愛
-        &lt;a href="https://tver.jp/series/srxzl85zh9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_21時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_21時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 4月11日(金)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epslpia7am.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        結は宗一の担当秘書をすることになり、宗一の執務室にいくと不機嫌な対応をされる。理由がわからず困っていると、抱きしめられ『男を信用しすぎないように』と注意される。一方、佑志郎は襲いかけたことを詫びに結の部屋にやってくる。そこで結は宗一と佑志郎に確執があることを知る。結の部屋から出てきた佑志郎と帰宅してきた宗一が鉢合わせになり、不穏な空気が漂う。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epslpia7am"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppacs5nb8</id>
-    <title>黒弁護士の痴情 世界でいちばん重い純愛_[#1 正反対の兄弟に挟まれて]</title>
-    <updated>2025-12-23T21:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxzl85zh9.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 黒弁護士の痴情 世界でいちばん重い純愛
-        &lt;a href="https://tver.jp/series/srxzl85zh9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_21時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_21時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 4月4日(金)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppacs5nb8.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        白井結（28）は、幼なじみの兄弟、宗一と佑志郎の弁護士事務所に秘書として就職することになった。結は自らの歓迎会で18年ぶりに宗一と再会するが、クールな対応をされガッカリしてしまう。その日の夜、結を部屋まで送った佑志郎は酔っ払った勢いで結を襲いそうになる。なんとそこに宗一が止めに入り、結の部屋が宗一と佑志郎の部屋に挟まれていることを知る。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eppacs5nb8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6n4rds7t</id>
-    <title>黒弁護士の痴情 世界でいちばん重い純愛_[#3 恋と仕事の間で]</title>
-    <updated>2025-12-23T21:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxzl85zh9.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 黒弁護士の痴情 世界でいちばん重い純愛
-        &lt;a href="https://tver.jp/series/srxzl85zh9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_21時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_21時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 4月18日(金)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6n4rds7t.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        宗一が仕事に厳しく秘書をすぐにクビにすることを知った結は、より一層仕事を頑張ろうと努力する。そんな結を食事に誘う宗一。そこで結は改めて宗一のことが好きなのだと気づく。一方、宗一も結の部屋から佑志郎が出てきたことが気になっていた。食事の後、結の部屋に招かれた宗一は結にキスをする。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep6n4rds7t"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep6hidot1f</id>
-    <title>黒弁護士の痴情 世界でいちばん重い純愛_[#4 止められない思い]</title>
-    <updated>2025-12-23T21:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxzl85zh9.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 黒弁護士の痴情 世界でいちばん重い純愛
-        &lt;a href="https://tver.jp/series/srxzl85zh9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_21時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_21時00分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 4月25日(金)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TOKYO MX&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6hidot1f.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        キスの後、宗一と結ばれた結は嬉しくて浮かれてしまう。そんな中、事務所にやってきたクレーマーに対応した結は怖い思いをする。クレーマーから守るために宗一が護衛につくと思った結だったが、なぜか宗一は佑志郎にお願いする。そんな宗一の態度に焚きつけられた佑志郎は結に好きだと告白する。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep6hidot1f"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epid81ochr</id>
-    <title>孤独のグルメ Season5_[第5話 台湾台北市永楽市場の鶏肉飯と乾麺]</title>
-    <updated>2025-12-23T18:25:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr1tn9u6sx.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 孤独のグルメ Season5
-        &lt;a href="https://tver.jp/series/sr1tn9u6sx" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_18時25分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月06日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月23日(火)放送分&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epid81ochr.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        台湾出張2日目。アジア物産展に向けて工芸品のリサーチを始めた井之頭五郎（松重豊）は、まず国立伝統芸術センターへ。茶器やトマト飴などから、さまざまなヒントを得る。そんな中、母親が日本人だという劉真一（水間ロン）に話しかけられる。五郎と同じくバイヤーをしているという。仕事の話をするうちに、劉から台北で一番古い問屋街・迪化街を勧められ、早速向かうことに。　［期間限定無料配信］　テレビ東京にて毎週月曜～木曜夕方5時45分より放送中！／ＢＳテレ東にて毎週日曜夕方6時15分より放送中！※放送時刻は予告なく変更する場合がございます。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epid81ochr"/>
   </entry>
 </feed>
