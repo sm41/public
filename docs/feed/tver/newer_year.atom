@@ -2,13 +2,613 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-24T11:00:41+09:00</updated>
+  <updated>2025-12-24T12:00:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epyn0qd5s5</id>
+    <title>俺の話は長い_[第8話 其の十六「ミカンとコタツ」]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07n4se9.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 俺の話は長い
+        &lt;a href="https://tver.jp/series/sri07n4se9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyn0qd5s5.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【土ドラ『パンダより恋が苦手な私たち』（２０２６年１月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/10(水)12:00～&lt;br&gt;#5-6　12/17(水)12:00～&lt;br&gt;#7-8　12/24(水)12:00～&lt;br&gt;#9-10　12/31(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;就職が決まらないため、光司(安田顕)が部屋にこもる時間が多くなった。実はジグソーパズルを作ったりと充実した無職の日々を送っていた光司。「同じニートとしてあっという間に追い抜かれそうだもんね」「当たり前でしょ。元々ニートとしてのポテンシャルは光司の方が全然上なんだから」
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epyn0qd5s5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epvk9lz18p</id>
+    <title>俺の話は長い_[第8話 其の十五「ゆで卵と福引き」]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07n4se9.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 俺の話は長い
+        &lt;a href="https://tver.jp/series/sri07n4se9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epvk9lz18p.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【土ドラ『パンダより恋が苦手な私たち』（２０２６年１月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/10(水)12:00～&lt;br&gt;#5-6　12/17(水)12:00～&lt;br&gt;#7-8　12/24(水)12:00～&lt;br&gt;#9-10　12/31(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;房枝(原田美枝子)に好意を見せ、積極的にアプローチするリッチな檀野(長谷川初範)が光司(安田顕)の就職先を紹介してくれることになった。就職の相談と称して、綾子(小池栄子)と光司は檀野に豪華鉄板焼をごちそうになる。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epvk9lz18p"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epv6jf1yc0</id>
+    <title>俺の話は長い_[第7話 其の十四「カレーライスと実家」]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07n4se9.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 俺の話は長い
+        &lt;a href="https://tver.jp/series/sri07n4se9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epv6jf1yc0.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【土ドラ『パンダより恋が苦手な私たち』（２０２６年１月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/10(水)12:00～&lt;br&gt;#5-6　12/17(水)12:00～&lt;br&gt;#7-8　12/24(水)12:00～&lt;br&gt;#9-10　12/31(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;満(生田斗真)は、自分の事を尊敬する渡利(間宮祥太朗)の前で、これからは、王族のペットとして飼われるライオンになると宣言。一方、陸(水沢林太郎)を告白のために呼び出した春海(清原果耶)だったが…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epv6jf1yc0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epupc488x0</id>
+    <title>キッズ・ウォー２～ざけんなよ～_[第18話]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srepkirvso.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ キッズ・ウォー２～ざけんなよ～
+        &lt;a href="https://tver.jp/series/srepkirvso" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_06月17日(水)_12時00分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epupc488x0.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【毎週月曜～金曜１２時　新エピソード更新！！】  翼に買収され茜に冷たくしていた努だが、茜の優しさに触れ裏切っていた事を謝る。茜は良太たちとも和解し一件落着。一方翼は再び孤立、茜に仕返しする方法を練り直す。翼は自分に味方する里香に接近、「君が好きだ」と気を引いてシャープペンをプレゼントする。里香は初恋だと舞い上がるが、茜は翼が自分と里香の仲を険悪にするため、里香に好きでもないのに好きだと言っている事を知る。里香に事実を言えない茜は春子に相談するが、偶然里香がその話しを立ち聞きしてしまう。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epupc488x0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eps31sr1cs</id>
+    <title>新空港占拠_[第8話　新・爆弾]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmr1z44t.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 新空港占拠
+        &lt;a href="https://tver.jp/series/srxmr1z44t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eps31sr1cs.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　11/30(日)12:00～&lt;br&gt;#4　12/14(日)12:00～&lt;br&gt;#5　12/17(水)12:00～&lt;br&gt;#6-7　12/21(日)12:00～&lt;br&gt;#8-10　12/24(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;「おまえの妻が1年前に犯した罪を明らかにしろ」――獣から抜けて単独行動をとる鼠・大河(ジェシー)が、武蔵(櫻井翔)の妻・裕子(比嘉愛未)の首輪に爆弾を仕掛けた。時間内に武蔵が裕子の罪を暴けなければ裕子は爆死する…。一方の獣たちは、自分たちの中に、決別したはずの大河に協力する裏切り者がいると断定。裏切り者の炙り出しを始めるが…!裕子の罪を突き止めようとする武蔵の前に、さらなる怒涛の展開が待ち受ける!
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eps31sr1cs"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/eprlsb5p9h</id>
+    <title>新空港占拠_[第10話(最終回)　新・真相]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmr1z44t.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 新空港占拠
+        &lt;a href="https://tver.jp/series/srxmr1z44t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprlsb5p9h.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　11/30(日)12:00～&lt;br&gt;#4　12/14(日)12:00～&lt;br&gt;#5　12/17(水)12:00～&lt;br&gt;#6-7　12/21(日)12:00～&lt;br&gt;#8-10　12/24(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;「全員、皆殺しだ」 暴走を始めた大河(ジェシー)が空港から人質全員を奪って逃走!その行き先と目的を知った武蔵(櫻井翔)は、大河の計画を食い止めるべく、最後の闘いに挑む!一方のさくら(ソニン)は、人質全員の命を守るため、意を決してある人物に救いを求める…「教えてください。新見大河を止める方法を」――。大河が暴こうとしている最後の嘘…真の山猫の正体とは!?そして、最後に訪れる衝撃の十数秒!運命の最終回!!
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/eprlsb5p9h"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epq2f8a4s5</id>
+    <title>大好き！五つ子3_[第13回 バラバラな心]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrmoq9mod.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 大好き！五つ子3
+        &lt;a href="https://tver.jp/series/srrmoq9mod" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月07日(水)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2001年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epq2f8a4s5.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎週月曜～金曜１２時　新エピソード更新！！】&lt;br&gt;良枝（岩本多代）が鎌倉の家の土地にマンションを建て、みんなで一緒に住もうというアイデアを持ち出した。土地と等価交換になるため、ローンの心配もしなくていいのだという。美穂（新穂えりか）はもちろん大賛成だが、慎吾（中野勇士）は友達と別れるのが嫌だと大反対。さらに、生まれた家を壊したくないと周平（見栄晴）が反対する中、恵（長谷川真弓）はみんなで一緒に住めることは素敵だと言って賛成する。こうして、みんなの意見が真っ二つになってしまった。そこで、美穂は良介（新井康弘）に意見を聞こうと電話をした。その後、良介は家に来ていた千絵子（茅島成美）に鎌倉でマンションを建てる話があることを話してしまい…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epq2f8a4s5"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epkojifiha</id>
+    <title>俺の話は長い_[第7話 其の十三「ジンライムと商店街」]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sri07n4se9.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 俺の話は長い
+        &lt;a href="https://tver.jp/series/sri07n4se9" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epkojifiha.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【土ドラ『パンダより恋が苦手な私たち』（２０２６年１月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/10(水)12:00～&lt;br&gt;#5-6　12/17(水)12:00～&lt;br&gt;#7-8　12/24(水)12:00～&lt;br&gt;#9-10　12/31(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;満(生田斗真)と綾子(小池栄子)の幼少期のお年玉が出てきた。取りに帰った満は、房枝(原田美枝子)達が、この家を売る計画があるのを知る。リフォーム中の綾子達の家に、房枝の部屋もあるらしい。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epkojifiha"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ephwy9gxd4</id>
+    <title>レッドアイズ　監視捜査班_[#7]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryvx67sbl.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ レッドアイズ　監視捜査班
+        &lt;a href="https://tver.jp/series/sryvx67sbl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephwy9gxd4.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/10(水)12:00～&lt;br&gt;#5-6　12/17(水)12:00～&lt;br&gt;#7-8　12/24(水)12:00～&lt;br&gt;#9-10　12/31(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;亡き美保(小野ゆり子)の墓参りに行った伏見(亀梨和也)が、何者かによって連れ去られた!KSBCに送られてきたライブ映像から、伏見がある場所に監禁されていることが判明。&lt;br&gt;湊川(シシド・カフカ)たちは、伏見の出すヒントから彼を拉致した男を確保するも、肝心の伏見の居場所はわからずじまい。その間にも、伏見の体力は徐々に奪われていき…!&lt;br&gt;生死をかけたタイムリミットが迫る中、KSBCの面々は伏見を助けるために奔走する!
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ephwy9gxd4"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epfzg618me</id>
+    <title>若草物語―恋する姉妹と恋せぬ私―_[#7 消えた三女の行方]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwsc0m4zq.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 若草物語―恋する姉妹と恋せぬ私―
+        &lt;a href="https://tver.jp/series/srwsc0m4zq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epfzg618me.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【土ドラ『パンダより恋が苦手な私たち』（２０２６年１月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/10(水)12:00～&lt;br&gt;#5-6　12/17(水)12:00～&lt;br&gt;#7-8　12/24(水)12:00～&lt;br&gt;#9-10　12/31(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;配信用ドラマで脚本家デビューを果たした涼(堀田真由)は、行方不明の衿(長濱ねる)にダメ元でメッセージを送信。その途端、2年間涼が送り続けたメッセージに「既読」マークが一斉についた!衿の行方を探す涼は、衿が使っていたクローゼットの中から大量の名刺を発見。それは大企業の重役の名刺ばかりで…!?&lt;br&gt;不安に駆られる涼だったが、幼馴染の律(一ノ瀬颯)に背中を押され、ついに衿の居場所のヒントを突き止めるが…!?
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epfzg618me"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epckbo1l5h</id>
+    <title>新空港占拠_[第9話　真・空港]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxmr1z44t.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 新空港占拠
+        &lt;a href="https://tver.jp/series/srxmr1z44t" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epckbo1l5h.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-3　11/30(日)12:00～&lt;br&gt;#4　12/14(日)12:00～&lt;br&gt;#5　12/17(水)12:00～&lt;br&gt;#6-7　12/21(日)12:00～&lt;br&gt;#8-10　12/24(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;武蔵(櫻井翔)爆死まで残り1時間…!「武蔵の命が惜しければ、30年前の兄・健一の失踪の真実を話せ」――悠月(高橋メアリージュン)は二葉(奥貫薫)を問い詰めるが、二葉は「知らない」と言う。焦るさくら(ソニン)に、獣の仲間・岩槻(白石聖)がさらなる難題を突き付ける。「私が獣になった理由を突き止めてください。制限時間は1分」。岩槻はそう言うと、ある人物に銃口を向け、「よーい、スタート」――。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epckbo1l5h"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep9kk9ws0o</id>
+    <title>テセウスの船_[第３話 決死の告白！殺人犯になる父へー]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srm9aimsy0.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ テセウスの船
+        &lt;a href="https://tver.jp/series/srm9aimsy0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月18日(日)_20時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9kk9ws0o.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 主演：鈴木亮平 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#3：12月24日(水)12:00～1月18日(日)20:59&lt;br&gt;#4：12月25日(木)12:00～12月31日(水)11:59&lt;br&gt;#5：12月28日(日)12:00～1月3日(土)11:59&lt;br&gt;#6：12月31日(水)12:00～1月6日(火)11:59&lt;br&gt;#7：1月3日(土)12:00～1月9日(金)11:59&lt;br&gt;#8：1月6日(火)12:00～1月12日(月)11:59&lt;br&gt;#9：1月9日(金)12:00～1月15日(木)11:59&lt;br&gt;#10：1月12日(月)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;田村心（竹内涼真）は音臼村で起こった一連の事件の容疑をかけられ、刑事の金丸茂雄（ユースケ・サンタマリア）に逮捕されてしまう。逮捕される瞬間に、未来の出来事が書かれたノートは辛うじて投げ捨てた心。父・文吾（鈴木亮平）が後に殺人を犯すことは決して誰にも知られてはいけないからだ。しかし、釈放された心の元に、ノートと共に捨てたはずの免許証が届く。誰の仕業なのか…まさか、ノートも拾われたのか！？不安が募る心に追い打ちをかけるように、真犯人がまた奇妙な絵で新たな犯行を予告する。果たして、次なるターゲットは！？追い詰められた心を心配する和子（榮倉奈々）。心は、家族を救うため、残酷な未来を打ち明けるべきか激しく葛藤する。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep9kk9ws0o"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep8kzkhrjf</id>
+    <title>レッドアイズ　監視捜査班_[#8]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sryvx67sbl.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ レッドアイズ　監視捜査班
+        &lt;a href="https://tver.jp/series/sryvx67sbl" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8kzkhrjf.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/10(水)12:00～&lt;br&gt;#5-6　12/17(水)12:00～&lt;br&gt;#7-8　12/24(水)12:00～&lt;br&gt;#9-10　12/31(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;警察病院を抜け出した蠣崎(忍成修吾)が、KSBCを占拠した!彼らは、“上級国民”が起こし、警察の手で揉み消された事件の真相が記されたファイルを、世間に公表するよう島原(松下奈緒)に迫る。部下を人質に取られ、追い詰められる島原。&lt;br&gt;伏見(亀梨和也)は、小牧(松村北斗)と共に外部からKSBCをハッキングし、仲間を助けようとする。一方、ある人物にも危機が…!?&lt;br&gt;黒幕の“先生”が仕掛ける最終章、ついに開幕!
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep8kzkhrjf"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep6d85c1yt</id>
+    <title>若草物語―恋する姉妹と恋せぬ私―_[#8 再会、涙の別れ]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwsc0m4zq.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 若草物語―恋する姉妹と恋せぬ私―
+        &lt;a href="https://tver.jp/series/srwsc0m4zq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : 日テレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep6d85c1yt.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【土ドラ『パンダより恋が苦手な私たち』（２０２６年１月スタート）放送記念配信】&lt;br&gt;詳細スケジュールはこちら↓↓　Huluでは全話配信中！見逃しを防ぐ「お気に入り登録」も！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;#1-4　12/10(水)12:00～&lt;br&gt;#5-6　12/17(水)12:00～&lt;br&gt;#7-8　12/24(水)12:00～&lt;br&gt;#9-10　12/31(水)12:00～&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;&lt;br&gt;行方不明の三女・衿(長濱ねる)を2年ぶりに発見した次女・涼(堀田真由)は、その姿に絶句!幼い少女から「ママ」と呼ばれる衿は、別人のように変わっていて…!?&lt;br&gt;「私は涼が思ってるような、天使みたいな妹じゃないから」と涼を突き放す衿。2年前に突然失踪したワケ、今まで誰にも言えなかった苦しみ、それは涼の知らないことばかりで…。&lt;br&gt;最愛の妹・衿の変化を受け止めきれず愕然とする涼。すれ違う姉妹たちの運命は…!?
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep6d85c1yt"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep5vrtn7id</id>
+    <title>愛はどうだ_[最終回「幸せになれ娘たち」]</title>
+    <updated>2025-12-24T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srrs8w5fqs.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 愛はどうだ
+        &lt;a href="https://tver.jp/series/srrs8w5fqs" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 1992年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep5vrtn7id.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;主演：福山雅治 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月31日(土)23:59&lt;br&gt;#2：11月30日(日)12:00～1月31日(土)23:59&lt;br&gt;#3：12月1日(月)12:00～1月31日(土)23:59&lt;br&gt;#4：12月1日(月)12:00～12月8日(月)11:59&lt;br&gt;#5：12月3日(水)12:00～12月10日(水)11:59&lt;br&gt;#6：12月8日(月)12:00～12月15日(月)11:59&lt;br&gt;#7：12月10日(水)12:00～12月17日(水)11:59&lt;br&gt;#8：12月15日(月)12:00～12月22日(月)11:59&lt;br&gt;#9：12月17日(水)12:00～12月24日(水)11:59&lt;br&gt;#10：12月22日(月)12:00～12月29日(月)11:59&lt;br&gt;#11：12月24日(水)12:00～12月31日(水)11:59&lt;br&gt;※本作品は12月31日(水)～1月31日(土)にも配信を行います&lt;br&gt;------------&lt;br&gt;かなえ（つみきみほ）が妊娠したという事実を知った修一（緒形拳）は、やり場のない怒りをずっとため込む一方、彼女の体を心配していた。かなえはそんな父親を気遣い結婚式を取り止め、籍だけ入れると言う。一方、あやめ（清水美砂）は、引っ越しをやめて三崎家で暮らすと言い出す。娘たちが自分を思っていることが痛いほどわかる修一は、２人に出ていくよう告げる。引っ越しの前日、本村（伊原剛志）と矢沢（福山雅治）の計らいで、親子４人は昔のように思い切り公園で遊ぶ。はしゃぎ回る娘たちを見て、感慨深くなる修一だった。その夜、出ていく２人の娘としみじみ語り合い、「精一杯幸せになれ」と笑顔で告げる修一。寝ているふりをして聞いていたさなえ（渋谷琴乃）も含め、皆は涙をこらえられなかった。翌日、あやめとかなえはそれぞれ新しい家庭を作るべく、三崎家を去っていき…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep5vrtn7id"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epr5m33zsg</id>
     <title>めぐり逢󠄀い_[最終話「ずっと抱きしめて」]</title>
@@ -2048,525 +2648,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep9gcduqn8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep60gib580</id>
-    <title>さらば、佳き日_[第1話 いつかもっと好きな人が現れる]</title>
-    <updated>2025-12-23T17:00:18+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwrsa0zpn.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ さらば、佳き日
-        &lt;a href="https://tver.jp/series/srwrsa0zpn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep60gib580.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/29（月）17:00～&#13;&lt;br&gt;#7,#8：12/31（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;絵本の出版社に勤務しているドジで情けない桂一と、保育士として働く頼りがいがある晃。“新婚夫婦”として新生活をスタートさせた2人には誰にも言えない秘密があった…。2人は兄妹なのである。時は6年前に遡る。晃は自身の桂一への想いに気が付き始めるが、その気持ちに蓋をして暮らしていた。そんなある日、桂一が同級生の女性を家に連れてきて…。誰にも言えない秘密を抱えながら生きる2人のヒューマンラブストーリー。　［期間限定無料配信］
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep60gib580"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epqti9fp6d</id>
-    <title>Qrosの女 スクープという名の狂気_[第2話]</title>
-    <updated>2025-12-23T17:00:17+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src1vll28q.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ Qrosの女 スクープという名の狂気
-        &lt;a href="https://tver.jp/series/src1vll28q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqti9fp6d.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/28（日）17:00～&#13;&lt;br&gt;#5,#6：12/31（水）17:00～&#13;&lt;br&gt;#7,#8：1/4（日）17:00～&#13;&lt;br&gt;#9,#10：1/8（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;突然事務所を退所した俳優・唯花（小西桜子）。その真相を追う栗山（桐谷健太）と矢口（影山拓也）は、元マネージャー・本条茜（小林きな子）に直撃するも、「円満退社」と一蹴される。現在の事務所へ狙いを定めた2人は、調査を進めていく中で、新マネージャー・宇野美和（遊井亮子）が怪しげな講演会を主催し、唯花がそこで演説をしていることが判明。マネージャーと俳優、その関係に隠された衝撃の真実とは一体…？　［期間限定無料配信］　芸能界の闇を暴く!?ゴシップエンターテインメント！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epqti9fp6d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epi84er5v8</id>
-    <title>Qrosの女 スクープという名の狂気_[第1話]</title>
-    <updated>2025-12-23T17:00:16+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src1vll28q.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ Qrosの女 スクープという名の狂気
-        &lt;a href="https://tver.jp/series/src1vll28q" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月05日(木)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epi84er5v8.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/28（日）17:00～&#13;&lt;br&gt;#5,#6：12/31（水）17:00～&#13;&lt;br&gt;#7,#8：1/4（日）17:00～&#13;&lt;br&gt;#9,#10：1/8（木）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;「週刊キンダイ」の敏腕記者・栗山孝治（桐谷健太）はアイドルグループ・モンアイのモナ（寺本莉緒）と塾講師・日比野純也（渡辺光）の不倫現場を追っていた。証拠を掴むため元政治班の若手記者・矢口慶太（影山拓也）を従え、大胆な取材を続けていく。一方世間では、アパレルブランド「Qros（キュロス）」のCMに出演した謎の美女に注目が集まり始めていた…。スキャンダル蔓延る芸能界を暴露するゴシップエンターテインメントが幕を開ける！　［期間限定無料配信］　芸能界の闇を暴く!?ゴシップエンターテインメント！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epi84er5v8"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epzofw6olg</id>
-    <title>みなと商事コインランドリー2_[第2話 七夕の願いドキドキの同棲]</title>
-    <updated>2025-12-23T17:00:15+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ みなと商事コインランドリー2
-        &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzofw6olg.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/30（火）17:00～&#13;&lt;br&gt;#7,#8：1/2（金）17:00～&#13;&lt;br&gt;#9,#10：1/6（火）17:00～&#13;&lt;br&gt;#11,#12：1/9（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;シン（西垣匠）から家のリフォームが終わるまで一緒に住まわせてほしいと頼まれた湊（草川拓弥）は、動揺するも仕方なく受け入れる。喜ぶシンだったが、湊から案内されたのは隣の部屋。さらに「同棲するにはまだ早い」と言われてしまい不服なシン。一方湊は、ご飯を一緒に食べたり、合鍵を求められたり、気づけば完全にシンのペースに。そんなある日、足早にバイト先から帰るシンは湊の祖父母と出会い、一緒に湊のアパートに行くことに。そこで祖父母からあることを告げられ…。　［期間限定無料配信］　草川拓弥 主演！「俺たちバッドバーバーズ」テレビ東京系列にて1月9日(金)スタート！毎週金曜深夜24時42分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epzofw6olg"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epuiy7vxbd</id>
-    <title>みなと商事コインランドリー2_[第1話 両思いの恋…甘やかな日々]</title>
-    <updated>2025-12-23T17:00:14+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtc2ea52w.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ みなと商事コインランドリー2
-        &lt;a href="https://tver.jp/series/srtc2ea52w" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月06日(金)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuiy7vxbd.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/30（火）17:00～&#13;&lt;br&gt;#7,#8：1/2（金）17:00～&#13;&lt;br&gt;#9,#10：1/6（火）17:00～&#13;&lt;br&gt;#11,#12：1/9（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;古びたコインランドリー「みなと商事」を祖父から引き継いだ湊晃（草川拓弥）は、相変わらずのんびりと店を営んでいた。そんな中、10年越しの想いを叶え晴れて湊と両想いになった香月慎太郎＝シン（西垣匠）が訪れる。付き合い始めて3カ月近く経つが、湊はシンのペースに乗せられっぱなし。とはいえ甘やかな日々を過ごしていた2人だったが、シンにはある悩みが…。一方、受験勉強に励む英明日香（奥智哉）は、付き合い始めた佐久間柊（稲葉友）との気持ちの差に悩んでおり…。　［期間限定無料配信］　草川拓弥 主演！「俺たちバッドバーバーズ」テレビ東京系列にて1月9日(金)スタート！毎週金曜深夜24時42分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epuiy7vxbd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppjkkg8f0</id>
-    <title>かしましめし_[#2 引っ越し揚げでかしましめし]</title>
-    <updated>2025-12-23T17:00:13+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7lsf80gg.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ かしましめし
-        &lt;a href="https://tver.jp/series/sr7lsf80gg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppjkkg8f0.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/27（土）17:00～&#13;&lt;br&gt;#7,#8：12/31（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;千春（前田敦子）の家に越してきたナカムラ（成海璃子）と英治（塩野瑛久）。片付けがひと段落すると、ナカムラの卓上フライヤーで好きな具を串に刺して揚げる“引っ越し揚げ”で引っ越し初日の食卓を囲む。ある日、千春の提案で花見に出かけた3人。千春は蓮井（渡部篤郎）と会い、英治は友人と合流し、1人になったナカムラの前にナンパもどきの田口（倉悠貴）が現れる。田口の軽妙なやりとりに少し心を開くナカムラだったが…？　［期間限定無料配信］
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eppjkkg8f0"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epunq0tf7q</id>
-    <title>かしましめし_[#1 包まない餃子でかしましめし]</title>
-    <updated>2025-12-23T17:00:12+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr7lsf80gg.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ かしましめし
-        &lt;a href="https://tver.jp/series/sr7lsf80gg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月28日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epunq0tf7q.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/27（土）17:00～&#13;&lt;br&gt;#7,#8：12/31（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;上司のパワハラで心が折れ、仕事を辞めた千春（前田敦子）。婚約破棄されたばかりのナカムラ（成海璃子）。恋人との関係がうまくいかないゲイの英治（塩野瑛久）。同級生の死をきっかけに再会したアラサーの3人は、それから定期的に集まっては一緒にご飯を食べるようになり…。仕事でやりきれないことがあっても、恋愛で挫けても、美味しいごはんをみんなで分け合えば救われる。そんな3人の、愛おしく“かしましい”日常生活。　［期間限定無料配信］
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epunq0tf7q"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epljc8ufpd</id>
-    <title>シェフは名探偵_[第2話]</title>
-    <updated>2025-12-23T17:00:11+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgq3oo6z8.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ シェフは名探偵
-        &lt;a href="https://tver.jp/series/srgq3oo6z8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epljc8ufpd.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/29（月）17:00～&#13;&lt;br&gt;#7,#8：12/30（火）17:00～&#13;&lt;br&gt;#9：1/2（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;常連客・御木本遥（浅野千鶴）から予約の連絡が。メインは“ガチョウのコンフィのカスレ”希望だという。同席する人気エッセイスト・寺門小雪（松本若菜）のリクエストらしいが、なぜガチョウなのか……？　また原杏子（山下リオ）と大島圭一（西尾友樹）が来店したある夜。食事中に大島がプロポーズした。無事成功するがその後思わぬトラブルが――。そんな小雪と大島の苦悩に何かを感じた三舟忍（西島秀俊）は、またもお節介を焼く。　［期間限定無料配信］　石井杏奈 主演！「聖ラブサバイバーズ」テレビ東京にて2026年1月7日(水)スタート！毎週水曜深夜24時30分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epljc8ufpd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep64trz7az</id>
-    <title>シェフは名探偵_[第1話]</title>
-    <updated>2025-12-23T17:00:10+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgq3oo6z8.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ シェフは名探偵
-        &lt;a href="https://tver.jp/series/srgq3oo6z8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月30日(金)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep64trz7az.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/29（月）17:00～&#13;&lt;br&gt;#7,#8：12/30（火）17:00～&#13;&lt;br&gt;#9：1/2（金）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;高築智行（濱田岳）はひょんなことから、三舟忍（西島秀俊）がシェフを務めるレストラン『ビストロ・パ・マル』のギャルソンになるが、働き始めて早々、迷惑な客が次々と来店し困惑する。例えば、好き嫌いが激しく何かと注文をつけてくる粕屋孝一、恋人らしき川出恵子と口論した挙句デザートにダメ出しする鶴岡正……そんな彼らの背後にある真実を、三舟はお節介と洞察力で解き明かしていく。　［期間限定無料配信］　石井杏奈 主演！「聖ラブサバイバーズ」テレビ東京にて2026年1月7日(水)スタート！毎週水曜深夜24時30分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep64trz7az"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppx53mv1u</id>
-    <title>量産型リコ -最後のプラモ女子の人生組み立て記-_[第2話 「リコと自由研究」]</title>
-    <updated>2025-12-23T17:00:05+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9hp0uf40.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 量産型リコ -最後のプラモ女子の人生組み立て記-
-        &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppx53mv1u.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/30（火）17:00～&#13;&lt;br&gt;#7,#8：1/2（金）17:00～&#13;&lt;br&gt;#9,#10：1/6（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;久々に実家で過ごすことになったが、暇を持て余すリコ（与田祐希）たちの元へ、叔母と甥の勇斗（長尾翼）がやってくる。久しぶりの再会に盛り上がった一同は、リコと勇斗を家に残してショッピングへと出かけてしまう。取り残され、いてもたってもいられなくなったリコは勇斗を連れ出し夏の自由研究へと出発！意気込んで虫取りを始めるがなかなかうまくいかず、悩んだリコは矢島模型店の暖簾をくぐる。そして、勇斗と一緒にプラモデルを作るべく、リコはある作戦にでる…！　［期間限定無料配信］　　中島歩 主演！「俺たちバッドバーバーズ」テレビ東京系列にて1月9日(金)スタート！毎週金曜深夜24時42分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eppx53mv1u"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep7wbso46f</id>
-    <title>量産型リコ -最後のプラモ女子の人生組み立て記-_[第1話 「別れと出会い」]</title>
-    <updated>2025-12-23T17:00:04+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9hp0uf40.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 量産型リコ -最後のプラモ女子の人生組み立て記-
-        &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月03日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7wbso46f.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/30（火）17:00～&#13;&lt;br&gt;#7,#8：1/2（金）17:00～&#13;&lt;br&gt;#9,#10：1/6（火）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;小向璃子（与田祐希）は、祖父の訃報を聞いて故郷へと帰ることに。4年ぶりに家族全員が揃った通夜ぶるまいで、小向一家は「優しかった」以外に祖父を偲ぶ言葉が出てこないのであった…。そんな中、祖父の遺品の中から出てきたのは“作りかけのプラモデル”。道半ばだと感じたリコは、プラモデルを完成させるべく「矢島模型店」へと向かう。そこで出会った店主のやっさん（田中要次）からプラモデルを作ってみるように導かれ…。そして、命が吹き込まれたプラモデルを見てリコは…　［期間限定無料配信］　中島歩 主演！「俺たちバッドバーバーズ」テレビ東京系列にて1月9日(金)スタート！毎週金曜深夜24時42分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep7wbso46f"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2gpj3a9d</id>
-    <title>量産型リコ -もう1人のプラモ女子の人生組み立て記-_[第2話 「無限の中間形態」]</title>
-    <updated>2025-12-23T17:00:03+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9hp0uf40.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 量産型リコ -もう1人のプラモ女子の人生組み立て記-
-        &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2gpj3a9d.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/30（火）17:00～&#13;&lt;br&gt;#7,#8：1/2（金）17:00～&#13;&lt;br&gt;#9,#10：1/5（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;ドリクレに新しい仲間として後田（矢柴俊博）と熊本（市川由衣）が加わることに。そんな中、リコ（与田祐希）や真司（望月歩）、浅井（前田旺志郎）は投資家が集まるパーティーに参加する。そこにいたのは、若手起業家として成功を収めている白川（須賀健太）だった。そんな白川が、ひょんなことからリコたちのアドバイザーとなる。しかし、白川の出したアイデアは、ドリクレのアイデアとは食い違ったものだった…。白川に従い成功したい浅井と納得できない真司。どちらの意見をとるのか迫られたリコの決断は!?　［期間限定無料配信］　中島歩 主演！「俺たちバッドバーバーズ」テレビ東京系列にて1月9日(金)スタート！毎週金曜深夜24時42分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep2gpj3a9d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep50lvgzh1</id>
-    <title>量産型リコ -もう1人のプラモ女子の人生組み立て記-_[第1話 「量産型リコ行きます」]</title>
-    <updated>2025-12-23T17:00:02+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9hp0uf40.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 量産型リコ -もう1人のプラモ女子の人生組み立て記-
-        &lt;a href="https://tver.jp/series/sr9hp0uf40" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_02月02日(月)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep50lvgzh1.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/30（火）17:00～&#13;&lt;br&gt;#7,#8：1/2（金）17:00～&#13;&lt;br&gt;#9,#10：1/5（月）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;小向璃子（与田祐希）は、大学の同級生である真司（望月歩）と浅井（前田旺志郎）と共に「ドリームクレイジー」を起業。サービスを開発するため、スタートアップ企業支援プロジェクト「ドッグラン」代表・犬塚（マギー）にプレゼンをするも、厳しい評価を受けてピンチに陥っていた…。追い討ちをかけるようにドッグランのメンバーである中野京子（藤井夏恋）に言われた量産型という言葉に疑問を持つ。発想を広げるために新しいことに挑戦するようアドバイスを受けたリコは、いつもと違う道を歩いていると模型店を見つける。店主・やっさん（田中要次）に勧められるままプラモデル作りに挑戦することに…　［期間限定無料配信］　中島歩 主演！「俺たちバッドバーバーズ」テレビ東京系列にて1月9日(金)スタート！毎週金曜深夜24時42分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep50lvgzh1"/>
   </entry>
 </feed>
