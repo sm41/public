@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-24T12:00:22+09:00</updated>
+  <updated>2025-12-24T13:06:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2608,45 +2608,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/eps0d4mph7"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep9gcduqn8</id>
-    <title>さらば、佳き日_[第2話 一番怖いものはもっと別のこと]</title>
-    <updated>2025-12-23T17:00:19+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwrsa0zpn.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ さらば、佳き日
-        &lt;a href="https://tver.jp/series/srwrsa0zpn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月23日(火)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月20日(火)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9gcduqn8.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/23（火）17:00～&#13;&lt;br&gt;#3,#4：12/26（金）17:00～&#13;&lt;br&gt;#5,#6：12/29（月）17:00～&#13;&lt;br&gt;#7,#8：12/31（水）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;兄妹であることを隠しながら夫婦として穏やかな日々を送る晃（山下美月）と桂一（鈴木仁）。二人がここまで辿りつくまでには様々なことが…。2018年、大学生の桂一は演劇サークルの巡業で数日家を空けることに。そんな中、晃がいる浴室を覗く不審な男が現れる。高校生の晃は気丈に振舞うが内心とても怯えていた。そんな晃を気にかけながらも、桂一は巡業に出発する。一方、晃の友人・珠希（加藤小夏）にも不穏な影が…。　［期間限定無料配信］
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep9gcduqn8"/>
   </entry>
 </feed>
