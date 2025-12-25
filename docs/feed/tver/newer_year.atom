@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-25T18:38:05+09:00</updated>
+  <updated>2025-12-25T20:30:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epuow5wyy0</id>
+    <title>日曜の夜ぐらいは…_[第7話 絶対に幸せになってやる…にゃ～～！]</title>
+    <updated>2025-12-25T20:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf2ejuoxr.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 日曜の夜ぐらいは…
+        &lt;a href="https://tver.jp/series/srf2ejuoxr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_20時30分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epuow5wyy0.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        カフェの名前は「サンデイズ」に決まり、サチ（清野菜名）、翔子（岸井ゆきの）、若葉（生見愛瑠）の夢は、みね（岡山天音）のサポートと賢太（川村壱馬／THE RAMPAGE)のコンサルタントのおかげで順調に歩み出す。&lt;br&gt;しかし、３人が乗り越えなければならない現実は相変わらず厳しい。翔子は遺産相続問題で兄と再び向き合い、サチはバイト先のトラブル処理に奔走。そして若葉につきまとう影、母親のまどか（矢田亜希子）が密かに動き出し…！？&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月19日(金) 夜8時30分～　#1&lt;br&gt;12月20日(土) 夜8時30分～　#2&lt;br&gt;12月21日(日) 夜8時30分～　#3&lt;br&gt;12月22日(月) 夜8時30分～　#4&lt;br&gt;12月23日(火) 夜8時30分～　#5&lt;br&gt;12月24日(水) 夜8時30分～　#6&lt;br&gt;12月25日(木) 夜8時30分～　#7&lt;br&gt;12月26日(金) 夜8時30分～　#8&lt;br&gt;12月27日(土) 夜8時30分～　#9&lt;br&gt;12月28日(日) 夜8時30分～　#10（最終話）
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epuow5wyy0"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epthpuo190</id>
+    <title>何曜日に生まれたの_[第7話　1人女子焼肉3連打からの衝撃]</title>
+    <updated>2025-12-25T20:15:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srx39d7xkq.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 何曜日に生まれたの
+        &lt;a href="https://tver.jp/series/srx39d7xkq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_20時15分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epthpuo190.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        「ホントの海」で10年前のバイク事故の真相・本音を告白し、黒目すい（飯豊まりえ）をはじめ同級生たちの中に存在したわだかまりは解消され、それぞれが新たな人生の一歩を踏み出そうとしていた。しかし温泉旅行から帰ってきた黒目すいはどこか不機嫌。そのワケは自分に好意を抱いていたはずの公文竜炎（溝端淳平）が突然、無関心となってしまったからだ。公文自身も、「作品の創作過程でストーリーに登場した三島公平として、ヒロインに疑似恋愛していただけ」とそっけない素振り。&lt;br&gt;そんな中…公文は自らのマンションに瑞貴（若月佑美）と健人（濱正悟）を招き入れる。悠馬（井上祐貴）と離婚し、すいに悠馬を返すと吹っ切れたように言い放っていた瑞貴であったが、離婚の本当の理由は別にあった。公文に指摘され、観念した瑞貴は健人だけに明かしていた「本当の離婚の理由」を語りだす。その衝撃の理由に、すいは涙を流しながら、絶対に口外しないことを誓うのであった。&lt;br&gt;物語はいよいよ衝撃のクライマックスへ…&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月19日(金) 夜8時15分～　#1&lt;br&gt;12月20日(土) 夜8時15分～　#2&lt;br&gt;12月21日(日) 夜8時15分～　#3&lt;br&gt;12月22日(月) 夜8時15分～　#4&lt;br&gt;12月23日(火) 夜8時15分～　#5&lt;br&gt;12月24日(水) 夜8時15分～　#6&lt;br&gt;12月25日(木) 夜8時15分～　#7&lt;br&gt;12月26日(金) 夜8時15分～　#8&lt;br&gt;12月27日(土) 夜8時15分～　#9（最終話）
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epthpuo190"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep9jfqa8da</id>
+    <title>3年B組金八先生(第5シリーズ)_[第12回 辞表提出その後…]</title>
+    <updated>2025-12-25T20:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4csugap5.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 3年B組金八先生(第5シリーズ)
+        &lt;a href="https://tver.jp/series/sr4csugap5" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_20時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月08日(木)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9jfqa8da.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日２０時新エピソード更新！！】&lt;br&gt;金八（武田鉄矢）が３年B組の生徒代表６人を殴って辞表を提出したことで、桜中学は大騒ぎ。国井美代子教頭（茅島成美）が生徒たちを落ち着かせ、金八は殴った生徒たちの家庭を訪ねることになった。しかし、子どもたちの報告を聞いて体罰だと騒ぎ出す親もいて、事態は大きくなるばかり。それに追い討ちをかけるように新聞が騒ぎ出し、金八のことを暴力教師と書き立てた。マスコミの取材が殺到する中で、学校では和田伸校長（長谷川哲夫）を始めとする教師たち、教育委員、PTA会長、殴られた生徒たちとその親が一堂に会し…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep9jfqa8da"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epyl8l2t1r</id>
     <title>ホームワーク_[第８回「悲しくなんか…」]</title>
@@ -2088,285 +2208,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epsjpdppux"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epshb0238d</id>
-    <title>ホリデイラブ_[ep.5 夫の逆襲]</title>
-    <updated>2025-12-25T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry8nruknh.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ホリデイラブ
-        &lt;a href="https://tver.jp/series/sry8nruknh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epshb0238d.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        12/07(日)～ ＃1-＃3&#13;&lt;br&gt;12/25(木)～ ＃4-＃6&#13;&lt;br&gt;1/23(金)～ ＃7-＃8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;浮気相手・井筒里奈（松本まりか）の策略によって、高森杏寿（仲里依紗）はまさかの窮地に立たされる。経営者・黒井由伸になりすました志賀拓巳（山田裕貴）とのホテル密会写真を、夫・純平（塚本高史）に見られてしまったのだ！　どこからどう見ても一線を超えたようにしか見えない写真に、純平は激しく動揺。まるで汚い物かのように杏寿を振り払い、単身赴任先の寮から締め出す。その姿にかつての自分を見た杏寿は、夫婦の絆の完全崩壊を覚悟。後悔と失意の念に押しつぶされそうになりながら、娘・七香（渋谷南那）の待つ東京の自宅へと戻る。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epshb0238d"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epsg6c9ik4</id>
-    <title>警視庁いきもの係_[第5話 サルを愛した容疑者 起こるはずない殺人！悲劇の真相]</title>
-    <updated>2025-12-25T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0iz2g83x.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 警視庁いきもの係
-        &lt;a href="https://tver.jp/series/sr0iz2g83x" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epsg6c9ik4.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：12/19（金）～01/15（木）&lt;br&gt;#4：12/22（月）～12/28（日）&lt;br&gt;#5：12/25（木）～12/31（水）&lt;br&gt;#6：12/28（日）～01/03（土）&lt;br&gt;#7：12/31（水）～01/06（火）&lt;br&gt;#8：01/03（土）～01/09（金）&lt;br&gt;#9：01/06（火）～01/12（月）&lt;br&gt;#10：01/09（金）～01/15（木）&lt;br&gt;&lt;br&gt;須藤（渡部篤郎）は、過去の記憶があいまいなことを圭子（橋本環奈）に指摘されショックを受ける。やがては、警察中の人間の知るところとなり、そうなれば刑事を続けることは難しいと悲観し、辞職を決意する。そんな折、石松（三浦翔平）から、圭子が殺人事件の第一発見者になっていると連絡が入った。現場に駆け付けた須藤に圭子は、知人の五反田（鈴之助）からリスザルのことで相談を受け、様子を見に五反田のマンションに寄ったところ、五反田の恋人の名子（渡辺瞳子）が死んでいるのを見つけた、と証言。鉄アレイで後頭部を殴打されたのが死因だった。現場を捜査した日塔（長谷川朝晴）は、暑い部屋の温度を下げようとリモコンを探し、床に落ちていたものを拾う。すると、そこに血痕が付いていた。捜査の結果、鉄アレイから五反田の指紋が出たこと、五反田と名子は別れ話でもめていたことから五反田が容疑者となった。翌日、いきもの係に日塔から、五反田の部屋でリスザルが大暴れしていると報告が入る。須藤と圭子が到着すると、リスザルと格闘した警官が数名ヘトヘトになっていた。四十万（横山だいすけ）は、リスザルに噛まれ病院へ向かったという。リスザルは興奮して部屋を飛び回っていたが、圭子がつかまえてあやすと、落ち着きを取り戻す。さらに、圭子がエサは何がいいかと聞くと、鳴いて答えた。圭子は、リスザルのケージの扉のストッパーがゆるんでいたことが気にかかる。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『警視庁いきもの係』を全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epsg6c9ik4"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eprd505q6b</id>
-    <title>オクラ～迷宮入り事件捜査～_[第7話 10年前の真実が明らかに！]</title>
-    <updated>2025-12-25T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr3r43aoeq.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ オクラ～迷宮入り事件捜査～
-        &lt;a href="https://tver.jp/series/sr3r43aoeq" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2024年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eprd505q6b.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：12月13日(土) ～ 01月12日(月)&lt;br&gt;#4：12月16日(火) ～ 12月22日(月)&lt;br&gt;#5：12月19日(金) ～ 12月25日(木)&lt;br&gt;#6：12月22日(月) ～ 12月28日(日)&lt;br&gt;#7：12月25日(木) ～ 12月31日(水)&lt;br&gt;#8：12月28日(日) ～ 01月03日(土)&lt;br&gt;#9：12月31日(水) ～ 01月06日(火)&lt;br&gt;#10：01月03日(土) ～ 01月09日(金)&lt;br&gt;#11：01月06日(火) ～ 01月12日(月)&lt;br&gt;&lt;br&gt;飛鷹千寿（反町隆史）や不破利己（杉野遥亮）ら『オクラ』メンバーは、捜査一課長の加勢英雄（中村俊介）が何者かに殺害されたことを知る。埠頭にある廃墟に立ち寄っていた加勢は、そこに仕掛けられていた爆発物の直撃を受けたという。爆発物は、電子制御式で携帯電話が遠隔起爆装置として使われていた。その手口は、結城倫子（白石麻衣）の父・真一（平山祐介）が殺害された10年前に起きた警察官連続殺人事件に酷似していた。&lt;br&gt;千寿、利己は同一犯の犯行と推測して『オクラ』総出で捜査を始めるが、案の定手がかりすら掴めずにいた。そのまま定時になり、牧原祈里（青木さやか）、幾多学（橋本じゅん）らは帰り支度をはじめる。一方、倫子は父が殺害された事件について詳しく教えてほしい、と千寿に申し出る。「10年前、何でお父さんは殺されたの？」。倫子からそう問われた千寿は、2014年当時、何があったのかを話し始めるが・・・・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『オクラ～迷宮入り事件捜査～』を全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eprd505q6b"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/eppkkuufmw</id>
-    <title>全開ガール_[第9話 彼女の将来のためには、君の存在が邪魔なんだ！]</title>
-    <updated>2025-12-25T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr9b70lgds.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 全開ガール
-        &lt;a href="https://tver.jp/series/sr9b70lgds" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/eppkkuufmw.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：12/07(日)～01/06(火)&lt;br&gt;#2：12/07(日)～01/06(火)&lt;br&gt;#3：12/07(日)～01/06(火)&lt;br&gt;#4：12/10(水)～12/16(火)&lt;br&gt;#5：12/13(土)～12/19(金)&lt;br&gt;#6：12/16(火)～12/22(月)&lt;br&gt;#7：12/19(金)～12/25(木)&lt;br&gt;#8：12/22(月)～12/28(日)&lt;br&gt;#9：12/25(木)～12/31(水)&lt;br&gt;#10：12/28(日)～01/03(土)&lt;br&gt;#11：12/31(水)～01/06(火)&lt;br&gt;&lt;br&gt;鮎川若葉（新垣結衣）は、桜川日向（谷花音）に聞かれ、山田草太（錦戸亮）が好きだと認めた。しかし、自分の信念や夢を曲げることは出来ないから、新堂響一（平山浩行）と結婚すると言う。同じ頃、草太もビー太郎（高木星来）に聞かれ、若葉が好きだと明かした。&lt;br&gt;若葉と響一はすでに結納を交わしていたが、若葉も草太も自分の気持ちを相手に伝えたいと思っていた。そんな折、若葉は、桜川昇子（薬師丸ひろ子）から法律事務所のクライアントの大手商社が、ある玩具工房のオモチャを特許侵害で訴えると聞かされ、その準備に入った。ところがそこは、草太のイクメン仲間の西野健太郎（鈴木亮平）が勤める工房だった。木製の温もりのあるオモチャを作る小さな工房が、大きな商社により不当な製造差し止めの危機に陥っていることに、林佐間男（荒川良々）、鶏井宏（皆川猿時）は怒り心頭。そこで、西野らは若葉になんとか工房を救ってほしいと頼むが、若葉は自分は商社側の弁護士なので力にはなれないと拒否。その後、草太から、本心では仲間の西野を助けようと思っているのではと聞かれるが、若葉は戸惑いながらも手助けはできないと告げた。さらに、佐間男らは法律事務所に来て、九条実夏（青山倫子）に戦う術を教えてほしいと直訴。汐田そよ子（蓮佛美沙子）もそれを応援する。そんなやりとりを見かけた響一は、若葉に味方だと信じていいのか、と意思を確認。若葉は迷いながらも、「はい」と答えた。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『全開ガール』を全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/eppkkuufmw"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epl647ur8y</id>
-    <title>コンフィデンスマンJP  _[第9話 IT社長の強権 支配から選手を守れ]</title>
-    <updated>2025-12-25T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre0w24jg7.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ コンフィデンスマンJP  
-        &lt;a href="https://tver.jp/series/sre0w24jg7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl647ur8y.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：12/07(日)～01/03(土)&lt;br&gt;#2：12/07(日)～01/03(土)&lt;br&gt;#3：12/07(日)～01/03(土)&lt;br&gt;#4：12/10(水)～12/16(火)&lt;br&gt;#5：12/13(土)～12/19(金)&lt;br&gt;#6：12/16(火)～12/22(月)&lt;br&gt;#7：12/19(金)～12/25(木)&lt;br&gt;#8：12/22(月)～12/28(日)&lt;br&gt;#9：12/25(木)～12/31(水)&lt;br&gt;#10：12/28(日)～01/03(土)&lt;br&gt;&lt;br&gt;ダー子（長澤まさみ）、ボクちゃん（東出昌大）、リチャード（小日向文世）は、新たな詐欺のターゲットとして、若くして億万長者となったIT企業の社長・桂公彦（小池徹平）に狙いを定める。&lt;br&gt;桂は、人気アプリ『モスモス』を開発した株式会社モスモスの代表。大のスポーツ好きでもある桂は、さまざまなプロスポーツクラブを買収してきたが、クラブを私物化し、横暴ともいえる現場介入を繰り返してチームを崩壊させては放り出していた。ダー子たちが桂をターゲットにしたのも、応援していた独立リーグの野球チームと、下部リーグに属する地元のサッカーチームを桂によって潰されたちょび髭（瀧川英次）からの要請だった。&lt;br&gt;ダー子たちは、野球界やサッカー界から締め出されている桂が次に目を付けるのはプロ化目前の卓球だと推測。鴨井ミワ（平野美宇）が所属する『東京ジェッツ』に、ダー子とボクちゃん扮する元中国ナショナルチームの選手が加入したという設定で、桂に買収話を売り込む。しかし桂は、その話には乗ってこなかった。&lt;br&gt;情報収集を続けていた五十嵐（小手伸也）によれば、どうやら桂はプロバスケットボールチームを狙っているらしい。そこでダー子は、ホームレス同様の生活を送っていた元日本代表候補の半原敦（和田聰宏）や、街中で見つけた外国人らを巻き込み、架空のバスケチーム『熱海チーターズ』を結成するが・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは運勢編を含め『コンフィデンスマンJP』を全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epl647ur8y"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epl2zjo1e6</id>
-    <title>ホリデイラブ_[ep.6 魔性の復讐]</title>
-    <updated>2025-12-25T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sry8nruknh.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ホリデイラブ
-        &lt;a href="https://tver.jp/series/sry8nruknh" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月22日(木)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2018年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epl2zjo1e6.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        12/07(日)～ ＃1-＃3&#13;&lt;br&gt;12/25(木)～ ＃4-＃6&#13;&lt;br&gt;1/23(金)～ ＃7-＃8&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;自分以外の男と一線を越えそうになった妻・高森杏寿（仲里依紗）を、頭の中では許すべきだと分かっていても、そう簡単に気持ちの整理がつかない純平（塚本高史）。そこへ、浮気相手だった井筒里奈（松本まりか）が夫・渡（中村倫也）に追い出され、転がり込んできた！　里奈はありったけの言葉で純平への愛をぶつけ、すがりつくが、純平は頑なに拒絶。ショックを受けた里奈は、泣きながらその場を後にする。だが、そのままおとなしく引き下がらないのが里奈の恐ろしさ…。無垢な素振りで、今度は純平の同僚たちを巻き込み、鳥肌の立つ策略を実行し始める！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epl2zjo1e6"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epjhcpw7xe</id>
-    <title>お水の花道～女30歳ガケップチ～_[第12話 永遠の楽園！パラダイス！！]</title>
-    <updated>2025-12-25T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre8a44leo.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ お水の花道～女30歳ガケップチ～
-        &lt;a href="https://tver.jp/series/sre8a44leo" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2025年_12月31日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1999年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epjhcpw7xe.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：11/28（金）～12/31（水）&lt;br&gt;#4：12/01（月）～12/07（日）&lt;br&gt;#5：12/04（木）～12/10（水）&lt;br&gt;#6：12/07（日）～12/13（土）&lt;br&gt;#7：12/10（水）～12/16（火）&lt;br&gt;#8：12/13（土）～12/19（金）&lt;br&gt;#9：12/16（火）～12/22（月）&lt;br&gt;#10：12/19（金）～12/25（木）&lt;br&gt;#11：12/22（月）～12/28（日）&lt;br&gt;#12：12/25（木）～12/31（水）&lt;br&gt;&lt;br&gt;石崎（上川隆也）の病状にひとまず安心する明菜（財前直見）だったが、翌日、石崎はパラダイス2号店をオープンするつもりだと言い出し、一同はびっくり。&lt;br&gt;その後は瞬く間に開店準備が行われたが、石崎らしからぬ急な展開に戸惑った明菜は、石崎の本意を探ろうとする。が、石崎にははぐらかされてしまう。&lt;br&gt;数日後、石崎が出資した金が持ち逃げされたことが発覚。詫びる石崎に、ホステス達は激怒。そのまま帰ってしまった。なす術もなく呆然とする明菜。&lt;br&gt;翌日、明菜は松島（藤村俊二）の墓前で石崎と遭遇。事情を聞こうとする明菜だったが、またも何も言ってくれない石崎・・・。その晩、わずか6人のホステスで切り盛りする中、石崎が行方不明だとボーイが騒ぎ出した。閉店後、そのことを仁（阿部寛）に話した明菜はようやく仁から事情を聞き、すべてを把握し病院に駆け付ける。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『お水の花道～女30歳ガケップチ～』を全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epjhcpw7xe"/>
   </entry>
 </feed>

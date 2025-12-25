@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-25T18:38:05+09:00</updated>
+  <updated>2025-12-25T20:30:48+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epwji4hlxv</id>
+    <title>運命のキスをお願い！_[第27話   まずいでしょ]</title>
+    <updated>2025-12-25T19:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srr8gyitin.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 運命のキスをお願い！
+        &lt;a href="https://tver.jp/series/srr8gyitin" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_19時30分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_19時29分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月25日(木)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : チバテレ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epwji4hlxv.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        童小悠(トン・シャオヨウ)の参加資格が復活し、コンクールに参加できることに。そんな中、父が帰宅しないと母から連絡を受けた小悠は、外出禁止の中、陸星成(ルー・シンチョン)と一緒に母の元へ向かう。心配する3人をよそに帰宅した父は、旧友と会っていたと告げるのみ。急いで部屋に戻る星成と小悠だったが、警備に見つかり…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epwji4hlxv"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ephtirmcrc</id>
     <title>孤独のグルメ Season5_[第9話 千葉県いすみ市大原のブタ肉塩焼ライスとミックスフライ]</title>
