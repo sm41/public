@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-25T12:03:22+09:00</updated>
+  <updated>2025-12-25T13:08:34+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
@@ -2328,45 +2328,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epganss7cx"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epcx6nmwuk</id>
-    <title>完全に詰んだイチ子はもうカリスマになるしかないの_[第6話 母と親友とセルフプレジャー]</title>
-    <updated>2025-12-24T17:00:10+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/src5l1feg3.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 完全に詰んだイチ子はもうカリスマになるしかないの
-        &lt;a href="https://tver.jp/series/src5l1feg3" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月24日(水)_17時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月21日(水)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2022年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epcx6nmwuk.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼配信スケジュール&#13;&lt;br&gt;#1,#2：12/18（木）17:00～&#13;&lt;br&gt;#3,#4：12/21（日）17:00～&#13;&lt;br&gt;#5,#6：12/24（水）17:00～&#13;&lt;br&gt;#7,#8：12/28（日）17:00～&#13;&lt;br&gt;※配信時期については変更の可能性がございます。ご了承ください。&#13;&lt;br&gt;&#13;&lt;br&gt;母親の千鶴（YOU）は順調にカリスマの道を歩みはじめ、壱子（深川麻衣）もなぜか「性のカリスマ」として道を歩み始めていた。そんな時、不美に「『カシレ』の不正を告発し、経営陣を刷新し、壱子に社長業を継いでほしい」と相談される。そうなると不美はもちろん、「カシレ」の系列会社の広告塔である千鶴もダメージを受けてしまう…。悩んだ壱子はヨッピ（サーヤ）に相談に行くがまさかの大げんか。果たして壱子の出す答えは…？　［期間限定無料配信］　深川麻衣 出演！「キンパとおにぎり～恋するふたりは似ていてちがう～」テレビ東京系列にて1月12日(月)スタート！毎週月曜夜11時6分より放送！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epcx6nmwuk"/>
   </entry>
 </feed>
