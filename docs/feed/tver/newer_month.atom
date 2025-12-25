@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-25T20:30:48+09:00</updated>
+  <updated>2025-12-25T22:45:03+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ephsbsi77e</id>
+    <title>今夜、わたしはカラダで恋をする。Season2_[第4話 初めては、君がいい]</title>
+    <updated>2025-12-25T20:45:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srwz54t4m2.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 今夜、わたしはカラダで恋をする。Season2
+        &lt;a href="https://tver.jp/series/srwz54t4m2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_20時45分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : &lt;/div&gt;
+            &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ephsbsi77e.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        二十歳の大学生・工藤渚(秋谷百音)はインターン先の出版社で出会った大沼(猪塚健太)の大人の魅力に一目惚れ。高校時代の同窓会でそんな話を持ち出すと、仲の良かった山崎隆也(春本ヒロ)が渚のことをずっと好きだったと聞かされる。&lt;br&gt;大沼に振り向いてもらうためには、“経験”が足りないと感じていた渚は、山崎を誘い“初めての一夜”を過ごす。愛を交わした山崎は、渚に告白。しかし、渚は山崎に返事もせずに、大沼から届いた誘いのメールに返信するのだった…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;【Season1】&lt;br&gt;12月19日(金) 夜8時45分～　#1&lt;br&gt;12月20日(土) 夜8時45分～　#2&lt;br&gt;12月21日(日) 夜8時45分～　#3（最終話）&lt;br&gt;【Season2】&lt;br&gt;12月22日(月) 夜8時45分～　#1&lt;br&gt;12月23日(火) 夜8時45分～　#2&lt;br&gt;12月24日(水) 夜8時45分～　#3&lt;br&gt;12月25日(木) 夜8時45分～　#4（最終話）
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ephsbsi77e"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epwji4hlxv</id>
     <title>運命のキスをお願い！_[第27話   まずいでしょ]</title>
