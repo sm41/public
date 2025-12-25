@@ -2,13 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-25T02:33:44+09:00</updated>
+  <updated>2025-12-25T12:03:22+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epx8db8ijn</id>
+    <title>御上先生_[Episode 5 -confidence-]</title>
+    <updated>2025-12-25T12:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr2wexxwqg.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 御上先生
+        &lt;a href="https://tver.jp/series/sr2wexxwqg" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_12時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月01日(木)_11時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2月16日(日)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epx8db8ijn.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：蒔田彩珠 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1：11月29日(土)12:00～1月18日(日)20:59&lt;br&gt;#2-3：12月20日(土)12:00～1月18日(日)20:59&lt;br&gt;#4：12月21日(日)12:00～12月28日(日)11:59&lt;br&gt;#5：12月25日(木)12:00～1月1日(木)11:59&lt;br&gt;#6：12月28日(日)12:00～1月4日(日)11:59&lt;br&gt;#7：1月1日(木)12:00～1月8日(木)11:59&lt;br&gt;#8：1月4日(日)12:00～1月11日(日)11:59&lt;br&gt;#9：1月8日(木)12:00～1月15日(木)11:59&lt;br&gt;#10：1月11日(日)12:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;神崎（奥平大兼）が御上（松坂桃李）と共に、ついに弓弦（堀田真由）と面会できることに…。明かされる弓弦の過去。心を閉ざす彼女に神崎はどう対峙するのか！？&lt;br&gt;一方、３年２組は高校生ビジネスプロジェクトコンクールに向けて動いている。しかし、ここにも大人社会の権力の構図が影響していた。生徒たちは、忖度をもぶち破るプレゼンを目指して議論を深めていくのだが…。&lt;br&gt;そして、御上に突きつけられる試練とは…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epx8db8ijn"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epc4ri14f3</id>
+    <title>三国志　秘密の皇帝_[第6話]</title>
+    <updated>2025-12-25T09:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr0a0e37n2.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 三国志　秘密の皇帝
+        &lt;a href="https://tver.jp/series/sr0a0e37n2" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_09時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月01日(木)_08時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月25日(木)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc4ri14f3.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        張宇（ちょうう）を殺し逃げる際に、毒が塗られた武器によって負傷していた唐瑛（とうえい）は、なんとか司馬懿（しばい）の手を借り傷を癒す。その頃、曹操（そうそう）の息子である曹丕（そうひ）は、皇帝を尚書台から自らの屋敷へと移動させることを満寵（まんちょう）に持ちかける。満寵は早速、曹（そう）家への移動を提案するため劉平（りゅうへい）の元を訪れるが…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epc4ri14f3"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epob1q9wvi</id>
+    <title>L&amp;P_[第13話　君がいるだろ]</title>
+    <updated>2025-12-25T08:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srbmg30mpj.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ L&amp;P
+        &lt;a href="https://tver.jp/series/srbmg30mpj" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月25日(木)_08時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_08時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月24日(水)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : RNC西日本テレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epob1q9wvi.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        アプリ開発に行き詰まる李峋(リー・シュン)を見た朱韻(ジュー・ユン)は、気晴らしに美術館へ誘う。そこでは幼馴染・修竹(シュウジュ)の個展が開かれていた。二人で出かけるのは初めてで朱韻は胸を高鳴らせるが、李峋は風邪をひいてしまう。冬休みに入り、朱韻は帰省を遅らせ、彼を支えようと決意する…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epob1q9wvi"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep86zvnjo5</id>
     <title>TXQ FICTION / UFO山_[UFO山(3)]</title>
