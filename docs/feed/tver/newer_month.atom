@@ -2,13 +2,253 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-27T00:35:02+09:00</updated>
+  <updated>2025-12-27T02:33:01+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epzg2u1m7e</id>
+    <title>変態植物倶楽部_[最終話 「チーム名は…変態植物倶楽部で！」]</title>
+    <updated>2025-12-27T01:45:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvtbkehgn.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 変態植物倶楽部
+        &lt;a href="https://tver.jp/series/srvtbkehgn" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_01時45分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月17日(土)_01時44分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月26日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epzg2u1m7e.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        主人公・副島（一ノ瀬ワタル）は、植物に魅せられた男。ある夜、ビカクシダの胞子を手&lt;br&gt;にしたまま眠りについた副島は、夢の中で自らの首元から葉が芽吹き、ビカクシダに乗っ&lt;br&gt;取られるという奇妙な体験をする。翌朝、食品宅配の仕事中、置き配先の玄関で立派なビ&lt;br&gt;カクシダを見つけた副島は、好奇心を抑えきれず住人・花畑（ひょうろく）に声をかけ&lt;br&gt;る。警戒されながらも、SNS で“ソエジマニア”として知られていた副島だと分かると、花&lt;br&gt;畑は態度を一変。案内された室内には紫色の光に照らされた胞子培養のビカクシダが並&lt;br&gt;び、花畑は繁殖の秘密を熱弁する。さらに「植物は人間を利用しているのでは」という花&lt;br&gt;畑の言葉に、副島は夢の記憶をフラッシュバック。やがて二人は「変態植物倶楽部」を結&lt;br&gt;成し、友情を誓うが――副島の首元には、再び小さな葉が芽吹いていた……。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epzg2u1m7e"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epyhrr95up</id>
+    <title>できても、できなくても_[できても、できなくても特別番組 マル秘裏話やメイキングも大公開！名場面集SP]</title>
+    <updated>2025-12-27T01:43:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srgqjebntt.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ できても、できなくても
+        &lt;a href="https://tver.jp/series/srgqjebntt" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_01時43分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月23日(金)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月26日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epyhrr95up.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        ドラマ名場面を振り返りながら、宇垣美里＆山中柔太朗など出演者が語る撮影中のマル秘裏話やメイキング＆ハプニング集を大公開！「できでき」をより楽しめるSP番組！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epyhrr95up"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epqcd2jft2</id>
+    <title>パレード界隈_[第4話「スリー ビルボード ボーイ（前編）」]</title>
+    <updated>2025-12-27T01:25:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvv72kc2g.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ パレード界隈
+        &lt;a href="https://tver.jp/series/srvv72kc2g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_01時25分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_02月01日(日)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月26日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epqcd2jft2.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        公園の公衆トイレに駆け込んだ前野が扉を開けようとするも、びくともしない。大声を出して助けを求めると、偶然通りかかった史郎が足を止めるが―。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epqcd2jft2"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep4wdec2d1</id>
+    <title>パレード界隈_[第3話「愛のフォゲット」]</title>
+    <updated>2025-12-27T01:25:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srvv72kc2g.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ パレード界隈
+        &lt;a href="https://tver.jp/series/srvv72kc2g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_01時25分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_02月01日(日)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月26日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : CBCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep4wdec2d1.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        恋人のしおりに、思い出のベンチでの大切な約束をすっぽかされた田代。その理由をたずねると「付き合っていた事実ごと無かったことにしてほしいの」と衝撃の一言が―。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep4wdec2d1"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epw1s3w3kx</id>
+    <title>湯村天使の吐息【主演：綾小路 翔】_[第13話　襲来とマジ（ゲスト：鳥居 みゆき）]</title>
+    <updated>2025-12-27T01:14:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srziwmpt3g.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 湯村天使の吐息【主演：綾小路 翔】
+        &lt;a href="https://tver.jp/series/srziwmpt3g" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_01時14分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月03日(土)_01時15分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月26日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : サンテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epw1s3w3kx.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        千秋（綾小路 翔）がずっと待っていた相手、芽衣（鳥居 みゆき） がついに荒湯に現れる。冤罪を着せられ捕まっていたという芽衣に、長年想いを寄せていた千秋は突然告白をする。速攻で断る芽衣だが千秋の異様な執着にほだされ、徐々に気持ちが変化してくる。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epw1s3w3kx"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep2ugcoam8</id>
+    <title>ひと夏の共犯者_[特別編 君と出会った日のこと]</title>
+    <updated>2025-12-27T01:12:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpdqwxbuc.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ひと夏の共犯者
+        &lt;a href="https://tver.jp/series/srpdqwxbuc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_01時12分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月23日(金)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月26日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレ東&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2ugcoam8.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        あれから数か月。巧巳（橋本将生）は再び小説を書こうとしていた。そして、亡き祖父・豊（梨本謙次郎）のことを思い出す。自分の書く物語を褒め、小説家を目指すきっかけを作ってくれた大きな存在だった祖父が亡くなってから、将来のことも考えられずに生きていた大学時代。ある日、友人の水川（丈太郎）からアイドルグループ・AMELのライブに誘われ気乗りせずに向かうも、そこで澪（恒松祐里）の身体を借りて出てきていた眞希の瞳に惹きつけられる――。巧巳が澪、そして眞希に出会い、希望の光を見つけるまでを描いたオリジナルエピソード！　［期間限定無料配信］
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep2ugcoam8"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/eptc4h80wa</id>
     <title>DQNの星に嫁ぎました_[【スマホ用】#15]</title>
