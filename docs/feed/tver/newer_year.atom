@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-26T13:07:18+09:00</updated>
+  <updated>2025-12-26T14:40:08+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epc3l0gzli</id>
+    <title>この恋あたためますか_[第５話 ついに愛の告白へ！さよなら大好きな人]</title>
+    <updated>2025-12-26T14:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr41vsgk4j.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ この恋あたためますか
+        &lt;a href="https://tver.jp/series/sr41vsgk4j" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月26日(金)_14時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月01日(木)_13時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2020年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epc3l0gzli.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：11月30日(日)14:00～1月16日(金)21:59&lt;br&gt;#3：12月23日(火)14:00～1月16日(金)21:59&lt;br&gt;#4：12月23日(火)14:00～12月29日(月)13:59&lt;br&gt;#5：12月26日(金)14:00～1月1日(木)13:59&lt;br&gt;#6：12月29日(月)14:00～1月4日(日)13:59&lt;br&gt;#7：1月1日(木)14:00～1月7日(水)13:59&lt;br&gt;#8：1月4日(日)14:00～1月10日(土)13:59&lt;br&gt;#9：1月7日(水)14:00～1月13日(火)13:59&lt;br&gt;#10：1月10日(土)14:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;新谷（仲野太賀）からの突然のキスに戸惑う樹木（森七菜）は、里保（石橋静河）と一岡智子（市川実日子）に“友達の話”として相談を持ちかける。だが、話の流れで里保が浅羽（中村倫也）と復縁を望んでいることを知り、複雑な気持ちになってしまう。そんな中、ココエブリィ本社に経済誌とテレビから密着取材が申し込まれる。社長の浅羽と一緒に取材を受けることになり、慌てふためく樹木は…。一方、樹木への恋心を自覚した新谷は、スイーツのリサーチと称して樹木を遊園地に誘う。そして同じ頃、里保も浅羽の携帯にメッセージを送り…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epc3l0gzli"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzu87pjyh</id>
     <title>恋です！〜ヤンキー君と白杖ガール〜_[第10話(最終話)　ふたりでいれば…！]</title>
@@ -2608,125 +2648,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/epu0hlmtsf"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epph5e5dza</id>
-    <title>unknown_[＃2／愛することは信じること―？]</title>
-    <updated>2025-12-26T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr4wj28k63.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ unknown
-        &lt;a href="https://tver.jp/series/sr4wj28k63" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月26日(金)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epph5e5dza.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        12/26(金)～ #1-#3&#13;&lt;br&gt;1/17(土)～ #4-#6&#13;&lt;br&gt;2/15(日)～ #7-#9&#13;&lt;br&gt;&#13;&lt;br&gt;★「 TELASA 」で全話配信中！&#13;&lt;br&gt;&#13;&lt;br&gt;降りしきる雨、走ってくる男性。その姿は必死に誰かを探しているようで…。&#13;&lt;br&gt;地面に倒れて動かないウエディングドレス姿の女性。血まみれの手には結婚指輪が光っている。その女性は、闇原こころである―。&#13;&lt;br&gt;&#13;&lt;br&gt;「あのね、私吸血鬼なんだ―。それでも、好きでいてくれる？」&#13;&lt;br&gt;誰にも言えない自らの秘密を、恋人の朝田虎松（田中圭）に告白した闇原こころ（高畑充希）。すべてを理解し、受け入れて、深いキスを交わした2人は、ついに結婚への階段を駆け上がる―！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epph5e5dza"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epor1bdkll</id>
-    <title>こんなところで裏切り飯～嵐を呼ぶ七人の役員～_[第１話「愛知でパキスタンカレー」]</title>
-    <updated>2025-12-26T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srri2800z7.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ こんなところで裏切り飯～嵐を呼ぶ七人の役員～
-        &lt;a href="https://tver.jp/series/srri2800z7" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月26日(金)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月25日(日)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2025年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : 中京テレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epor1bdkll.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ▼詳細スケジュールはこちら▼&lt;br&gt;更新を見逃さない「お気に入り登録」も！Huluでは全話配信中！&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;＃1：12/26(金)00:00～1/25(日)23:59&lt;br&gt;＃2：12/28(日)00:00～1/25(日)23:59&lt;br&gt;＃3：12/30(火)00:00～1/25(日)23:59&lt;br&gt;＃4：1/1(木)00:00～1/7(水)23:59&lt;br&gt;＃5：1/3(土)00:00～1/9(金)23:59&lt;br&gt;＃6：1/6(火)00:00～1/12(月)23:59&lt;br&gt;＃7：1/9(金)00:00～1/15(木)23:59&lt;br&gt;＃8：1/12(月)00:00～1/18(日)23:59&lt;br&gt;＃9：1/15(木)00:00～1/21(水)23:59&lt;br&gt;＃10：1/18(日)00:00～1/25(日)23:59&lt;br&gt;＝＝＝＝＝＝＝＝＝＝＝＝＝＝&lt;br&gt;【すべて実在する飲食店で撮影の飯テロドラマ！】&lt;br&gt;&lt;第1話&gt;&lt;br&gt;榊原総一朗（伊武雅刀）社長率いるホテル会社では、長期休暇中の小野寺真理子（志田彩良）が所属する秘書課に、新人・新庄凛太郎（前田拳太郎）が配属。真理子に代わり“出張係”となった新庄は、榊原の愛知出張の食事をアテンドするも大ピンチに！そこへ真理子が現れ、なぜかパキスタンカレーを紹介！予想外の「裏切り飯」に榊原は…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epor1bdkll"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epoa27wge4</id>
-    <title>同窓会～ラブ・アゲイン症候群_[第2話]</title>
-    <updated>2025-12-26T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sre9rq7ffb.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 同窓会～ラブ・アゲイン症候群
-        &lt;a href="https://tver.jp/series/sre9rq7ffb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月26日(金)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_03月15日(日)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : テレビ朝日&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epoa27wge4.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        12/26(金)～ #1-#3&lt;br&gt;1/17(土)～ #4-#6&lt;br&gt;2/15(日)～ #7-#9&lt;br&gt;&lt;br&gt;★「 TELASA 」で全話配信中！&lt;br&gt;&lt;br&gt;中学の同窓会で30年ぶりに杉山（高橋克典）と再会し、45歳にして再び淡い恋心が芽生え始めた朋美（黒木瞳）。しかし、そんな甘酸っぱいときめきも束の間、同窓会メンバーの国交省官僚・福島（尾美としのり）と主婦・真理子（宮地雅子）が駆け落ちするという衝撃的な事件が起こる。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epoa27wge4"/>
   </entry>
 </feed>
