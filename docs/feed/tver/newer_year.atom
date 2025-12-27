@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-27T20:29:11+09:00</updated>
+  <updated>2025-12-27T22:40:38+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/ep7wpig83e</id>
+    <title>日曜の夜ぐらいは…_[第9話 大切な人だけ守ろうと思います。なので、大丈夫です、ご心配なく]</title>
+    <updated>2025-12-27T20:30:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srf2ejuoxr.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 日曜の夜ぐらいは…
+        &lt;a href="https://tver.jp/series/srf2ejuoxr" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_20時30分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月27日(火)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2023年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : ABCテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep7wpig83e.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        『サンデイズ』オープンまで２週間あまり。４階に岸田サチ（清野菜名）、野田翔子（岸井ゆきの）、樋口若葉（生見愛瑠）、３階に市川みね（岡山天音）、そして１階に邦子（和久井映見）と富士子（宮本信子）という組み合わせで、同じ団地に住み始めたサチたちの暮らしは、朝からたくさんの会話と笑顔であふれる。&lt;br&gt;やっと輝き出したそれぞれの人生を守りたい、そんな思いを新たにする富士子のもとにある朝、一箱の荷物が届き…。&lt;br&gt;一方、団地の周りをうろつく中野博嗣（尾美としのり）の存在に気づいた邦子は、サチに迫る危機を察知。久しく会っていない別れた夫と対峙する覚悟を決めると、富士子に付き添いを頼み、博嗣が待つ公園へと出かけていく…。&lt;br&gt;&lt;br&gt;＝＝＝＝＝配信スケジュール＝＝＝＝＝&lt;br&gt;12月19日(金) 夜8時30分～　#1&lt;br&gt;12月20日(土) 夜8時30分～　#2&lt;br&gt;12月21日(日) 夜8時30分～　#3&lt;br&gt;12月22日(月) 夜8時30分～　#4&lt;br&gt;12月23日(火) 夜8時30分～　#5&lt;br&gt;12月24日(水) 夜8時30分～　#6&lt;br&gt;12月25日(木) 夜8時30分～　#7&lt;br&gt;12月26日(金) 夜8時30分～　#8&lt;br&gt;12月27日(土) 夜8時30分～　#9&lt;br&gt;12月28日(日) 夜8時30分～　#10（最終話）
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep7wpig83e"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/ep7symr454</id>
     <title>何曜日に生まれたの_[最終話　レインボーパワーは世界を救えるのか]</title>
@@ -2568,205 +2608,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ep73q1txsh"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep59cg7f4h</id>
-    <title>大豆田とわ子と三人の元夫_[#7 第2章スタート！最後の恋のはじまりは突然に]</title>
-    <updated>2025-12-27T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv8ska1xc.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 大豆田とわ子と三人の元夫
-        &lt;a href="https://tver.jp/series/srv8ska1xc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep59cg7f4h.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        かごめ（市川実日子）の一件から1年、とわ子（松たか子）は一人暮らしを始めていた。生活を楽しもうと試行錯誤するとわ子は、公園で“謎の男”（オダギリジョー）と出会う。そんな中、とわ子はしろくまハウジングのオーナーが外資系ファンドに会社の株を売却しようとしていることを聞かされる。悩むとわ子を心配し、慎森（岡田将生）、鹿太郎（角田晃広）がとわ子のマンションを訪れる。一方、八作（松田龍平）は一人で旅に出ていた。後日、とわ子は“謎の男”と偶然再会し、ひょんなことから話題はかごめのことに。とわ子の口から親友への思いが止めどなくあふれていき…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep59cg7f4h"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep3ux4ah9s</id>
-    <title>大豆田とわ子と三人の元夫_[#3 全俺が泣いた～器が小さい男の恋]</title>
-    <updated>2025-12-27T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv8ska1xc.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 大豆田とわ子と三人の元夫
-        &lt;a href="https://tver.jp/series/srv8ska1xc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月31日(土)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2021年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : カンテレ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep3ux4ah9s.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        とわ子（松たか子）の部下・仲島登火（神尾楓珠）が大学図書館の設計を手掛ける。とわ子は、その素晴らしいセンスに感動を覚えるが、その案を不採用にする。それをきっかけに一部の社員から不満の声があがり、とわ子を悩ませる。&lt;br&gt;その頃、鹿太郎（角田晃広）は、カメラアシスタントに、初めてとわ子と出会ったときからプロポーズまでの思い出を語る。&lt;br&gt;離婚してもなお、とわ子に未練がある。一方で、美怜（瀧内公美）の存在も気になる。新しい恋をするべきか悩む鹿太郎は、八作（松田龍平）と慎森（岡田将生）に相談するが、相手にされない。その後、再び美怜の部屋を訪れた鹿太郎だったが…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep3ux4ah9s"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2o1fwk1x</id>
-    <title>ショムニ_[第12話 やっぱり倒産！！]</title>
-    <updated>2025-12-27T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srxhv3xnnu.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ ショムニ
-        &lt;a href="https://tver.jp/series/srxhv3xnnu" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月02日(金)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 1998年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2o1fwk1x.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：11/30（日）～01/02（金）&lt;br&gt;#4：12/03（水）～12/09（火）&lt;br&gt;#5：12/06（土）～12/12（金）&lt;br&gt;#6：12/09（火）～12/15（月）&lt;br&gt;#7：12/12（金）～12/18（木）&lt;br&gt;#8：12/15（月）～12/21（日）&lt;br&gt;#9：12/18（木）～12/24（水）&lt;br&gt;#10：12/21（日）～12/27（土）&lt;br&gt;#11：12/24（水）～12/30（火）&lt;br&gt;#12：12/27（土）～01/02（金）&lt;br&gt;&lt;br&gt;満帆商事に創業以来、最大の危機が訪れた。サンディエゴ支社の営業部長が220億円に及ぶ使い込みを行い、ショックで支社長は入院、このままだと間違いなく倒産である。にもかかわらず、ショムニこと庶務二課では、塚原佐和子（京野ことみ）がテレビの「会社対抗OLクイズ」の挑戦者に当選した、とはしゃいでいる。優勝すれば、ハワイ旅行と賞金500万円が手に入る。坪井千夏（江角マキコ）は、翌日の創業記念日に行う「満帆祭」で選手を選び出場しようと提案する。&lt;br&gt;会社幹部は、倒産を確信し、記者会見をやり過ごす善後策を練る。まず、入院中の支社長に代わり責任者を立てようとするが適任者はいない。白羽の矢が当たったのが井上庶務二課長（森本レオ）。井上課長は喜びも束の間、あっという間に奈落の底に落とされる。&lt;br&gt;そんな折、飛ぶ鳥を落とす勢いのベンチャー企業・鮫島グループ総帥・鮫島亨（陣内孝則）が、満帆に乗り込む。彼は「満帆を買収する。明日から満帆は私の会社だ」と宣言する。満帆幹部は誰もそれに反発できず、社長はとうとう自殺を図ろうとするが、すんでのところでショムニによって助けられる。&lt;br&gt;鮫島は、翌日、つまり創立記念日の調印を待たず、勝手に強引な首切りを始める。しかし、同時にまるで何か探しているような不穏な動きを見せる。&lt;br&gt;そんなことはお構いなしに、ショムニは「満帆祭」の準備で御輿を作ったりとおおわらわ。鮫島はそこにも乗り込み、千夏たちと真っ向から対立する。が、千夏と鮫島は、自分の信じるところへ突き進むという、どこか相通じるものを感じるのだった。&lt;br&gt;鮫島の動きを探っていたエリート社員・右京友弘（石黒賢）は、とうとう、鮫島の探し物を突き止める。しかし、ありかはショムニのどこかとしか見当が付かない。もし、鮫島より先に見つければ、倒産は免れるかもしれない。ショムニを交え大捜索が始まる。&lt;br&gt;しかし、とうとう、創立記念日の夜は明けた。調印に臨む鮫島の頭上から、けたたましく「満帆祭」のアナウンスが流れる。最後の戦いが始まる。探し物は何だったのか。ショムニと満帆商事の運命は・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムではSP含め『ショムニ』全シリーズを全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep2o1fwk1x"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep2l0duimn</id>
-    <title>マルモのおきて_[第10話 おばちゃんは、ママですか？]</title>
-    <updated>2025-12-27T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srb9g7vlqd.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ マルモのおきて
-        &lt;a href="https://tver.jp/series/srb9g7vlqd" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月02日(金)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep2l0duimn.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：12/06(土)～01/05(月)&lt;br&gt;#4：12/09(火)～12/15(月)&lt;br&gt;#5：12/12(金)～12/18(木)&lt;br&gt;#6：12/15(月)～12/21(日)&lt;br&gt;#7：12/18(木)～12/24(水)&lt;br&gt;#8：12/21(日)～12/27(土)&lt;br&gt;#9：12/24(水)～12/30(火)&lt;br&gt;#10：12/27(土)～01/02(金)&lt;br&gt;#11：12/30(火)～01/05(月)&lt;br&gt;&lt;br&gt;薫（芦田愛菜）と友樹（鈴木福）はもうすぐ運動会。学校で行われた運動会の説明会には、仕事で行けなかった護（阿部サダヲ）の代わりに陽介（世良公則）が出席した。運動会で子供達が踊る「アイアイ」のダンスを、保護者のみなさんも覚えてくださいと言われ習ってきた陽介から、護も踊り方を習う。あけぼの文具の同僚は、護が双子の運動会を楽しみにしていることを知り、双子応援グッズを持ち寄る。一方、お客様相談室室長の鮫島（伊武雅刀）からは、商品開発のセクションに異動の話があり、考えてくれないかと言われる。ある夜、薫は護にママがどんな人だったのかを尋ねる。護は美人だったと教えるが・・・。双子の実の母・あゆみ（鶴田真由）が、護に話があると連絡を入れてくる。ある日、護たちが不在時、ムックの飼い主だと名乗って老夫婦が居酒屋クジラを訪ねてきて・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムではSP・SP2014含め『マルモのおきて』全シリーズを全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep2l0duimn"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep1wexlzns</id>
-    <title>貴族探偵_[第10話 最終章！想像を凌駕する貴族の思惑とは？]</title>
-    <updated>2025-12-27T00:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srv8bbmriy.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 貴族探偵
-        &lt;a href="https://tver.jp/series/srv8bbmriy" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_00時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月02日(金)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2017年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep1wexlzns.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1～3：12/06(土)～01/05(月)&lt;br&gt;#4：12/09(火)～12/15(月)&lt;br&gt;#5：12/12(金)～12/18(木)&lt;br&gt;#6：12/15(月)～12/21(日)&lt;br&gt;#7：12/18(木)～12/24(水)&lt;br&gt;#8：12/21(日)～12/27(土)&lt;br&gt;#9：12/24(水)～12/30(火)&lt;br&gt;#10：12/27(土)～01/02(金)&lt;br&gt;#11：12/30(火)～01/05(月)&lt;br&gt;&lt;br&gt;貴族探偵（相葉雅紀）と対峙（たいじ）した高徳愛香（武井咲）は、喜多見切子（井川遥）を殺害したのはあなただと突きつけた。政宗是正という名前、鈴木（仲間由紀恵）など、調べたことを総動員して、愛香は貴族探偵に詰め寄る。しかし、貴族探偵は証拠が何もないと一蹴。それでも切子の死の真相を知りたいと訴える愛香に、貴族探偵は自分の前で事件を正しくひも解くことが出来たら教える・・・と約束する。&lt;br&gt;愛香が去ると、貴族探偵は佐藤（滝藤賢一）、田中（中山美穂）、山本（松重豊）を呼び、鈴木の所在を確かめると、ケリをつけると伝えておけ、と命令した。果たして、何にケリをつけるというのか？&lt;br&gt;愛香の事務所に、依頼書が舞い込む。それはシンガポールを拠点に武器商人として財をなす具同家からのものだった。シンガポールと言えば、政宗是正と・・・。貴族探偵の罠かもしれないと疑いながらも、愛香は指定された具同家の別荘へと向かう。&lt;br&gt;別荘では、具同家当主、次男の娘、真希（矢作穂香）の誕生会が催されようとしていた。玉村依子（木南晴夏）もいる。依子が愛香を紹介したらしい。依頼人は真希。愛香が真希に依頼内容を尋ねると、一通の脅迫状を見せられる。昨年の同じパーティーで、不幸にも参加者の1人が事故死。脅迫状は、それが殺人だったと訴えていた。真希は貴族探偵にも頼んだが、断られてしまったと言う。&lt;br&gt;やはり、愛香が呼ばれた裏には貴族探偵が？そして、パーティーの夜、凄惨（せいさん）な事件が起きてしまう・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『貴族探偵』を全話配信中！名作ドラマを“イッキ見”できる！】
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep1wexlzns"/>
   </entry>
 </feed>
