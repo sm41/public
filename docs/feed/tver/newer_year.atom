@@ -2,13 +2,213 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/year</title>
-  <updated>2025-12-27T02:33:01+09:00</updated>
+  <updated>2025-12-27T11:58:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epz0iwh94d</id>
+    <title>ヤンキー君とメガネちゃん_[＃７ クラスで温泉合宿！]</title>
+    <updated>2025-12-27T10:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srmyyrdti8.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ヤンキー君とメガネちゃん
+        &lt;a href="https://tver.jp/series/srmyyrdti8" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_10時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月04日(日)_09時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2010年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epz0iwh94d.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【TBS】金曜ドラマ「DREAM STAGE」１月１６日（金）よる１０時スタート！ 主演：中村倫也 関連作品を期間限定配信！！&lt;br&gt;【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 主演：鈴木亮平 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：12月14日(日)10:00～1月16日(金)21:59&lt;br&gt;#4：12月15日(月)10:00～12月23日(火)9:59&lt;br&gt;#5：12月19日(金)10:00～12月27日(土)9:59&lt;br&gt;#6：12月23日(火)10:00～12月31日(水)9:59&lt;br&gt;#7：12月27日(土)10:00～1月4日(日)9:59&lt;br&gt;#8：12月31日(水)10:00～1月8日(木)9:59&lt;br&gt;#9：1月4日(日)10:00～1月12日(月)9:59&lt;br&gt;#10：1月8日(木)10:00～1月16日(金)21:59&lt;br&gt;------------&lt;br&gt;大地（成宮寛貴）や花（仲里依紗）たち２年A組では近々行われる実力テストに備えてクラス合宿が行われることになった。合宿先の温泉地に到着した大地たちは早速テストをさせられるが、花だけが３０点以下だったため担任の堺（皆川猿時）の補習授業を受けることになる。補習授業を受けずに済んだ大地は千葉（小柳友）や凛風（川口春奈）の目から逃れ、１人で自由時間を過ごそうと外出。大地は通りがかった神社の境内で、待ち合わせした父親が来るのを待ちわびている幼い少年・壮太（田中理勇）と遭遇する。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epz0iwh94d"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epgvwykecu</id>
+    <title>白戸修の事件簿_[最終話『セイフティゾーン』後編]</title>
+    <updated>2025-12-27T10:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srism36bw0.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 白戸修の事件簿
+        &lt;a href="https://tver.jp/series/srism36bw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_10時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月03日(土)_09時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epgvwykecu.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：松尾諭 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：12月6日(土)10:00～1月31日(土)23:59&lt;br&gt;#3-4：12月6日(土)10:00～12月13日(土)9:59&lt;br&gt;#5-6：12月13日(土)10:00～12月20日(土)9:59&lt;br&gt;#7-8：12月20日(土)10:00～12月27日(土)9:59&lt;br&gt;#9-10：12月27日(土)10:00～1月3日(土)9:59&lt;br&gt;※本作品は1月3日(土)～1月31日(土)にも配信を行います&lt;br&gt;------------&lt;br&gt;銀行強盗事件に巻き込まれてしまった白戸（千葉雄大）。犯人に襲われそうになったところを杉田孝三（石黒賢）に助けてもらうが、彼は強姦された娘の復讐のために犯人の１人を殺害し、殺人容疑で指名手配中の身。しかも、杉田の復讐は未だ終わっておらず、もう１人の男の命も狙っていた。その後、銀行強盗と接触した白戸は、犯人の１人に、親友の黒崎（本郷奏多）がいることに気付く。そして、白戸を助けようとして人質になっていた莉央（中村静香）が負傷してしまう。いったん、現場を去った白戸は、どうすれば強盗犯たちを説得し、莉央を助けられるのか悩んでいた。するとそこに、黒崎から電話が…。なんと黒崎は、白戸と杉田が捕らえた強盗犯２人の解放を求めてきたのだ。どうして黒崎が銀行強盗犯に！？その謎を探る白戸は、杉田の一言であることに気付き、黒崎の過去を調べ始めるのだが…。どうなる！？白戸修！
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epgvwykecu"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/epf19d2k3l</id>
+    <title>君が教えてくれたこと_[第４話 最初の一歩]</title>
+    <updated>2025-12-27T10:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srpts2qyej.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 君が教えてくれたこと
+        &lt;a href="https://tver.jp/series/srpts2qyej" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_10時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月04日(日)_09時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2000年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epf19d2k3l.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：上川隆也 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-3：11月22日(土)10:00～1月31日(土)23:59&lt;br&gt;#4：12月27日(土)10:00～1月4日(日)9:59&lt;br&gt;#5：12月30日(火)10:00～1月7日(水)9:59&lt;br&gt;#6：1月2日(金)10:00～1月10日(土)9:59&lt;br&gt;#7：1月5日(月)10:00～1月13日(火)9:59&lt;br&gt;#8：1月8日(木)10:00～1月16日(金)9:59&lt;br&gt;#9：1月11日(日)10:00～1月19日(月)9:59&lt;br&gt;#10：1月15日(木)10:00～1月23日(金)9:59&lt;br&gt;#11：1月19日(月)10:00～1月27日(火)9:59&lt;br&gt;#12：1月23日(金)10:00～1月31日(土)23:59&lt;br&gt;------------&lt;br&gt;繭子（ともさかりえ）は気象予報会社「ウェザーワールド」でアルバイトとして働くことが決まった。嬉しくてたまらない繭子は真っ先に慎一（上川隆也）に報告する。慎一も繭子の頑張りが自分の事のように嬉しく「空はいつでも君の味方」と言って、新しい門出を祝う。出勤初日、繭子は鋭い予報をして社内の注目を集めるが、先輩の佐伯圭子（川越美和）はそんな繭子に対して敵対心を抱く。一方、週刊誌に「雨宮繭子の天気予報は自閉症特有の能力だった」という記事が掲載されたと知った潤（藤原竜也）は…。
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epf19d2k3l"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep9rdphxzv</id>
+    <title>白戸修の事件簿_[第９話『セイフティゾーン』前編]</title>
+    <updated>2025-12-27T10:00:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srism36bw0.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 白戸修の事件簿
+        &lt;a href="https://tver.jp/series/srism36bw0" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_10時00分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月03日(土)_09時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2012年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9rdphxzv.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        「映画ラストマン -FIRST LOVE-」絶賛公開中！！&lt;br&gt;出演：松尾諭 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：12月6日(土)10:00～1月31日(土)23:59&lt;br&gt;#3-4：12月6日(土)10:00～12月13日(土)9:59&lt;br&gt;#5-6：12月13日(土)10:00～12月20日(土)9:59&lt;br&gt;#7-8：12月20日(土)10:00～12月27日(土)9:59&lt;br&gt;#9-10：12月27日(土)10:00～1月3日(土)9:59&lt;br&gt;※本作品は1月3日(土)～1月31日(土)にも配信を行います&lt;br&gt;------------&lt;br&gt;ある日、白戸（千葉雄大）は莉央（中村静香）から手紙を受け取る。「阿佐ヶ谷駅に来てください」という手紙の内容に心を躍らせる白戸は、黒崎（本郷奏多）からの電話にも「また後で！」とそっけなく答え、待ち合わせの場所へと急ぐ。約束の時間よりも早く阿佐ヶ谷駅に着いた白戸は、「デートにはお金が必要！」と銀行に立ち寄ることに。すると、閉店間際の銀行で防犯ベルが鳴り響いた。店内には、虎や犬など動物のマスクを被った男たちが拳銃を手に人質を取っている。その中には、なんと莉央の姿も！しかし、馬のマスクの男と目が合った白戸は、莉央を助けるどころか夢中でその場から逃げてしまう…。食堂に逃げ込んだ白戸だったが、安心したのもつかの間、馬のマスクの男に見つかってしまった。その時、鈍い音と共に男が倒れこんだ。そこにはモップを構える清掃員・芹沢哲生（石黒賢）の姿があった。芹沢の助けによって事なきを得た白戸だったが、銀行強盗は人質をとって立て籠もり、ビルは警察に取り囲まれていた。白戸は、芹沢と共に銀行強盗を１人ずつ取り押さえていくが、その最中、実は芹沢が殺人犯として指名手配中だと気づいてしまう。どうなる…白戸！？
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep9rdphxzv"/>
+  </entry>
+  <entry>
+    <id>https://tver.jp/episodes/ep9p29jpy3</id>
+    <title>最高の離婚_[第3話 もう一つの夫婦の秘密と真実]</title>
+    <updated>2025-12-27T03:15:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjzuqn4gc.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ 最高の離婚
+        &lt;a href="https://tver.jp/series/srjzuqn4gc" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_03時15分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月27日(火)_23時59分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 2013年放送&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : フジテレビ&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep9p29jpy3.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        【3日に1話最新話追加】★お気に入り登録で見逃さない！★&lt;br&gt;---&lt;br&gt;↓配信スケジュールはこちら↓&lt;br&gt;#1：12月13日（土）～1月27日（火）&lt;br&gt;#2：12月20日（土）～1月27日（火）&lt;br&gt;#3：12月27日（土）～1月27日（火）&lt;br&gt;#4：12月30日（火）～1月6日（火）&lt;br&gt;#5：1月2日（金）～1月9日（金）&lt;br&gt;#6：1月5日（月）～1月12日（月）&lt;br&gt;#7：1月8日（木）～1月15日（木）&lt;br&gt;#8：1月11日（日）～1月18日（日）&lt;br&gt;#9：1月14日（水）～1月21日（水）&lt;br&gt;#10：1月17日（土）～1月24日（土）&lt;br&gt;#11：1月20日（火）～1月27日（火）&lt;br&gt;&lt;br&gt;濱崎光生（瑛太）は、かつての恋人・上原灯里（真木よう子）から、光生との間にはいい思い出なんかひとつもない、と言われ、呆然となる。一方、結夏（尾野真千子）は、友人に誘われて合コンに参加する。そこで結夏は、初島淳之介（窪田正孝）というフリーターや、年上のサラリーマン・大村圭輔（KEIJI）と知り合う。その夜、帰宅した光生と結夏は、すぐに嫌みの言い合いになる。そこで結夏は、同居している間のルールを決めようと光生に提案。「不満を口にしない」「恋愛の自由」といったルールを決める。そんな折、歯科医院を訪れた光生は、海野菜那（芹那）から、ソーシャル・ネットワーキング・サービスなどで連絡を取り合ってヨリを戻すカップルがいる、と聞く。菜那とともに携帯ショップを訪れ、スマートフォンを購入した光生は、さっそく有名なSNSのアカウントを作ってもらう。だが、灯里の名前を入力しても見つからなかった。光生は、試しに結夏の名前も菜那に入力してもらった。すると結夏は、ゴルフ練習場で練習している写真をリアルタイムでアップしていた。実は結夏は、大村と一緒だった。別の日、草野球の練習に駆り出された光生は、ボロボロになりながら祖母・亜以子（八千草薫）の店『金魚カフェ』を訪れる。店には、灯里の夫・諒（綾野剛）が来ていた。同じころ、結夏は、クリーニング店で亜以子とお茶をしていた。そこに、客として灯里がやってきて・・・。&lt;br&gt;&lt;br&gt;【FODプレミアムでは『最高の離婚』を全話配信中！名作ドラマを“イッキ見”できる！】
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/ep9p29jpy3"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epx6lgve34</id>
     <title>dinner_[第10話 店がなくなる！？決断の時]</title>
@@ -3088,165 +3288,5 @@
       &lt;/p&gt;
     &lt;/body&gt;  </content>
     <link href="https://tver.jp/episodes/ephjnw7sbk"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epd4nvf034</id>
-    <title>逃亡者 RUNAWAY_[＃３ 謎の男]</title>
-    <updated>2025-12-26T16:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr15q4a6jb.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 逃亡者 RUNAWAY
-        &lt;a href="https://tver.jp/series/sr15q4a6jb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月26日(金)_16時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月02日(金)_15時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epd4nvf034.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：原田美枝子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：12月26日(金)16:00～1月18日(日)20:59&lt;br&gt;#3：12月26日(金)16:00～1月2日(金)15:59&lt;br&gt;#4：12月27日(土)16:00～1月3日(土)15:59&lt;br&gt;#5：12月28日(日)16:00～1月4日(日)15:59&lt;br&gt;#6：1月2日(金)16:00～1月9日(金)15:59&lt;br&gt;#7：1月3日(土)16:00～1月10日(土)15:59&lt;br&gt;#8：1月4日(日)16:00～1月11日(日)15:59&lt;br&gt;#9：1月9日(金)16:00～1月16日(金)15:59&lt;br&gt;#10：1月10日(土)16:00～1月17日(土)15:59&lt;br&gt;#11：1月11日(日)16:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;峰島（阿部寛）に撃たれ、永井（江口洋介）は川へと落ちた。警察は懸命に捜索するが、永井は見つからない。死んで海に流された、という見方が大半を占める中、峰島は永井の生存を確信していた。進まない捜査状況を見て取り、国枝（加藤浩次）は合同捜査本部を２週間後に解散することを決定する。一方、峰島が確信した通り、永井は生きていた。貨物船に潜み、とある港町に運ばれた永井は下船し、人目に付かぬ路地に入って行った。しかし、撃たれた衝撃と体力の消耗に永井は意識を失う。そんな永井を救ったのは崎山富（菅井きん）という老女だった。永井は富の手当を受け３日間眠り続けた。その頃、峰島は来栖病院を訪れ、院長の来栖（原田芳雄）に前代未聞の案を持ちかけていた…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epd4nvf034"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/epbg4kbj7y</id>
-    <title>渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)_[第四十四回]</title>
-    <updated>2025-12-26T16:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srw8hd409c.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 渡る世間は鬼ばかり 第10シリーズ(橋田壽賀子ドラマ)
-        &lt;a href="https://tver.jp/series/srw8hd409c" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月26日(金)_16時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月08日(木)_23時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2011年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epbg4kbj7y.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        ★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;【毎日１６時新エピソード更新！！】&lt;br&gt;母を亡くし、引き取る親戚のない篤（小林海人）を施設に預けたと知った勇気（渡邉奏人）は怒りが収まらず、弥生（長山藍子）や良（前田吟）に抗議する。そんな時、良が篤を連れて帰り、また野田家で暮らすと言い出した。自分たちが篤の里親になれるよう弁護士に頼んでいるという良。弥生も佐枝（馬渕英俚可）も大喜び。ちょうどその頃、中学生料理コンテストで優勝が決まった日向子（大谷玲凪）が、テレビ局の取材クルーを連れて“おかくら”に戻ってくる。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/epbg4kbj7y"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep8cyvusrd</id>
-    <title>SPECサーガ完結篇｢SICK'S 覇乃抄｣～内閣情報調査室特務事項専従係事件簿～_[第拾話 最終決戦！心を操る邑瀬帝法を倒せるのか!?]</title>
-    <updated>2025-12-26T16:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srjtropbk4.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ SPECサーガ完結篇｢SICK'S 覇乃抄｣～内閣情報調査室特務事項専従係事件簿～
-        &lt;a href="https://tver.jp/series/srjtropbk4" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月26日(金)_16時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月02日(金)_15時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2019年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep8cyvusrd.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：池田鉄洋 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#6：12月19日(金)16:00～1月18日(日)20:59&lt;br&gt;#7-8：12月19日(金)16:00～12月26日(金)15:59&lt;br&gt;#9-10：12月26日(金)16:00～1月2日(金)15:59&lt;br&gt;※本作品は1月2日(金)～にも配信を行います&lt;br&gt;------------&lt;br&gt;「覇乃抄」最終話！物語は「厩乃抄」へ！&lt;br&gt;帝法（山口紗弥加）のSPECにより、近藤（徳井優）の部下たちが心を操られてしまう。御厨（木村文乃）と高座（松田翔太）の元にも心を奪われた状態の部下が刺客として現れ、御厨たちは難しい戦いを強いられてしまう。一方、野々村（竜雷太）は自らの命を賭して、自らが帝法を倒そうと決意する。その時、野々村はこれまで決して語らなかった「部下殺し」と呼ばれている出来事の真相を話し始める。&lt;br&gt;帝法と御厨、高座の戦いの行方は！？「覇乃抄」クライマックス！
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep8cyvusrd"/>
-  </entry>
-  <entry>
-    <id>https://tver.jp/episodes/ep0ib875sq</id>
-    <title>逃亡者 RUNAWAY_[＃１ 無実の罪]</title>
-    <updated>2025-12-26T16:00:00+09:00</updated>
-    <content type="html">    &lt;body&gt;
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/sr15q4a6jb.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;div&gt;🎞️ 逃亡者 RUNAWAY
-        &lt;a href="https://tver.jp/series/sr15q4a6jb" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
-      &lt;/div&gt;
-
-      &lt;table&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🕘 配信開始 : 2025年_12月26日(金)_16時00分&lt;/div&gt;
-            &lt;div&gt;🕓 配信終了 : 2026年_01月18日(日)_20時59分&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-        &lt;th&gt;
-          &lt;td&gt;
-            &lt;div&gt;🗓️ 放送&amp;emsp; : 2004年放送&lt;/div&gt;
-            &lt;div&gt;📡 放送局 : TBS&lt;/div&gt;
-          &lt;/td&gt;
-        &lt;/th&gt;
-      &lt;/table&gt;
-
-      &lt;hr&gt;
-
-      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/ep0ib875sq.jpg"&gt;
-
-      &lt;hr&gt;
-
-      &lt;p&gt;
-        【TBS】日曜劇場「リブート」１月１８日（日）よる９時スタート！ 出演：原田美枝子 関連作品を期間限定配信！！&lt;br&gt;★「お気に入り登録」で次話を見逃さない！★&lt;br&gt;------------&lt;br&gt;#1-2：12月26日(金)16:00～1月18日(日)20:59&lt;br&gt;#3：12月26日(金)16:00～1月2日(金)15:59&lt;br&gt;#4：12月27日(土)16:00～1月3日(土)15:59&lt;br&gt;#5：12月28日(日)16:00～1月4日(日)15:59&lt;br&gt;#6：1月2日(金)16:00～1月9日(金)15:59&lt;br&gt;#7：1月3日(土)16:00～1月10日(土)15:59&lt;br&gt;#8：1月4日(日)16:00～1月11日(日)15:59&lt;br&gt;#9：1月9日(金)16:00～1月16日(金)15:59&lt;br&gt;#10：1月10日(土)16:00～1月17日(土)15:59&lt;br&gt;#11：1月11日(日)16:00～1月18日(日)20:59&lt;br&gt;------------&lt;br&gt;永井徹生（江口洋介）は保護観察官。非行少年を見守り、社会復帰にまで導くのが彼の仕事だ。永井自身、かつてはいっぱしのワルだったこともあり、情熱のありったけを注いで非行少年たちに向き合っていた。妻・淳子（戸田菜穂）はそんな永井の幼なじみで良き理解者である。淳子の父は私立病院の院長・来栖慶介（原田芳雄）で、淳子もその病院で医師として働いている。息子・陸（鈴木宗太郎）と家族３人、幸せな日々を送っていた。しかし、ある日を境にその生活は一変する。永井の留守宅に何者かが侵入し、淳子を殺害したのだ。犯人は目撃した陸の命まで絶とうとする。間一髪、永井が帰宅し、激しいもみ合いになるが、犯人は永井の古傷を突いて逃走。陸は来栖の病院に運び込まれ、からくも命の危機を脱した。ところが、何者かが酸素ボンベのホースを切断し、陸は意識不明の重体に陥ってしまう。永井は妻殺しを捜査する神奈川県警の刑事・尾崎カオル（水野美紀）と、病院で陸が殺されかかった事件を担当する警視庁捜査一課の刑事・峰島隆司（阿部寛）から事情聴取を受ける。そして、自分が容疑者として取り調べられていることに気付く永井。不利な証拠ばかりが次々と突きつけられ、反論するが永井の状況は悪くなる一方。何者かが仕組んだ罠なのか？様々な考えが頭をよぎるが、結局永井は淳子殺害の容疑で逮捕されてしまう。ところが、絶望の淵に沈みかけていた永井の前に、思いもかけない逃亡のチャンスが出現。永井はあえて「逃亡者」という茨の道に踏み込んで行く…。
-      &lt;/p&gt;
-    &lt;/body&gt;  </content>
-    <link href="https://tver.jp/episodes/ep0ib875sq"/>
   </entry>
 </feed>

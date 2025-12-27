@@ -2,13 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://tver.jp/</id>
   <title>新着/ドラマ/month</title>
-  <updated>2025-12-27T02:33:01+09:00</updated>
+  <updated>2025-12-27T11:58:42+09:00</updated>
   <author>
     <name>John Doe</name>
     <email>john@example.com</email>
   </author>
   <link href="https://sm41.github.io/public/"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://tver.jp/episodes/epj5le6fw6</id>
+    <title>ホルモン・シリーズ　SEASON１_[EPISODE1　テストステロン（男性ホルモン）]</title>
+    <updated>2025-12-27T03:15:00+09:00</updated>
+    <content type="html">    &lt;body&gt;
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/series/xlarge/srtne7pp02.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;div&gt;🎞️ ホルモン・シリーズ　SEASON１
+        &lt;a href="https://tver.jp/series/srtne7pp02" target="_blank" rel="noopener noreferrer"&gt;🔗&lt;/a&gt;
+      &lt;/div&gt;
+
+      &lt;table&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🕘 配信開始 : 2025年_12月27日(土)_03時15分&lt;/div&gt;
+            &lt;div&gt;🕓 配信終了 : 2026年_01月17日(土)_03時14分&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+        &lt;th&gt;
+          &lt;td&gt;
+            &lt;div&gt;🗓️ 放送&amp;emsp; : 12月26日(金)放送分&lt;/div&gt;
+            &lt;div&gt;📡 放送局 : テレビ大阪&lt;/div&gt;
+          &lt;/td&gt;
+        &lt;/th&gt;
+      &lt;/table&gt;
+
+      &lt;hr&gt;
+
+      &lt;img src="https://image-cdn.tver.jp/images/content/thumbnail/episode/xlarge/epj5le6fw6.jpg"&gt;
+
+      &lt;hr&gt;
+
+      &lt;p&gt;
+        自由奔放な性格で学校ではトラブルメーカーなウィン。友人との関係がぎくしゃくして悩むトーイ。恋愛に積極的で複数の異性と関係を持つことに抵抗がないスプライト。様々な人間関係が絡み合う中、ウィンの行動がエスカレートし学校内でトラブル発生！？
+      &lt;/p&gt;
+    &lt;/body&gt;  </content>
+    <link href="https://tver.jp/episodes/epj5le6fw6"/>
+  </entry>
   <entry>
     <id>https://tver.jp/episodes/epzg2u1m7e</id>
     <title>変態植物倶楽部_[最終話 「チーム名は…変態植物倶楽部で！」]</title>
